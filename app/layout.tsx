@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "EVIDA | Evidence for Violence De-escalation and Action",
+  title: "Paper Farm | Handcrafted Farm Scene",
   description:
-    "A structured evidence-mapping platform helping practitioners, funders, and policymakers understand what works in reducing armed conflict.",
+    "A calm moving paper craft farm scene with layered cutout art, friendly animals, and warm handmade textures.",
 };
 
 export default function RootLayout({

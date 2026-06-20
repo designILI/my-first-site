@@ -1,26 +1,284 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #e7cfa5;
+  --foreground: #3c2818;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: Arial, Helvetica, sans-serif;
+  --font-sans: Georgia, "Times New Roman", serif;
   --font-mono: "Courier New", Courier, monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: #211912;
+  color: var(--foreground);
+  font-family: Georgia, "Times New Roman", serif;
+}
+a { color: inherit; text-decoration: none; }
+
+.paper-site {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background: radial-gradient(circle at 20% 10%, rgba(255, 238, 189, 0.28), transparent 28rem), linear-gradient(180deg, #1f1812 0%, #4c3520 100%);
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.farm-scene {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+  isolation: isolate;
+  background: linear-gradient(180deg, rgba(183, 219, 209, 0.94) 0%, rgba(195, 224, 212, 0.96) 58%, rgba(134, 161, 83, 1) 58%, rgba(113, 139, 69, 1) 100%);
+  border: 14px solid #211912;
+  box-shadow: inset 0 0 80px rgba(50, 35, 20, 0.22);
+}
+
+.paper-grain, .farm-scene::before, .farm-scene::after { position: absolute; inset: 0; content: ""; pointer-events: none; }
+.paper-grain {
+  z-index: 40;
+  opacity: 0.28;
+  mix-blend-mode: multiply;
+  background-image: radial-gradient(circle at 25% 35%, rgba(255,255,255,0.48) 0 1px, transparent 1px), radial-gradient(circle at 75% 65%, rgba(85,62,32,0.3) 0 1px, transparent 1px), linear-gradient(105deg, transparent 0 48%, rgba(82,59,35,0.08) 49% 51%, transparent 52%);
+  background-size: 23px 19px, 31px 29px, 18px 18px;
+}
+.farm-scene::before { z-index: 2; background: linear-gradient(120deg, rgba(255,255,255,0.35), transparent 35%, rgba(74,55,33,0.16)); }
+.farm-scene::after { z-index: 39; box-shadow: inset 0 -24px 50px rgba(53,38,20,0.2); }
+
+.paper-nav {
+  position: fixed;
+  top: 18px;
+  left: 50%;
+  z-index: 80;
+  display: flex;
+  max-width: calc(100vw - 32px);
+  transform: translateX(-50%);
+  gap: clamp(0.45rem, 1vw, 1.2rem);
+  padding: 16px 26px;
+  border-radius: 0 0 16px 16px;
+  background: #ead0a4;
+  box-shadow: 0 10px 18px rgba(44,31,18,0.32), inset 0 -4px 0 rgba(124,83,42,0.16);
+  color: #321f13;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.paper-nav::before {
+  position: absolute;
+  inset: -2px;
+  z-index: -1;
+  content: "";
+  border-radius: inherit;
+  background: repeating-linear-gradient(8deg, rgba(99,67,34,0.08) 0 2px, transparent 2px 7px);
+  clip-path: polygon(0 0, 100% 0, 99% 88%, 95% 96%, 89% 90%, 82% 98%, 76% 91%, 68% 98%, 61% 91%, 53% 98%, 46% 91%, 38% 98%, 31% 91%, 22% 98%, 15% 91%, 7% 97%, 1% 88%);
+}
+.paper-nav a { padding: 6px 8px; border-radius: 999px; transition: color 180ms ease, background 180ms ease; }
+.paper-nav a:hover { background: rgba(112,70,34,0.12); color: #a13c25; }
+
+.hero-card {
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  z-index: 30;
+  width: min(520px, calc(100vw - 48px));
+  transform: translateX(-50%);
+  text-align: center;
+  color: #442813;
+  text-shadow: 0 3px 0 rgba(255,238,195,0.58), 0 7px 12px rgba(62,38,20,0.24);
+}
+.hero-card p { margin: 0; font-size: clamp(1.4rem, 3vw, 2.25rem); font-weight: 800; }
+.hero-card h1 { margin: 0.1em 0 0; font-size: clamp(4.4rem, 10vw, 8.2rem); font-weight: 900; line-height: 0.86; letter-spacing: 0; }
+.hero-card span { display: block; margin: 22px auto 0; max-width: 420px; color: #392516; font-size: clamp(1rem, 1.9vw, 1.35rem); line-height: 1.45; }
+.hero-card a, .contact-section a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 26px;
+  min-height: 54px;
+  padding: 0 34px;
+  border: 2px solid rgba(62,42,20,0.22);
+  border-radius: 9px;
+  background: #7b853d;
+  box-shadow: 0 7px 0 #52602c, 0 14px 18px rgba(56,39,19,0.24), inset 0 2px 0 rgba(255,255,255,0.2);
+  color: #fff7db;
+  font-size: 1.08rem;
+  font-weight: 800;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+.hero-card a:hover, .contact-section a:hover { transform: translateY(3px); box-shadow: 0 4px 0 #52602c, 0 10px 14px rgba(56,39,19,0.2), inset 0 2px 0 rgba(255,255,255,0.2); }
+
+.sun { position: absolute; top: 16%; right: 27%; z-index: 6; width: clamp(80px, 10vw, 138px); aspect-ratio: 1; border-radius: 50%; background: #e6b534; box-shadow: 0 8px 0 rgba(134,91,21,0.18), inset -12px -10px 0 rgba(190,127,25,0.16); }
+.cloud { position: absolute; z-index: 18; width: 120px; height: 42px; border-radius: 999px; background: #eadfc6; filter: drop-shadow(0 8px 7px rgba(58,43,25,0.22)); animation: cloudDrift 16s ease-in-out infinite alternate; }
+.cloud::before, .cloud::after { position: absolute; bottom: 14px; content: ""; border-radius: 999px; background: inherit; }
+.cloud::before { left: 18px; width: 48px; height: 48px; }
+.cloud::after { right: 22px; width: 60px; height: 60px; }
+.cloud-one { top: 21%; left: 24%; transform: scale(0.9); }
+.cloud-two { top: 24%; right: 22%; width: 160px; animation-delay: -3s; }
+.cloud-three { top: 14%; right: 5%; transform: scale(0.78); animation-delay: -7s; }
+
+.birds { position: absolute; z-index: 25; width: 76px; height: 40px; animation: birdFloat 5.5s ease-in-out infinite; }
+.birds span { position: absolute; top: 18px; width: 34px; height: 14px; border-top: 8px solid #8b552c; border-radius: 50%; }
+.birds span:first-child { left: 8px; transform: rotate(18deg); }
+.birds span:last-child { right: 8px; transform: rotate(-18deg); }
+.bird-one { top: 14%; right: 17%; }
+.bird-two { top: 22%; right: 11%; transform: scale(0.78); animation-delay: -1.4s; }
+
+.hill { position: absolute; z-index: 7; left: -8%; right: -8%; border-radius: 50% 50% 0 0; filter: drop-shadow(0 -5px 0 rgba(255,255,255,0.12)); }
+.hill-back { bottom: 25%; height: 28%; background: #a2b46a; clip-path: polygon(0 75%, 16% 44%, 34% 72%, 51% 36%, 70% 72%, 87% 38%, 100% 70%, 100% 100%, 0 100%); }
+.hill-mid { bottom: 18%; height: 28%; background: #879e51; clip-path: polygon(0 62%, 15% 30%, 28% 56%, 45% 26%, 61% 60%, 78% 24%, 100% 58%, 100% 100%, 0 100%); }
+.hill-front { bottom: 8%; height: 30%; background: #7c9448; clip-path: ellipse(68% 52% at 50% 92%); }
+.fence { position: absolute; bottom: 25%; left: 0; z-index: 17; width: 100%; height: 70px; background: repeating-linear-gradient(90deg, transparent 0 54px, #9b6a36 54px 64px, transparent 64px 96px), linear-gradient(#a67841 0 10px, transparent 10px 32px, #a67841 32px 42px, transparent 42px); transform: rotate(-1deg); opacity: 0.9; }
+
+.barn { position: absolute; bottom: 25%; left: 14%; z-index: 20; width: clamp(190px, 20vw, 315px); height: clamp(170px, 18vw, 275px); filter: drop-shadow(0 12px 12px rgba(54,34,18,0.3)); }
+.barn-body, .barn-roof, .barn-door, .barn-window, .silo, .barn-cross { position: absolute; display: block; }
+.barn-body { bottom: 0; left: 15%; width: 70%; height: 68%; background: #b45132; border: 8px solid #e6d5b0; clip-path: polygon(0 18%, 50% 0, 100% 18%, 100% 100%, 0 100%); }
+.barn-roof { top: 4%; left: 6%; width: 88%; height: 34%; background: #d7c6a4; clip-path: polygon(50% 0, 100% 100%, 82% 100%, 50% 24%, 18% 100%, 0 100%); }
+.barn-door { bottom: 0; left: 37%; width: 30%; height: 38%; background: #8f3e29; border: 5px solid #ead8b7; }
+.barn-cross { bottom: 16%; left: 35%; width: 34%; height: 5px; background: #ead8b7; transform-origin: center; }
+.barn-cross-a { transform: rotate(38deg); }
+.barn-cross-b { transform: rotate(-38deg); }
+.barn-window { top: 40%; left: 44%; width: 22%; height: 22%; background: #4e2d1b; border: 6px solid #ead8b7; }
+.silo { right: -6%; bottom: 1%; width: 24%; height: 78%; border-radius: 42px 42px 0 0; background: repeating-linear-gradient(180deg, #c6b896 0 24px, #aa9c80 25px 27px); border: 4px solid #8a8068; z-index: -1; }
+
+.tree { position: absolute; z-index: 24; filter: drop-shadow(0 12px 14px rgba(54,34,18,0.28)); animation: treeSway 7s ease-in-out infinite alternate; transform-origin: bottom center; }
+.tree-left { bottom: 24%; left: -2%; width: 280px; height: 360px; }
+.tree-right { right: 4%; bottom: 25%; width: 230px; height: 275px; animation-delay: -2s; }
+.trunk { position: absolute; bottom: 0; left: 43%; width: 48px; height: 68%; border-radius: 28px 28px 10px 10px; background: linear-gradient(90deg, #7d4b2a, #9b6335 58%, #6a3e22); clip-path: polygon(36% 0, 64% 0, 78% 100%, 22% 100%); }
+.leaf { position: absolute; display: block; border-radius: 45% 55% 50% 48%; background: #66753a; box-shadow: inset -10px -12px 0 rgba(43,54,25,0.16); }
+.leaf-a { top: 2%; left: 18%; width: 150px; height: 135px; }
+.leaf-b { top: 18%; left: 2%; width: 155px; height: 140px; }
+.leaf-c { top: 14%; right: 4%; width: 155px; height: 140px; }
+.leaf-d { top: 32%; left: 28%; width: 140px; height: 120px; }
+.apple { position: absolute; z-index: 4; width: 20px; height: 20px; border-radius: 50%; background: #c45b38; box-shadow: inset -3px -4px 0 rgba(88,35,22,0.22); }
+.apple-a { top: 28%; left: 42%; }
+.apple-b { top: 42%; left: 70%; }
+.apple-c { top: 52%; left: 32%; }
+.bird-perch { position: absolute; top: 31%; left: 30%; width: 62px; height: 44px; border-radius: 52% 44% 48% 50%; background: #6da5a4; box-shadow: 22px 8px 0 -10px #e4bc5a, 30px 18px 0 -18px #3b2516; transform: rotate(-20deg); }
+
+.animal, .duck { position: absolute; z-index: 31; filter: drop-shadow(0 10px 8px rgba(45,31,17,0.25)); }
+.animal span, .duck span, .flower, .grass { position: absolute; display: block; }
+.cow { left: 5%; bottom: 10%; width: 240px; height: 155px; animation: animalBob 4.8s ease-in-out infinite; }
+.cow-body { left: 20px; bottom: 28px; width: 150px; height: 88px; border-radius: 45% 42% 35% 35%; background: #f0dfbd; }
+.cow-head { right: 22px; bottom: 58px; width: 78px; height: 72px; border-radius: 42% 42% 50% 50%; background: #f0dfbd; }
+.cow-ear, .pig-ear, .sheep-ear { background: #2f2b23; border-radius: 50%; }
+.cow-ear-left { right: 82px; bottom: 102px; width: 35px; height: 24px; transform: rotate(-24deg); }
+.cow-ear-right { right: 8px; bottom: 100px; width: 34px; height: 24px; transform: rotate(28deg); }
+.cow-spot { background: #2d2a24; border-radius: 48%; }
+.spot-one { left: 44px; bottom: 70px; width: 48px; height: 46px; }
+.spot-two { left: 106px; bottom: 48px; width: 44px; height: 42px; }
+.cow-leg { bottom: 0; width: 22px; height: 40px; background: #221c15; border-radius: 0 0 10px 10px; }
+.cow .leg-one { left: 54px; }
+.cow .leg-two { left: 138px; }
+.cow-tail { left: 0; bottom: 72px; width: 48px; height: 8px; background: #2f2116; transform: rotate(42deg); transform-origin: right center; animation: tailWag 2.8s ease-in-out infinite; }
+.eye { width: 8px; height: 8px; border-radius: 50%; background: #1c1713; }
+.cow .eye { right: 46px; bottom: 92px; }
+.sheep { left: 31%; bottom: 10.2%; width: 185px; height: 135px; animation: animalBob 5.2s ease-in-out infinite -1s; }
+.sheep-wool { border-radius: 50%; background: #eee1c7; box-shadow: inset -6px -7px 0 rgba(113,91,61,0.12); }
+.wool-one { left: 0; bottom: 36px; width: 132px; height: 80px; }
+.wool-two { left: 18px; bottom: 74px; width: 100px; height: 58px; }
+.wool-three { left: 52px; bottom: 26px; width: 96px; height: 76px; }
+.sheep-face { right: 8px; bottom: 47px; width: 58px; height: 58px; border-radius: 46%; background: #5b5140; }
+.sheep-ear { right: 52px; bottom: 78px; width: 36px; height: 20px; transform: rotate(-22deg); }
+.sheep-leg { bottom: 0; width: 16px; height: 36px; background: #4a3d2e; border-radius: 0 0 8px 8px; }
+.sheep .leg-one { left: 42px; }
+.sheep .leg-two { left: 112px; }
+.sheep .eye { right: 32px; bottom: 76px; }
+.chicken { left: 47%; bottom: 11%; width: 120px; height: 125px; animation: peck 3.2s ease-in-out infinite; transform-origin: bottom center; }
+.chicken-body { left: 18px; bottom: 28px; width: 78px; height: 72px; border-radius: 50% 46% 45% 42%; background: #a85c27; }
+.chicken-head { left: 65px; bottom: 78px; width: 40px; height: 38px; border-radius: 50%; background: #b8672c; }
+.comb { left: 77px; bottom: 111px; width: 24px; height: 20px; border-radius: 50% 50% 0 0; background: #b63724; }
+.beak { left: 100px; bottom: 91px; width: 24px; height: 16px; background: #dfae35; clip-path: polygon(0 0, 100% 50%, 0 100%); }
+.wing { left: 34px; bottom: 49px; width: 42px; height: 32px; border-radius: 50%; background: #7e3f1d; }
+.chicken-leg { bottom: 0; width: 6px; height: 34px; background: #dfae35; }
+.chicken .leg-one { left: 52px; }
+.chicken .leg-two { left: 74px; }
+.pig { right: 33%; bottom: 10.5%; width: 215px; height: 125px; animation: animalBob 4.4s ease-in-out infinite -2s; }
+.pig-body { left: 30px; bottom: 24px; width: 150px; height: 82px; border-radius: 47% 45% 38% 40%; background: #dc907d; }
+.pig-head { left: 4px; bottom: 47px; width: 72px; height: 64px; border-radius: 46%; background: #e29b89; }
+.pig-snout { left: 2px; bottom: 60px; width: 42px; height: 28px; border-radius: 50%; background: #c97868; }
+.pig-ear { left: 42px; bottom: 99px; width: 34px; height: 28px; background: #dd8f7d; clip-path: polygon(0 0, 100% 30%, 25% 100%); }
+.pig-leg { bottom: 0; width: 18px; height: 32px; background: #b76e61; border-radius: 0 0 8px 8px; }
+.pig .leg-one { left: 70px; }
+.pig .leg-two { left: 150px; }
+.pig .eye { left: 42px; bottom: 82px; }
+.horse { right: 8%; bottom: 10%; width: 290px; height: 215px; animation: animalBob 5.8s ease-in-out infinite -1.5s; }
+.horse-body { left: 70px; bottom: 48px; width: 170px; height: 94px; border-radius: 48% 38% 38% 36%; background: #b77945; }
+.horse-neck { left: 52px; bottom: 100px; width: 52px; height: 90px; background: #ae7042; transform: rotate(22deg); border-radius: 42px 42px 8px 8px; }
+.horse-head { left: 18px; bottom: 127px; width: 72px; height: 58px; border-radius: 45% 50% 45% 50%; background: #be8251; transform: rotate(10deg); }
+.horse-mane { left: 76px; bottom: 112px; width: 30px; height: 82px; background: #4d2f21; clip-path: polygon(15% 0, 100% 0, 55% 100%, 0 100%); }
+.horse-tail { right: 20px; bottom: 90px; width: 64px; height: 22px; border-radius: 50%; background: #4d2f21; transform: rotate(-34deg); transform-origin: left center; animation: tailWag 3.1s ease-in-out infinite; }
+.horse-leg { bottom: 0; width: 20px; height: 66px; background: #6d432a; border-radius: 0 0 10px 10px; }
+.horse .leg-one { left: 96px; }
+.horse .leg-two { left: 154px; }
+.horse .leg-three { left: 220px; }
+.horse .eye { left: 47px; bottom: 156px; }
+.duck { left: 56%; bottom: 11%; width: 95px; height: 86px; animation: duckWaddle 3.6s ease-in-out infinite; }
+.duck-body { left: 15px; bottom: 12px; width: 62px; height: 42px; border-radius: 50%; background: #dca837; }
+.duck-head { left: 53px; bottom: 43px; width: 32px; height: 32px; border-radius: 50%; background: #e2b447; }
+.duck-beak { left: 82px; bottom: 52px; width: 20px; height: 12px; background: #c9792c; clip-path: polygon(0 0, 100% 50%, 0 100%); }
+
+.river { position: absolute; left: -5%; right: -5%; bottom: -6%; z-index: 28; height: 15%; background: repeating-linear-gradient(170deg, transparent 0 62px, rgba(230,249,242,0.55) 64px 82px, transparent 84px 132px), #69a8a5; border-top: 8px solid #4d6d55; border-radius: 50% 50% 0 0; animation: riverFlow 10s linear infinite; }
+.flower { z-index: 34; width: 20px; height: 20px; border-radius: 50%; background: #e2c24f; box-shadow: 14px 0 0 #d9785a, -14px 0 0 #d9785a, 0 14px 0 #eadb87, 0 -14px 0 #eadb87; }
+.flower-one { left: 23%; bottom: 13%; }
+.flower-two { right: 23%; bottom: 13%; }
+.grass { z-index: 35; width: 120px; height: 85px; background: #4f6e35; clip-path: polygon(0 100%, 8% 35%, 16% 100%, 25% 20%, 34% 100%, 48% 8%, 55% 100%, 67% 26%, 75% 100%, 87% 40%, 100% 100%); animation: grassSway 3.5s ease-in-out infinite alternate; }
+.grass-one { left: 1%; bottom: 0; }
+.grass-two { right: 1%; bottom: 0; animation-delay: -1s; }
+
+.paper-section { position: relative; max-width: 1060px; margin: 0 auto; padding: 80px 24px; color: #3b2819; }
+.paper-section::before { position: absolute; inset: 28px 18px; z-index: -1; content: ""; border-radius: 16px; background: #ead0a4; box-shadow: 0 18px 30px rgba(20,14,9,0.24), inset 0 0 0 2px rgba(110,75,36,0.12); clip-path: polygon(0 4%, 6% 0, 16% 3%, 28% 0, 42% 3%, 58% 0, 72% 3%, 86% 0, 100% 4%, 98% 94%, 90% 100%, 76% 97%, 62% 100%, 46% 97%, 30% 100%, 16% 97%, 2% 100%); }
+.paper-section h2 { margin: 0; max-width: 760px; font-size: clamp(2.2rem, 5vw, 4rem); line-height: 1; }
+.paper-section p:not(.eyebrow) { max-width: 700px; margin: 20px 0 0; color: #5d4028; font-size: 1.16rem; line-height: 1.7; }
+.eyebrow { margin: 0 0 14px; color: #a13c25; font-weight: 900; text-transform: uppercase; letter-spacing: 0.12em; }
+.mini-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-top: 28px; }
+.mini-grid span { min-height: 84px; padding: 20px; border-radius: 10px; background: #f3dfb6; box-shadow: inset 0 -4px 0 rgba(112,75,35,0.14), 0 8px 14px rgba(54,36,19,0.14); font-size: 1.2rem; font-weight: 800; }
+
+@keyframes cloudDrift { from { translate: -16px 0; } to { translate: 28px 4px; } }
+@keyframes birdFloat { 0%, 100% { translate: 0 0; } 50% { translate: 18px -10px; } }
+@keyframes treeSway { from { rotate: -1deg; } to { rotate: 1.3deg; } }
+@keyframes animalBob { 0%, 100% { translate: 0 0; } 50% { translate: 0 -4px; } }
+@keyframes tailWag { 0%, 100% { rotate: -7deg; } 50% { rotate: 12deg; } }
+@keyframes peck { 0%, 100% { rotate: 0deg; translate: 0 0; } 45% { rotate: 7deg; translate: 4px 2px; } 60% { rotate: -6deg; translate: -2px 0; } }
+@keyframes duckWaddle { 0%, 100% { translate: 0 0; rotate: -2deg; } 50% { translate: 8px -2px; rotate: 3deg; } }
+@keyframes grassSway { from { transform: skewX(-2deg); } to { transform: skewX(3deg); } }
+@keyframes riverFlow { from { background-position: 0 0, 0 0; } to { background-position: 180px 0, 0 0; } }
+
+@media (max-width: 980px) {
+  .farm-scene { min-height: 900px; }
+  .hero-card { top: 18%; }
+  .barn { left: 7%; bottom: 29%; }
+  .tree-left { left: -12%; transform: scale(0.8); }
+  .tree-right { right: -8%; transform: scale(0.85); }
+  .cow { left: 4%; transform: scale(0.82); transform-origin: bottom left; }
+  .sheep { left: 28%; transform: scale(0.82); transform-origin: bottom left; }
+  .chicken { left: 46%; transform: scale(0.82); transform-origin: bottom left; }
+  .duck { left: 57%; transform: scale(0.82); transform-origin: bottom left; }
+  .pig { right: 24%; transform: scale(0.8); transform-origin: bottom right; }
+  .horse { right: -3%; transform: scale(0.78); transform-origin: bottom right; }
+}
+
+@media (max-width: 700px) {
+  .farm-scene { min-height: 820px; border-width: 8px; }
+  .paper-nav { top: 10px; width: calc(100vw - 24px); justify-content: space-between; gap: 0; padding: 12px 10px; font-size: 0.86rem; }
+  .hero-card { top: 16%; }
+  .hero-card h1 { font-size: clamp(3.2rem, 16vw, 5rem); }
+  .cloud-one, .cloud-three, .birds, .sun { opacity: 0.75; }
+  .barn { left: 4%; bottom: 32%; transform: scale(0.72); transform-origin: bottom left; }
+  .tree-left { left: -42%; bottom: 29%; transform: scale(0.62); }
+  .tree-right { right: -35%; bottom: 30%; transform: scale(0.62); }
+  .cow { left: -7%; bottom: 9%; transform: scale(0.62); }
+  .sheep { left: 24%; bottom: 9%; transform: scale(0.64); }
+  .chicken { left: 45%; bottom: 10%; transform: scale(0.62); }
+  .duck { display: none; }
+  .pig { right: 5%; bottom: 9%; transform: scale(0.62); }
+  .horse { right: -32%; bottom: 11%; transform: scale(0.62); }
+  .mini-grid { grid-template-columns: 1fr; }
+  .paper-section { padding: 62px 24px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 1ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; }
 }

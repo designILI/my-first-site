@@ -1,135 +1,173 @@
-const focusAreas = [
-  "Intervention evidence",
-  "Conflict prevention",
-  "Policy translation",
-];
+const navItems = ["Home", "About", "Animals", "Gallery", "Contact"];
+const galleryItems = ["Layered hills", "Paper barn", "Cutout animals"];
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[#f7f5ef] text-[#17231f]">
-      <section className="relative overflow-hidden border-b border-[#d8d2c3] bg-[#f7f5ef]">
-        <div className="mx-auto grid min-h-[88vh] max-w-7xl grid-cols-1 items-center gap-12 px-6 py-10 sm:px-10 lg:grid-cols-[1.05fr_0.95fr] lg:px-12">
-          <div className="max-w-3xl">
-            <p className="mb-5 inline-flex rounded-full border border-[#b9c7bd] bg-white/70 px-4 py-2 text-sm font-medium text-[#315246]">
-              Structured evidence for peacebuilding decisions
-            </p>
-            <h1 className="text-5xl font-semibold leading-[1.03] tracking-normal text-[#13231f] sm:text-6xl lg:text-7xl">
-              Evidence for Violence De-escalation and Action (EVIDA)
-            </h1>
-            <p className="mt-7 max-w-2xl text-lg leading-8 text-[#52615b] sm:text-xl">
-              A structured evidence-mapping platform helping practitioners,
-              funders, and policymakers understand what works in reducing armed
-              conflict.
-            </p>
-            <div className="mt-9 flex flex-col gap-3 sm:flex-row">
-              <a
-                href="#cta"
-                className="inline-flex items-center justify-center rounded-md bg-[#1f5f4b] px-6 py-3 text-base font-semibold text-white shadow-sm transition hover:bg-[#174d3d]"
-              >
-                Explore the Platform
-              </a>
-              <a
-                href="#about"
-                className="inline-flex items-center justify-center rounded-md border border-[#9aa99e] bg-white/70 px-6 py-3 text-base font-semibold text-[#1f3f35] transition hover:bg-white"
-              >
-                Learn About EVIDA
-              </a>
-            </div>
-          </div>
-
-          <div className="rounded-lg border border-[#d0c8b8] bg-white p-5 shadow-[0_24px_70px_rgba(23,35,31,0.12)]">
-            <div className="border-b border-[#e4dfd3] pb-4">
-              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-[#6d7b74]">
-                Evidence Map
-              </p>
-              <h2 className="mt-2 text-2xl font-semibold text-[#17231f]">
-                Comparing approaches across conflict settings
-              </h2>
-            </div>
-            <div className="mt-6 space-y-4">
-              {focusAreas.map((area, index) => (
-                <div
-                  key={area}
-                  className="grid grid-cols-[auto_1fr_auto] items-center gap-4 rounded-md border border-[#e2ded4] bg-[#fbfaf6] p-4"
-                >
-                  <span className="flex size-10 items-center justify-center rounded-full bg-[#dfe9e3] text-sm font-bold text-[#1f5f4b]">
-                    0{index + 1}
-                  </span>
-                  <span className="font-medium text-[#26352f]">{area}</span>
-                  <span className="h-2 w-20 rounded-full bg-[#d7a94b]" />
-                </div>
-              ))}
-            </div>
-            <div className="mt-6 grid grid-cols-3 gap-3 border-t border-[#e4dfd3] pt-5 text-center">
-              <div>
-                <p className="text-2xl font-semibold text-[#1f5f4b]">120+</p>
-                <p className="text-xs font-medium uppercase tracking-wide text-[#69776f]">
-                  Studies
-                </p>
-              </div>
-              <div>
-                <p className="text-2xl font-semibold text-[#1f5f4b]">32</p>
-                <p className="text-xs font-medium uppercase tracking-wide text-[#69776f]">
-                  Countries
-                </p>
-              </div>
-              <div>
-                <p className="text-2xl font-semibold text-[#1f5f4b]">18</p>
-                <p className="text-xs font-medium uppercase tracking-wide text-[#69776f]">
-                  Measures
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section id="about" className="bg-white px-6 py-20 sm:px-10 lg:px-12">
-        <div className="mx-auto grid max-w-7xl grid-cols-1 gap-12 lg:grid-cols-[0.8fr_1.2fr]">
-          <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.18em] text-[#b2812d]">
-              About EVIDA
-            </p>
-            <h2 className="mt-4 text-4xl font-semibold leading-tight text-[#17231f]">
-              Turning scattered research into practical evidence.
-            </h2>
-          </div>
-          <div className="space-y-6 text-lg leading-8 text-[#53615c]">
-            <p>
-              EVIDA helps teams make sense of complex conflict-reduction
-              evidence by organizing research, interventions, outcomes, and
-              implementation contexts in one structured platform.
-            </p>
-            <p>
-              Built for applied decision-making, it supports clearer comparison
-              across programs, sharper learning agendas, and more transparent
-              funding and policy choices.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      <section id="cta" className="bg-[#17372f] px-6 py-20 text-white sm:px-10 lg:px-12">
-        <div className="mx-auto flex max-w-7xl flex-col items-start justify-between gap-8 md:flex-row md:items-center">
-          <div className="max-w-2xl">
-            <p className="text-sm font-semibold uppercase tracking-[0.18em] text-[#d7a94b]">
-              Call to Action
-            </p>
-            <h2 className="mt-4 text-4xl font-semibold leading-tight">
-              Build better violence reduction strategies with evidence at hand.
-            </h2>
-            <p className="mt-5 text-lg leading-8 text-[#dbe6e1]">
-              Partner with EVIDA to map what is known, identify knowledge gaps,
-              and move from research insight to informed action.
-            </p>
-          </div>
-          <a
-            href="mailto:hello@evida.org"
-            className="inline-flex shrink-0 items-center justify-center rounded-md bg-[#d7a94b] px-6 py-3 text-base font-semibold text-[#13231f] transition hover:bg-[#e3bc67]"
-          >
-            Start a Conversation
+    <main className="paper-site">
+      <nav className="paper-nav" aria-label="Main navigation">
+        {navItems.map((item) => (
+          <a key={item} href={item === "Home" ? "#home" : "#" + item.toLowerCase()}>
+            {item}
           </a>
+        ))}
+      </nav>
+
+      <section id="home" className="farm-scene" aria-label="Moving paper craft farm scene">
+        <div className="paper-grain" />
+        <div className="sun" />
+        <div className="cloud cloud-one" />
+        <div className="cloud cloud-two" />
+        <div className="cloud cloud-three" />
+
+        <div className="birds bird-one"><span /><span /></div>
+        <div className="birds bird-two"><span /><span /></div>
+
+        <div className="hill hill-back" />
+        <div className="hill hill-mid" />
+        <div className="hill hill-front" />
+        <div className="fence" />
+
+        <div className="tree tree-left">
+          <span className="trunk" />
+          <span className="leaf leaf-a" />
+          <span className="leaf leaf-b" />
+          <span className="leaf leaf-c" />
+          <span className="leaf leaf-d" />
+          <span className="bird-perch" />
         </div>
+
+        <div className="tree tree-right">
+          <span className="trunk" />
+          <span className="leaf leaf-a" />
+          <span className="leaf leaf-b" />
+          <span className="leaf leaf-c" />
+          <span className="apple apple-a" />
+          <span className="apple apple-b" />
+          <span className="apple apple-c" />
+        </div>
+
+        <div className="barn" aria-hidden="true">
+          <span className="barn-roof" />
+          <span className="barn-body" />
+          <span className="barn-door" />
+          <span className="barn-cross barn-cross-a" />
+          <span className="barn-cross barn-cross-b" />
+          <span className="barn-window" />
+          <span className="silo" />
+        </div>
+
+        <div className="hero-card">
+          <p>Welcome to</p>
+          <h1>Paper Farm</h1>
+          <span>A handcrafted little world full of friendly animals and peaceful moments.</span>
+          <a href="#animals">Explore the Farm</a>
+        </div>
+
+        <div className="animal cow" aria-label="Paper cow">
+          <span className="cow-body" />
+          <span className="cow-head" />
+          <span className="cow-ear cow-ear-left" />
+          <span className="cow-ear cow-ear-right" />
+          <span className="cow-spot spot-one" />
+          <span className="cow-spot spot-two" />
+          <span className="cow-leg leg-one" />
+          <span className="cow-leg leg-two" />
+          <span className="cow-tail" />
+          <span className="eye" />
+        </div>
+
+        <div className="animal sheep" aria-label="Paper sheep">
+          <span className="sheep-wool wool-one" />
+          <span className="sheep-wool wool-two" />
+          <span className="sheep-wool wool-three" />
+          <span className="sheep-face" />
+          <span className="sheep-ear" />
+          <span className="sheep-leg leg-one" />
+          <span className="sheep-leg leg-two" />
+          <span className="eye" />
+        </div>
+
+        <div className="animal chicken" aria-label="Paper chicken">
+          <span className="chicken-body" />
+          <span className="chicken-head" />
+          <span className="comb" />
+          <span className="beak" />
+          <span className="wing" />
+          <span className="chicken-leg leg-one" />
+          <span className="chicken-leg leg-two" />
+        </div>
+
+        <div className="animal pig" aria-label="Paper pig">
+          <span className="pig-body" />
+          <span className="pig-head" />
+          <span className="pig-snout" />
+          <span className="pig-ear" />
+          <span className="pig-leg leg-one" />
+          <span className="pig-leg leg-two" />
+          <span className="eye" />
+        </div>
+
+        <div className="animal horse" aria-label="Paper horse">
+          <span className="horse-body" />
+          <span className="horse-neck" />
+          <span className="horse-head" />
+          <span className="horse-mane" />
+          <span className="horse-tail" />
+          <span className="horse-leg leg-one" />
+          <span className="horse-leg leg-two" />
+          <span className="horse-leg leg-three" />
+          <span className="eye" />
+        </div>
+
+        <div className="duck" aria-label="Paper duck">
+          <span className="duck-body" />
+          <span className="duck-head" />
+          <span className="duck-beak" />
+        </div>
+
+        <div className="flower flower-one" />
+        <div className="flower flower-two" />
+        <div className="grass grass-one" />
+        <div className="grass grass-two" />
+        <div className="river" />
+      </section>
+
+      <section id="about" className="paper-section">
+        <p className="eyebrow">About</p>
+        <h2>A calm farm scene built from soft paper layers.</h2>
+        <p>
+          The whole page is styled like a cutout diorama, with textured paper,
+          warm colors, rounded cardboard shapes, and gentle movement across the scene.
+        </p>
+      </section>
+
+      <section id="animals" className="paper-section paper-grid-section">
+        <p className="eyebrow">Animals</p>
+        <h2>Small animated friends bring the farm to life.</h2>
+        <div className="mini-grid">
+          <span>Cow</span>
+          <span>Horse</span>
+          <span>Sheep</span>
+          <span>Chicken</span>
+          <span>Pig</span>
+          <span>Duck</span>
+        </div>
+      </section>
+
+      <section id="gallery" className="paper-section paper-grid-section">
+        <p className="eyebrow">Gallery</p>
+        <h2>Handmade details for an artistic, playful world.</h2>
+        <div className="mini-grid">
+          {galleryItems.map((item) => (
+            <span key={item}>{item}</span>
+          ))}
+        </div>
+      </section>
+
+      <section id="contact" className="paper-section contact-section">
+        <p className="eyebrow">Contact</p>
+        <h2>Ready to wander through the farm?</h2>
+        <a href="mailto:hello@paperfarm.test">Say hello</a>
       </section>
     </main>
   );
