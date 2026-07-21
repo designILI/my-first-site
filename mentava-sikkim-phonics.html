@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mentava × Sikkim — A Phonics Initiative for Sikkim's Classrooms</title>
+<meta name="description" content="A reading initiative bringing the 44 sounds of English to Sikkim's classrooms — designed for teachers first, built on Mentava's Alphabet Sounds.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --forest: #2D4A3E;
+    --forest-light: #3D6B5A;
+    --parchment: #F5EFE0;
+    --saffron: #E8A020;
+    --terracotta: #C4593A;
+    --ink: #1A1A18;
+    --body-size: 1.2rem;
+    --body-lh: 1.9;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: var(--body-size);
+    line-height: var(--body-lh);
+    color: var(--ink);
+    background: var(--parchment);
+    overflow-x: hidden;
+  }
+
+  /* ---------- Typography helpers ---------- */
+  .eyebrow {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--saffron);
+    display: block;
+    margin-bottom: 1.4rem;
+  }
+
+  h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: clamp(3rem, 8vw, 7rem);
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+  }
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: clamp(2rem, 4vw, 3.5rem);
+    line-height: 1.12;
+    margin-bottom: 2rem;
+    letter-spacing: -0.005em;
+  }
+
+  .pullquote {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: clamp(1.6rem, 3vw, 2.4rem);
+    line-height: 1.4;
+    color: var(--terracotta);
+    text-align: center;
+    max-width: 52rem;
+    margin: 0 auto;
+  }
+
+  p { max-width: 40rem; }
+  p + p { margin-top: 1.4rem; }
+
+  /* ---------- Layout ---------- */
+  .section {
+    padding: clamp(5rem, 10vw, 8.5rem) clamp(1.4rem, 6vw, 4rem);
+  }
+  .inner {
+    max-width: 68rem;
+    margin: 0 auto;
+  }
+
+  .bg-green { background: var(--forest); color: var(--parchment); }
+  .bg-green .eyebrow { color: var(--saffron); }
+  .bg-parchment { background: var(--parchment); color: var(--ink); }
+  .bg-ink { background: var(--ink); color: var(--parchment); }
+
+  /* Saffron rule between major sections */
+  .rule {
+    width: 80px;
+    height: 2px;
+    background: var(--saffron);
+    margin: 0 auto;
+    border: none;
+  }
+  .rule-wrap { padding: 0; background: var(--parchment); }
+  .rule-wrap.on-green { background: var(--forest); }
+
+  /* ---------- Nav ---------- */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.9rem clamp(1.4rem, 4vw, 2.5rem);
+    background: rgba(45, 74, 62, 0.92);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+  .wordmark {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.06em;
+    color: var(--parchment);
+    text-decoration: none;
+  }
+  .nav-links {
+    display: flex;
+    gap: 2.2rem;
+  }
+  .nav-links a {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.88rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: var(--parchment);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease, color 0.2s ease;
+    padding-bottom: 2px;
+  }
+  .nav-links a:hover, .nav-links a:focus-visible {
+    color: var(--saffron);
+    border-bottom-color: var(--saffron);
+  }
+  .menu-btn {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.4rem;
+  }
+  .menu-btn span {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: var(--parchment);
+    margin: 4px 0;
+    transition: transform 0.25s ease, opacity 0.25s ease;
+  }
+
+  @media (max-width: 700px) {
+    .nav-links {
+      display: none;
+      position: absolute;
+      top: 100%;
+      right: 0;
+      left: 0;
+      flex-direction: column;
+      gap: 0;
+      background: var(--forest);
+      border-top: 1px solid rgba(245,239,224,0.15);
+    }
+    .nav-links.open { display: flex; }
+    .nav-links a {
+      padding: 1rem 1.4rem;
+      border-bottom: 1px solid rgba(245,239,224,0.1);
+    }
+    .menu-btn { display: block; }
+    .menu-btn.open span:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+    .menu-btn.open span:nth-child(2) { opacity: 0; }
+    .menu-btn.open span:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+  }
+
+  /* ---------- Hero ---------- */
+  .hero {
+    position: relative;
+    min-height: calc(100vh - 58px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: var(--forest);
+    color: var(--parchment);
+    overflow: hidden;
+    padding: clamp(4rem, 8vw, 6rem) clamp(1.4rem, 6vw, 4rem);
+  }
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 62rem;
+  }
+  .hero h1 {
+    color: var(--parchment);
+    margin-bottom: 2rem;
+  }
+  .hero .subhead {
+    font-size: 1.3rem;
+    line-height: 1.8;
+    color: rgba(245, 239, 224, 0.75);
+    max-width: 44rem;
+    margin: 0 auto 2.8rem auto;
+  }
+  .phoneme-layer {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .phoneme {
+    position: absolute;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: clamp(8rem, 20vw, 18rem);
+    color: #3D6B5A;
+    line-height: 1;
+    opacity: 0;
+    transition: opacity 0.8s ease;
+    user-select: none;
+    will-change: opacity;
+  }
+  .phoneme.show { opacity: 0.55; }
+
+  .cta-btn {
+    display: inline-block;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0.03em;
+    color: var(--ink);
+    background: var(--saffron);
+    padding: 1rem 2.2rem;
+    border: none;
+    border-radius: 2px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.2s ease;
+  }
+  .cta-btn:hover, .cta-btn:focus-visible {
+    background: #F0AF3A;
+    transform: translateY(-2px);
+  }
+  .cta-btn:disabled {
+    cursor: default;
+    transform: none;
+  }
+
+  /* ---------- Insight cards ---------- */
+  .cards-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    margin-top: 3rem;
+  }
+  @media (max-width: 860px) {
+    .cards-3 { grid-template-columns: 1fr; }
+  }
+  .insight-card {
+    border: 1px solid rgba(245, 239, 224, 0.25);
+    padding: 2.2rem 1.8rem;
+    border-radius: 3px;
+  }
+  .insight-card .num {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 3.2rem;
+    color: var(--saffron);
+    line-height: 1;
+    display: block;
+    margin-bottom: 1.1rem;
+  }
+  .insight-card .claim {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.15rem;
+    display: block;
+    margin-bottom: 0.9rem;
+  }
+  .insight-card p {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: rgba(245, 239, 224, 0.85);
+  }
+
+  /* ---------- Challenge / Response rows ---------- */
+  .cr-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-top: 2.6rem;
+    align-items: stretch;
+  }
+  .cr-card {
+    padding: 2rem 1.8rem;
+    border-radius: 3px;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    background: #fff;
+  }
+  .cr-card .cr-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 0.9rem;
+  }
+  .cr-challenge {
+    border: 2px solid var(--terracotta);
+  }
+  .cr-challenge .cr-label { color: var(--terracotta); }
+  .cr-response {
+    border: 2px solid var(--forest);
+  }
+  .cr-response .cr-label { color: var(--forest); }
+  .cr-arrow {
+    display: none;
+    text-align: center;
+    font-size: 1.6rem;
+    color: var(--saffron);
+    line-height: 1;
+  }
+  @media (max-width: 860px) {
+    .cr-row { grid-template-columns: 1fr; gap: 1rem; }
+    .cr-arrow { display: block; }
+  }
+
+  /* ---------- Curriculum two-column ---------- */
+  .curriculum-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(2rem, 5vw, 4rem);
+    margin-top: 3rem;
+  }
+  @media (max-width: 860px) {
+    .curriculum-cols { grid-template-columns: 1fr; }
+  }
+  .col-head {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--saffron);
+    margin-bottom: 1.8rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid rgba(245, 239, 224, 0.25);
+  }
+  .tool {
+    margin-bottom: 2.4rem;
+  }
+  .tool-title {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+    display: block;
+    margin-bottom: 0.6rem;
+  }
+  .tool-title .tool-num {
+    color: var(--saffron);
+    margin-right: 0.5rem;
+  }
+  .tool p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: rgba(245, 239, 224, 0.85);
+  }
+
+  /* ---------- Funders ---------- */
+  .funder-card {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: clamp(2rem, 4vw, 3rem);
+    margin-top: 3rem;
+    background: #fff;
+    border: 1px solid rgba(26, 26, 24, 0.12);
+    border-radius: 4px;
+    padding: clamp(1.8rem, 4vw, 3rem);
+  }
+  @media (max-width: 860px) {
+    .funder-card { grid-template-columns: 1fr; }
+  }
+  .funder-form label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 0.4rem;
+    color: var(--forest);
+  }
+  .funder-form input,
+  .funder-form textarea {
+    width: 100%;
+    font-family: 'Source Serif 4', serif;
+    font-size: 1rem;
+    padding: 0.8rem;
+    margin-bottom: 1.3rem;
+    border: 1px solid rgba(26, 26, 24, 0.25);
+    border-radius: 3px;
+    background: var(--parchment);
+    color: var(--ink);
+  }
+  .funder-form input:focus,
+  .funder-form textarea:focus {
+    outline: 2px solid var(--saffron);
+    outline-offset: 1px;
+    border-color: var(--saffron);
+  }
+  .funder-form textarea { min-height: 8rem; resize: vertical; }
+
+  /* Form status messages */
+  .form-status {
+    display: none;
+    padding: 1rem 1.2rem;
+    border-radius: 3px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+  }
+  .form-status.success {
+    display: block;
+    background: #EAF5EE;
+    border: 1px solid var(--forest);
+    color: var(--forest);
+  }
+  .form-status.error {
+    display: block;
+    background: #FDF0ED;
+    border: 1px solid var(--terracotta);
+    color: var(--terracotta);
+  }
+
+  .project-details {
+    border-left: 2px solid var(--saffron);
+    padding-left: 1.6rem;
+    align-self: center;
+  }
+  .detail {
+    margin-bottom: 1.4rem;
+  }
+  .detail .detail-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--terracotta);
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+  .detail .detail-value {
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+
+  /* ---------- Teachers ---------- */
+  .teacher-cta-card {
+    margin-top: 3rem;
+    background: rgba(245, 239, 224, 0.07);
+    border: 1px solid rgba(245, 239, 224, 0.25);
+    border-radius: 4px;
+    padding: 2.4rem 2rem;
+    text-align: center;
+  }
+  .teacher-cta-card a {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--saffron);
+    text-decoration: none;
+    border-bottom: 2px solid var(--saffron);
+    padding-bottom: 3px;
+    transition: color 0.2s ease, border-color 0.2s ease;
+  }
+  .teacher-cta-card a:hover, .teacher-cta-card a:focus-visible {
+    color: #F0AF3A;
+    border-color: #F0AF3A;
+  }
+
+  /* ---------- Footer ---------- */
+  footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    padding: 3.5rem clamp(1.4rem, 6vw, 4rem);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.8;
+    align-items: center;
+  }
+  footer .f-left { font-weight: 700; letter-spacing: 0.04em; }
+  footer .f-center { text-align: center; color: rgba(245, 239, 224, 0.7); }
+  footer .f-right { text-align: right; color: rgba(245, 239, 224, 0.7); }
+  footer a { color: var(--saffron); text-decoration: none; }
+  footer a:hover, footer a:focus-visible { text-decoration: underline; }
+  @media (max-width: 700px) {
+    footer { grid-template-columns: 1fr; text-align: center; }
+    footer .f-right, footer .f-center { text-align: center; }
+  }
+
+  /* ---------- Scroll reveal ---------- */
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+  }
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* ---------- Reduced motion ---------- */
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after {
+      animation: none !important;
+      transition: none !important;
+    }
+    .reveal { opacity: 1; transform: none; }
+    .phoneme { transition: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ============ NAV ============ -->
+<nav>
+  <a class="wordmark" href="#top">Mentava × Sikkim</a>
+  <button class="menu-btn" aria-label="Open menu" aria-expanded="false" id="menuBtn">
+    <span></span><span></span><span></span>
+  </button>
+  <div class="nav-links" id="navLinks">
+    <a href="#for-teachers">For Teachers</a>
+    <a href="#contribute">Contribute a Word</a>
+  </div>
+</nav>
+
+<!-- ============ 1. HERO ============ -->
+<header class="hero" id="top">
+  <div class="phoneme-layer" id="phonemeLayer" aria-hidden="true"></div>
+  <div class="hero-content">
+    <span class="eyebrow">A reading initiative for Sikkim</span>
+    <h1>Every child in Sikkim deserves to hear English the right way — from the very first sound.</h1>
+    <p class="subhead">Forty-four sounds. Forty-four doors. A curriculum designed so that teachers, students, and families can open them — together.</p>
+    <a class="cta-btn" href="#problem">Read the vision ↓</a>
+  </div>
+</header>
+
+<!-- ============ 2. THE PROBLEM ============ -->
+<section class="section bg-parchment" id="problem">
+  <div class="inner">
+    <div class="reveal">
+      <span class="eyebrow">Why this, why now</span>
+      <h2>Something is being lost in the first lesson.</h2>
+    </div>
+    <div class="reveal">
+      <p>In many classrooms in Sikkim, a child's first meeting with English is a letter name: A, B, C — sounds that appear in almost no English word. Some children are taught "B says buh." Many are taught no sounds at all. Either way, the material reading is actually built from — the pure sounds of the language — is missing from the very first lesson.</p>
+      <p>This is not a failure of effort. Teachers in Sikkim work with extraordinary dedication, often in multiple languages, often without training materials that match their students' reality. The tools have simply not existed for this context.</p>
+      <p>Mentava's Alphabet Sounds book was created to fix the foundation: the 44 phonemes of English — not the 26 letter names — taught with precision, warmth, and visual richness. Our Phoneme-abet Book builds on it for Sikkim, and leaves space on every page for readers to add words from their own languages, so the sounds belong here from the very first day.</p>
+    </div>
+    <div class="reveal" style="margin-top: 4.5rem;">
+      <blockquote class="pullquote">"A book about sounds should leave room for every language in the room."</blockquote>
+    </div>
+  </div>
+</section>
+
+<div class="rule-wrap bg-parchment" aria-hidden="true"><hr class="rule"></div>
+
+<!-- ============ 3. THE INSIGHT ============ -->
+<section class="section bg-green">
+  <div class="inner">
+    <div class="reveal">
+      <span class="eyebrow">The cognitive science</span>
+      <h2>Sound first. Everything else follows.</h2>
+    </div>
+    <div class="cards-3">
+      <div class="insight-card reveal">
+        <span class="num">1</span>
+        <span class="claim">44, not 26</span>
+        <p>English has 44 distinct sounds but only 26 letters. Every traditional alphabet book ignores 18 of them. Mentava's book teaches all 44 — including the two 'th' sounds, the 'sh', the 'ch' — because children need all 44 to read.</p>
+      </div>
+      <div class="insight-card reveal">
+        <span class="num">2</span>
+        <span class="claim">Sound before name</span>
+        <p>Children are taught that A is "ay", B is "bee", C is "see." But "cat" is not pronounced see-ay-tee. Learning letter names before letter sounds actively slows reading. Mentava teaches sounds from the start.</p>
+      </div>
+      <div class="insight-card reveal">
+        <span class="num">3</span>
+        <span class="claim">Pure sounds, pure blending</span>
+        <p>When a child hears "mmm-aaa-ppp" they can hear "map." When they hear "muh-ah-puh" they cannot. Isolated, pure phoneme sounds — with no trailing vowel — are what make blending possible. This is what the book and this curriculum teach.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 4. THE SIKKIM REALITY ============ -->
+<section class="section bg-parchment">
+  <div class="inner">
+    <div class="reveal">
+      <span class="eyebrow">Designed for here</span>
+      <h2>Most phonics tools were not made for Sikkim. This curriculum is.</h2>
+      <p>Sikkim's classrooms are multilingual by nature. Children arrive speaking Nepali, Sikkimese, Lepcha, Bhutia — and then meet English. That is a gift, not a problem. But it means the curriculum has to meet teachers and students where they are, not where a textbook imagines they are.</p>
+    </div>
+
+    <div class="cr-row reveal">
+      <div class="cr-card cr-challenge">
+        <span class="cr-label">The challenge</span>
+        Some images in the book — a bagel, an astronaut, an alligator — may be unfamiliar to children in rural Sikkim. If a child doesn't know the word, the image can't anchor the sound.
+      </div>
+      <div class="cr-arrow" aria-hidden="true">↓</div>
+      <div class="cr-card cr-response">
+        <span class="cr-label">Our response</span>
+        Each phoneme page comes with a bilingual teacher note (English + Nepali) identifying which images may need introduction, and suggesting a familiar local equivalent. A khukuri for axe. Dhido for a food that starts with D. The book's images stay; local knowledge fills the gaps.
+      </div>
+    </div>
+
+    <div class="cr-row reveal">
+      <div class="cr-card cr-challenge">
+        <span class="cr-label">The challenge</span>
+        Teachers in Sikkim often learned English phonics the same way their students did — with letter names, not sounds, and with schwa-added pronunciation. You cannot model what you haven't yet heard.
+      </div>
+      <div class="cr-arrow" aria-hidden="true">↓</div>
+      <div class="cr-card cr-response">
+        <span class="cr-label">Our response</span>
+        The curriculum leads with teacher preparation, not classroom deployment. Every phoneme has a short audio clip — produced by a native English speaker — that teachers listen to and repeat before teaching. A pronunciation card for each sound is built into the teacher guide. Teachers learn first. Students come second.
+      </div>
+    </div>
+
+    <div class="cr-row reveal">
+      <div class="cr-card cr-challenge">
+        <span class="cr-label">The challenge</span>
+        Many Himalayan languages do not have the English /r/ versus /l/ distinction, or the /th/ sounds, or the /v/ versus /w/ contrast. These aren't subtle differences for a native speaker — they are genuinely new sound categories for learners here.
+      </div>
+      <div class="cr-arrow" aria-hidden="true">↓</div>
+      <div class="cr-card cr-response">
+        <span class="cr-label">Our response</span>
+        The curriculum's most critical component is a targeted minimal-pairs training sequence for the specific contrasts that are hard from a Nepali phonological background — not a generic English-learner program. The comparisons the book already contains (l vs. r, s vs. th, b vs. v) become the spine of dedicated teacher and student practice modules.
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="rule-wrap bg-parchment" aria-hidden="true"><hr class="rule"></div>
+
+<!-- ============ 5. THE CURRICULUM ============ -->
+<section class="section bg-green">
+  <div class="inner">
+    <div class="reveal">
+      <span class="eyebrow">What we are building</span>
+      <h2>Six tools. One coherent system.</h2>
+      <p style="color: rgba(245,239,224,0.85);">Each component is designed around a simple rule: if the teacher can't do it confidently, the student can't learn it. So we start with teachers.</p>
+    </div>
+
+    <div class="curriculum-cols">
+      <div class="reveal">
+        <div class="col-head">For teachers first</div>
+
+        <div class="tool">
+          <span class="tool-title"><span class="tool-num">1</span>The Phoneme-abet Book</span>
+          <p>Our adaptation of Mentava's Alphabet Sounds, made for Sikkim — available online, as a downloadable ebook/PDF, or in physical print. Every phoneme page carries two QR codes: one linking to a 5-second audio clip of the pure sound, produced by a native English speaker — no schwa, no trailing vowel — and one linking to that sound's jingle. Teachers play them on a phone before and during the lesson. Each page also leaves space for readers to add words from their own languages. Works offline after first download. No app required.</p>
+        </div>
+
+        <div class="tool">
+          <span class="tool-title"><span class="tool-num">2</span>Bilingual teacher guide</span>
+          <p>A printed companion guide in English and Nepali covering: what phonics is and why it works, how to say each sound correctly, which images on each page may need local context, and how to run a 10-minute phoneme lesson. Written in plain language. Tested with teachers before printing.</p>
+        </div>
+
+        <div class="tool">
+          <span class="tool-title"><span class="tool-num">3</span>Pronunciation video (Nepali)</span>
+          <p>A 3-minute video, presented by a Sikkimese educator, explaining the phonics method in Nepali and demonstrating the correct versus incorrect way to produce sounds. Shareable by WhatsApp. The trust-building layer.</p>
+        </div>
+      </div>
+
+      <div class="reveal">
+        <div class="col-head">Then for students</div>
+
+        <div class="tool">
+          <span class="tool-title"><span class="tool-num">4</span>Phoneme tap game</span>
+          <p>A simple web app using the book's images. An audio clip plays a phoneme. The student taps the pictures that begin with that sound. Immediate, warm feedback. Three difficulty levels, moving from easy confirmation to minimal-pair discrimination. Designed for tablets and basic smartphones. Works on very low bandwidth.</p>
+        </div>
+
+        <div class="tool">
+          <span class="tool-title"><span class="tool-num">5</span>Phoneme songs</span>
+          <p>Twenty-second jingles — one per sound — built on a single repeating melody. Only the phoneme and example words change. "Say the sound — fff! fff is for fish, fff is for fox, fff is for flower and fork in a box — say the sound — fff!" Pre-recorded, playable from QR, singable in class.</p>
+        </div>
+
+        <div class="tool">
+          <span class="tool-title"><span class="tool-num">6</span>WhatsApp audio drops for families</span>
+          <p>Short audio messages in Nepali, shareable by the teacher to families over WhatsApp. Each message covers one phoneme: what it is, how to say it, and a simple home activity parents can do with their child without knowing English. Designed for families who cannot read the book but can support learning.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 6. PULLQUOTE BREAK ============ -->
+<section class="section bg-parchment">
+  <div class="inner reveal">
+    <blockquote class="pullquote">"A child who hears the right sound at the right moment — and feels the pleasure of producing it correctly — has already taken the first step toward reading. That moment is worth everything we are building here."</blockquote>
+  </div>
+</section>
+
+<div class="rule-wrap bg-parchment" aria-hidden="true"><hr class="rule"></div>
+
+<!-- ============ 7. CONTRIBUTE ============ -->
+<section class="section bg-parchment" id="contribute">
+  <div class="inner">
+    <div class="reveal">
+      <span class="eyebrow">Help us build the Phoneme-abet Book</span>
+      <h2>Lend us your words.</h2>
+      <p>The Phoneme-abet Book will be filled with things children in Sikkim already know — not bagels and astronauts, but the words of home. We are collecting local words, from every language spoken here, for objects, foods, animals, and places that children recognize — words that begin with each of the 44 sounds of English. Nepali, Sikkimese, Lepcha, Bhutia, and any language your family speaks: all of them are welcome in this book.</p>
+      <p>We are also collecting the English words that are genuinely hard for the local ear and tongue — words like <em>film</em>, <em>frisk</em>, or <em>school</em>, where a cluster of sounds or an unfamiliar contrast trips the speaker. Every word you flag becomes a marked challenge in the curriculum, with dedicated listening and practice built around it.</p>
+    </div>
+
+    <div class="funder-card reveal">
+      <!-- Formspree endpoint — replace YOUR_FORM_ID with your Formspree form ID -->
+      <form class="funder-form" id="funderForm">
+        <label for="f-name">Your name</label>
+        <input type="text" id="f-name" name="name" autocomplete="name">
+        <label for="f-lang">Language(s) you speak</label>
+        <input type="text" id="f-lang" name="languages" placeholder="e.g. Nepali, Lepcha">
+        <label for="f-words">Local words children know — and the sound each begins with</label>
+        <textarea id="f-words" name="local_words" placeholder="e.g. khukuri — begins with k. Dhido — begins with d."></textarea>
+        <label for="f-hard">English words that are hard to say or hear</label>
+        <textarea id="f-hard" name="hard_words" placeholder="e.g. film, frisk, school — and what makes them tricky, if you know"></textarea>
+        <button type="submit" class="cta-btn" id="funderSubmit">Share your words &rarr;</button>
+        <p class="form-status" id="formStatus" role="alert"></p>
+      </form>
+      <div class="project-details">
+        <div class="detail">
+          <span class="detail-label">What we're collecting</span>
+          <span class="detail-value">Everyday words children in Sikkim recognize, for each of the 44 sounds</span>
+        </div>
+        <div class="detail">
+          <span class="detail-label">From which languages</span>
+          <span class="detail-value">Nepali, Sikkimese, Lepcha, Bhutia — and any language spoken at home</span>
+        </div>
+        <div class="detail">
+          <span class="detail-label">Also wanted</span>
+          <span class="detail-value">English words that trip the local ear and tongue, to be marked as challenges</span>
+        </div>
+        <div class="detail">
+          <span class="detail-label">Where it goes</span>
+          <span class="detail-value">After vetting and prioritizing: straight into the Phoneme-abet Book and its practice modules — with credit to contributors</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 8. FOR TEACHERS ============ -->
+<section class="section bg-green" id="for-teachers">
+  <div class="inner">
+    <div class="reveal">
+      <span class="eyebrow">A message to teachers</span>
+      <h2>You are not starting from zero. You are starting from exactly the right place.</h2>
+    </div>
+    <div class="reveal">
+      <p style="color: rgba(245,239,224,0.9);">You already know what it takes to hold a classroom in three languages. You already know how to reach a child who is bored, or frightened, or distracted. What this curriculum adds is one simple thing: a way to make English sounds clear — for yourself first, and then for your students.</p>
+      <p style="color: rgba(245,239,224,0.9);">You do not need to be a native English speaker. You do not need years of phonics training. You need a phone, a QR code, and a willingness to listen before you teach. The audio clips do the modeling. The guide does the explaining. Your relationship with your students does the rest.</p>
+      <p style="color: rgba(245,239,224,0.9);">We designed every part of this curriculum assuming that the most important person in the room is you — not the book, not the app, not the songs. Those are tools. You are the teacher.</p>
+    </div>
+    <div class="teacher-cta-card reveal">
+      <a href="mailto:hello@mentavasikkim.org?subject=Teacher%20information%20pack">Request a teacher information pack →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 9. FOOTER ============ -->
+<footer class="bg-ink">
+  <div class="f-left">Mentava × Sikkim Phonics Initiative</div>
+  <div class="f-center">Built on Mentava's Alphabet Sounds<br>Designed for Sikkim's classrooms</div>
+  <div class="f-right"><a href="mailto:hello@mentavasikkim.org">hello@mentavasikkim.org</a><br>Made with care</div>
+</footer>
+
+<script>
+(function () {
+  var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ---------- Mobile menu ---------- */
+  var menuBtn = document.getElementById('menuBtn');
+  var navLinks = document.getElementById('navLinks');
+  menuBtn.addEventListener('click', function () {
+    var open = navLinks.classList.toggle('open');
+    menuBtn.classList.toggle('open', open);
+    menuBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    menuBtn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+  });
+  navLinks.querySelectorAll('a').forEach(function (a) {
+    a.addEventListener('click', function () {
+      navLinks.classList.remove('open');
+      menuBtn.classList.remove('open');
+      menuBtn.setAttribute('aria-expanded', 'false');
+    });
+  });
+
+  /* ---------- Scroll reveal ---------- */
+  var reveals = document.querySelectorAll('.reveal');
+  if (reduceMotion || !('IntersectionObserver' in window)) {
+    reveals.forEach(function (el) { el.classList.add('visible'); });
+  } else {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          io.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12 });
+    reveals.forEach(function (el) { io.observe(el); });
+  }
+
+  /* ---------- Hero phoneme animation ---------- */
+  var letters = ['m','s','f','d','r','th','sh','l','n','p','b','t','k','w','v','z'];
+  var layer = document.getElementById('phonemeLayer');
+
+  if (!reduceMotion && layer) {
+    var idx = 0;
+    var FADE = 800, HOLD = 1500;
+
+    function showNextPhoneme() {
+      var el = document.createElement('span');
+      el.className = 'phoneme';
+      el.textContent = letters[idx];
+      idx = (idx + 1) % letters.length;
+
+      var top = 5 + Math.random() * 55;
+      var left = 5 + Math.random() * 60;
+      el.style.top = top + '%';
+      el.style.left = left + '%';
+
+      layer.appendChild(el);
+
+      requestAnimationFrame(function () {
+        requestAnimationFrame(function () {
+          el.classList.add('show');
+        });
+      });
+
+      setTimeout(function () {
+        el.classList.remove('show');
+        setTimeout(function () {
+          if (el.parentNode) el.parentNode.removeChild(el);
+        }, FADE + 50);
+      }, FADE + HOLD);
+    }
+
+    showNextPhoneme();
+    setInterval(showNextPhoneme, FADE + HOLD + FADE + 200);
+  }
+
+  /* ---------- Contribute form — Formspree ---------- */
+  var form = document.getElementById('funderForm');
+  var submitBtn = document.getElementById('funderSubmit');
+  var statusEl = document.getElementById('formStatus');
+
+  // Replace YOUR_FORM_ID below with the ID from your Formspree dashboard (formspree.io)
+  var FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID';
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending…';
+    statusEl.className = 'form-status';
+    statusEl.textContent = '';
+
+    var data = new FormData(form);
+
+    fetch(FORMSPREE_ENDPOINT, {
+      method: 'POST',
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    })
+    .then(function (res) {
+      if (res.ok) {
+        statusEl.className = 'form-status success';
+        statusEl.textContent = 'Thank you — your words are part of the book now.';
+        form.reset();
+        submitBtn.textContent = 'Share your words →';
+        submitBtn.disabled = false;
+      } else {
+        return res.json().then(function (body) {
+          throw new Error(body.errors ? body.errors.map(function(e){ return e.message; }).join(', ') : 'Submission failed.');
+        });
+      }
+    })
+    .catch(function (err) {
+      statusEl.className = 'form-status error';
+      statusEl.textContent = 'Something went wrong. Please try again or email hello@mentavasikkim.org directly.';
+      submitBtn.textContent = 'Share your words →';
+      submitBtn.disabled = false;
+    });
+  });
+})();
+</script>
+</body>
+</html>
