@@ -139,11 +139,13 @@
   ];
 
   function deptGroup(s) {
+    if (s.sikkimDeptGroup) return s.sikkimDeptGroup;
     var d = nk(s.sikkimNodalDept) || "To be determined";
-    d = d.replace(/^likely[:\s]*/i, "").replace(/\s*\(likely\)\s*/i, "");
+    d = d.replace(/^likely[:\s]*/i, "").replace(/\s*\(likely\)\s*/i, " ");
     // take first named department if several
-    d = d.split(/;|\/(?= [A-Z])/)[0].trim();
-    return d.length > 64 ? d.slice(0, 64) + "…" : d;
+    d = d.split(/;|\/(?= [A-Z])|,\s*(?:with|jointly|in coordination)/i)[0].trim();
+    d = d.replace(/,?\s*Government of Sikkim\.?$/i, "").replace(/\s*\([^)]*$/, "").trim().replace(/[,.]$/, "");
+    return d.length > 58 ? d.slice(0, 58) + "…" : d;
   }
   function allocGroup(s) {
     var a = (s.allocationMethod || "").toLowerCase();
