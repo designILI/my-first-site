@@ -1,0 +1,1877 @@
+[
+ {
+  "id": "pm-dhan-dhaanya-krishi-yojana",
+  "name": "Prime Minister Dhan-Dhaanya Krishi Yojana",
+  "shortName": "PMDDKY",
+  "ministry": "Ministry of Agriculture and Farmers Welfare (lead; convergence across 11 ministries)",
+  "agency": "Department of Agriculture and Farmers Welfare; NITI Aayog (monitoring dashboard)",
+  "policyArea": "Agriculture and allied sectors",
+  "subcategory": "District-level convergence programme (aspirational agriculture districts)",
+  "type": "Mission/programme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "2025-26 to 2030-31 (6 years); Cabinet approval 16 July 2025; launched by PM on 11 October 2025",
+  "whyItMatters": "PMDDKY converges 36 existing schemes from 11 ministries plus state schemes and private partnerships into a single district plan for 100 'aspirational agriculture districts', with an annual outlay of Rs 24,000 crore. A minimum of one district from every state is included, so Sikkim is guaranteed at least one district. For that district, this becomes the single most important vehicle to pull central scheme money (irrigation, credit, post-harvest storage at panchayat/block level, crop diversification) into a coherent plan aligned to Sikkim's organic and horticulture strategy. Performance is tracked monthly on 117 KPIs via a NITI Aayog dashboard, so the state's delivery capacity will be visible nationally.",
+  "eligibleApplicants": [
+   "Selected districts (implementation through State Government and district administration)",
+   "Farmers in selected districts as end beneficiaries"
+  ],
+  "sikkimNodalDept": "Agriculture Department, Government of Sikkim (with the selected District Collectorate); likely coordination by Planning and Development Department",
+  "whatCanBeFunded": "Convergent activities under the 36 mapped central schemes: enhancing productivity, crop diversification and sustainable/natural farming, post-harvest storage at panchayat and block level, irrigation improvement, and facilitation of short- and long-term credit. No separate new fund line — resources flow through the converged schemes against the District Agriculture and Allied Activities Plan.",
+  "fundingAvailable": "Rs 24,000 crore per year nationally through convergence (not a separate corpus); district-wise envelopes: Not confirmed from available official guidance.",
+  "fundingRatio": "Follows the funding pattern of each converged scheme",
+  "nePreference": "true",
+  "nePreferenceDetail": "Minimum one district per state/UT guarantees Sikkim's inclusion despite its small net cropped area (confirmed in the Cabinet approval note). Individual converged schemes carry their own NE 90:10 patterns.",
+  "stateContribution": "State share as applicable under each converged scheme",
+  "allocationMethod": "other (convergence of existing schemes against an approved District Agriculture and Allied Activities Plan; district selection by indicators of low productivity, low cropping intensity, low credit disbursement)",
+  "accessPathway": [
+   "Confirm which Sikkim district has been notified among the 100 aspirational agriculture districts (NITI Aayog list) (requires confirmation)",
+   "Constitute/activate the District Dhan-Dhaanya Samiti chaired by the Collector, including progressive farmers (requires confirmation of composition)",
+   "Prepare the District Agriculture and Allied Activities Plan aligned to crop diversification, organic/natural farming, water and soil conservation and self-sufficiency goals",
+   "Route the plan through the state-level committee and align state scheme resources for convergence",
+   "Track monthly progress on the 117 KPIs via the NITI Aayog dashboard with the central nodal officer assigned to the district"
+  ],
+  "nextAction": "Sikkim Agriculture Department should confirm the state's notified PMDDKY district with DA&FW/NITI Aayog and fast-track a District Agriculture and Allied Activities Plan built around organic value chains and post-harvest storage.",
+  "portal": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098401",
+  "applicationWindow": "Not application-based; district plans prepared annually from 2025-26",
+  "keyDocuments": [
+   {
+    "doc": "District Agriculture and Allied Activities Plan",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "District/State/National committee approvals",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "District Dhan-Dhaanya Samiti / State committee / National-level oversight (DA&FW and NITI Aayog)",
+  "contact": "Central Nodal Officer assigned to the district (name: Not confirmed from available official guidance)",
+  "guidelines": [
+   {
+    "title": "Cabinet approval note: PM Dhan-Dhaanya Krishi Yojana (16 July 2025)",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-the-pm-dhan-dhaanya-krishi-yojana/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approves the PM Dhan-Dhaanya Krishi Yojana",
+    "publisher": "PMO / pmindia.gov.in",
+    "date": "2025-07-16",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-the-pm-dhan-dhaanya-krishi-yojana/",
+    "section": "Cabinet decision"
+   },
+   {
+    "title": "Union Budget 2025-26: PMDDKY to be launched in 100 low crop productivity districts",
+    "publisher": "PIB",
+    "date": "2025-02-01",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098401",
+    "section": "Budget announcement"
+   },
+   {
+    "title": "Kishtwar chosen as aspirational agricultural district under PMDDKY (evidence district list announced)",
+    "publisher": "News on AIR (Prasar Bharati)",
+    "date": "2025",
+    "url": "https://www.newsonair.gov.in/kishtwar-chosen-as-aspirational-agricultural-district-under-pm-dhan-dhaanya-krishi-yojana",
+    "section": "District announcements"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "At least one Sikkim district is included by design (minimum one district per state, across 29 states/UTs), and Sikkim's CM reportedly joined the 11 October 2025 launch virtually, but the specific Sikkim district could not be confirmed from official sources reachable in this session."
+  },
+  "potentialUseCases": [
+   "Convergent organic-cluster district plan (large cardamom, Sikkim mandarin, Dalle chilli value chains)",
+   "Panchayat/block-level storage and small pack-houses",
+   "Credit-deepening drive with KCC saturation in the selected district"
+  ],
+  "flags": [
+   "Specific Sikkim district under the 100-district list needs confirmation from the NITI Aayog/DA&FW notification",
+   "Operational guidelines and fund-flow mechanics at district level need confirmation"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 3,
+   "fit": 4,
+   "timeSensitivity": 5,
+   "transformational": 4,
+   "rationale": "Large convergent envelope and guaranteed Sikkim inclusion; first full implementation year (2026-27) makes early district planning urgent; effort is coordination-heavy rather than proposal-heavy."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Scheme design confirmed from Cabinet note and PIB; Sikkim's specific district and district-level guidelines unverified (official district list page not reachable from this environment)."
+ },
+ {
+  "id": "pm-rkvy-krishonnati-yojana",
+  "name": "PM Rashtriya Krishi Vikas Yojana (PM-RKVY) and Krishonnati Yojana (KY) — rationalised umbrella schemes",
+  "shortName": "PM-RKVY & KY",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "Department of Agriculture and Farmers Welfare, implemented through State Governments",
+  "policyArea": "Agriculture",
+  "subcategory": "Umbrella Centrally Sponsored Schemes (post-October 2024 rationalisation)",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Approved by Cabinet on 3 October 2024 for implementation during 2025-26 (co-terminus with 15th Finance Commission cycle ending 31 March 2026)",
+  "whyItMatters": "The October 2024 Cabinet decision rationalised all DA&FW Centrally Sponsored Schemes into two umbrellas with a combined outlay of Rs 1,01,321.61 crore: PM-RKVY (sustainable agriculture, cafeteria mode) and KY (food security and self-sufficiency). Crucially for a small state like Sikkim, states now approve one comprehensive Annual Action Plan and have explicit flexibility to reallocate funds between components to fit state-specific needs — Sikkim can tilt its envelope towards soil health, rainfed area development, organic farming (PKVY window) and agroforestry that suit mountain agriculture. Soil Health Management and the soil health card programme now sit inside PM-RKVY, covering Sikkim's soil fertility work.",
+  "eligibleApplicants": [
+   "State Government (Agriculture and Horticulture Departments)"
+  ],
+  "sikkimNodalDept": "Agriculture Department, Government of Sikkim (RKVY nodal); Horticulture Department for KY horticulture components",
+  "whatCanBeFunded": "PM-RKVY components confirmed in the Cabinet release include Soil Health Management, Rainfed Area Development, Agro Forestry, Paramparagat Krishi Vikas Yojana (organic), Agricultural Mechanization (incl. crop residue management), Per Drop More Crop, Crop Diversification, RKVY DPR (project) component and an accelerator fund for agri-startups; KY covers food and nutrition security schemes (National Food Security & Nutrition Mission, horticulture/MIDH, seeds and allied missions — exact KY component list requires confirmation).",
+  "fundingAvailable": "Rs 1,01,321.61 crore total proposed expenditure (PM-RKVY Rs 57,074.72 crore; KY Rs 44,246.89 crore) nationally for the approval period; Sikkim annual allocation: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance (RKVY has historically operated at 90:10 for NE/Himalayan states, but this was not re-verified in an official source this session)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Historical RKVY norms give NE and Himalayan states a 90:10 centre:state pattern; current umbrella-level confirmation not located this session.",
+  "stateContribution": "State share as per applicable sharing pattern (requires confirmation)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Prepare the state's comprehensive strategic document covering agriculture status, crop plans and value-chain priorities",
+   "Prepare a single consolidated Annual Action Plan (AAP) across PM-RKVY components instead of scheme-wise plans",
+   "Use the flexibility provision to reallocate funds between components towards Sikkim priorities (organic, soil health, rainfed, agroforestry) (mechanics require confirmation)",
+   "Get AAP approved by DA&FW; for the RKVY DPR component, submit project DPRs through the State Level Sanctioning Committee chaired by the Chief Secretary",
+   "Report physical/financial progress for release of subsequent instalments"
+  ],
+  "nextAction": "Sikkim Agriculture Department should confirm with DA&FW the FY2026-27 continuation and submit a consolidated AAP that reallocates PM-RKVY funds towards organic inputs, soil health and agroforestry components.",
+  "portal": "https://rkvy.da.gov.in",
+  "applicationWindow": "Annual Action Plan cycle (typically pre-kharif); FY2026-27 cycle status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "State comprehensive strategic document",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Consolidated Annual Action Plan",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "DPRs for RKVY project component with SLSC approval",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "DA&FW (umbrella AAP); State Level Sanctioning Committee chaired by Chief Secretary (RKVY projects)",
+  "contact": "RKVY Division, DA&FW, Krishi Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "Cabinet approves PM-RKVY and Krishonnati Yojana (rationalisation of CSS under DA&FW)",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2061650"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approves the PM Rashtriya Krishi Vikas Yojana and Krishonnati Yojana",
+    "publisher": "PIB",
+    "date": "2024-10-03",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2061650",
+    "section": "Cabinet decision, outlays, components, state flexibility"
+   },
+   {
+    "title": "Cabinet approves PM-RKVY and KY (mirror)",
+    "publisher": "PMO / pmindia.gov.in",
+    "date": "2024-10-03",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-the-pm-rashtriya-krishi-vikas-yojana-pm-rkvy-to-promote-sustainable-agriculture-and-krishonnati-yojana-ky-to-achieve-food-security-for-self-sufficiency/",
+    "section": "Cabinet decision"
+   },
+   {
+    "title": "Monthly Policy Review October 2024",
+    "publisher": "PRS Legislative Research",
+    "date": "2024-10",
+    "url": "https://prsindia.org/policy/monthly-policy-review/october-2024",
+    "section": "Agriculture"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim has been an RKVY-implementing state since 2007-08 (all states receive allocations); component-wise Sikkim utilisation figures for the rationalised umbrellas were not located this session."
+  },
+  "potentialUseCases": [
+   "Soil health and fertility programme for acidic mountain soils",
+   "Rainfed Area Development for terraced farms",
+   "RKVY DPR projects for organic input production units and custom hiring centres",
+   "Agroforestry with large cardamom shade-tree systems"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation (co-terminus with 15th FC cycle ended 31 March 2026)",
+   "Exact KY component list and current sharing ratio need confirmation",
+   "Sikkim-specific allocation not located"
+  ],
+  "scores": {
+   "financial": 5,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 4,
+   "transformational": 4,
+   "rationale": "The core formula-plus-plan channel for state agriculture funding with new reallocation flexibility; administratively familiar to the state; FY27 continuation is the key open question."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Cabinet decision, outlays and flexibility confirmed via PIB/PMO; FY2026-27 status and Sikkim envelope unverified."
+ },
+ {
+  "id": "midh-horticulture",
+  "name": "Mission for Integrated Development of Horticulture",
+  "shortName": "MIDH",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "DA&FW Horticulture Division; State Horticulture Mission (in NE/Himalayan states historically via HMNEH sub-scheme); National Horticulture Board for some components",
+  "policyArea": "Horticulture",
+  "subcategory": "Area expansion, protected cultivation, post-harvest and marketing infrastructure",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Ongoing since 2014-15; revised MIDH Operational Guidelines issued 2025 (document dated December 2024/2025 on NHB site); now under the Krishonnati Yojana umbrella; continuation beyond FY2025-26 requires confirmation",
+  "whyItMatters": "Horticulture is Sikkim's comparative advantage — large cardamom (India's largest producer), Sikkim mandarin, kiwi, off-season vegetables, cymbidium orchids and temperate fruits. MIDH (through the Horticulture Mission for North East and Himalayan States stream, which covers all NE states including Sikkim) funds orchard establishment and rejuvenation, protected cultivation, nurseries, and post-harvest infrastructure at a confirmed 90:10 centre:state ratio for NE/Himalayan states. The Union Agriculture Minister inaugurated the Sikkim Horticulture College building in September 2025, underscoring active central engagement in the state's horticulture sector.",
+  "eligibleApplicants": [
+   "State Government / State Horticulture Mission (Sikkim Horticulture Department)",
+   "Farmers, growers' societies, FPOs and entrepreneurs as beneficiaries under state annual action plans"
+  ],
+  "sikkimNodalDept": "Horticulture Department, Government of Sikkim (State Horticulture Mission)",
+  "whatCanBeFunded": "Planting material and nurseries, area expansion of fruits/vegetables/spices/flowers, rejuvenation of senile plantations (relevant to Sikkim mandarin and large cardamom), protected cultivation (greenhouses for orchids/vegetables), organic-compatible INM/IPM, beekeeping for pollination, mechanisation for small terraces, post-harvest infrastructure (pack-houses, ripening chambers, cold rooms) and market infrastructure, per MIDH cost norms.",
+  "fundingAvailable": "Component-wise subsidy per MIDH cost norms in the 2025 Operational Guidelines; Sikkim annual envelope: Not confirmed from available official guidance.",
+  "fundingRatio": "90:10 centre:state for North Eastern and Himalayan states (confirmed in MIDH guidelines/official summaries)",
+  "nePreference": "true",
+  "nePreferenceDetail": "HMNEH stream covers all NE states including Sikkim; 90:10 sharing versus 60:40 for general states; some NE cost-norm relaxations apply per guidelines.",
+  "stateContribution": "10% of programme cost",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Sikkim Horticulture Department prepares the MIDH/State Horticulture Mission Annual Action Plan with district-wise targets",
+   "Submit AAP to DA&FW Horticulture Division for approval (via Krishonnati Yojana consolidated plan post-rationalisation) (requires confirmation of current routing)",
+   "On approval and fund release, empanel beneficiaries/clusters through the department and disburse subsidies per cost norms",
+   "Report progress on Hortnet/MIDH MIS for subsequent releases (requires confirmation of current portal)"
+  ],
+  "nextAction": "Sikkim Horticulture Department should confirm the FY2026-27 MIDH window under Krishonnati Yojana and prioritise Sikkim mandarin rejuvenation and large cardamom nursery/post-harvest components in the AAP.",
+  "portal": "https://midh.gov.in",
+  "applicationWindow": "Annual Action Plan cycle; FY2026-27 cycle status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "State Annual Action Plan with component-wise physical/financial targets",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Beneficiary lists and cluster identification",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "DA&FW (Horticulture Division); State Level Executive Committee for state-level approvals",
+  "contact": "Horticulture Commissioner, DA&FW, Krishi Bhawan, New Delhi; Sikkim State Horticulture Mission, Gangtok",
+  "guidelines": [
+   {
+    "title": "MIDH Operational Guidelines 2025",
+    "url": "https://nhb.gov.in/writereaddata/082825102800MIDH%20Guideline%202025.pdf"
+   },
+   {
+    "title": "Horticulture Mission for North East and Himalayan States",
+    "url": "https://tmnehs.gov.in/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "MIDH Operational Guidelines 2025 (PDF)",
+    "publisher": "National Horticulture Board / DA&FW",
+    "date": "2024-12",
+    "url": "https://nhb.gov.in/writereaddata/082825102800MIDH%20Guideline%202025.pdf",
+    "section": "Cost norms and funding pattern"
+   },
+   {
+    "title": "HMNEH — Horticulture Mission for North East and Himalayan States",
+    "url": "https://tmnehs.gov.in/",
+    "publisher": "DA&FW",
+    "date": "n.d.",
+    "section": "NE coverage incl. Sikkim; 90:10 pattern"
+   },
+   {
+    "title": "Agriculture Minister inaugurates Sikkim Horticulture College building",
+    "publisher": "News on AIR",
+    "date": "2025-09-25",
+    "url": "https://www.newsonair.gov.in/agriculture-minister-shivraj-singh-chouhan-inaugurates-sikkim-horticulture-college-building",
+    "section": "Sikkim engagement"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim has implemented HMNEH/MIDH since the Technology Mission era (floriculture, mandarin, off-season vegetables); current-year figures not located this session. Central horticulture engagement in Sikkim remains active (Horticulture College building inaugurated September 2025)."
+  },
+  "potentialUseCases": [
+   "Sikkim mandarin orchard rejuvenation programme",
+   "Cymbidium orchid protected-cultivation clusters",
+   "Pack-houses and cold rooms for organic vegetables",
+   "Large cardamom nurseries with certified planting material"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation",
+   "Post-rationalisation routing under Krishonnati Yojana AAP needs confirmation"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 4,
+   "fit": 5,
+   "timeSensitivity": 3,
+   "transformational": 4,
+   "rationale": "Long-running, well-understood channel with confirmed 90:10 NE ratio and perfect fit to Sikkim's horticulture economy."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "90:10 NE ratio and 2025 guidelines located; Sikkim current-year allocation and FY27 continuation unverified."
+ },
+ {
+  "id": "movcdner-organic-value-chain",
+  "name": "Mission Organic Value Chain Development for North Eastern Region",
+  "shortName": "MOVCDNER",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "DA&FW (INM Division / MOVCDNER Mission Directorate); implemented via State Lead Agencies",
+  "policyArea": "Organic farming",
+  "subcategory": "Organic value chain development — NE-exclusive",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Phase I from 2015-16; Phase IV commenced 2023-24, running through 2025-26; continuation into FY2026-27 requires confirmation",
+  "whyItMatters": "MOVCDNER is the flagship central scheme for Sikkim's organic economy: it is exclusive to the eight NE states and funds the full chain from certified organic production clusters and FPO/FPC formation to collection, processing and marketing infrastructure. Sikkim has historically had the highest farmer participation in the scheme (12,820 farmers per the MANAGE impact study), and it directly underwrites the state's 'first fully organic state' positioning with certification and market linkage for large cardamom, ginger, turmeric, buckwheat and Sikkim mandarin. Phase IV emphasises scale-up including large cardamom and wild harvesting — squarely Sikkim's portfolio.",
+  "eligibleApplicants": [
+   "State Government through designated State Lead Agency",
+   "FPOs/FPCs and farmer clusters as beneficiaries"
+  ],
+  "sikkimNodalDept": "Agriculture Department, Government of Sikkim (with Horticulture Department; State Lead Agency as designated for MOVCDNER)",
+  "whatCanBeFunded": "Organic cluster development and third-party/participatory certification, FPO/FPC formation and handholding, organic input support, custom hiring, collection/aggregation and grading units, integrated processing units, transport/refrigerated vans, branding, packaging and market promotion. Current Phase IV per-hectare assistance rates: Not confirmed from available official guidance.",
+  "fundingAvailable": "Phase-wise national outlay; Phase IV Sikkim allocation: Not confirmed from available official guidance.",
+  "fundingRatio": "Central Sector Scheme — predominantly central funding routed through state lead agencies (component-wise pattern per operational guidelines)",
+  "nePreference": true,
+  "nePreferenceDetail": "Scheme is exclusive to the North Eastern Region including Sikkim (confirmed — this is the scheme's defining design).",
+  "stateContribution": "Minimal/nil for central-sector components (requires confirmation component-wise)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "State Lead Agency prepares the Annual Action Plan with new/continuing cluster and FPO targets",
+   "Submit AAP to the MOVCDNER Mission Directorate at DA&FW for approval",
+   "Approve clusters upfront through the state lead agency; support runs in three-year assistance cycles per cluster (per impact-study description of scheme mechanics)",
+   "Form/strengthen FPCs, obtain organic certification, and set up value-chain infrastructure through sanctioned projects",
+   "Submit annual progress reports to the central Mission Directorate for continued releases"
+  ],
+  "nextAction": "Sikkim Agriculture Department should press DA&FW for confirmation of the post-Phase-IV (FY2026-27 onward) continuation and pre-position a pipeline of large-cardamom and mandarin cluster proposals with processing units.",
+  "portal": "https://movcd.dac.gov.in",
+  "applicationWindow": "Annual Action Plan cycle; post-2025-26 phase status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "State Annual Action Plan (cluster and FPO targets)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Cluster approval documents by State Lead Agency",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "DPRs for processing/collection infrastructure",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MOVCDNER Mission Directorate, DA&FW; state-level executive committee",
+  "contact": "INM Division / MOVCDNER Cell, DA&FW, Krishi Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "Operational Guidelines for MOVCD-NER (as hosted by Assam SFAC, official state domain)",
+    "url": "https://asfac.assam.gov.in/documents-detail/operational-guidelines-for-mission-organic-value-chain-development-for-north-east"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Impact Study of Mission Organic Value Chain Development for NER",
+    "publisher": "MANAGE (National Institute of Agricultural Extension Management)",
+    "date": "n.d. (covers phases to Phase IV)",
+    "url": "https://www.manage.gov.in/publications/reports/MOVCDNER.pdf",
+    "section": "Sikkim participation (12,820 farmers, highest among NE states); phase structure"
+   },
+   {
+    "title": "MOVCD-NER scheme page",
+    "publisher": "Assam SFAC (Government of Assam)",
+    "date": "n.d.",
+    "url": "https://asfac.assam.gov.in/portlets/mission-organic-value-chain-development-for-north-east-region",
+    "section": "Scheme design"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim has the highest farmer participation among NE states (12,820 farmers per MANAGE impact study), with organic clusters and FPOs/FPCs formed under successive phases supporting the state's fully-organic status since 2016."
+  },
+  "potentialUseCases": [
+   "Large cardamom organic value chain with curing and grading units",
+   "Sikkim mandarin and ginger FPC processing and branding",
+   "Wild harvest/forest-produce organic certification (Phase IV emphasis)",
+   "Refrigerated transport for organic vegetables to Siliguri/Kolkata markets"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation — Phase IV runs to 2025-26; a Phase V/restructured NE organic mission announcement should be tracked",
+   "Current per-hectare and infrastructure cost norms not verified"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 5,
+   "fit": 5,
+   "timeSensitivity": 4,
+   "transformational": 5,
+   "rationale": "The single best-fitting central scheme for Sikkim's organic identity, with deep existing participation; the FY27 phase transition is the key watch item."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Scheme design and Sikkim's leading participation well evidenced; Phase IV end-date (2025-26) per secondary summary of official material; FY27 status unverified."
+ },
+ {
+  "id": "pkvy-paramparagat-krishi-vikas-yojana",
+  "name": "Paramparagat Krishi Vikas Yojana",
+  "shortName": "PKVY",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "DA&FW (INM Division); now a component of the PM-RKVY umbrella",
+  "policyArea": "Organic farming",
+  "subcategory": "Cluster-based organic farming promotion with PGS certification",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Since 2015-16; from October 2024 a component of PM-RKVY (approved through 2025-26); continuation beyond FY2025-26 requires confirmation",
+  "whyItMatters": "PKVY is the national organic-farming promotion window (cluster-based, PGS-India certification, DBT support to farmers). For Sikkim it is secondary to MOVCDNER — the NE states are primarily served by MOVCDNER — but PKVY's inclusion as a PM-RKVY component gives Sikkim a route to top up organic support through its consolidated Annual Action Plan, including for PGS certification, organic input support and marketing where MOVCDNER clusters do not reach. It also matters strategically: PKVY's Large Area Certification instrument has been used to certify whole defined areas, an approach Sikkim pioneered at state scale.",
+  "eligibleApplicants": [
+   "State Government via PM-RKVY Annual Action Plan",
+   "Farmer clusters/groups as beneficiaries"
+  ],
+  "sikkimNodalDept": "Agriculture Department, Government of Sikkim",
+  "whatCanBeFunded": "Cluster formation and capacity building, PGS-India certification, organic input support (part as DBT to farmers), value addition and marketing support per current guidelines. Current per-hectare assistance rates: Not confirmed from available official guidance.",
+  "fundingAvailable": "Within the state's PM-RKVY envelope (reallocation flexibility applies); Sikkim-specific figures: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance (historically 90:10 for NE states; not re-verified this session)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "NE states have historically received a 90:10 pattern under PKVY guidelines, and NE organic promotion is primarily routed via MOVCDNER; current umbrella-level confirmation not located.",
+  "stateContribution": "State share per applicable pattern (requires confirmation)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Include PKVY component targets (clusters, hectares, PGS groups) in the state's consolidated PM-RKVY Annual Action Plan",
+   "Obtain DA&FW approval and constitute clusters through the department's regional agriculture officers",
+   "Register clusters on PGS-India portal for participatory certification",
+   "Disburse DBT input support to enrolled farmers and implement value-addition/marketing components"
+  ],
+  "nextAction": "Sikkim Agriculture Department should decide, within its PM-RKVY AAP, whether to draw PKVY funds to complement MOVCDNER coverage gaps (e.g., PGS certification for remote wards) once FY2026-27 continuation is confirmed.",
+  "portal": "https://pgsindia-ncof.gov.in",
+  "applicationWindow": "Annual Action Plan cycle; FY2026-27 status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "PM-RKVY AAP with PKVY component",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "PGS-India cluster registration",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "DA&FW; State Level Sanctioning/Executive Committee",
+  "contact": "INM Division, DA&FW, Krishi Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "Cabinet release confirming PKVY as PM-RKVY component",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2061650"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approves PM-RKVY and KY (PKVY listed within PM-RKVY)",
+    "publisher": "PIB",
+    "date": "2024-10-03",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2061650",
+    "section": "PM-RKVY components"
+   },
+   {
+    "title": "PGS-India portal",
+    "publisher": "National Centre for Organic and Natural Farming, DA&FW",
+    "date": "n.d.",
+    "url": "https://pgsindia-ncof.gov.in",
+    "section": "Certification system"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "Sikkim's organic programme has been driven mainly by its own Sikkim Organic Mission and MOVCDNER; current PKVY drawdown by Sikkim was not located in sources reachable this session."
+  },
+  "potentialUseCases": [
+   "PGS certification for smallholder wards outside MOVCDNER clusters",
+   "DBT organic input support top-up",
+   "Organic marketing/branding events"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation",
+   "Overlap management with MOVCDNER needed — same farmers should not draw duplicate organic input support"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 2,
+   "transformational": 2,
+   "rationale": "Useful top-up but secondary to MOVCDNER for an NE state; modest incremental money for Sikkim."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Component status under PM-RKVY confirmed; rates, ratio and Sikkim usage unverified."
+ },
+ {
+  "id": "national-mission-natural-farming",
+  "name": "National Mission on Natural Farming",
+  "shortName": "NMNF",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "DA&FW (INM Division / National Centre for Organic and Natural Farming)",
+  "policyArea": "Organic/natural farming",
+  "subcategory": "Chemical-free natural farming promotion",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Approved by Cabinet 25 November 2024 as a standalone CSS with outlay till the 15th Finance Commission period (2025-26); continuation beyond FY2025-26 requires confirmation",
+  "whyItMatters": "NMNF carries Rs 2,481 crore (GoI Rs 1,584 crore; states Rs 897 crore) to take natural farming to 15,000 Gram Panchayat clusters, 1 crore farmers and 7.5 lakh hectares, with 10,000 Bio-input Resource Centres (BRCs) and about 2,000 model demonstration farms at KVKs/agricultural universities and farmers' fields. Sikkim, already 100% organic, is a natural early-adopter: BRCs solve the state's chronic organic/bio-input availability problem, and NMNF clusters can deepen the input-self-reliance layer beneath the state's certification achievements. The scheme's own certification/branding line for natural farming produce could add a premium tier to Sikkim's organic brand.",
+  "eligibleApplicants": [
+   "State Government (implementation through Gram Panchayat clusters)",
+   "KVKs and agricultural universities for model demonstration farms"
+  ],
+  "sikkimNodalDept": "Agriculture Department, Government of Sikkim",
+  "whatCanBeFunded": "Cluster development in Gram Panchayats, farmer training by Krishi Sakhis/champion farmers, Bio-input Resource Centres, model demonstration farms, certification and branding for natural farming produce (component details per guidelines).",
+  "fundingAvailable": "Rs 2,481 crore national outlay till 2025-26 (GoI share Rs 1,584 crore); Sikkim share: Not confirmed from available official guidance.",
+  "fundingRatio": "Overall GoI:states roughly 64:36 at national outlay level (Rs 1,584 crore : Rs 897 crore); state-wise NE pattern: Not confirmed from available official guidance",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "NE-specific sharing pattern not located in sources reachable this session.",
+  "stateContribution": "State share within the Rs 897 crore national states' share (Sikkim figure unverified)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Sikkim Agriculture Department submits an NMNF annual plan identifying Gram Panchayat clusters and BRC locations",
+   "DA&FW approves plan and releases central share",
+   "Set up BRCs (need-based) and enrol/train farmers through Krishi Sakhis and champion farmers",
+   "Establish model demonstration farms with the state agricultural university/KVKs",
+   "Report on the NMNF portal for monitoring (requires confirmation of portal mechanics)"
+  ],
+  "nextAction": "Sikkim Agriculture Department should seek an NMNF allocation for FY2026-27 (subject to continuation) focused on Bio-input Resource Centres to fix organic input supply in all six districts.",
+  "portal": "https://naturalfarming.dac.gov.in",
+  "applicationWindow": "Annual plan cycle; FY2026-27 status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "State NMNF annual plan (clusters, BRCs)",
+    "certainty": "likely"
+   },
+   {
+    "doc": "Cluster/farmer enrolment records",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "DA&FW / NMNF national executive structure",
+  "contact": "INM Division, DA&FW, Krishi Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "National Mission on Natural Farming — PIB backgrounder",
+    "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155019&reg=3&lang=2"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approves National Mission on Natural Farming",
+    "publisher": "PIB / Business Standard report of Cabinet decision",
+    "date": "2024-11-25",
+    "url": "https://www.business-standard.com/industry/agriculture/cabinet-approves-rs-2-481-crore-national-mission-on-natural-farming-124112501258_1.html",
+    "section": "Outlay and targets"
+   },
+   {
+    "title": "National Mission on Natural Farming",
+    "publisher": "PIB",
+    "date": "2024-11",
+    "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155019&reg=3&lang=2",
+    "section": "Scheme design (BRCs, model farms)"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "No Sikkim-specific NMNF allocation or cluster data located this session; Sikkim's fully-organic status makes it a strong candidate but drawdown is unconfirmed."
+  },
+  "potentialUseCases": [
+   "District BRC network for jeevamrit/beejamrit and organic input production",
+   "Model natural farming demonstration farms at ICAR-NOFRI Tadong and KVKs",
+   "Krishi Sakhi training cadre for remote wards"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation",
+   "Interface with Sikkim's existing organic certification (natural farming certification is a distinct system) needs policy decision"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 4,
+   "fit": 5,
+   "timeSensitivity": 3,
+   "transformational": 3,
+   "rationale": "Small national outlay but near-perfect thematic fit; BRCs address Sikkim's biggest organic-input bottleneck."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Cabinet decision, outlay and targets confirmed from multiple sources; Sikkim-level details unverified."
+ },
+ {
+  "id": "agriculture-infrastructure-fund",
+  "name": "Agriculture Infrastructure Fund",
+  "shortName": "AIF",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "DA&FW with NABARD and scheduled/cooperative banks (lending institutions)",
+  "policyArea": "Agriculture infrastructure",
+  "subcategory": "Post-harvest management and community farming asset financing",
+  "type": "Infrastructure financing",
+  "grantOrLoan": "Loan",
+  "status": "Under continuation/revision",
+  "period": "2020-21 to 2032-33 (13 years); fresh loan disbursement window ran through FY2025-26; interest subvention and credit guarantee support run to 2032-33",
+  "whyItMatters": "AIF is a Rs 1 lakh crore financing facility, not a grant: eligible borrowers get 3% interest subvention on loans up to Rs 2 crore (up to 7 years) plus credit guarantee fee reimbursement. For Sikkim, the users are FPOs/FPCs (including MOVCDNER-promoted ones), PACS and marketing cooperatives, SHGs, agri-entrepreneurs and startups, and state agencies — for cold rooms, cardamom curing and grading units, pack-houses, custom hiring centres and community farming assets. The 2024 Cabinet expansion added 'viable community farming assets', integrated primary-plus-secondary processing projects, and PM-KUSUM Component-A convergence, all workable at Sikkim's small scale. Because the disbursement window was scheduled to close with FY2025-26, confirming any extension is urgent.",
+  "eligibleApplicants": [
+   "Farmers and agri-entrepreneurs",
+   "FPOs/FPCs",
+   "Primary Agricultural Credit Societies and marketing cooperative societies",
+   "SHGs and Joint Liability Groups",
+   "Startups",
+   "State agencies/APMCs and state-sponsored PPP projects",
+   "National and state federations of cooperatives"
+  ],
+  "sikkimNodalDept": "Agriculture Department, Government of Sikkim (State Nodal for AIF); with lead bank/NABARD Sikkim RO",
+  "whatCanBeFunded": "Post-harvest management infrastructure (warehouses, pack-houses, sorting-grading, cold chain, ripening chambers, primary processing), community farming assets, integrated primary-secondary processing projects, and solarisation convergence with PM-KUSUM-A — financed through bank loans with interest subvention.",
+  "fundingAvailable": "Rs 1 lakh crore national facility; per-project interest subvention on loan up to Rs 2 crore (multiple projects in different LGD locations possible per guidelines — requires confirmation)",
+  "fundingRatio": "Not applicable (credit facility); 3% p.a. interest subvention on loans up to Rs 2 crore for up to 7 years; credit guarantee fee reimbursed (CGTMSE/FPO guarantee)",
+  "nePreference": "false",
+  "nePreferenceDetail": "No NE-specific concession located; uniform national terms.",
+  "stateContribution": "None mandated (borrower margin per bank norms)",
+  "allocationMethod": "demand-driven",
+  "accessPathway": [
+   "Borrower (FPO/cooperative/entrepreneur/state agency) prepares project and DPR",
+   "Register and apply on the AIF portal (agriinfra.dac.gov.in) selecting the lending bank",
+   "Bank appraises and sanctions the loan; project approved by PMU/DA&FW on portal",
+   "Interest subvention and credit guarantee fee reimbursement flow via the portal-linked settlement system",
+   "Confirm whether fresh sanctions are still permitted after FY2025-26 window closure (requires confirmation)"
+  ],
+  "nextAction": "Sikkim Agriculture Department's AIF nodal cell should immediately confirm with DA&FW/NABARD whether fresh AIF sanctions are possible in FY2026-27 and, if yes, pipeline cardamom curing/grading and cold-room projects of MOVCDNER FPOs.",
+  "portal": "https://agriinfra.dac.gov.in",
+  "applicationWindow": "Rolling while disbursement window open; post-31 March 2026 status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "Detailed Project Report and bank loan application",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "AIF portal registration",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "Lending institution (loan) plus DA&FW PMU (scheme eligibility)",
+  "contact": "AIF PMU, DA&FW; NABARD Sikkim Regional Office, Gangtok",
+  "guidelines": [
+   {
+    "title": "Agriculture Infrastructure Fund scheme document/backgrounder",
+    "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/aug/doc2024828382201.pdf"
+   },
+   {
+    "title": "Cabinet approves progressive expansion of AIF",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-accords-approval-for-progressive-expansion-of-central-sector-scheme-of-agriculture-infrastructure-fund/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "AIF scheme backgrounder (period 2020-21 to 2032-33; disbursement to FY2025-26; 3% subvention)",
+    "publisher": "PIB",
+    "date": "2024-08",
+    "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/aug/doc2024828382201.pdf",
+    "section": "Scheme terms"
+   },
+   {
+    "title": "Cabinet approves progressive expansion of AIF (community farming assets, integrated processing, PM-KUSUM-A convergence)",
+    "publisher": "PMO",
+    "date": "2024-08",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-accords-approval-for-progressive-expansion-of-central-sector-scheme-of-agriculture-infrastructure-fund/",
+    "section": "Expansion"
+   },
+   {
+    "title": "AIF interest subvention settlement portal launch",
+    "publisher": "PIB",
+    "date": "2024-07",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2029322",
+    "section": "Process"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "Sikkim-specific AIF sanction figures not located this session; uptake in NE states has generally been low, suggesting headroom if the window is extended."
+  },
+  "potentialUseCases": [
+   "Large cardamom curing, grading and storage units by FPOs (loan + 3% subvention)",
+   "Cold rooms/pack-houses for organic vegetables by PACS or SHG federations",
+   "Community custom-hiring centres for small-terrace mechanisation"
+  ],
+  "flags": [
+   "Fresh disbursement window was co-terminus with FY2025-26 — whether new sanctions are possible in FY2026-27 needs confirmation",
+   "This is a loan-based instrument: state must mobilise credit-worthy borrowers, not treat it as a grant"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 2,
+   "fit": 3,
+   "timeSensitivity": 5,
+   "transformational": 3,
+   "rationale": "Meaningful subsidised credit for post-harvest gaps, but demand-driven and credit-dependent; window status makes timing critical."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Scheme terms and expansion confirmed from official documents; post-FY26 window and Sikkim uptake unverified."
+ },
+ {
+  "id": "fpo-10000-formation-scheme",
+  "name": "Formation and Promotion of 10,000 Farmer Producer Organizations",
+  "shortName": "10K FPO Scheme",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "Implementing agencies: SFAC, NABARD, NCDC, NAFED and others, through Cluster-Based Business Organisations (CBBOs)",
+  "policyArea": "Farmer collectivisation",
+  "subcategory": "FPO formation, handholding, equity and credit guarantee support",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Mixed",
+  "status": "Active",
+  "period": "2020-21 onwards; formation target of 10,000 FPOs reported achieved by early 2024; handholding support to each FPO continues for five years from formation (programme support horizon to 2027-28 per guidelines — requires confirmation)",
+  "whyItMatters": "Sikkim's tiny landholdings and strong SHG/cooperative culture make FPOs the only realistic aggregation vehicle for organic produce, and this scheme pays for their formation, professional management, equity and credit access. FPOs formed under it (and MOVCDNER FPCs) are the eligible borrowers for AIF, PMFME and AHIDF, so strengthening them multiplies access to other windows in this cluster. With the national formation target achieved, the operative question for Sikkim is maximising the remaining handholding, equity grant and credit guarantee entitlements for its registered FPOs.",
+  "eligibleApplicants": [
+   "FPOs formed under the scheme via CBBOs (farmers as members)",
+   "Implementing agencies allocate FPO/cluster targets to states"
+  ],
+  "sikkimNodalDept": "Agriculture Department, Government of Sikkim (with NABARD Sikkim RO as principal implementing agency locally — 'likely')",
+  "whatCanBeFunded": "FPO formation and 5-year professional handholding via CBBOs, management cost support to FPOs, matching equity grant to member farmers' share capital, and credit guarantee cover to lending institutions for FPO loans. Exact current ceilings (management cost, equity grant per member/FPO, guarantee limits): Not confirmed from available official guidance.",
+  "fundingAvailable": "Rs 6,865 crore national budgetary provision (per scheme launch documents — requires confirmation of current figure)",
+  "fundingRatio": "100% central (Central Sector Scheme)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Scheme allowed smaller minimum membership for FPOs in NE and hilly areas (100 members vs 300 in plains) per guidelines — requires confirmation of exact current thresholds.",
+  "stateContribution": "Nil",
+  "allocationMethod": "other (cluster allocation to implementing agencies; FPO-level support flows per milestones)",
+  "accessPathway": [
+   "State recommends produce clusters to implementing agencies (NABARD/SFAC/NCDC) for any residual/new allocations",
+   "CBBO registers and incubates the FPO; FPO receives management cost support over 3 years",
+   "FPO members subscribe share capital; FPO applies for matching equity grant through implementing agency",
+   "FPO borrows working capital/term loans with credit guarantee cover",
+   "Converge FPO business plans with MOVCDNER, AIF and PMFME projects"
+  ],
+  "nextAction": "Sikkim Agriculture Department should get NABARD Sikkim RO to audit all Sikkim FPOs' pending equity-grant and credit-guarantee entitlements and push claims before programme support winds down.",
+  "portal": "https://www.sfacindia.com",
+  "applicationWindow": "Formation phase closed (target achieved); support entitlements continue per FPO milestone schedule",
+  "keyDocuments": [
+   {
+    "doc": "FPO registration and business plan via CBBO",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Equity grant application with member share-capital proof",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "Implementing agency (NABARD/SFAC/NCDC) and National Project Management Agency",
+  "contact": "NABARD Sikkim Regional Office, Gangtok; SFAC, New Delhi",
+  "guidelines": [
+   {
+    "title": "Formation and Promotion of 10,000 FPOs — scheme guidelines (DA&FW/SFAC)",
+    "url": "https://www.sfacindia.com"
+   }
+  ],
+  "sources": [
+   {
+    "title": "SFAC — Formation and Promotion of 10,000 FPOs",
+    "publisher": "Small Farmers' Agribusiness Consortium",
+    "date": "n.d.",
+    "url": "https://www.sfacindia.com",
+    "section": "Scheme components"
+   },
+   {
+    "title": "DA&FW schemes listing",
+    "publisher": "Ministry of Agriculture and Farmers Welfare",
+    "date": "n.d.",
+    "url": "https://agriwelfare.gov.in/en/Major",
+    "section": "FPO scheme"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "FPOs have been registered in Sikkim districts under the scheme via NABARD/other implementing agencies, alongside MOVCDNER-promoted FPCs; exact counts and support drawn were not re-verified from official listings this session."
+  },
+  "potentialUseCases": [
+   "Equity grant claims for cardamom and mandarin FPOs",
+   "Credit-guaranteed working capital for organic aggregation seasons",
+   "Converged FPO-owned processing under PMFME/AIF"
+  ],
+  "flags": [
+   "New FPO formation under the original 10,000 target is complete — check whether a successor/expanded FPO programme is announced for the 16th FC cycle",
+   "Support ceilings and current entitlement windows need confirmation"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 3,
+   "fit": 5,
+   "timeSensitivity": 3,
+   "transformational": 4,
+   "rationale": "Modest direct money but the institutional backbone for every other market-facing scheme in this cluster."
+  },
+  "openWindow": "closed",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Scheme design well established; official pages not loadable from this environment, so ceilings and Sikkim counts left unquantified."
+ },
+ {
+  "id": "pmfme-micro-food-processing",
+  "name": "PM Formalisation of Micro Food Processing Enterprises Scheme",
+  "shortName": "PMFME",
+  "ministry": "Ministry of Food Processing Industries",
+  "agency": "MoFPI with State Nodal Agencies; NAFED/TRIFED for branding; NIFTEM/IIFPT for capacity building",
+  "policyArea": "Food processing",
+  "subcategory": "Micro enterprise formalisation and credit-linked subsidy (One District One Product framework)",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Mixed",
+  "status": "Under continuation/revision",
+  "period": "Launched 2020-21 for five years; extension reported through FY2025-26; continuation beyond FY2025-26 requires confirmation",
+  "whyItMatters": "PMFME is the main route to formalise and upgrade Sikkim's household-scale food processors — cardamom curing and grading, ginger/turmeric drying, Dalle chilli pickles and pastes, buckwheat and millet products, dairy sweets — through credit-linked capital subsidy to individual micro units, plus seed capital to SHG members and support for common infrastructure and branding under the One District One Product framework. Sikkim's strong SHG base (including under NRLM) maps directly onto the SHG seed-capital window. NE states get a preferential centre:state sharing pattern under scheme guidelines.",
+  "eligibleApplicants": [
+   "Individual micro food processing units (proprietor/partnership)",
+   "SHGs and their members (seed capital)",
+   "FPOs and producer cooperatives",
+   "State agencies for common infrastructure/incubation centres"
+  ],
+  "sikkimNodalDept": "State Nodal Agency as designated by Government of Sikkim — likely Commerce and Industries Department or Agriculture Department (designation requires confirmation)",
+  "whatCanBeFunded": "Credit-linked capital subsidy for upgradation of individual micro units (35% of eligible project cost, ceiling Rs 10 lakh, per scheme design — requires confirmation of current norms), seed capital for SHG members engaged in food processing, support to FPOs/cooperatives, common infrastructure/incubation centres, and ODOP branding and marketing.",
+  "fundingAvailable": "Rs 10,000 crore national outlay (original 2020-25 design); Sikkim allocation: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance (scheme guidelines provide 90:10 centre:state for NE states — official text not re-verified this session)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "PMFME guidelines set a 90:10 sharing pattern for NE and Himalayan states; MoFPI also maintains a Sikkim state profile. Official confirmation page not loadable this session.",
+  "stateContribution": "State share per sharing pattern (10% if 90:10 confirmed)",
+  "allocationMethod": "demand-driven",
+  "accessPathway": [
+   "Applicants apply on the PMFME MIS portal with help of District Resource Persons",
+   "District/State Nodal Agency scrutinises and recommends to the lending bank",
+   "Bank sanctions loan; subsidy credited as back-ended grant linked to the loan",
+   "SHG seed capital routed through the State Rural Livelihood Mission",
+   "State proposes common infrastructure/incubation centre projects to MoFPI for approval"
+  ],
+  "nextAction": "Sikkim's PMFME State Nodal Agency should confirm the scheme's FY2026-27 window with MoFPI and run a saturation drive for cardamom/ginger/Dalle chilli micro-processors and SHG seed capital before the extended window closes.",
+  "portal": "https://pmfme.mofpi.gov.in",
+  "applicationWindow": "Rolling on portal while scheme window open; post-FY2025-26 status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "Online application with project report on PMFME MIS",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Bank loan sanction (subsidy is credit-linked)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "SHG member seed-capital proposals via SRLM",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "State Level Approval Committee; MoFPI for common infrastructure",
+  "contact": "PMFME Cell, MoFPI, New Delhi; Sikkim State Nodal Agency",
+  "guidelines": [
+   {
+    "title": "PMFME scheme guidelines",
+    "url": "https://pmfme.mofpi.gov.in"
+   },
+   {
+    "title": "MoFPI State Profile: Sikkim",
+    "url": "https://www.mofpi.gov.in/sites/default/files/KnowledgeCentre/State%20Profile/Sikkim.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "PMFME portal",
+    "publisher": "MoFPI",
+    "date": "n.d.",
+    "url": "https://pmfme.mofpi.gov.in",
+    "section": "Scheme components"
+   },
+   {
+    "title": "State Profile Sikkim (food processing)",
+    "publisher": "MoFPI",
+    "date": "n.d.",
+    "url": "https://www.mofpi.gov.in/sites/default/files/KnowledgeCentre/State%20Profile/Sikkim.pdf",
+    "section": "Sikkim context"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim has a designated PMFME state nodal agency and ODOP products notified for its districts (MoFPI maintains a Sikkim profile); beneficiary counts and disbursement figures not located this session. ODOP product list for Sikkim districts: Not confirmed from available official guidance."
+  },
+  "potentialUseCases": [
+   "Upgradation of large cardamom curing/grading micro units",
+   "Dalle chilli (GI) pickle/paste units by SHG members with seed capital",
+   "ODOP branding for Sikkim mandarin squash and ginger products",
+   "Common incubation centre for organic processed foods"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation",
+   "Sikkim ODOP product notifications need verification before drafting proposals"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 3,
+   "fit": 5,
+   "timeSensitivity": 4,
+   "transformational": 4,
+   "rationale": "Directly monetises Sikkim's GI and organic products at household scale; credit-linkage is the main friction; window status urgent."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Scheme design confirmed; extension to FY2025-26 and NE ratio from guideline knowledge, not re-verified (MoFPI site not loadable from this environment)."
+ },
+ {
+  "id": "pm-kisan-sampada-yojana",
+  "name": "Pradhan Mantri Kisan Sampada Yojana",
+  "shortName": "PMKSY (MoFPI)",
+  "ministry": "Ministry of Food Processing Industries",
+  "agency": "MoFPI (project-mode approvals against Expressions of Interest)",
+  "policyArea": "Food processing",
+  "subcategory": "Umbrella: cold chain, agro-processing clusters, processing/preservation capacity, Operation Greens, food safety infrastructure",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Restructured/extended till 31 March 2026 (co-terminus with 15th FC cycle); continuation beyond FY2025-26 requires confirmation",
+  "whyItMatters": "PMKSY is the project-grant window for mid-scale food processing infrastructure that Sikkim lacks: integrated cold chain (farm-gate to market, well suited to organic vegetables, flowers and mandarin), creation/expansion of processing and preservation capacities, agro-processing clusters, and Operation Greens (long-term interventions now covering many fruits and vegetables, with transport/storage subsidy elements). Grants are competitive against MoFPI Expressions of Interest, and guidelines provide a higher grant intensity for NE and difficult areas than for general areas. A single sanctioned cold-chain project could transform Sikkim's organic produce evacuation to Siliguri and beyond.",
+  "eligibleApplicants": [
+   "Private companies and partnerships",
+   "FPOs and cooperatives",
+   "SHG federations",
+   "State PSUs/agencies (component-dependent)"
+  ],
+  "sikkimNodalDept": "Commerce and Industries Department, Government of Sikkim (likely, as food processing nodal), with Horticulture Department",
+  "whatCanBeFunded": "Integrated cold chain and value addition infrastructure; creation/expansion of food processing and preservation capacity (unit scheme); infrastructure for agro-processing clusters; Operation Greens interventions for notified fruits and vegetables; food safety and quality assurance infrastructure (labs); HRD and institutions.",
+  "fundingAvailable": "Grants-in-aid per component norms; NE projects attract higher grant rates than general areas (commonly cited as 50% vs 35% of eligible project cost for several components — official text not re-verified this session; ceilings component-specific): Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "PMKSY component guidelines historically provide 50% grant for NE/Himalayan/difficult areas versus 35% general for cold chain and unit schemes; requires confirmation against current guidelines.",
+  "stateContribution": "None mandated (promoter's contribution and term loan make up balance)",
+  "allocationMethod": "competitive application",
+  "accessPathway": [
+   "Track MoFPI Expressions of Interest for component-wise proposal calls (issued periodically on mofpi.gov.in)",
+   "Promoter (FPO/cooperative/company, or state PSU where eligible) prepares DPR with appraisal by bank/FI",
+   "Apply online against the EOI within the window",
+   "MoFPI Inter-Ministerial Approval Committee sanctions projects; grant released in instalments against milestones",
+   "State facilitates land, power and clearances for sanctioned projects"
+  ],
+  "nextAction": "Sikkim Commerce and Industries Department should register with MoFPI's PMKSY division to be alerted to the next EOI and pre-prepare a cold-chain DPR anchored on an experienced private/cooperative partner.",
+  "portal": "https://www.mofpi.gov.in",
+  "applicationWindow": "EOI-based; current call status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "DPR with bank appraisal/term-loan sanction",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Online application against active EOI",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Land documents and statutory clearances",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "MoFPI Inter-Ministerial Approval Committee",
+  "contact": "PMKSY Division, MoFPI, Panchsheel Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "PMKSY component guidelines (cold chain, unit scheme, agro-processing clusters, Operation Greens)",
+    "url": "https://www.mofpi.gov.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "MoFPI — PMKSY",
+    "publisher": "Ministry of Food Processing Industries",
+    "date": "n.d.",
+    "url": "https://www.mofpi.gov.in",
+    "section": "Umbrella components"
+   },
+   {
+    "title": "MoFPI State Profile: Sikkim",
+    "publisher": "MoFPI",
+    "date": "n.d.",
+    "url": "https://www.mofpi.gov.in/sites/default/files/KnowledgeCentre/State%20Profile/Sikkim.pdf",
+    "section": "Sikkim food processing baseline"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "No PMKSY-sanctioned project in Sikkim confirmed from sources reachable this session; NE project pipelines have generally been thin, indicating both a gap and an opportunity."
+  },
+  "potentialUseCases": [
+   "Integrated cold chain for organic vegetables/flowers Gangtok–Siliguri",
+   "Agro-processing cluster at Rangpo/Melli for cardamom, ginger and turmeric",
+   "Operation Greens support for mandarin and off-season vegetables (subject to notified crop list)"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation",
+   "Grant rates and active EOI windows must be verified before proposal work",
+   "Competitive — Sikkim projects need bankable promoters, historically the binding constraint"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 2,
+   "fit": 4,
+   "timeSensitivity": 3,
+   "transformational": 5,
+   "rationale": "Largest single-project grants in this cluster but competitive and promoter-dependent; a first Sikkim cold-chain sanction would be transformational."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Umbrella structure well established; current phase, EOI status and NE rates not re-verified (MoFPI site not loadable from this environment)."
+ },
+ {
+  "id": "pm-matsya-sampada-yojana",
+  "name": "Pradhan Mantri Matsya Sampada Yojana",
+  "shortName": "PMMSY",
+  "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying (Department of Fisheries)",
+  "agency": "Department of Fisheries, GoI; State Fisheries Departments",
+  "policyArea": "Fisheries",
+  "subcategory": "Cold-water fisheries, aquaculture, infrastructure and welfare (beneficiary- and state-oriented components)",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "2020-21 to 2024-25, extended up to FY2025-26 with existing design and funding pattern; Union Budget 2026-27 allocated Rs 2,500 crore to the scheme, indicating continued funding (formal restructure for 16th FC cycle requires confirmation)",
+  "whyItMatters": "PMMSY is Sikkim's proven fisheries growth engine: under it the state's fish production crossed 1,000 metric tonnes for the first time (reported May 2026), roughly 2,000 people are engaged in fisheries activities, and the Department of Fisheries notified India's first Organic Fisheries Cluster in Soreng district — a unique organic-state synergy. Cold-water aquaculture (rainbow trout raceways, hatcheries, RAS) is the core Sikkim use case and a national priority for Himalayan states. Continued FY2026-27 funding (Rs 2,500 crore national allocation) means the state should keep a full project pipeline with the Department of Fisheries.",
+  "eligibleApplicants": [
+   "State Government (state/UT projects)",
+   "Individual fish farmers, entrepreneurs, SHGs, FPOs/FFPOs and cooperatives (beneficiary-oriented components via state proposals)"
+  ],
+  "sikkimNodalDept": "Fisheries Department, Government of Sikkim",
+  "whatCanBeFunded": "Trout raceways and hatcheries, recirculatory aquaculture systems, ornamental fisheries, ice plants/cold storage, fish transport, markets and kiosks, post-harvest units, capacity building and welfare components (per PMMSY component menu); organic fisheries cluster development in Soreng.",
+  "fundingAvailable": "Rs 20,050 crore original national outlay; projects worth over Rs 21,274 crore approved nationally as of July 2025; Budget 2026-27 allocation Rs 2,500 crore; Sikkim project envelope demand-driven via annual proposals.",
+  "fundingRatio": "For beneficiary-oriented components: 40% government assistance for general category and 60% for SC/ST/women beneficiaries (per scheme design; NE centre:state sharing commonly 90:10 — official text not re-verified this session)",
+  "nePreference": "true",
+  "nePreferenceDetail": "PMMSY has dedicated NE focus (Rs 50 crore of NE projects inaugurated in one tranche covering Sikkim among others); NE states' state-share pattern is concessional per scheme guidelines (requires confirmation of exact ratio).",
+  "stateContribution": "State share per sharing pattern for the state-component projects",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Sikkim Fisheries Department invites beneficiary applications and compiles the state's Annual Action Plan/project proposals",
+   "Submit proposals to the Department of Fisheries, GoI for approval by the Central Approval and Monitoring Committee",
+   "On sanction, implement via the department with beneficiary-level subsidy (40%/60%) for unit-level projects",
+   "Report utilisation and physical progress on the PMMSY dashboard for further releases"
+  ],
+  "nextAction": "Sikkim Fisheries Department should submit its FY2026-27 PMMSY proposal early — anchored on expanding trout raceway units and completing the Soreng Organic Fisheries Cluster — given confirmed continued central funding.",
+  "portal": "https://pmmsy.dof.gov.in",
+  "applicationWindow": "Annual proposal cycle; FY2026-27 proposals: open per continued funding (exact cycle dates require confirmation)",
+  "keyDocuments": [
+   {
+    "doc": "State Annual Action Plan / project proposals with beneficiary lists",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "DPRs for infrastructure projects (hatcheries, clusters)",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "Central Approval and Monitoring Committee, Department of Fisheries, GoI",
+  "contact": "Department of Fisheries, Krishi Bhawan, New Delhi; Directorate of Fisheries, Government of Sikkim, Gangtok",
+  "guidelines": [
+   {
+    "title": "PMMSY operational guidelines and dashboard",
+    "url": "https://pmmsy.dof.gov.in"
+   },
+   {
+    "title": "Sikkim Fisheries Department — PMMSY page",
+    "url": "https://fisheries.sikkim.gov.in/visitor/programandschemes/3"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Blue Waves of Progress: 5 Years of PMMSY",
+    "publisher": "PIB",
+    "date": "2025-09",
+    "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc202599631401.pdf",
+    "section": "Extension to FY2025-26; national approvals"
+   },
+   {
+    "title": "Sikkim's fish production crosses 1,000 metric tonnes under PMMSY boost",
+    "publisher": "India Today NE",
+    "date": "2026-05-20",
+    "url": "https://www.indiatodayne.in/sikkim/story/sikkims-fish-production-crosses-1000-metric-tonnes-under-pmmsy-boost-1394822-2026-05-20",
+    "section": "Sikkim outcomes"
+   },
+   {
+    "title": "Fisheries Department, Government of Sikkim — Annual Report 2024-25",
+    "publisher": "Government of Sikkim",
+    "date": "2025",
+    "url": "https://fisheries.sikkim.gov.in/storage/otherdoc/otherdoc-0hACkC4uIwSerchPtknFwQLdRYXPbRNRYvK5qfo0.pdf",
+    "section": "State implementation"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Fish production crossed 1,000 MT for the first time (May 2026 reports) with ~2,000 people engaged under PMMSY; India's first Organic Fisheries Cluster notified in Soreng district; trout farming expanding with hatcheries/raceways; Sikkim included in Rs 50 crore NE project inaugurations."
+  },
+  "potentialUseCases": [
+   "Rainbow trout raceway clusters in Mangan and Gyalshing",
+   "Completion and branding of Soreng Organic Fisheries Cluster",
+   "Trout feed mill and ice/cold chain for fish marketing",
+   "RAS units for mid-altitude aquaculture entrepreneurs"
+  ],
+  "flags": [
+   "Formal scheme architecture for FY2026-27 onward (restructured PMMSY/PM-MKSSY interface) requires confirmation despite continued budget funding"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 4,
+   "fit": 5,
+   "timeSensitivity": 4,
+   "transformational": 4,
+   "rationale": "Proven Sikkim delivery, unique organic-fisheries niche, confirmed continued central funding — highest-confidence live opportunity in the cluster."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Extension to FY25-26 and FY27 budget funding confirmed via PIB/budget reporting; exact FY27 scheme design pending."
+ },
+ {
+  "id": "national-livestock-mission",
+  "name": "National Livestock Mission",
+  "shortName": "NLM",
+  "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying (Department of Animal Husbandry and Dairying)",
+  "agency": "DAHD; entrepreneurship applications via NLM portal with SIDBI as fund manager (requires confirmation); state components via State AH Departments",
+  "policyArea": "Livestock",
+  "subcategory": "Entrepreneurship (poultry, sheep/goat, piggery, feed/fodder), breed development, highland livestock",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Mixed",
+  "status": "Under continuation/revision",
+  "period": "Restructured NLM implemented from 2021-22 for the 15th FC cycle (to 2025-26); a revised/expanded NLM was approved by Cabinet in February 2024 adding new activities; continuation beyond FY2025-26 requires confirmation",
+  "whyItMatters": "NLM's entrepreneurship window gives 50% capital subsidy (component ceilings apply) for poultry, sheep/goat, piggery and feed/fodder units — suited to Sikkim's smallholder mixed farms and its demand for local eggs/pork, which the state currently imports. The 2024 revision broadened coverage (including equines and fodder from non-forest wasteland). For Sikkim's high-altitude yak herders (Mangan district, Muguthang/Lachen-Lachung), NLM's breed development and risk-management components are the closest central window, with ICAR's National Research Centre on Yak (Dirang) providing the technical backstop; the exact current yak-specific assistance menu requires confirmation.",
+  "eligibleApplicants": [
+   "Individuals, SHGs, FPOs, FCOs, JLGs and Section 8 companies (entrepreneurship components, credit-linked)",
+   "State Government (breed development, extension, fodder and state-component projects)"
+  ],
+  "sikkimNodalDept": "Animal Husbandry and Veterinary Services Department, Government of Sikkim",
+  "whatCanBeFunded": "Entrepreneurship establishment: rural poultry hatcheries/mother units, sheep-goat breeding farms, piggery units, feed and fodder units (50% capital subsidy, credit-linked, per component ceilings — exact ceilings per current guidelines: Not confirmed from available official guidance); breed development including indigenous/highland species; fodder seed and cultivation; livestock insurance support; innovation and extension.",
+  "fundingAvailable": "Component-wise subsidy per guidelines; Sikkim envelope demand-driven plus state annual plan",
+  "fundingRatio": "Entrepreneurship subsidy is 50% central (credit-linked); CSS components for NE states: Not confirmed from available official guidance (historically 90:10)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "NE 90:10 sharing for CSS components is per historical DAHD practice; not re-verified in an official source this session.",
+  "stateContribution": "State share on CSS components; beneficiary margin and bank loan on entrepreneurship projects",
+  "allocationMethod": "demand-driven",
+  "accessPathway": [
+   "Entrepreneurs apply on the NLM/udyamimitra portal with project report and bank loan tie-up",
+   "State Implementing Agency (AH&VS Department) scrutinises and recommends",
+   "DAHD Project Approval Committee sanctions; subsidy released in instalments through SIDBI/lender",
+   "For breed development/fodder/state components, AH&VS Department submits annual plan to DAHD",
+   "For yak-specific interventions, coordinate with ICAR-NRC Yak for technical protocols (requires confirmation of funding route)"
+  ],
+  "nextAction": "Sikkim AH&VS Department should confirm NLM's FY2026-27 continuation with DAHD and simultaneously pipeline poultry/piggery entrepreneurship applications and a highland (yak) breed-development proposal.",
+  "portal": "https://nlm.udyamimitra.in",
+  "applicationWindow": "Rolling on portal while scheme window open; post-FY2025-26 status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "Project report with bank sanction/appraisal (entrepreneurship)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State Implementing Agency recommendation",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State annual plan for breed/fodder components",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "DAHD Project Approval/Sanctioning Committee",
+  "contact": "NLM Division, DAHD, Krishi Bhawan, New Delhi; Director, AH&VS, Government of Sikkim",
+  "guidelines": [
+   {
+    "title": "NLM guidelines and entrepreneurship portal",
+    "url": "https://nlm.udyamimitra.in"
+   },
+   {
+    "title": "DAHD — National Livestock Mission",
+    "url": "https://dahd.gov.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NLM portal",
+    "publisher": "DAHD/SIDBI",
+    "date": "n.d.",
+    "url": "https://nlm.udyamimitra.in",
+    "section": "Entrepreneurship components"
+   },
+   {
+    "title": "DAHD schemes",
+    "publisher": "Department of Animal Husbandry and Dairying",
+    "date": "n.d.",
+    "url": "https://dahd.gov.in",
+    "section": "NLM"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "Sikkim-specific NLM sanction figures not located this session; the state's poultry mission and piggery demand suggest latent uptake potential. Yak-herder support in Sikkim has largely come from state programmes; NLM drawdown unconfirmed."
+  },
+  "potentialUseCases": [
+   "Backyard poultry mother units to cut egg imports",
+   "Piggery breeding units for local pork demand",
+   "Fodder banks for winter scarcity in high-altitude wards",
+   "Yak breed conservation and insurance proposal with ICAR-NRC Yak support (requires confirmation)"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation",
+   "Yak/highland-livestock-specific assistance menu under revised NLM needs verification",
+   "Credit-linkage is a constraint for high-altitude herders — state may need interest-free margin support"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 3,
+   "fit": 4,
+   "timeSensitivity": 3,
+   "transformational": 3,
+   "rationale": "Practical smallholder livestock money with an entrepreneurship route, but credit-linked and continuation-uncertain; yak angle promising yet unverified."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Core design confirmed by portal existence and prior guidelines; ceilings, NE ratio, yak provisions and FY27 status unverified."
+ },
+ {
+  "id": "ahidf-infrastructure-fund",
+  "name": "Animal Husbandry Infrastructure Development Fund (continued under the Infrastructure Development Fund)",
+  "shortName": "AHIDF",
+  "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying (DAHD)",
+  "agency": "DAHD with scheduled banks, NABARD and NDDB as lenders; SIDBI-managed portal (requires confirmation)",
+  "policyArea": "Livestock/dairy infrastructure",
+  "subcategory": "Credit facility with interest subvention for dairy/meat processing, feed plants, breed-improvement infrastructure",
+  "type": "Infrastructure financing",
+  "grantOrLoan": "Loan",
+  "status": "Under continuation/revision",
+  "period": "Launched 2020; Cabinet (February 2024) approved continuation under the umbrella Infrastructure Development Fund with outlay Rs 29,610.25 crore for 2021-22 to 2025-26; post-FY2025-26 sanction window requires confirmation",
+  "whyItMatters": "AHIDF is a loan-based facility (3% interest subvention, credit guarantee support) for dairy processing and value addition, meat processing, animal feed plants, breed multiplication farms and vaccine units — with dairy cooperatives made eligible under the 2024 continuation. For Sikkim, the realistic users are the Sikkim Cooperative Milk Producers' Union (processing/value-addition upgrades), private feed-plant entrepreneurs (the state imports nearly all compound feed), and breed multiplication farms. As a demand-driven credit line it needs bankable promoters, and the sanction window's status after 31 March 2026 must be confirmed before new proposals.",
+  "eligibleApplicants": [
+   "Individual entrepreneurs and private companies",
+   "FPOs, MSMEs, Section 8 companies",
+   "Dairy cooperatives (under the 2024 continuation)"
+  ],
+  "sikkimNodalDept": "Animal Husbandry and Veterinary Services Department, Government of Sikkim (facilitation); Sikkim Milk Union as key applicant",
+  "whatCanBeFunded": "Dairy processing and value addition plants, meat processing, animal feed plants, breed multiplication farms, vaccine/veterinary drug production, waste-to-wealth (component list per guidelines) — via bank loans with 3% interest subvention and credit guarantee support (up to 25% of credit for MSME-category borrowers per scheme design — requires confirmation).",
+  "fundingAvailable": "Rs 29,610.25 crore national umbrella (2021-26); per-project loan size per bank appraisal",
+  "fundingRatio": "Not applicable (loan); 3% interest subvention; borrower margin per norms",
+  "nePreference": "false",
+  "nePreferenceDetail": "No NE-specific concession located.",
+  "stateContribution": "None mandated",
+  "allocationMethod": "demand-driven",
+  "accessPathway": [
+   "Promoter prepares DPR and secures in-principle bank interest",
+   "Apply on the AHIDF portal (ahidf.udyamimitra.in)",
+   "DAHD Project Sanctioning Committee approves eligibility; bank sanctions loan",
+   "Interest subvention flows against loan servicing; credit guarantee where applicable",
+   "Confirm current sanction-window status post-FY2025-26 before filing (requires confirmation)"
+  ],
+  "nextAction": "Sikkim AH&VS Department should help Sikkim Milk Union prepare an AHIDF DPR for milk processing/value-addition upgrade and confirm with DAHD whether fresh sanctions are open in FY2026-27.",
+  "portal": "https://ahidf.udyamimitra.in",
+  "applicationWindow": "Rolling while window open; post-31 March 2026 status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "DPR with bank appraisal",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "AHIDF portal application",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "DAHD Project Sanctioning Committee; lending bank",
+  "contact": "AHIDF Cell, DAHD, Krishi Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "AHIDF portal and guidelines",
+    "url": "https://ahidf.udyamimitra.in"
+   },
+   {
+    "title": "DAHD — AHIDF/IDF",
+    "url": "https://dahd.gov.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "AHIDF portal",
+    "publisher": "DAHD/SIDBI",
+    "date": "n.d.",
+    "url": "https://ahidf.udyamimitra.in",
+    "section": "Eligibility and terms"
+   },
+   {
+    "title": "DAHD schemes page",
+    "publisher": "DAHD",
+    "date": "n.d.",
+    "url": "https://dahd.gov.in",
+    "section": "Infrastructure Development Fund"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "No participation located",
+   "detail": "No AHIDF-sanctioned Sikkim project found in sources reachable this session."
+  },
+  "potentialUseCases": [
+   "Sikkim Milk Union processing and value-addition (paneer, churpi, flavoured milk) upgrade",
+   "Compound cattle/pig/poultry feed plant at Rangpo (import substitution)",
+   "Breed multiplication farm for hill cattle/goats"
+  ],
+  "flags": [
+   "Loan, not grant — requires bankable promoter and debt-servicing capacity",
+   "Sanction window beyond FY2025-26 needs confirmation",
+   "Cabinet continuation details (Feb 2024 IDF umbrella, outlay figure) cited from prior official announcements; not re-verified this session"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 2,
+   "fit": 3,
+   "timeSensitivity": 4,
+   "transformational": 3,
+   "rationale": "Useful for the Milk Union and feed import substitution; friction from credit-linkage and uncertain window."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Terms from established official guidelines; continuation figures from Feb 2024 Cabinet coverage not re-verified this session."
+ },
+ {
+  "id": "rgm-npdd-dairy-bovine",
+  "name": "Rashtriya Gokul Mission and National Programme for Dairy Development (revised, February 2025)",
+  "shortName": "RGM & NPDD",
+  "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying (DAHD)",
+  "agency": "DAHD; state implementing agencies (AH&VS Department; State Milk Federation/District Unions for NPDD)",
+  "policyArea": "Livestock/dairy",
+  "subcategory": "Bovine breeding and genetic improvement (RGM); dairy infrastructure, quality and cooperative expansion (NPDD)",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Both continued for the 15th FC cycle 2021-22 to 2025-26; Cabinet approved revised RGM and revised NPDD with enhanced outlays in February 2025; continuation beyond FY2025-26 requires confirmation",
+  "whyItMatters": "Dairy is Sikkim's most organised livestock value chain through the Sikkim Cooperative Milk Producers' Union, and the state government has been publicly committing support to dairy farmers (Gwala Diwas events). NPDD funds village-level milk collection and chilling infrastructure, quality testing and cooperative strengthening — with the revised NPDD orientation towards NE, hilly and underserved regions — while RGM funds AI coverage, breed improvement and heifer-rearing incentives that raise smallholder milk yields. Together they are the grant backbone for expanding milk routes into Soreng, Gyalshing and Mangan and for any Sikkim ambition around organic/A2-positioned hill milk.",
+  "eligibleApplicants": [
+   "State Government (AH&VS Department) and state implementing agencies",
+   "State Milk Federation/Union via state proposals"
+  ],
+  "sikkimNodalDept": "Animal Husbandry and Veterinary Services Department, Government of Sikkim; Sikkim Cooperative Milk Producers' Union as implementing partner",
+  "whatCanBeFunded": "RGM: AI network expansion (MAITRIs), breed improvement, IVF/sex-sorted semen incentives, heifer rearing support (component menu per revised guidelines — exact incentives: Not confirmed from available official guidance). NPDD: village dairy cooperative society infrastructure, bulk milk coolers, milk testing/quality equipment, processing linkage, capacity building (revised NPDD includes focus on NE/hilly regions — component detail requires confirmation).",
+  "fundingAvailable": "Revised national outlays approved February 2025 (RGM approximately Rs 3,400 crore including an additional Rs 1,000 crore; NPDD approximately Rs 2,790 crore — figures per Cabinet coverage, not re-verified this session); Sikkim allocations: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Revised NPDD reportedly emphasises NE and hilly states for village-level dairy infrastructure; exact preferential ratio not located in an official source this session.",
+  "stateContribution": "Per applicable CSS sharing pattern (requires confirmation)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "AH&VS Department (with Sikkim Milk Union) prepares component-wise proposals/annual plan for RGM and NPDD",
+   "Submit to DAHD for appraisal and sanction by the respective project committees",
+   "Implement through the department and Milk Union (DCS formation, BMCs, AI network)",
+   "Report progress for instalment releases"
+  ],
+  "nextAction": "Sikkim AH&VS Department and Sikkim Milk Union should jointly submit a revised-NPDD proposal for new milk routes and bulk milk coolers in the western and northern districts, and confirm FY2026-27 continuation with DAHD.",
+  "portal": "https://dahd.gov.in",
+  "applicationWindow": "Annual proposal cycle; FY2026-27 status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "State proposal/DPR for NPDD dairy infrastructure",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "RGM annual plan (AI targets, breeding programme)",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "DAHD project approval committees for RGM and NPDD",
+  "contact": "RGM and NPDD Divisions, DAHD, Krishi Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "DAHD — Rashtriya Gokul Mission",
+    "url": "https://dahd.gov.in/schemes/programmes/rashtriya-gokul-mission"
+   },
+   {
+    "title": "DAHD — National Programme for Dairy Development",
+    "url": "https://dahd.gov.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "DAHD schemes pages (RGM, NPDD)",
+    "publisher": "DAHD",
+    "date": "n.d.",
+    "url": "https://dahd.gov.in",
+    "section": "Scheme design"
+   },
+   {
+    "title": "Government pledges support to Dairy Farmers at 4th Gwala Diwas Celebration",
+    "publisher": "Government of Sikkim (sikkim.gov.in)",
+    "date": "n.d.",
+    "url": "https://sikkim.gov.in/media/news-announcement/news-info?name=Government+pledges+support+to+Dairy+Farmers+at+4th+Gwala+Diwas+Celebration",
+    "section": "Sikkim dairy policy context"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim Milk Union operates village dairy cooperatives consistent with NPDD-type support and the state runs AI/breeding programmes; scheme-tagged Sikkim sanction figures were not located this session."
+  },
+  "potentialUseCases": [
+   "Bulk milk coolers and new collection routes in Soreng/Gyalshing/Mangan",
+   "Milk quality-testing labs for the Milk Union",
+   "AI/MAITRI network expansion and heifer-rearing incentives for hill cattle"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation",
+   "February 2025 revised outlay figures cited from Cabinet press coverage; re-verify against PIB release before use in formal documents"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 3,
+   "transformational": 3,
+   "rationale": "Well-matched to Sikkim's organised dairy cooperative base; moderate sums, familiar machinery."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Scheme existence and design high-confidence; revised outlays and NE orientation from press coverage of the Feb 2025 Cabinet decision, not re-verified against PIB this session."
+ },
+ {
+  "id": "national-beekeeping-honey-mission",
+  "name": "National Beekeeping and Honey Mission",
+  "shortName": "NBHM",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "National Bee Board (NBB), DA&FW",
+  "policyArea": "Beekeeping/allied agriculture",
+  "subcategory": "Scientific beekeeping, honey value chain, pollination support",
+  "type": "Mission/programme",
+  "grantOrLoan": "Grant",
+  "status": "Status unclear",
+  "period": "Launched 2020-21 (initially under Atmanirbhar Bharat, Rs 500 crore for 2020-21 to 2022-23); subsequent continuation and current placement after the October 2024 CSS rationalisation: Not confirmed from available official guidance",
+  "whyItMatters": "Sikkim's flora (large cardamom, mandarin, wild Himalayan forage) supports high-value niche honey — including the traditional Apis cerana log-hive culture — and pollination services materially raise large cardamom fruit-set, giving beekeeping a double payoff in the state's flagship crop. NBHM funds scientific beekeeping adoption, bee colonies/hives, honey testing labs, processing and branding, and FPO-based honey clusters. Its current funding window must be verified before proposal work, since the mission's original outlay period has lapsed.",
+  "eligibleApplicants": [
+   "State Government agencies",
+   "FPOs/beekeeper cooperatives and societies (via NBB project approvals)",
+   "Individual beekeepers through cluster projects (requires confirmation)"
+  ],
+  "sikkimNodalDept": "Horticulture Department, Government of Sikkim (likely)",
+  "whatCanBeFunded": "Bee colonies and hives, beekeeping equipment, capacity building, honey and beehive product processing units, quality testing labs, branding/marketing, and honey FPO support (per NBHM mini-mission structure). Current cost norms: Not confirmed from available official guidance.",
+  "fundingAvailable": "Not confirmed from available official guidance",
+  "fundingRatio": "Not confirmed from available official guidance",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "No NE-specific provision located this session.",
+  "stateContribution": "Not confirmed from available official guidance",
+  "allocationMethod": "project-by-project sanction",
+  "accessPathway": [
+   "Verify NBHM's current funding window and guidelines with the National Bee Board (requires confirmation)",
+   "Register beekeepers/societies on the Madhukranti portal (requires confirmation of portal status)",
+   "Submit cluster/infrastructure project proposals through the state nodal department to NBB",
+   "Implement sanctioned projects and report to NBB"
+  ],
+  "nextAction": "Sikkim Horticulture Department should write to the National Bee Board to confirm NBHM's live status and pitch a cardamom-pollination-plus-niche-honey cluster for Mangan and Gyalshing districts.",
+  "portal": "https://nbb.gov.in",
+  "applicationWindow": "Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "Project proposal to National Bee Board via state nodal department",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "National Bee Board / DA&FW project approval committee",
+  "contact": "National Bee Board, DA&FW, New Delhi",
+  "guidelines": [
+   {
+    "title": "National Bee Board — NBHM",
+    "url": "https://nbb.gov.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Bee Board portal",
+    "publisher": "DA&FW",
+    "date": "n.d.",
+    "url": "https://nbb.gov.in",
+    "section": "NBHM"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "No Sikkim NBHM project located in sources reachable this session."
+  },
+  "potentialUseCases": [
+   "Apis cerana niche honey cluster with organic certification",
+   "Pollination-support apiaries in large cardamom belts",
+   "Honey testing and processing mini-lab for NE hill honey branding"
+  ],
+  "flags": [
+   "Mission's current funding window and post-rationalisation placement unclear — verify before any proposal",
+   "Original outlay period (2020-23) has lapsed"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 3,
+   "fit": 4,
+   "timeSensitivity": 2,
+   "transformational": 2,
+   "rationale": "Small but strategically clever fit (pollination x cardamom x organic honey); status uncertainty caps the score."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Low",
+  "confidenceNote": "Could not verify current mission status from official sources reachable this session."
+ },
+ {
+  "id": "digital-agriculture-mission-agristack",
+  "name": "Digital Agriculture Mission (AgriStack)",
+  "shortName": "DAM / AgriStack",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "agency": "DA&FW Digital Agriculture Division; states build and own registries",
+  "policyArea": "Digital agriculture / DPI",
+  "subcategory": "Farmer Registry, geo-referenced village maps, Digital Crop Survey, DSS",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Approved by Cabinet on 2 September 2024 with outlay of Rs 2,817 crore (central share Rs 1,940 crore) covering implementation through 2025-26 initially; rollout continuing (current-year funding requires confirmation)",
+  "whyItMatters": "The Digital Agriculture Mission funds states to build the AgriStack: a Farmer Registry (farmer IDs), geo-referenced village maps and a Digital Crop Survey, plus decision-support systems and soil profile mapping. For Sikkim, completing its farmer registry is a gateway condition — future benefit delivery (PM-Kisan style DBT, credit, insurance, and plausibly PMDDKY convergence tracking) will ride on farmer IDs, and a small state can achieve rapid saturation. It also enables Sikkim to overlay its organic certification data on the registry, creating a uniquely verifiable 'organic farmer ID' asset for premium marketing.",
+  "eligibleApplicants": [
+   "State Government (MoU with DA&FW; central funding support for registry creation)"
+  ],
+  "sikkimNodalDept": "Agriculture Department, Government of Sikkim (with IT Department)",
+  "whatCanBeFunded": "Farmer Registry build-out, digital crop survey operations, geo-referencing of village maps, hardware/software and manpower support per mission norms (state-wise funding norms: Not confirmed from available official guidance).",
+  "fundingAvailable": "Rs 2,817 crore national outlay (Rs 1,940 crore central share) per September 2024 Cabinet approval",
+  "fundingRatio": "Central sector with state execution; state-wise support pattern: Not confirmed from available official guidance",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "No NE-specific provision located this session.",
+  "stateContribution": "State manpower/administrative machinery; monetary share requires confirmation",
+  "allocationMethod": "ministry approval",
+  "accessPathway": [
+   "Sign/operationalise the AgriStack MoU with DA&FW (status for Sikkim requires confirmation)",
+   "Constitute the state project team and map land records to the Farmer Registry schema",
+   "Conduct farmer ID enrolment camps and the Digital Crop Survey in pilot seasons",
+   "Draw central support against approved state plan and report on mission dashboards"
+  ],
+  "nextAction": "Sikkim Agriculture Department should confirm its AgriStack MoU/registry status with DA&FW and target full farmer-ID saturation (small population makes 100% coverage feasible within a year).",
+  "portal": "https://agristack.gov.in",
+  "applicationWindow": "Ongoing rollout; not call-based",
+  "keyDocuments": [
+   {
+    "doc": "State MoU with DA&FW",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State implementation plan for registries and crop survey",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "DA&FW Digital Agriculture Mission directorate",
+  "contact": "Digital Agriculture Division, DA&FW, Krishi Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "AgriStack portal",
+    "url": "https://agristack.gov.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "AgriStack / Digital Agriculture Mission portal",
+    "publisher": "DA&FW",
+    "date": "n.d.",
+    "url": "https://agristack.gov.in",
+    "section": "Mission components"
+   },
+   {
+    "title": "Cabinet approval of Digital Agriculture Mission (Rs 2,817 crore)",
+    "publisher": "PIB (September 2024 Cabinet decisions)",
+    "date": "2024-09-02",
+    "url": "https://www.pib.gov.in",
+    "section": "Cabinet decision (specific release URL not re-located this session)"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "Sikkim's farmer registry enrolment status not located this session; NE states have generally lagged the first-wave states."
+  },
+  "potentialUseCases": [
+   "100% farmer-ID saturation as a small-state showcase",
+   "Organic-certification overlay on the Farmer Registry",
+   "Digital Crop Survey adapted to terraced mixed cropping"
+  ],
+  "flags": [
+   "Sikkim MoU/enrolment status needs confirmation",
+   "Funding norms for hill states and current-year window need confirmation"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 4,
+   "fit": 3,
+   "timeSensitivity": 3,
+   "transformational": 4,
+   "rationale": "Modest money but gateway infrastructure for all future DBT/convergence; Sikkim can win national visibility via saturation."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Cabinet approval details from September 2024 are well established; the specific PIB URL and Sikkim status were not re-verifiable this session."
+ },
+ {
+  "id": "ministry-cooperation-pacs-grain-storage",
+  "name": "Ministry of Cooperation initiatives: PACS computerisation, World's Largest Grain Storage Plan, and new multipurpose PACS",
+  "shortName": "MoC cooperative package",
+  "ministry": "Ministry of Cooperation",
+  "agency": "Ministry of Cooperation with NABARD (PACS computerisation), NCDC/NABARD/NCCF/FCI (grain storage pilot), NDDB/NFDB (new dairy/fishery cooperatives)",
+  "policyArea": "Cooperatives",
+  "subcategory": "PACS digitisation, decentralised cooperative grain storage, cooperative expansion to uncovered panchayats",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Mixed",
+  "status": "Active",
+  "period": "PACS computerisation project approved 2022 (Rs 2,516 crore, ~63,000 PACS) — ongoing; grain storage plan pilot approved 2023 — ongoing; plan for ~2 lakh new multipurpose PACS/dairy/fishery cooperatives in uncovered panchayats approved February 2023 — ongoing. Current-phase details require confirmation.",
+  "whyItMatters": "Sikkim has a strong cooperative and SHG base (SIMFED, Sikkim Milk Union, ward-level MPCS), and the Ministry of Cooperation's package modernises exactly this layer: computerisation puts PACS on a common ERP linked to NABARD; model multipurpose bye-laws let PACS run 25+ business lines (custom hiring, storage, fair-price shops, LPG/fuel dealerships, CSCs); the grain storage plan finances decentralised godowns at PACS through convergence (AIF loans, MIDH/other subsidies, NCDC credit); and the 2-lakh-new-societies plan can cover Sikkim's uncovered panchayats with new multipurpose, dairy and fishery cooperatives. This is the institutional plumbing that makes PACS eligible borrowers under AIF and PMFME.",
+  "eligibleApplicants": [
+   "State Government (Cooperation Department) and State Cooperative Bank/DCCBs for computerisation",
+   "PACS/multipurpose cooperative societies for storage and new business lines",
+   "New societies in uncovered panchayats via NABARD/NDDB/NFDB action plans"
+  ],
+  "sikkimNodalDept": "Cooperation Department, Government of Sikkim",
+  "whatCanBeFunded": "PACS ERP hardware/software/training (shared central-state-NABARD funding per project design — exact split requires confirmation); decentralised grain storage godowns at PACS through converged loans and scheme subsidies; formation costs and bye-law adoption support for new multipurpose PACS, dairy and fishery cooperatives.",
+  "fundingAvailable": "PACS computerisation: Rs 2,516 crore national project; grain storage: convergence-financed (no single grant corpus); Sikkim-specific figures: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "NE-specific sharing concessions under the computerisation project not located this session.",
+  "stateContribution": "State share in computerisation project per approved pattern (requires confirmation)",
+  "allocationMethod": "other (project sanction to states for computerisation; convergence financing for storage; action-plan targets for new societies)",
+  "accessPathway": [
+   "Sikkim Cooperation Department confirms/completes its PACS computerisation project proposal with NABARD and the Ministry of Cooperation",
+   "Adopt model multipurpose bye-laws for existing PACS/MPCS (state registrar action)",
+   "Identify PACS for grain/produce storage godowns and structure financing via AIF loan plus applicable subsidies with NCDC/NABARD support",
+   "Map uncovered panchayats and register new multipurpose/dairy/fishery cooperatives per the national action plan with NDDB/NFDB",
+   "Track progress through the Ministry of Cooperation's monitoring mechanisms"
+  ],
+  "nextAction": "Sikkim Cooperation Department should reconcile with NABARD Gangtok the number of Sikkim PACS onboarded to the common ERP and submit any residual list, while shortlisting 3-5 PACS for storage godowns under the convergence model.",
+  "portal": "https://cooperation.gov.in",
+  "applicationWindow": "Ongoing programmes; not call-based",
+  "keyDocuments": [
+   {
+    "doc": "State PACS computerisation proposal via NABARD",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Model bye-laws adoption by state registrar",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "PACS-level DPRs for storage godowns (convergence financing)",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "Ministry of Cooperation; NABARD (computerisation project); NCDC/lenders for storage financing",
+  "contact": "Ministry of Cooperation, New Delhi; Registrar of Cooperative Societies, Government of Sikkim",
+  "guidelines": [
+   {
+    "title": "Ministry of Cooperation — initiatives",
+    "url": "https://cooperation.gov.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ministry of Cooperation portal (PACS computerisation, grain storage plan, new multipurpose PACS)",
+    "publisher": "Ministry of Cooperation",
+    "date": "n.d.",
+    "url": "https://cooperation.gov.in",
+    "section": "Key initiatives"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "Sikkim PACS onboarding counts under computerisation and any grain-storage pilot godown in Sikkim were not located this session; Sikkim's cooperative network (SIMFED, MPCS) is active but scheme-tagged data is unavailable."
+  },
+  "potentialUseCases": [
+   "Full ERP onboarding of Sikkim PACS/MPCS",
+   "PACS-level organic produce and grain godowns in each district",
+   "New dairy/fishery cooperatives in uncovered gram panchayats (links to NPDD and PMMSY)"
+  ],
+  "flags": [
+   "Sikkim-specific progress data unavailable — first step is a stock-take with NABARD/RCS",
+   "Storage plan is convergence-financed (largely loans), not a standalone grant"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 2,
+   "transformational": 3,
+   "rationale": "Institutional modernisation with modest direct money but high enabling value for Sikkim's cooperative-heavy economy."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "National programme facts well established from prior official announcements; official pages not loadable this session and Sikkim data unverified."
+ },
+ {
+  "id": "ncdc-cooperative-financing",
+  "name": "National Cooperative Development Corporation financing (including Yuva Sahakar, Ayushman Sahakar, Swayamshakti Sahakar)",
+  "shortName": "NCDC financing",
+  "ministry": "Ministry of Cooperation",
+  "agency": "National Cooperative Development Corporation (statutory corporation)",
+  "policyArea": "Cooperatives",
+  "subcategory": "Concessional project loans and margin money to cooperatives (agri-processing, storage, dairy, fisheries, services)",
+  "type": "Concessional loan",
+  "grantOrLoan": "Loan",
+  "status": "Active",
+  "period": "Ongoing statutory financing window (no scheme end-date); sub-scheme terms revised periodically",
+  "whyItMatters": "NCDC lends for exactly the projects Sikkim's cooperatives need — processing units, storage, dairy and fishery infrastructure, marketing and working capital — either through the state government (with state guarantee) or directly to strong cooperatives. Sub-windows matter for Sikkim: Yuva Sahakar (startup cooperatives, with concessions for NE-region societies per scheme design — requires confirmation), Swayamshakti Sahakar (working capital to SHG-linked cooperatives), and Ayushman Sahakar (health infrastructure by cooperatives). For a state whose apex bodies (SIMFED, Milk Union, MPCS network) are chronically capital-starved, NCDC is the deepest institutional lender available, but everything here is repayable finance, not grant.",
+  "eligibleApplicants": [
+   "Cooperative societies (primary to apex) — directly for eligible societies or routed via State Government",
+   "State Government on behalf of cooperatives"
+  ],
+  "sikkimNodalDept": "Cooperation Department, Government of Sikkim (Registrar of Cooperative Societies)",
+  "whatCanBeFunded": "Term loans and working capital for agro-processing, storage/cold chain, dairy, poultry and fishery units, consumer/marketing federations, service cooperatives; margin money and equity-type support under specific sub-schemes; Yuva Sahakar startup loans for newly formed cooperatives. Interest rates and concessions: Not confirmed from available official guidance.",
+  "fundingAvailable": "Demand-driven project finance (NCDC disburses tens of thousands of crores annually nationwide); no fixed state envelope",
+  "fundingRatio": "Not applicable (loan); NE/weaker-state concessions per sub-scheme: Not confirmed from available official guidance",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "NCDC sub-schemes (e.g., Yuva Sahakar) have historically offered relaxed terms for NE and cooperatively underdeveloped states; current terms require confirmation.",
+  "stateContribution": "State guarantee where loans are routed via State Government",
+  "allocationMethod": "project-by-project sanction",
+  "accessPathway": [
+   "Cooperative prepares project report (processing/storage/dairy/fishery) with financials",
+   "Route application via the Cooperation Department/RCS with state guarantee, or apply directly if eligible under direct funding norms",
+   "NCDC regional office appraises; head office sanctions",
+   "Execute loan documentation and draw funds against milestones",
+   "Service the loan; access repeat finance on good track record"
+  ],
+  "nextAction": "Sikkim Cooperation Department should convene SIMFED, Sikkim Milk Union and district MPCS to shortlist two or three bankable projects and open a sanction dialogue with NCDC's regional office (Guwahati/Kolkata jurisdiction — requires confirmation).",
+  "portal": "https://www.ncdc.in",
+  "applicationWindow": "Rolling (no fixed calls)",
+  "keyDocuments": [
+   {
+    "doc": "Project report with cooperative's financial statements",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State government guarantee (for state-routed loans)",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "NCDC (Managing Director/Board per delegation)",
+  "contact": "NCDC Head Office, Hauz Khas, New Delhi; jurisdictional NCDC Regional Office",
+  "guidelines": [
+   {
+    "title": "NCDC schemes and sub-schemes (Yuva Sahakar, Ayushman Sahakar, Swayamshakti Sahakar)",
+    "url": "https://www.ncdc.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NCDC portal",
+    "publisher": "NCDC / Ministry of Cooperation",
+    "date": "n.d.",
+    "url": "https://www.ncdc.in",
+    "section": "Schemes of assistance"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "No recent NCDC sanction to a Sikkim cooperative located this session."
+  },
+  "potentialUseCases": [
+   "SIMFED organic produce aggregation and storage network (term loan)",
+   "Milk Union product diversification working capital",
+   "Yuva Sahakar loans for youth-led trout or cardamom cooperatives"
+  ],
+  "flags": [
+   "Loans require repayment capacity and typically state guarantee — appraise cooperative balance sheets first",
+   "Current interest rates and NE concessions need confirmation from NCDC"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 2,
+   "fit": 3,
+   "timeSensitivity": 1,
+   "transformational": 3,
+   "rationale": "Deep, always-open financing but repayable and guarantee-dependent; best used for revenue-generating cooperative assets."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "NCDC's role and sub-schemes are well established; terms and Sikkim exposure unverified this session."
+ },
+ {
+  "id": "spices-board-large-cardamom",
+  "name": "Spices Board programmes for large cardamom development and export (including the SPICED scheme)",
+  "shortName": "Spices Board / SPICED",
+  "ministry": "Ministry of Commerce and Industry",
+  "agency": "Spices Board India (statutory board); Indian Cardamom Research Institute regional station in Sikkim",
+  "policyArea": "Spices / export development",
+  "subcategory": "Large cardamom replantation, productivity, post-harvest quality and export promotion",
+  "type": "Other",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Spices Board's SPICED scheme (Sustainability in Spice Sector through Progressive, Innovative and Collaborative Interventions for Export Development) was approved in 2024 for the period to 2025-26 (reported outlay ~Rs 422 crore — requires confirmation); continuation beyond FY2025-26 requires confirmation",
+  "whyItMatters": "Sikkim is India's largest producer of large cardamom (GI-tagged, alongside Dalle chilli), and the Spices Board is the only central agency whose mandate directly funds cardamom replantation/rejuvenation of senile plantations, improved curing (energy-efficient dryers replacing traditional bhattis that degrade quality), quality testing and export development. The SPICED scheme explicitly targets productivity of cardamom and post-harvest quality upgradation, with grower-level assistance administered through Spices Board field offices — the Board maintains research and extension presence in Sikkim through the ICRI regional station. Aligning state horticulture plans with Board assistance can revive Sikkim's declining cardamom yields and capture more export value.",
+  "eligibleApplicants": [
+   "Individual growers and grower groups/FPOs (developmental assistance)",
+   "Exporters (export development components)",
+   "State agencies in convergence (requires confirmation)"
+  ],
+  "sikkimNodalDept": "Horticulture Department, Government of Sikkim (convergence); growers apply to Spices Board field offices",
+  "whatCanBeFunded": "Replantation/rejuvenation of large cardamom, planting material through certified nurseries, improved curing devices, water storage/irrigation support for spice gardens, organic certification support for spices, quality evaluation and export promotion (component menu per SPICED guidelines; current subsidy rates: Not confirmed from available official guidance).",
+  "fundingAvailable": "SPICED national outlay reported ~Rs 422.30 crore (2024 to 2025-26) — requires confirmation; grower-level assistance per component norms",
+  "fundingRatio": "Not confirmed from available official guidance",
+  "nePreference": "true",
+  "nePreferenceDetail": "Large cardamom programmes are inherently NE/Sikkim-focused (crop grown almost entirely in Sikkim, Darjeeling hills and parts of NE); SPICED includes cardamom productivity improvement with attention to NE spices (exact preferential rates require confirmation).",
+  "stateContribution": "None for grower-level Board assistance; state convergence funds optional",
+  "allocationMethod": "demand-driven",
+  "accessPathway": [
+   "Growers/FPOs register with the Spices Board field office (Gangtok/ICRI regional station) (requires confirmation of current office)",
+   "Apply for component-wise assistance (replantation, curing devices) in the Board's application windows",
+   "Board field staff verify gardens and sanction assistance per norms",
+   "For exporters: obtain CRES registration and use export development components",
+   "State Horticulture Department converges planting material and irrigation support"
+  ],
+  "nextAction": "Sikkim Horticulture Department should meet the Spices Board's Sikkim field office to map FY2026-27 SPICED (or successor) windows and launch a joint large-cardamom replantation drive with certified nurseries.",
+  "portal": "https://www.indianspices.com",
+  "applicationWindow": "Component-wise windows announced by Spices Board; current status: Not confirmed from available official guidance",
+  "keyDocuments": [
+   {
+    "doc": "Grower application with land/garden details to Spices Board field office",
+    "certainty": "likely"
+   },
+   {
+    "doc": "CRES registration for exporters",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "Spices Board India",
+  "contact": "Spices Board India, Kochi (HQ); Spices Board/ICRI regional station, Gangtok (likely)",
+  "guidelines": [
+   {
+    "title": "Spices Board — schemes/SPICED",
+    "url": "https://www.indianspices.com"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Spices Board India portal",
+    "publisher": "Ministry of Commerce and Industry",
+    "date": "n.d.",
+    "url": "https://www.indianspices.com",
+    "section": "Developmental schemes"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim growers have long received Spices Board assistance for large cardamom (replantation and curing support) and ICRI maintains a regional research presence for large cardamom in the region; current-scheme Sikkim figures were not located this session."
+  },
+  "potentialUseCases": [
+   "District-scale replantation of senile cardamom gardens with certified suckers",
+   "Improved (fuel-efficient) curing kilns to lift export grade",
+   "Organic-certified large cardamom export consortium with GI branding"
+  ],
+  "flags": [
+   "SPICED outlay/period figures from 2024 announcements — re-verify against Spices Board notification",
+   "Current continuation beyond FY2025-26 needs confirmation",
+   "Assistance rates and application windows unverified"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 3,
+   "fit": 5,
+   "timeSensitivity": 3,
+   "transformational": 4,
+   "rationale": "Modest sums but aimed at Sikkim's single most valuable crop, where yield decline is the state's biggest agri-economic risk."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Spices Board's cardamom mandate is certain; SPICED specifics and Sikkim current participation not re-verified (Board site not loadable this session)."
+ }
+]

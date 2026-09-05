@@ -1,0 +1,165 @@
+[
+  {
+    "title": "Tourism destination development (e.g. Yangang–Bhaleydhunga, West Sikkim circuit)",
+    "goal": "Build one complete destination by financing the anchor attraction, access, utilities, skills and marketing from separate Central windows rather than waiting for a single mega-grant.",
+    "components": [
+      { "schemeId": "sasci-iconic-tourist-centres", "role": "Anchor attraction capital (50-yr interest-free loan) — Sikkim already won 2 of 40 projects in the 2024 round" },
+      { "schemeId": "swadesh-darshan-2-0", "role": "Destination-wide tourist infrastructure and experience development (grant)" },
+      { "schemeId": "prashad-scheme", "role": "Pilgrimage/monastery circuit components (grant)" },
+      { "schemeId": "parvatmala-ropeways", "role": "Ropeway access to viewpoints/monasteries (NHLML-led development)" },
+      { "schemeId": "crif-state-roads", "role": "Last-mile state road upgradation to the destination" },
+      { "schemeId": "amrut-2-0", "role": "Water supply for the host town (statutory towns)" },
+      { "schemeId": "mot-capacity-building-paryatan-mitra", "role": "Guide, homestay and service-provider training" },
+      { "schemeId": "rural-tourism-best-tourism-villages", "role": "Village-level rural tourism and homestay recognition around the destination" }
+    ],
+    "caveat": "Each component is sanctioned separately under its own guidelines by different ministries; no formal pooling is implied. SASCI and Parvatmala involve loans/agency-led execution, not grants. Sequencing and land availability must be coordinated by the Tourism & Civil Aviation Department with Planning/Finance."
+  },
+  {
+    "title": "Border village development (North Sikkim — Muguthang, Lachen–Lachung belt, Dzongu fringe)",
+    "goal": "Converge the Vibrant Villages allocation with connectivity, power, telecom and livelihood schemes so border habitations get a full service bundle, supporting the strategic objective of retaining border populations.",
+    "components": [
+      { "schemeId": "vibrant-villages-programme-1", "role": "Core allocation — village infrastructure, livelihood plans, tourism (Sikkim is a covered state)" },
+      { "schemeId": "nesids-roads", "role": "Inter-village and approach road projects via MDoNER" },
+      { "schemeId": "bharatnet-4g-saturation", "role": "4G coverage and broadband for uncovered border villages" },
+      { "schemeId": "pm-surya-ghar-muft-bijli-yojana", "role": "Rooftop solar for households with higher NE central assistance" },
+      { "schemeId": "day-nrlm-lakhpati-didi", "role": "SHG-based livelihoods and Lakhpati Didi enterprise support" },
+      { "schemeId": "rural-tourism-best-tourism-villages", "role": "Border-village tourism positioning (vibrant village tourism circuits)" },
+      { "schemeId": "udan-helipad-heliport-component", "role": "Heliport/helipad connectivity for remote valleys (subject to route viability)" }
+    ],
+    "caveat": "Vibrant Villages has its own approved village list and district action plans — other components must be targeted to the same villages through the district administration. Defence/BRO clearances apply near the border; timelines are weather-constrained."
+  },
+  {
+    "title": "Organic agriculture value chain (Sikkim's core comparative advantage)",
+    "goal": "Move Sikkim from certified-organic production to branded, processed, exported product by combining the new MDoNER flagship with the standing organic, processing and market-infrastructure schemes.",
+    "components": [
+      { "schemeId": "mission-sikkim-organics-usp", "role": "New ₹360 cr MDoNER-backed flagship — umbrella investment and brand push" },
+      { "schemeId": "movcdner-organic-value-chain", "role": "FPO/FPC formation, certification, collection and processing infrastructure (100% central)" },
+      { "schemeId": "midh-horticulture", "role": "Orchard rejuvenation, protected cultivation, nurseries (90:10)" },
+      { "schemeId": "fpo-10000-formation-scheme", "role": "Additional FPO promotion and management cost support" },
+      { "schemeId": "pmfme-micro-food-processing", "role": "Micro-unit upgrading, ODOP branding, SHG seed capital" },
+      { "schemeId": "agriculture-infrastructure-fund", "role": "Interest-subvented credit for pack-houses, cold rooms, sorting-grading units" },
+      { "schemeId": "pm-kisan-sampada-yojana", "role": "Larger cold-chain and agro-processing cluster projects" },
+      { "schemeId": "spices-board-large-cardamom", "role": "Large cardamom replanting, curing and export development" },
+      { "schemeId": "neramac-nerace-agri-marketing", "role": "Procurement, branding and e-marketing through NE agencies" }
+    ],
+    "caveat": "MOVCDNER and PKVY cover similar certification support — a farmer/cluster should sit under one, not both. AIF is credit, not grant. Convergence is explicitly encouraged in MOVCDNER/PMFME guidelines but each sanction is separate."
+  },
+  {
+    "title": "GLOF, landslide and disaster resilience (post-South Lhonak reconstruction agenda)",
+    "goal": "Stack the dedicated GLOF programme with statutory mitigation funds, space-based monitoring and resilient-infrastructure financing to systematically de-risk the Teesta valley and vulnerable settlements.",
+    "components": [
+      { "schemeId": "ndma-glof-risk-mitigation-programme", "role": "Dedicated GLOF risk mitigation — Sikkim is a priority state after October 2023" },
+      { "schemeId": "sdrf-ndrf-sdmf-ndmf-disaster-funds", "role": "Statutory response (SDRF) and mitigation (SDMF) funds — 90% central share for Sikkim" },
+      { "schemeId": "ndma-mha-preparedness-capacity-schemes", "role": "Early warning, Aapda Mitra volunteers, fire services modernisation" },
+      { "schemeId": "nesac-space-applications", "role": "Satellite-based glacial lake monitoring, landslide mapping, disaster support" },
+      { "schemeId": "springshed-rejuvenation-convergence", "role": "Slope stabilisation and water security through springshed treatment" },
+      { "schemeId": "nabard-ridf", "role": "Concessional loans for protective works, bridges and resilient rural infrastructure" },
+      { "schemeId": "wdc-pmksy-2", "role": "Watershed treatment of degraded, slide-prone catchments" }
+    ],
+    "caveat": "SDRF/SDMF are statutory funds with expenditure norms — they cannot be pooled with scheme money for the same cost item. NDMA programme components and their state shares require confirmation of the current sanction cycle."
+  },
+  {
+    "title": "Mountain-town infrastructure renewal (Gangtok, Namchi, Gyalshing, Mangan)",
+    "goal": "Treat each town as one investment programme: water and sanitation from the urban missions, housing from PMAY-U 2.0, mobility from e-bus support, planning reform money from SASCI, and gap financing from HUDCO.",
+    "components": [
+      { "schemeId": "amrut-2-0", "role": "Universal water supply, sewerage/septage, water bodies (90:10; extended for sanctioned works)" },
+      { "schemeId": "sbm-urban-2-0", "role": "Solid waste processing, used-water management for smaller towns" },
+      { "schemeId": "pmay-urban-2-0", "role": "Housing verticals incl. beneficiary-led construction at 90:10" },
+      { "schemeId": "pm-ebus-sewa", "role": "Electric city buses for Gangtok (expressly eligible NE hill capital) — advocacy needed" },
+      { "schemeId": "amrut-gis-master-plan-subscheme", "role": "GIS-based master plans for the small hill towns" },
+      { "schemeId": "sasci-urban-reform-parts", "role": "Interest-free loan tranches tied to urban planning/finance reforms" },
+      { "schemeId": "16th-fc-ulb-grants", "role": "Formula-based municipal grants 2026-31 — compliance, not application" },
+      { "schemeId": "hudco-urban-financing", "role": "Loan gap-financing for revenue-generating municipal assets" }
+    ],
+    "caveat": "AMRUT 2.0 is currently extended only to complete already-sanctioned projects — new proposals depend on the mission's next phase. HUDCO is debt on the state's books; FC grants have audited-accounts and SFC entry conditions."
+  },
+  {
+    "title": "EV transition and clean mobility",
+    "goal": "Use central charging-infrastructure incentives, e-bus support and distribution-grid strengthening to make Sikkim's short, dense urban corridors an early full-EV showcase.",
+    "components": [
+      { "schemeId": "pm-e-drive-ev-charging", "role": "Public charging infrastructure subsidy for highways and cities" },
+      { "schemeId": "pm-ebus-sewa", "role": "Electric buses and depot infrastructure for Gangtok" },
+      { "schemeId": "rdss", "role": "Distribution network strengthening to carry charging load" },
+      { "schemeId": "pm-surya-ghar-muft-bijli-yojana", "role": "Rooftop solar to offset charging demand" },
+      { "schemeId": "sasci-capital-investment-loans", "role": "Untied 50-yr loan headroom for depots, parking and terminals" }
+    ],
+    "caveat": "PM E-DRIVE demand incentives flow to buyers/operators, not the state treasury; the state's role is aggregation and land. PM-eBus Sewa's national bus cap appears fully allocated — Sikkim's entry point must be confirmed with MoHUA."
+  },
+  {
+    "title": "Renewable energy on the government estate and grid",
+    "goal": "Solarise public buildings, revive small hydro and modernise the distribution grid, using central financial assistance plus concessional IREDA/PFC/REC debt.",
+    "components": [
+      { "schemeId": "pm-surya-ghar-muft-bijli-yojana", "role": "Household rooftop solar with enhanced NE assistance; state push role" },
+      { "schemeId": "mnre-small-hydro-power-development-scheme", "role": "Small hydro development support FY2026-31 — strong Sikkim fit" },
+      { "schemeId": "rdss", "role": "Loss reduction and smart metering for Sikkim's discom functions" },
+      { "schemeId": "bee-sda-energy-efficiency", "role": "State Designated Agency strengthening and efficiency programmes" },
+      { "schemeId": "pfc-rec-ireda-financing-windows", "role": "Concessional debt for generation, grid and solar assets" }
+    ],
+    "caveat": "PFC/REC/IREDA are loans requiring state guarantee or utility balance-sheet strength. Rooftop solar CFA rates for NE states should be confirmed against current MNRE orders before budgeting."
+  },
+  {
+    "title": "Youth skills, enterprise and sports",
+    "goal": "Counter youth outmigration by upgrading the ITI network, expanding skilling and apprenticeships, seeding startups, and building sports pathways.",
+    "components": [
+      { "schemeId": "national-scheme-iti-upgradation", "role": "Hub-and-spoke ITI upgrading under the ₹60,000 cr national scheme" },
+      { "schemeId": "skill-india-programme-pmkvy4", "role": "Short-term skilling, apprenticeship (PM-NAPS) and Jan Shikshan Sansthan" },
+      { "schemeId": "startup-india-seed-fund-and-ranking", "role": "Seed funding via incubators and startup-ecosystem support" },
+      { "schemeId": "atal-innovation-mission-2", "role": "Tinkering labs in schools; incubation centres in institutions" },
+      { "schemeId": "pmegp", "role": "Margin-money subsidy for youth micro-enterprises" },
+      { "schemeId": "khelo-india", "role": "Sports infrastructure and Khelo India centres/talent support" },
+      { "schemeId": "my-bharat-nyks-nss", "role": "Youth volunteering and engagement platforms" }
+    ],
+    "caveat": "PMEGP and startup seed funds flow to entrepreneurs through banks/incubators — the state's lever is sponsorship, incubator quality and land/premises, not direct receipt of funds."
+  },
+  {
+    "title": "Health system strengthening",
+    "goal": "Combine NHM's annual programme money with PM-ABHIM's infrastructure grants, insurance-based revenue under PM-JAY, tele-mental-health and the Sowa-Rigpa opportunity under AYUSH.",
+    "components": [
+      { "schemeId": "national-health-mission-nhm", "role": "Core annual PIP funding at 90:10 — the backbone" },
+      { "schemeId": "pm-abhim-health-infrastructure", "role": "Critical-care blocks, public-health units, surveillance infrastructure" },
+      { "schemeId": "ab-pmjay", "role": "Hospitalisation cover — maximise enrolment and empanelled-hospital revenue" },
+      { "schemeId": "tele-manas-ntmhp", "role": "Tele-mental-health cell — high relevance given substance-use burden" },
+      { "schemeId": "national-ayush-mission-sowa-rigpa", "role": "AYUSH facilities incl. Sowa-Rigpa integration" },
+      { "schemeId": "css-new-medical-colleges", "role": "Medical college attached to district hospital (subject to current phase)" }
+    ],
+    "caveat": "NHM and PM-ABHIM have distinct approval streams (PIP vs infrastructure sanctions); the same facility can receive both only for different cost items. Medical-college scheme phase status needs confirmation."
+  },
+  {
+    "title": "Monastery and Buddhist heritage circuit",
+    "goal": "Restore and present Sikkim's monasteries as a coherent heritage-tourism circuit using culture-ministry grants for conservation and tourism-ministry money for visitor infrastructure.",
+    "components": [
+      { "schemeId": "buddhist-tibetan-arts-culture-scheme", "role": "Monastery preservation, monk education, manuscripts (direct grants to monasteries)" },
+      { "schemeId": "prashad-scheme", "role": "Pilgrimage circuit infrastructure at anchor monasteries" },
+      { "schemeId": "kala-sanskriti-vikas-yojana", "role": "Festivals, performing arts, artist support" },
+      { "schemeId": "museum-grant-scheme", "role": "Monastery museums and interpretation centres" },
+      { "schemeId": "swadesh-darshan-2-0", "role": "Wider destination development around the circuit" },
+      { "schemeId": "rrrlf-library-assistance", "role": "Monastic and public library upgrading" }
+    ],
+    "caveat": "Culture-ministry schemes often fund societies/trusts (the monastery bodies) rather than the state — the Ecclesiastical Affairs Department's role is facilitation and land/consent, with applications by the institutions themselves."
+  },
+  {
+    "title": "Cold chain and market infrastructure",
+    "goal": "Close the post-harvest gap for organic produce, horticulture and fisheries with a mix of grant windows and interest-subvented credit.",
+    "components": [
+      { "schemeId": "pm-kisan-sampada-yojana", "role": "Integrated cold chain and value-addition projects (grant, NE preference)" },
+      { "schemeId": "agriculture-infrastructure-fund", "role": "3% interest subvention + guarantee for storage/logistics credit" },
+      { "schemeId": "midh-horticulture", "role": "Pack-houses, ripening chambers, primary processing" },
+      { "schemeId": "pm-matsya-sampada-yojana", "role": "Trout value chain — hatcheries, ice plants, cold storage" },
+      { "schemeId": "ncdc-cooperative-financing", "role": "Loans to cooperatives for storage and processing assets" },
+      { "schemeId": "ministry-cooperation-pacs-grain-storage", "role": "Decentralised storage through PACS under the grain-storage plan" }
+    ],
+    "caveat": "MoFPI windows open in defined calls (EoI-based) — timing matters. AIF/NCDC are credit instruments; project viability, not just eligibility, decides access."
+  },
+  {
+    "title": "Digital education and connected schools",
+    "goal": "Use school-education missions plus connectivity programmes to give every Sikkim school reliable connectivity, smart classrooms and digital content.",
+    "components": [
+      { "schemeId": "samagra-shiksha", "role": "ICT labs, smart classrooms, teacher training through the annual plan" },
+      { "schemeId": "pm-shri-schools", "role": "Exemplar-school upgrading incl. digital infrastructure" },
+      { "schemeId": "bharatnet-4g-saturation", "role": "Broadband/4G to gram-panchayat and village level" },
+      { "schemeId": "indiaai-and-meity-state-support", "role": "AI/e-governance capacity and platforms for the education department" },
+      { "schemeId": "nmmss-scholarships", "role": "Means-cum-merit scholarships routed through the state" }
+    ],
+    "caveat": "Samagra Shiksha components are capped by the approved annual work plan — digital assets must be proposed in the PAB cycle. BharatNet rollout is centrally executed; the state's lever is prioritisation of unconnected school locations."
+  }
+]
