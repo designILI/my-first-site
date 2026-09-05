@@ -1,0 +1,864 @@
+[
+  {
+    "id": "pmgsy-iv",
+    "name": "Pradhan Mantri Gram Sadak Yojana - Phase IV",
+    "shortName": "PMGSY-IV",
+    "ministry": "Ministry of Rural Development",
+    "agency": "National Rural Infrastructure Development Agency (NRIDA); State Rural Development Department/PIUs",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "Rural roads",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "FY2024-25 to FY2028-29 (Cabinet approved September 2024)",
+    "whyItMatters": "PMGSY has been the backbone of Sikkim's rural road network in steep, landslide-prone terrain, and PMGSY-IV targets 25,000 remaining unconnected habitations nationally with a relaxed population threshold for NE/Himalayan states. Sikkim's scattered hill hamlets (population norm lower for NE/hill states) are exactly the target category. The 90:10 Centre:State pattern for NE states makes it one of the cheapest ways for Sikkim to build all-weather rural connectivity, including climate-resilient designs now emphasised in the phase-IV framework.",
+    "eligibleApplicants": ["State Governments (Rural Development Departments) for eligible unconnected habitations"],
+    "sikkimNodalDept": "Rural Development Department, Government of Sikkim",
+    "whatCanBeFunded": "New all-weather rural road connectivity to eligible unconnected habitations (62,500 km nationally under PMGSY-IV), including bridges/cross-drainage; upgradation under earlier verticals continues per existing sanctions.",
+    "fundingAvailable": "National outlay Rs 70,125 crore for PMGSY-IV (2024-25 to 2028-29); Rs 19,000 crore earmarked for PMGSY in FY2025-26 Union Budget. State-wise allocations are sanction-based, not fixed envelopes.",
+    "fundingRatio": "90:10 Centre:State for the 8 North-Eastern states (including Sikkim) and Himalayan states; 60:40 for other states (confirmed in scheme material and parliamentary answers).",
+    "nePreference": "true",
+    "nePreferenceDetail": "90:10 fund-sharing for NE states including Sikkim; relaxed population threshold for eligibility of habitations in NE/hill states.",
+    "stateContribution": "10% of project cost plus land availability and maintenance liability (post-construction maintenance funded by the state).",
+    "allocationMethod": "DPR submission",
+    "accessPathway": [
+      "Rural Development Department identifies eligible unconnected habitations from the PMGSY-IV eligibility lists validated on the OMMAS/eMARG ecosystem.",
+      "Prepare Detailed Project Reports through the State PIU per NRIDA specifications (hill-road/climate-resilient norms).",
+      "State-level Standing Committee scrutinises and forwards proposals to NRIDA.",
+      "NRIDA/Empowered Committee of MoRD appraises and Ministry sanctions the batch.",
+      "Execute through state PIUs; releases tied to physical/financial progress on OMMAS."
+    ],
+    "nextAction": "Sikkim Rural Development Department should finalise and upload its next PMGSY-IV batch of DPRs for remaining eligible habitations on OMMAS and pursue sanction with NRIDA before the FY2026-27 batch cycle closes.",
+    "portal": "https://pmgsy.nic.in / https://omms.nic.in",
+    "applicationWindow": "Rolling batch-based sanctions through FY2028-29; annual batch cycles.",
+    "keyDocuments": [
+      {"doc": "PMGSY-IV programme guidelines / operational manual", "certainty": "confirmed"},
+      {"doc": "Batch DPRs with State Standing Committee approval", "certainty": "confirmed"},
+      {"doc": "Habitation eligibility data on OMMAS", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Empowered Committee / Ministry of Rural Development (NRIDA appraisal)",
+    "contact": "NRIDA, Ministry of Rural Development, New Delhi; State PIU under Sikkim RDD",
+    "guidelines": [
+      {"title": "PMGSY (pmgsy.nic.in) programme pages and guidelines", "url": "https://pmgsy.nic.in"}
+    ],
+    "sources": [
+      {"title": "Celebrating 25th Anniversary: Pradhan Mantri Gram Sadak Yojana", "publisher": "PIB", "date": "2025", "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=156730&ModuleId=3", "section": "PMGSY-IV outlay, funding pattern"},
+      {"title": "PMGSY - Enhancing Rural Connectivity: Key Takeaways", "publisher": "PIB (backgrounder)", "date": "2025-09", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc2025914636101.pdf", "section": "Phase-wise details incl. PMGSY-IV"},
+      {"title": "Lok Sabha answer on PMGSY (AU1476)", "publisher": "Ministry of Rural Development / Sansad", "date": "2025", "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1476_rKktXN.pdf", "section": "State-wise sanctions"},
+      {"title": "PMGSY-IV: Govt sanctions over 10,000 kms of road projects (incl. Sikkim)", "publisher": "Ommcom News", "date": "2025", "url": "https://ommcomnews.com/india-news/pmgsy-iv-govt-sanctions-over-10000-kms-of-road-projects/", "section": "First PMGSY-IV sanctions"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim is a long-standing PMGSY state and was among the states covered in the first PMGSY-IV sanction tranches (over 10,000 km sanctioned nationally across states including Sikkim). Exact Sikkim km/amount under PMGSY-IV: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": ["All-weather links to remaining unconnected hamlets in Mangan, Gyalshing and Namchi districts", "Climate-resilient rural road designs with slope protection", "Rural bridges replacing monsoon-cut alignments"],
+    "flags": ["Post-construction maintenance is a state liability - budget for it", "Sikkim-specific PMGSY-IV sanction figures need confirmation from OMMAS/MoRD"],
+    "scores": {"financial": 4, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 4, "rationale": "Established pipeline, 90:10 pattern, high fit for scattered hill habitations; window open through 2028-29 so moderate urgency."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Core parameters (period, outlay, 90:10 for NE incl. Sikkim) confirmed via PIB material and parliamentary answers surfaced in official-domain search results; pmgsy.nic.in could not be loaded directly through the research proxy."
+  },
+  {
+    "id": "crif-state-roads",
+    "name": "Central Road & Infrastructure Fund - Development and Maintenance of State Roads",
+    "shortName": "CRIF (State Roads)",
+    "ministry": "Ministry of Road Transport and Highways",
+    "agency": "MoRTH (sanctioning); State PWD/Roads & Bridges Department (executing)",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "State roads",
+    "type": "Statutory/formula transfer",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing statutory fund under CRIF Act 2000 (as amended by Finance Act 2019); annual allocations - Rs 10,430 crore estimated for states/UTs in FY2026-27 (BE).",
+    "whyItMatters": "CRIF is one of the few recurring central grant channels for roads that are the State PWD's own responsibility - state highways and major district roads - which in Sikkim carry most inter-district traffic when NH-10 is cut. The allocation formula (70% geographical area, 30% fuel consumption) is relatively favourable to a small-consumption but mountainous state. It can fund improvement of alternate state corridors that de-risk the single NH-10 lifeline.",
+    "eligibleApplicants": ["State Governments / UTs (road-owning departments)"],
+    "sikkimNodalDept": "Roads & Bridges Department, Government of Sikkim",
+    "whatCanBeFunded": "Development and maintenance works on state roads (improvement, widening, bridges) sanctioned by MoRTH within the state's CRIF allocation; inter-state connectivity and economic-importance roads under a related CRIF window.",
+    "fundingAvailable": "Annual state-wise allocation per statutory criteria: 30% weight to fuel consumption in the state, 70% to geographical area (PIB-confirmed). FY2026-27 all-states estimate Rs 10,430 crore. Sikkim-specific current allocation: Not confirmed from available official guidance.",
+    "fundingRatio": "Works sanctioned by MoRTH are centrally funded from CRIF within the state's accrual; cost-sharing details for ancillary items: Not confirmed from available official guidance.",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "No NE-specific preference confirmed in the allocation formula; area-weighting indirectly helps hill states.",
+    "stateContribution": "Land, utility shifting and any cost above sanctioned amounts (standard practice; exact norms per CRIF circulars).",
+    "allocationMethod": "formula-based",
+    "accessPathway": [
+      "Roads & Bridges Department tracks Sikkim's annual CRIF accrual/allocation communicated by MoRTH.",
+      "Prepare prioritised list of state-road works with estimates/DPRs per MoRTH CRIF circulars.",
+      "Submit proposals to MoRTH (State Roads Zone) for administrative approval against the allocation.",
+      "MoRTH issues sanction; state executes and claims releases per progress (requires confirmation of current release procedure)."
+    ],
+    "nextAction": "Sikkim Roads & Bridges Department should obtain its FY2026-27 CRIF allocation figure from MoRTH and submit a prioritised proposal list (alternate corridors to NH-10, monsoon-damaged state highways) for sanction this fiscal.",
+    "portal": "https://morth.nic.in",
+    "applicationWindow": "Annual proposal cycle against yearly allocation; rolling within the fiscal year.",
+    "keyDocuments": [
+      {"doc": "Work-wise proposals/estimates per MoRTH CRIF circular formats", "certainty": "confirmed"},
+      {"doc": "State's annual CRIF allocation communication", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates for earlier sanctions", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Road Transport and Highways",
+    "contact": "MoRTH State Roads Division, Transport Bhawan, New Delhi",
+    "guidelines": [
+      {"title": "CRIF compendium circular (MoRTH)", "url": "https://morth.gov.in/sites/default/files/comprehensive_compendium_circular/122.2.23%20-18.04.2022%20Setu%20bandhan%20under%20CRIF.pdf"}
+    ],
+    "sources": [
+      {"title": "Development and maintenance of State Roads under CRIF", "publisher": "PIB (MoRTH)", "date": "2023-03-23", "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1909906", "section": "Allocation criteria 30:70"},
+      {"title": "Demand for Grants 2026-27 Analysis: Road Transport and Highways", "publisher": "PRS Legislative Research", "date": "2026", "url": "https://prsindia.org/budgets/parliament/demand-for-grants-2026-27-analysis-road-transport-and-highways", "section": "CRIF FY2026-27 estimates"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "CRIF/CRF state-road allocations are made to all states including Sikkim under the statutory formula (state-wise tables exist in parliamentary answers/Indiastat); a specific recent Sikkim sanction could not be located in this research pass."
+    },
+    "potentialUseCases": ["Upgrading state-highway alternates that bypass NH-10 choke points", "Bridge replacement on major district roads", "Monsoon restoration/strengthening of key state corridors"],
+    "flags": ["Sikkim's current-year allocation figure needs confirmation from MoRTH", "Direct access to morth.nic.in blocked via research proxy - procedure steps flagged (requires confirmation)"],
+    "scores": {"financial": 3, "ease": 4, "fit": 4, "timeSensitivity": 3, "transformational": 3, "rationale": "Reliable recurring grant but modest size for a small state; straightforward established channel."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Formula and scheme confirmed via PIB and PRS; Sikkim-specific figures and current-year procedure not directly verified because MoRTH/PIB sites were unreachable through the proxy."
+  },
+  {
+    "id": "setu-bandhan-crif-bridges",
+    "name": "Setu Bandhan - ROBs/RUBs and Bridges on State Roads under CRIF (with Setu Bharatam context)",
+    "shortName": "Setu Bandhan",
+    "ministry": "Ministry of Road Transport and Highways",
+    "agency": "MoRTH; Ministry of Railways (for ROB/RUB cost-share); State PWD",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "Bridges / rail crossings on state roads",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing CRIF window (operational since 2022 circulars); year-wise allocations issued by MoRTH.",
+    "whyItMatters": "Setu Bandhan funds bridges and rail over/under bridges on state roads from CRIF, over and above the state's normal CRIF allocation. Sikkim currently has no operating railway (so the ROB/RUB stream is prospective - relevant once Sivok-Rangpo opens and level-crossing-free access roads are planned), but the bridge stream matters now: Sikkim's deep river gorges (Teesta, Rangit) make bridges the binding constraint on redundancy of the road network, especially after the 2023 Teesta GLOF destroyed several. Setu Bharatam (2016) is the parallel MoRTH programme for ROBs/bridges on National Highways, executed centrally - context only.",
+    "eligibleApplicants": ["State Governments (road-owning departments); for ROB/RUB works, tripartite MoU with MoRTH and Ministry of Railways"],
+    "sikkimNodalDept": "Roads & Bridges Department, Government of Sikkim",
+    "whatCanBeFunded": "Construction of ROBs/RUBs replacing level crossings on state roads, and bridges on state roads, funded under CRIF per MoRTH's Setu Bandhan circulars and SOP (tripartite MoU route for ROBs/RUBs).",
+    "fundingAvailable": "Year-wise national allocations issued by MoRTH (e.g., revised 2022-23 allocation order for ROBs/RUBs/bridges on state roads under Setu Bandhan). Current-year national envelope: Not confirmed from available official guidance.",
+    "fundingRatio": "Not confirmed from available official guidance.",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "No NE-specific provision located in available circulars.",
+    "stateContribution": "Land, approaches and items outside the sanctioned scope (per SOP; exact split requires confirmation).",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "Roads & Bridges Department identifies bridge/ROB candidates on state roads and prepares estimates/GAD drawings.",
+      "For ROB/RUB: obtain Railways' concurrence and sign the tripartite MoU per MoRTH SOP of 15-09-2022 (requires confirmation of current SOP version).",
+      "Submit proposals to MoRTH for sanction under the Setu Bandhan window of CRIF.",
+      "MoRTH sanctions and allocates; state executes and reports progress."
+    ],
+    "nextAction": "Sikkim Roads & Bridges Department should compile a Setu Bandhan proposal for priority state-road bridges (Teesta/Rangit crossings providing NH-10 redundancy) and take up the pipeline with MoRTH's State Roads/Setu Bandhan zone this fiscal.",
+    "portal": "https://morth.nic.in",
+    "applicationWindow": "Rolling/annual proposal-based; no fixed call located.",
+    "keyDocuments": [
+      {"doc": "MoRTH Setu Bandhan circular under CRIF (18.04.2022)", "certainty": "confirmed"},
+      {"doc": "Tripartite MoU + SOP for ROBs/RUBs on state roads (OM of 15.09.2022)", "certainty": "confirmed"},
+      {"doc": "Bridge DPR/estimate and land availability certificate", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Road Transport and Highways",
+    "contact": "MoRTH (Setu Bandhan/State Roads zone), Transport Bhawan, New Delhi",
+    "guidelines": [
+      {"title": "Setu Bandhan under CRIF - MoRTH circular", "url": "https://morth.gov.in/sites/default/files/comprehensive_compendium_circular/122.2.23%20-18.04.2022%20Setu%20bandhan%20under%20CRIF.pdf"},
+      {"title": "SOP - Tripartite MoU for ROBs/RUBs on State Roads under CRIF (Setu Bandhan)", "url": "https://morth.nic.in/sites/default/files/circulars_document/OM_ROB_Zone_Signing_MOU_SOP_15-09-2022.pdf"}
+    ],
+    "sources": [
+      {"title": "Revised allocation for ROBs/RUBs/Bridges on State roads under Setu Bandhan under CRIF 2022-23", "publisher": "MoRTH", "date": "2022-23", "url": "https://morth.nic.in/sites/default/files/Sanction/Revised%20allocation%20for%20ROBs%20RUBs%20Bridges%20on%20State%20roads%20under%20SETU%20BANDHAN%20unlder%20CRIF%20scheme%20during%202022-23_0001(1).pdf", "section": "Allocation order"},
+      {"title": "Setu Bandhan Scheme: CRIF", "publisher": "Drishti IAS (secondary, discovery)", "date": "2022", "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/setu-bandhan-scheme-crif", "section": "Scheme description"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "No Sikkim-specific Setu Bandhan sanction located; Sikkim has no railway level crossings yet, so participation would be via the state-road bridge stream."
+    },
+    "potentialUseCases": ["Replacement of GLOF-damaged Teesta valley bridges on state roads", "New bridges creating redundancy for NH-10 closures", "Future ROBs on station access roads once Sivok-Rangpo/Rangpo-Gangtok rail opens"],
+    "flags": ["Current-year allocation and SOP version need confirmation with MoRTH", "Distinguish from Setu Bharatam, which covers National Highways and is executed centrally"],
+    "scores": {"financial": 3, "ease": 3, "fit": 4, "timeSensitivity": 2, "transformational": 3, "rationale": "Useful niche window for bridge-heavy Sikkim; procedures MoU-heavy and current envelope unverified."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Scheme mechanics confirmed from MoRTH circular/SOP URLs surfaced in search; documents could not be opened through the proxy, so details are from official titles and secondary summaries."
+  },
+  {
+    "id": "nh-development-sikkim-nho",
+    "name": "National Highways development and maintenance in Sikkim (NH(O)/Bharatmala residual works - executed by MoRTH/NHIDCL/BRO)",
+    "shortName": "NH works in Sikkim",
+    "ministry": "Ministry of Road Transport and Highways",
+    "agency": "NHIDCL (primary executing agency in Sikkim); BRO for designated NH stretches; State PWD as agency where assigned",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "National Highways",
+    "type": "Other",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "Ongoing annual NH(O) works programme; project sanctions continuing FY2026-27.",
+    "whyItMatters": "This is a context record: NH funding is 100% central and executed by central agencies - Sikkim does not 'apply' but nominates, prioritises and facilitates. NH-10 (Sevoke-Rangpo), Sikkim's single lifeline, was handed over to NHIDCL for maintenance in November 2024 (Gazette 29-10-2024) after persistent Sikkim requests, with Rs 51 crore maintenance allocation for FY2024-25 and a Rs 500 crore special restoration allocation released in June 2024. The alternate NH-717A (Bagrakote-Ranipool via Pakyong) is under construction by NHIDCL as a climate-resilient second lifeline, with a Rs 770.25 crore upgrade approved and slope-protection works on vulnerable stretches; NHIDCL is also examining a tunnel bypass at the landslide-prone Bardang stretch.",
+    "eligibleApplicants": ["Not an application scheme - MoRTH/NHIDCL execute; Government of Sikkim nominates priorities, provides land/forest clearance facilitation"],
+    "sikkimNodalDept": "Roads & Bridges Department, Government of Sikkim (NH cell), with Home/Chief Secretary-level coordination",
+    "whatCanBeFunded": "NH construction, upgradation, restoration and maintenance on notified NHs in/serving Sikkim (NH-10, NH-717A, NH-310/310A network); declaration of new NHs in principle possible on state proposal.",
+    "fundingAvailable": "100% Government of India funding through MoRTH annual works programme and project sanctions (e.g., Rs 770.25 crore NH-717A upgrade; Rs 500 crore NH-10 special restoration, June 2024).",
+    "fundingRatio": "100% central (National Highways are a Union responsibility).",
+    "nePreference": "true",
+    "nePreferenceDetail": "NHIDCL was created specifically for NE/strategic border states and executes NH works in Sikkim; NE states receive dedicated NH investment attention (SARDP-NE legacy).",
+    "stateContribution": "Land acquisition facilitation, forest/wildlife clearance support, utility shifting coordination, law-and-order support.",
+    "allocationMethod": "ministry approval",
+    "accessPathway": [
+      "State identifies NH priorities (new declarations, upgrades, restoration) through the Roads & Bridges Department.",
+      "Take up priorities with MoRTH/NHIDCL via state-level review meetings and the annual NH works programme proposals.",
+      "MoRTH sanctions works; NHIDCL/BRO/state-PWD-as-agency execute.",
+      "State expedites land, forest clearance and utility shifting to keep sanctioned works moving."
+    ],
+    "nextAction": "Sikkim Roads & Bridges Department should press MoRTH/NHIDCL for time-bound completion of NH-717A and a decision on the Bardang tunnel alternative on NH-10 in the next state-MoRTH review meeting.",
+    "portal": "https://www.nhidcl.com",
+    "applicationWindow": "n/a - works executed by central agencies on ministry sanction",
+    "keyDocuments": [
+      {"doc": "State priority list for annual NH works programme", "certainty": "likely"},
+      {"doc": "Land/forest clearance documentation for sanctioned NH projects", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Road Transport and Highways",
+    "contact": "NHIDCL Regional Office (Gangtok/Sikkim projects); MoRTH NH zone for West Bengal/Sikkim",
+    "guidelines": [
+      {"title": "NHIDCL Sikkim project pages", "url": "https://www.nhidcl.com/en/taxonomy/term/337"}
+    ],
+    "sources": [
+      {"title": "Maintenance, upgradation of NH-10 in Sikkim to be handed over NHAI/NHIDCL soon", "publisher": "Northeast Live", "date": "2024", "url": "https://northeastlivetv.com/around-ne/sikkim/maintenance-upgradation-of-nh-10-in-sikkim-to-be-handed-over-nhai-nhidcl/", "section": "NH-10 handover"},
+      {"title": "Rs 770.25 Cr Approved for NH-717A Upgrade in West Bengal and Sikkim", "publisher": "Northeast Live", "date": "2025", "url": "https://northeastlivetv.com/topnews/rs-770-25-cr-approved-for-nh-717a-upgrade-in-west-bengal-and-sikkim/", "section": "NH-717A sanction"},
+      {"title": "Realignment of NH-717A ... in the State of Sikkim on EPC Mode", "publisher": "NHIDCL", "date": "n.d.", "url": "https://www.nhidcl.com/en/sikkim/Project/realignment-nh-717a-design-ch-000-km-77800-nh-10-design-ch200-km-3100-nh-717a-two", "section": "Project record"},
+      {"title": "NHIDCL mulling construction of alternative tunnel as landslide risk looms on NH-10", "publisher": "The Statesman", "date": "2026", "url": "https://www.thestatesman.com/cities/kolkata/nhidcl-mulling-construction-of-alternative-tunnel-as-landslide-risk-looms-on-nh-10-1503624276.html", "section": "Bardang tunnel"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "NH-10 maintenance transferred to NHIDCL (Nov 2024) with Rs 51 crore FY2024-25 maintenance allocation and Rs 500 crore special restoration release (June 2024); NH-717A alternate highway under construction/upgrade (Rs 770.25 crore approved)."
+    },
+    "potentialUseCases": ["Completion of NH-717A as second lifeline", "Bardang tunnel/realignment on NH-10", "New NH declarations for strategic state corridors"],
+    "flags": ["Context record - Sikkim nominates/facilitates rather than applies", "Figures from credible regional press; MoRTH primary pages unreachable through proxy"],
+    "scores": {"financial": 5, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 5, "rationale": "Largest resource flows and existential connectivity stakes, but state role is facilitation/advocacy rather than direct drawdown."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "NH-10 handover and NH-717A works corroborated by multiple regional outlets and NHIDCL project listings found via search; direct fetch of nhidcl.com/morth.nic.in blocked by proxy."
+  },
+  {
+    "id": "parvatmala-ropeways",
+    "name": "Parvatmala Pariyojana - National Ropeways Development Programme",
+    "shortName": "Parvatmala",
+    "ministry": "Ministry of Road Transport and Highways",
+    "agency": "National Highways Logistics Management Limited (NHLML)",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "Ropeways / urban aerial transit",
+    "type": "Infrastructure financing",
+    "grantOrLoan": "Mixed",
+    "status": "Active",
+    "period": "Announced Union Budget 2022-23; rolling pipeline - target 250+ ropeway projects / 1,200+ km over the programme horizon.",
+    "whyItMatters": "Arguably the most Sikkim-shaped central programme in this cluster: ropeways bypass landslide-prone hairpin roads, serve pilgrimage/tourism sites, and can function as urban transit for congested ridge-top Gangtok. PIB programme material explicitly names Sikkim among focus states. Sikkim has announced the 'Golden Jubilee Cable Car' for Gangtok (DPR decision taken) and has a published state feasibility report for a Gangtok cable-car public transport system on PPP mode - a natural candidate for Parvatmala/NHLML structuring.",
+    "eligibleApplicants": ["State Governments propose projects/sign MoUs with NHLML; private concessionaires bid for DBFOT PPP concessions"],
+    "sikkimNodalDept": "Tourism & Civil Aviation Department (ropeways for tourism) with Roads & Bridges/UD Department for urban cable car; likely lead: Tourism & Civil Aviation Department",
+    "whatCanBeFunded": "Development of ropeway/cable-car projects (feasibility, DPR support, and PPP concession structuring) mainly on Design-Build-Finance-Operate-Transfer (DBFOT) PPP mode; central support modality per project (VGF/annuity) as structured by NHLML.",
+    "fundingAvailable": "Project-by-project; no fixed state envelope. 256 ropeway proposals submitted by states nationally; MoUs signed with 13+ states/UTs. Sikkim-specific envelope: Not confirmed from available official guidance.",
+    "fundingRatio": "Not confirmed from available official guidance.",
+    "nePreference": "true",
+    "nePreferenceDetail": "Programme explicitly targets Himalayan/hill states; PIB backgrounder names Sikkim among covered states. No confirmed differential funding ratio.",
+    "stateContribution": "Land/right-of-way, clearances, and support agreements per concession structure (requires confirmation).",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "State signs/updates MoU with NHLML for ropeway development (requires confirmation whether Sikkim has signed).",
+      "Submit candidate ropeway alignments with pre-feasibility to NHLML.",
+      "NHLML conducts feasibility/DPR and structures the DBFOT PPP concession.",
+      "State provides land, clearances and support agreements; concession awarded through bidding.",
+      "For a state-led route (e.g., Gangtok cable car PPP), align the state feasibility work with NHLML appraisal to access central structuring/support."
+    ],
+    "nextAction": "Sikkim Tourism & Civil Aviation Department should formally submit the Gangtok 'Golden Jubilee Cable Car' and priority tourism ropeway alignments to NHLML under Parvatmala and confirm/execute the state MoU.",
+    "portal": "https://nhlml.org/ropeways",
+    "applicationWindow": "Rolling - proposals accepted from states on an ongoing basis.",
+    "keyDocuments": [
+      {"doc": "State-NHLML MoU for ropeway development", "certainty": "confirmed"},
+      {"doc": "Pre-feasibility/feasibility report for proposed alignment", "certainty": "confirmed"},
+      {"doc": "Land and clearance commitments for concession", "certainty": "likely"}
+    ],
+    "approvingAuthority": "MoRTH / NHLML board (project approval); concession award via competitive bidding",
+    "contact": "NHLML, New Delhi (MoRTH SPV)",
+    "guidelines": [
+      {"title": "Parvatmala: National Ropeways Development Programme - PIB backgrounder", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/mar/doc2025311518501.pdf"},
+      {"title": "NHLML Ropeways", "url": "https://nhlml.org/ropeways"}
+    ],
+    "sources": [
+      {"title": "Parvatmala: National Ropeways Development Programme", "publisher": "PIB", "date": "2025-03", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110398", "section": "Programme design, focus states incl. Sikkim"},
+      {"title": "Parvatmala Scheme Gets Overwhelming Response, States Submit 256 Ropeway Projects", "publisher": "Swarajya", "date": "2023-24", "url": "https://swarajyamag.com/reports/parvatmala-scheme-gets-overwhelming-response-states-submit-256-ropeway-projects-for-central-support", "section": "State proposals"},
+      {"title": "Sikkim CM Unveils 'Golden Jubilee Cable Car' Initiative", "publisher": "Swarajya", "date": "2025", "url": "https://swarajyamag.com/news-brief/sikkim-cm-unveils-golden-jubilee-cable-car-initiative-paving-the-way-for-gangtoks-ropeway-project", "section": "Gangtok ropeway"},
+      {"title": "Feasibility Report - Development of Cable Car as Public Transport for Gangtok on PPP mode", "publisher": "Government of Sikkim", "date": "2024-05", "url": "https://www.sikkim.gov.in/uploads/DeptUploads/Feasibility_Report_on_development_of_Cable_Car_20240509.pdf", "section": "State feasibility study"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim named among Parvatmala focus states in PIB material; state has its own Gangtok cable-car PPP feasibility report (2024) and announced the Golden Jubilee Cable Car with DPR decision. Whether the Gangtok project is formally under NHLML/Parvatmala: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": ["Gangtok urban cable-car public transport (Golden Jubilee Cable Car)", "Tourism ropeways (e.g., pilgrimage/viewpoint sites in Namchi, Pelling area)", "Ropeway links to landslide-cut habitations as road-independent access"],
+    "flags": ["Mode of central financial support per project (VGF vs NHLML equity vs pure PPP) needs confirmation with NHLML", "Confirm whether Sikkim has a signed Parvatmala MoU"],
+    "scores": {"financial": 4, "ease": 2, "fit": 5, "timeSensitivity": 3, "transformational": 5, "rationale": "Transformational fit for a mountain capital with a single road lifeline; PPP structuring complexity lowers ease."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Programme parameters from PIB backgrounder located via search (PIB direct fetch blocked); Sikkim-specific Parvatmala status pieced from state and press sources."
+  },
+  {
+    "id": "modified-udan-rcs",
+    "name": "Regional Connectivity Scheme - Modified UDAN",
+    "shortName": "Modified UDAN",
+    "ministry": "Ministry of Civil Aviation",
+    "agency": "Airports Authority of India (RCS implementing agency)",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "Regional air connectivity",
+    "type": "Viability-gap funding",
+    "grantOrLoan": "Mixed",
+    "status": "Active",
+    "period": "FY2026-27 to FY2035-36 (10 years); Cabinet approved 2026, launched 4 July 2026.",
+    "whyItMatters": "Modified UDAN replaces the expiring RCS-UDAN with a Rs 28,840 crore, 10-year programme - VGF of Rs 10,043 crore for airlines, Rs 12,159 crore for aerodrome development and Rs 3,661 crore for 200 helipads focused on hilly/NE/island/aspirational areas. For Sikkim this is the vehicle to keep Pakyong (a UDAN-operationalised greenfield airport with chronic viability and weather constraints) served, to add small-aircraft routes, and to bring its helicopter network (Gangtok-Bagdogra and intra-state heli services) under subsidised RCS heli routes. NE states carry only 10% of the VGF share versus 20% for other states.",
+    "eligibleApplicants": ["Airlines/heli operators bid for routes; State Governments participate via MoU, concessions and VGF share; airport/helipad development proposals routed through MoCA/AAI"],
+    "sikkimNodalDept": "Tourism & Civil Aviation Department, Government of Sikkim",
+    "whatCanBeFunded": "Viability gap funding for RCS routes (fixed-wing, small aircraft and helicopters, up to 5 years per route), revival/development of unserved aerodromes, 200 modern helipads, and O&M support for small airports (capped at Rs 3.06 crore per annum per airport for three years).",
+    "fundingAvailable": "National outlay Rs 28,840 crore over FY2026-27 to FY2035-36 (VGF Rs 10,043 crore; aerodrome development Rs 12,159 crore; helipad development Rs 3,661 crore).",
+    "fundingRatio": "VGF sharing Centre:State = 90:10 for North-Eastern states (including Sikkim) vs 80:20 for other states (per RCS/UDAN scheme framework; confirm carry-over into Modified UDAN documents).",
+    "nePreference": "true",
+    "nePreferenceDetail": "Lower state VGF share (10%) for NE states; priority to hilly/NE regions in helipad and small-aerodrome components.",
+    "stateContribution": "10% of route VGF; concessions per MoU - VAT/ATF tax reduction at RCS airports, free land, security and fire services, concessional utilities.",
+    "allocationMethod": "competitive application",
+    "accessPathway": [
+      "Tourism & Civil Aviation Department signs/renews the RCS MoU with MoCA/AAI covering Modified UDAN concessions (requires confirmation of fresh MoU requirement).",
+      "Propose priority routes (Pakyong to metro/regional cities; heli routes Gangtok-Bagdogra and intra-Sikkim) for inclusion in RCS bidding rounds.",
+      "AAI invites bids; airlines/heli operators quote VGF; state commits its 10% VGF share and concessions.",
+      "Separately, propose helipad/aerodrome development works (e.g., new helipads, Pakyong O&M support) to MoCA under the infrastructure components.",
+      "Awarded routes operate with VGF for up to 5 years; state monitors and disburses its share."
+    ],
+    "nextAction": "Sikkim Tourism & Civil Aviation Department should submit its priority route and helipad list (Pakyong routes, Gangtok-Bagdogra heli, district helipads) to MoCA/AAI for the first Modified UDAN bidding round and confirm the state MoU covering FY2026-27 onward.",
+    "portal": "https://www.civilaviation.gov.in (RCS-UDAN section)",
+    "applicationWindow": "First Modified UDAN cycle underway following 4 July 2026 launch; bidding round timelines per AAI notices (requires confirmation).",
+    "keyDocuments": [
+      {"doc": "Modified UDAN scheme document (MoCA)", "certainty": "likely"},
+      {"doc": "State-MoCA RCS MoU with concession commitments", "certainty": "confirmed"},
+      {"doc": "UDAN operational manual", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Civil Aviation / AAI (route award through bidding)",
+    "contact": "RCS Cell, Airports Authority of India, New Delhi",
+    "guidelines": [
+      {"title": "UDAN Manual", "url": "https://www.civilaviation.gov.in/sites/default/files/migration/UDAN-Manual.pdf"},
+      {"title": "Cabinet approves RCS - Modified UDAN (Rs 28,840 crore)", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-regional-connectivity-scheme-modified-udan-with-a-total-outlay-of-rs-28840-crore/"}
+    ],
+    "sources": [
+      {"title": "Cabinet approves Regional Connectivity Scheme - Modified UDAN", "publisher": "PMO India", "date": "2026", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-regional-connectivity-scheme-modified-udan-with-a-total-outlay-of-rs-28840-crore/", "section": "Outlay, components, period"},
+      {"title": "Modified UDAN: Strengthening India's Regional Aviation Network", "publisher": "PIB (backgrounder)", "date": "2026-07-17", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jul/doc2026717924201.pdf", "section": "Component-wise outlays, helipads, O&M support"},
+      {"title": "PM Modi launches Modified UDAN scheme", "publisher": "Manorama Yearbook", "date": "2026-07-06", "url": "https://www.manoramayearbook.in/current-affairs/india/2026/07/06/modified-udan-scheme-upsc.html", "section": "Launch date"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Pakyong greenfield airport was operationalised under RCS-UDAN with subsidised routes (e.g., to Kolkata/Delhi at various times); Sikkim operates STDC helicopter services from Burtuk helipad. Sikkim-specific awards under the new Modified UDAN rounds: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": ["Restoring/expanding Pakyong fixed-wing routes with VGF and O&M support", "RCS heli routes Gangtok-Bagdogra and to district helipads", "Development of modern helipads in North/West Sikkim under the 200-helipad component"],
+    "flags": ["Confirm NE 90:10 VGF sharing is retained verbatim in the Modified UDAN scheme document", "Pakyong's weather/ILS constraints affect route viability - pair with O&M support component"],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 5, "transformational": 4, "rationale": "Brand-new 10-year window just launched (July 2026) with explicit hilly/NE priority - first bidding rounds are the moment to lock in routes."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Cabinet approval, outlay, components and launch confirmed across PMO/PIB-derived material; exact bidding-round calendar and Modified UDAN VGF-share text need confirmation from the scheme document (MoCA site unreachable via proxy)."
+  },
+  {
+    "id": "udan-helipad-heliport-component",
+    "name": "Helipad/Heliport and Small Aerodrome Development under Modified UDAN (helicopter and small aircraft stream)",
+    "shortName": "UDAN helipad component",
+    "ministry": "Ministry of Civil Aviation",
+    "agency": "Airports Authority of India / MoCA",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "Heliports / helipads / small aircraft infrastructure",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Eight-year infrastructure build-out within Modified UDAN (FY2026-27 onward).",
+    "whyItMatters": "Sikkim's terrain makes helicopters the only realistic year-round access to much of the state, for tourism, medical evacuation, disaster response (the 2023 GLOF showed heli-dependence) and border logistics. Modified UDAN earmarks Rs 3,661 crore for 200 modern helipads with an explicit focus on hilly, NE, island and aspirational regions, plus O&M support for small aerodromes - directly applicable to Burtuk helipad modernisation, new district heliports and keeping small-aircraft operations viable at Pakyong.",
+    "eligibleApplicants": ["State Governments proposing helipad/heliport sites; AAI/MoCA for execution; heli operators for routes (separate VGF stream)"],
+    "sikkimNodalDept": "Tourism & Civil Aviation Department, Government of Sikkim",
+    "whatCanBeFunded": "Construction/upgradation of modern helipads and heliports; revival/development of small aerodromes; O&M support (up to Rs 3.06 crore/year for 3 years per small airport).",
+    "fundingAvailable": "Rs 3,661 crore nationally for helipad development (within Rs 12,159 crore aerodrome + Rs 3,661 crore helipad infrastructure envelope of Modified UDAN).",
+    "fundingRatio": "Not confirmed from available official guidance.",
+    "nePreference": "true",
+    "nePreferenceDetail": "Helipad component explicitly prioritises hilly, Northeast, island and aspirational regions.",
+    "stateContribution": "Land and site clearances (standard for RCS aerodrome works); precise norms: Not confirmed from available official guidance.",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "Tourism & Civil Aviation Department maps candidate helipad/heliport sites (district HQs, border blocks, disaster-response nodes).",
+      "Submit site proposals with land availability to MoCA/AAI under the Modified UDAN helipad component (detailed selection procedure requires confirmation).",
+      "MoCA/AAI appraise and sanction development works.",
+      "Pair infrastructure with RCS heli-route bids so completed helipads get subsidised services."
+    ],
+    "nextAction": "Sikkim Tourism & Civil Aviation Department should prepare a prioritised list of helipad/heliport sites with land certificates and submit it to MoCA/AAI for inclusion in the first Modified UDAN helipad selection cycle.",
+    "portal": "https://www.civilaviation.gov.in",
+    "applicationWindow": "First selection cycles post-July 2026 launch; exact calendar: Not confirmed from available official guidance.",
+    "keyDocuments": [
+      {"doc": "Site proposals with land availability certificates", "certainty": "likely"},
+      {"doc": "Modified UDAN scheme document (infrastructure components)", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Civil Aviation / AAI",
+    "contact": "RCS Cell, AAI; MoCA UDAN division",
+    "guidelines": [
+      {"title": "Modified UDAN PIB backgrounder (component outlays)", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jul/doc2026717924201.pdf"}
+    ],
+    "sources": [
+      {"title": "Modified UDAN: Strengthening India's Regional Aviation Network", "publisher": "PIB (backgrounder)", "date": "2026-07-17", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jul/doc2026717924201.pdf", "section": "200 helipads, Rs 3,661 crore, O&M support"},
+      {"title": "RCS - Modified UDAN Launched", "publisher": "Vision IAS (secondary, discovery)", "date": "2026-07-06", "url": "https://visionias.in/current-affairs/news-today/2026-07-06/economics-(indian-economy)/regional-connectivity-scheme-rcs-modified-udan-launched", "section": "Launch and components"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim operates the STDC helicopter service from Burtuk helipad (Gangtok-Bagdogra); Pakyong operationalised under earlier UDAN rounds. Participation in the new helipad component: No participation located yet (scheme launched July 2026)."
+    },
+    "potentialUseCases": ["Modern heliport at Gangtok (Burtuk upgrade)", "District helipads in Mangan/Soreng/border blocks for HADR and tourism", "O&M support application for Pakyong small-aerodrome operations"],
+    "flags": ["Detailed helipad-selection guidelines not yet located - pathway steps (requires confirmation)", "Advanced Landing Grounds for military use are a MoD/IAF matter, outside this civil scheme"],
+    "scores": {"financial": 3, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 4, "rationale": "Purpose-built for states like Sikkim; early-mover advantage in the first selection cycle of a brand-new component."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Component outlays confirmed via PIB backgrounder; state-facing application procedure not yet published/located."
+  },
+  {
+    "id": "sivok-rangpo-railway",
+    "name": "Sivok-Rangpo New Railway Line and proposed Rangpo-Gangtok extension (context record - Ministry of Railways executes)",
+    "shortName": "Sivok-Rangpo rail",
+    "ministry": "Ministry of Railways",
+    "agency": "IRCON International (executing agency), Northeast Frontier Railway",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "Railways",
+    "type": "Other",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "Under construction; ~77% physical progress (mid-2026), completion targeted December 2027; Rangpo-Gangtok Phase-II at survey/DPR stage.",
+    "whyItMatters": "Sikkim is the only NE state without rail connectivity; the 44.96 km Sivok-Rangpo line (about 39 km in tunnels, ~36 km bored by mid-2026) will give Sikkim its first rail head at Rangpo and a strategic alternative to NH-10. Final Location Survey for the Rangpo-Gangtok extension is complete and a DPR has been sanctioned. This is centrally funded and executed - Sikkim's role is land, rehabilitation, law-and-order and advocacy for the Gangtok extension and onward planning (station-area access, logistics facilities at Rangpo).",
+    "eligibleApplicants": ["Not an application scheme - fully central railway project; State Government facilitates and advocates"],
+    "sikkimNodalDept": "Roads & Bridges/Transport Department with Land Revenue & Disaster Management Department (land); coordination via Chief Secretary's office (likely)",
+    "whatCanBeFunded": "New railway line construction (Sivok-Rangpo), and prospectively the Rangpo-Gangtok extension; state-side complementary works (station access roads, logistics terminals) would come from other schemes (CRIF, SASCI, Gati Shakti planning).",
+    "fundingAvailable": "100% Ministry of Railways funding (project cost borne on railway budget; strategic-line cost-sharing arrangements between MoR/MoF as applicable).",
+    "fundingRatio": "100% central for the railway works; Sikkim provides land facilitation. Precise cost-sharing on the extension: Not confirmed from available official guidance.",
+    "nePreference": "true",
+    "nePreferenceDetail": "National-project-style priority to NE rail connectivity; Sivok-Rangpo repeatedly reviewed at parliamentary/PMO level.",
+    "stateContribution": "Land acquisition facilitation, forest/wildlife clearance support, muck-disposal sites, law-and-order.",
+    "allocationMethod": "other (central railway project sanction; state facilitates)",
+    "accessPathway": [
+      "Maintain a state-level project facilitation cell for land/clearance issues on the Sikkim portion (Rangpo station area).",
+      "Press Ministry of Railways for early sanction/funding of the Rangpo-Gangtok Phase-II based on the completed Final Location Survey and sanctioned DPR.",
+      "Plan complementary state infrastructure (access roads, parking, logistics yard at Rangpo) through CRIF/SASCI ahead of commissioning."
+    ],
+    "nextAction": "The Chief Secretary's office should formally take up early approval and funding of the Rangpo-Gangtok extension with the Ministry of Railways, citing the completed Final Location Survey, while tasking departments to plan Rangpo station-area connectivity before the line opens.",
+    "portal": null,
+    "applicationWindow": "n/a",
+    "keyDocuments": [
+      {"doc": "Final Location Survey / DPR for Rangpo-Gangtok", "certainty": "confirmed"},
+      {"doc": "State land and clearance facilitation records", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Railways / Cabinet Committee on Economic Affairs (for new line sanction)",
+    "contact": "Northeast Frontier Railway (Construction); IRCON project office, Sivok-Rangpo",
+    "guidelines": [],
+    "sources": [
+      {"title": "Parliamentary Committee Reviews Sivok-Rangpo Rail Project", "publisher": "The Daily Pioneer", "date": "2026-06", "url": "https://dailypioneer.com/news/parliamentary-committee-on-railways-reviews-strategic-infrastructure", "section": "77% progress, Dec 2027 target"},
+      {"title": "Final Location Survey completed for proposed Rangpo-Gangtok railway line", "publisher": "Sikkim Express", "date": "2025-26", "url": "https://sikkimexpress.com/news-details/final-location-survey-completed-for-proposed-rangpo-gangtok-railway-line", "section": "Extension status"},
+      {"title": "DPR for Rangpo-Gangtok Railway Project Sanctioned; Sevoke-Rangpo Nears Completion", "publisher": "Northeast Live", "date": "2025-26", "url": "https://northeastlivetv.com/topnews/dpr-for-rangpo-gangtok-railway-project-sanctioned-sevoke-rangpo-rail-project-nears-completion-2/", "section": "DPR sanction"},
+      {"title": "Sivok-Rangpo line", "publisher": "Wikipedia (secondary, discovery)", "date": "2026", "url": "https://en.wikipedia.org/wiki/Sivok%E2%80%93Rangpo_line", "section": "Project parameters"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Line under construction to Rangpo (Sikkim); Government of Sikkim engaged via Chief Secretary-level reviews and land facilitation; Rangpo-Gangtok FLS complete and DPR sanctioned."
+    },
+    "potentialUseCases": ["First rail head logistics hub at Rangpo (freight for the state)", "Advocacy for Rangpo-Gangtok sanction", "Multimodal planning of station access under PM Gati Shakti"],
+    "flags": ["Context record - no state drawdown; complementary works must be funded from other schemes", "Completion dates have slipped repeatedly - treat Dec 2027 as indicative"],
+    "scores": {"financial": 5, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 5, "rationale": "Highest transformational stakes in the cluster; state role is facilitation and readiness, not fund access."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Progress figures corroborated by parliamentary-committee coverage and multiple regional reports in June 2026."
+  },
+  {
+    "id": "pm-gati-shakti",
+    "name": "PM Gati Shakti National Master Plan (state participation, NMP/SMP portals, district master plans, capacity building)",
+    "shortName": "PM Gati Shakti",
+    "ministry": "Ministry of Commerce and Industry (DPIIT)",
+    "agency": "DPIIT Logistics Division; BISAG-N (technology); Network Planning Group",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "Integrated infrastructure planning",
+    "type": "Technical assistance",
+    "grantOrLoan": "Technical assistance",
+    "status": "Active",
+    "period": "Launched October 2021; ongoing - all 36 States/UTs have State Master Plan portals; District Master Plan portals being rolled out in phases.",
+    "whyItMatters": "Gati Shakti gives Sikkim a GIS decision-support system to plan road, rail-head, ropeway, helipad and utility investments on one map - critical where terrain makes alignment conflicts and disaster exposure expensive. Sikkim's State Master Plan portal (built with BISAG-N) exists as part of the all-36-states rollout, and the District Master Plan initiative extends this to district-level planning and social-sector gap identification. Capacity building (iGOT courses, DPIIT workshops) is centrally provided. In earlier years SASCI included Gati Shakti-linked incentive parts, so a good SMP also strengthens loan drawdown cases.",
+    "eligibleApplicants": ["State Governments (planning/industries departments); district administrations for DMPs"],
+    "sikkimNodalDept": "Commerce & Industries Department, Government of Sikkim (likely nodal for Gati Shakti/logistics), with Planning & Development Department",
+    "whatCanBeFunded": "Not a funding scheme per se: provides the NMP/SMP GIS platform, data layers, Network Planning Group appraisal for large projects, capacity building/training, and district master plan tooling. Any direct central funding support to states for SMP units: Not confirmed from available official guidance.",
+    "fundingAvailable": "Platform, tools and training centrally provided; no state fund envelope.",
+    "fundingRatio": "",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "NE infrastructure gaps are a stated NMP priority area, but no Sikkim-specific preferential provision confirmed.",
+    "stateContribution": "Staffing an SMP cell, uploading/maintaining state data layers, institutional mechanism (Empowered Group of Secretaries equivalent at state level).",
+    "allocationMethod": "other (platform participation and institutional integration)",
+    "accessPathway": [
+      "Maintain the Sikkim State Master Plan portal with updated infrastructure and land-use layers via BISAG-N.",
+      "Route major state infrastructure proposals through the state Gati Shakti institutional mechanism for synchronised planning.",
+      "Adopt District Master Plan portals for Sikkim's six districts as the phased national rollout reaches them.",
+      "Enrol officials in DPIIT/iGOT Gati Shakti training modules.",
+      "Use NMP data to strengthen DPRs submitted under PMGSY, CRIF, SASCI and Parvatmala."
+    ],
+    "nextAction": "Sikkim Commerce & Industries Department should audit the currency of Sikkim's SMP data layers with BISAG-N and get all six districts onboarded to the District Master Plan portal rollout.",
+    "portal": "https://pmgatishakti.gov.in",
+    "applicationWindow": "n/a - continuous participation",
+    "keyDocuments": [
+      {"doc": "State Master Plan data layers and institutional notification", "certainty": "likely"}
+    ],
+    "approvingAuthority": "DPIIT / Network Planning Group (for project appraisal)",
+    "contact": "Logistics Division, DPIIT, Ministry of Commerce and Industry",
+    "guidelines": [
+      {"title": "PM Gati Shakti National Master Plan portal", "url": "https://pmgatishakti.gov.in"}
+    ],
+    "sources": [
+      {"title": "PM GatiShakti National Master Plan completes 3 years", "publisher": "PIB (via TaxTMI reproduction)", "date": "2024-10", "url": "https://www.taxtmi.com/news?id=27999", "section": "SMP portals for all 36 states/UTs, DMP rollout, training"},
+      {"title": "PM GatiShakti National Master Plan Completed 4 Years", "publisher": "NEXT IAS (secondary, discovery)", "date": "2025-10", "url": "https://www.nextias.com/ca/current-affairs/15-10-2025/pm-gatishakti-4-years", "section": "Status update"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "All 36 States/UTs, including Sikkim, have developed State Master Plan portals aligned with the NMP; Sikkim-specific DMP onboarding status: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": ["Integrated planning of Rangpo rail-head logistics", "Alignment de-confliction for ropeways/helipads/roads", "Disaster-exposure overlay for infrastructure siting"],
+    "flags": ["No direct fund flow - value is planning leverage across other schemes"],
+    "scores": {"financial": 1, "ease": 4, "fit": 4, "timeSensitivity": 2, "transformational": 3, "rationale": "Zero-cost planning infrastructure that multiplies the quality of funding bids elsewhere."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "National rollout facts confirmed from PIB-derived material; Sikkim's SMP/DMP operational depth not independently verified."
+  },
+  {
+    "id": "sasci-capital-investment-loans",
+    "name": "Scheme for Special Assistance to States for Capital Investment (SASCI) - 50-year interest-free loans, FY2026-27 iteration",
+    "shortName": "SASCI",
+    "ministry": "Ministry of Finance",
+    "agency": "Department of Expenditure (PF-S Division)",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "State capital expenditure financing",
+    "type": "Concessional loan",
+    "grantOrLoan": "Loan",
+    "status": "Active",
+    "period": "Annual iterations since FY2020-21; FY2026-27 guidelines issued 27 March 2026 (F.No. 44(1)/PF-S/2026-27 (CAPEX)); cumulative allocations Rs 5.3+ lakh crore since inception.",
+    "whyItMatters": "SASCI is the single largest flexible capital-investment channel available to Sikkim - a 50-year INTEREST-FREE LOAN (not a grant) over and above normal borrowing limits. The FY2026-27 iteration earmarks Rs 75,000 crore under Part-I alone, of which Rs 67,000 crore goes to states in proportion to their 16th Finance Commission tax-devolution share - Sikkim's share flows automatically once it submits eligible projects. Further reform/incentive-linked parts (public finance IT, mining, AgriStack, livestock, financial management, compressed biogas, and an earmarked health-infrastructure component) are issued separately. Sikkim has already used the SASCI tourism window (Bhaleydhunga skywalk, Nathu La border experience).",
+    "eligibleApplicants": ["State Governments only (Finance Departments submit consolidated proposals)"],
+    "sikkimNodalDept": "Finance Department, Government of Sikkim (with Planning & Development Department for project pipeline)",
+    "whatCanBeFunded": "New and ongoing capital investment projects across sectors (Part-I largely untied); earlier/parallel windows have covered tourism (iconic centres), urban planning reforms, industrial estates, and sector reforms; FY2026-27 incentive parts tied to specified reforms; a health-infrastructure earmark exists per state-level reporting.",
+    "fundingAvailable": "FY2026-27 Part-I: Rs 75,000 crore national (Rs 67,000 crore for states by 16th FC tax share; Rs 3,000 crore for UTs with legislature; Rs 5,000 crore for balance releases of approved projects). Remaining parts notified separately. Sikkim's FY2026-27 entitlement: Not confirmed from available official guidance.",
+    "fundingRatio": "100% central loan for approved capital projects (no state matching share; loan repayable in year 50, interest-free).",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Allocation follows Finance Commission tax-devolution shares (which embed area/forest weights that benefit Sikkim); no separate NE quota confirmed in the FY2026-27 guidelines.",
+    "stateContribution": "None for eligible project costs; state bears repayment liability after 50 years and must meet scheme conditions (capex utilisation timelines, project standards, single nodal account discipline - details per guidelines).",
+    "allocationMethod": "formula-based",
+    "accessPathway": [
+      "Finance Department reviews the DoE FY2026-27 SASCI guidelines (dated 27.03.2026) and the parts applicable to Sikkim.",
+      "Compile a pipeline of capital projects meeting Part-I conditions (new/ongoing capex, completion discipline).",
+      "Submit project list/proposals to the Department of Expenditure in the prescribed format (requires confirmation of current submission format and deadlines).",
+      "DoE approves projects and releases the loan in instalments against progress/utilisation.",
+      "For incentive-linked parts, complete the specified reforms (e.g., AgriStack, mining, public-finance IT) and claim the earmarked amounts.",
+      "Ensure funds are spent within the financial year per scheme conditions to avoid recovery/adjustment."
+    ],
+    "nextAction": "Sikkim Finance Department should submit its FY2026-27 Part-I project list to the Department of Expenditure immediately (guidelines issued 27 March 2026) and map which reform-linked parts Sikkim can realistically claim this year.",
+    "portal": null,
+    "applicationWindow": "FY2026-27 cycle open; project proposals typically accepted through the fiscal year with cut-offs per guidelines (requires confirmation).",
+    "keyDocuments": [
+      {"doc": "DoE SASCI Guidelines 2026-27 (F.No. 44(1)/PF-S/2026-27 (CAPEX), dated 27.03.2026)", "certainty": "confirmed"},
+      {"doc": "State project proposals in prescribed proforma", "certainty": "likely"},
+      {"doc": "Utilisation certificates for prior SASCI releases", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Expenditure, Ministry of Finance",
+    "contact": "PF-S Division, Department of Expenditure, North Block, New Delhi",
+    "guidelines": [
+      {"title": "SASCI Guidelines 2026-27 (DoE, 27.03.2026)", "url": "https://dahd.gov.in/sites/default/files/2026-04/DOESASCIGuidelines2026-27Dt27.03.2026.pdf"}
+    ],
+    "sources": [
+      {"title": "SASCI Guidelines 2026-27, F.No. 44(1)/PF-S/2026-27 (CAPEX)", "publisher": "Department of Expenditure (mirrored on dahd.gov.in)", "date": "2026-03-27", "url": "https://dahd.gov.in/sites/default/files/2026-04/DOESASCIGuidelines2026-27Dt27.03.2026.pdf", "section": "Part-I amounts and allocation basis"},
+      {"title": "Ministry of Finance on SASCI cumulative allocations (Rs 5.3 lakh crore since FY2020-21)", "publisher": "Ministry of Finance (X post)", "date": "2025", "url": "https://x.com/FinMinIndia/status/1930637698001236381", "section": "Cumulative scale"},
+      {"title": "GoI approves Rs 3,295 crore for 40 tourism projects incl. Sikkim (SASCI tourism window)", "publisher": "The Sentinel", "date": "2024-11", "url": "https://www.sentinelassam.com/north-east-india-news/sikkim-news/centre-allocates-funds-to-boost-tourism-in-sikkim", "section": "Sikkim projects"},
+      {"title": "J&K links Rs 4,023.5 Cr SASCI outlay to capex discipline and reforms (illustrates FY2026-27 part structure)", "publisher": "Kashmir Life", "date": "2026-04", "url": "https://kashmirlife.net/jammu-kashmir-links-rs-4023-5-cr-sasci-outlay-to-capex-discipline-reform-compliance-and-performance-targets-432683/", "section": "Untied vs incentive-linked parts"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Under the SASCI tourism window (Challenge-mode 'Development of Iconic Tourist Centres', Nov 2024), Sikkim secured the Bhaleydhunga skywalk, Yangang (Rs 97.37 crore) and a Nathu La border-experience project. Sikkim also receives formula-based SASCI Part-I allocations annually (state-wise figures not located in this pass)."
+    },
+    "potentialUseCases": ["Alternate-corridor state roads and bridges (NH-10 redundancy)", "Rangpo rail-head logistics and urban infrastructure", "Gangtok cable-car equity/state-side works", "Reform-linked claims (public-finance IT, AgriStack) for extra headroom"],
+    "flags": ["LOAN not grant - 50-year repayment liability, though interest-free", "FY2026-27 remaining parts' guidelines issued separately - track DoE notifications", "Funds generally must be utilised within the fiscal year - project readiness is the binding constraint"],
+    "scores": {"financial": 5, "ease": 4, "fit": 5, "timeSensitivity": 5, "transformational": 4, "rationale": "Largest, most flexible capital channel; FY2026-27 cycle already running so early submission maximises drawdown."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "FY2026-27 guidelines existence, date, file number and Part-I amounts confirmed from the official DoE PDF surfaced in search (direct download blocked by proxy); Sikkim tourism-window projects confirmed via regional press reporting official approvals."
+  },
+  {
+    "id": "vibrant-villages-programme-1",
+    "name": "Vibrant Villages Programme-I (northern border)",
+    "shortName": "VVP-I",
+    "ministry": "Ministry of Home Affairs",
+    "agency": "Department of Border Management, MHA; state implementing departments",
+    "policyArea": "Border Areas",
+    "subcategory": "Border village development",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Approved 15 February 2023 for FY2022-23 to FY2025-26; approval period ended 31 March 2026 - continuation/extension for FY2026-27 not confirmed.",
+    "whyItMatters": "VVP-I targets villages in blocks on the northern (China-facing) border - Sikkim is one of the five covered states/UTs (with Arunachal, Himachal, Uttarakhand, Ladakh), covering 662 villages in 46 blocks nationally. Sikkim has 63 sanctioned works/projects worth Rs 188.9 crore under it (per MHA parliamentary answer), largely in Mangan and other border blocks - roads, livelihood, tourism and basic infrastructure that double as strategic population-retention measures. The Rs 2,500 crore road component is administered on PMGSY-like lines.",
+    "eligibleApplicants": ["State Governments of the five northern-border states/UTs for identified villages/blocks"],
+    "sikkimNodalDept": "Home Department / Planning & Development Department, Government of Sikkim (state VVP nodal; district collectors prepare village action plans) - designation 'likely'",
+    "whatCanBeFunded": "Village action plan interventions: road connectivity (Rs 2,500 crore earmarked component), housing/village infrastructure, renewable energy, TV/telecom connectivity, livelihood generation, tourism and cultural heritage.",
+    "fundingAvailable": "National outlay Rs 4,800 crore for FY2022-23 to 2025-26 (Rs 2,500 crore roads + Rs 2,300 crore other components); Sikkim sanctions to date Rs 188.9 crore (63 works).",
+    "fundingRatio": "Not confirmed from available official guidance.",
+    "nePreference": "true",
+    "nePreferenceDetail": "Coverage itself is the preference: only northern-border blocks (incl. Sikkim's) are eligible under VVP-I.",
+    "stateContribution": "Not confirmed from available official guidance.",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "District administrations prepare village action plans for identified VVP villages.",
+      "State-level committee consolidates and submits proposals to MHA (Department of Border Management).",
+      "MHA sanctions works/projects; funds released to state for execution.",
+      "Progress reviewed by MHA/PMO (PMO Additional Secretary has reviewed Mangan district progress).",
+      "For FY2026-27: confirm continuation/extension of VVP-I before committing new proposals (requires confirmation)."
+    ],
+    "nextAction": "Sikkim Home Department should seek written confirmation from MHA's Department of Border Management on VVP-I continuation for FY2026-27 and keep the next tranche of village action plans (Mangan border blocks) ready for immediate submission.",
+    "portal": null,
+    "applicationWindow": "Original window co-terminus with FY2025-26; FY2026-27 status unknown.",
+    "keyDocuments": [
+      {"doc": "Village action plans per VVP operational guidelines", "certainty": "confirmed"},
+      {"doc": "State-level committee approvals", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Home Affairs (Department of Border Management); Cabinet for scheme approval",
+    "contact": "Department of Border Management, MHA, North Block, New Delhi",
+    "guidelines": [
+      {"title": "MHA parliamentary answers on VVP (state-wise sanctions)", "url": "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/LS03022026/508.pdf"}
+    ],
+    "sources": [
+      {"title": "MHA Lok Sabha answer on Vibrant Villages Programme (3 Feb 2026)", "publisher": "Ministry of Home Affairs", "date": "2026-02-03", "url": "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/LS03022026/508.pdf", "section": "State-wise works/amounts"},
+      {"title": "Government gives nod to Rs 4,800 cr Vibrant Villages Programme", "publisher": "Deccan Herald", "date": "2023-02", "url": "https://www.deccanherald.com/amp/national/government-gives-nod-to-rs-4800-cr-vibrant-villages-programme-1191466.html", "section": "Outlay and components"},
+      {"title": "Additional Secretary PMO reviews progress under Vibrant Village Programme in Mangan District", "publisher": "Government of Sikkim", "date": "2024-25", "url": "https://www.sikkim.gov.in/media/news-announcement/news-info?name=Additional+Secretary+PMO+reviews+progress+under+Vibrant+Village+Programme+in+Mangan+District", "section": "Sikkim implementation"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "63 works/projects sanctioned for Sikkim with approved cost of Rs 188.9 crore under VVP-I (per MHA parliamentary answer); implementation reviewed in Mangan district including by PMO."
+    },
+    "potentialUseCases": ["Border village roads and footbridges in Mangan district", "Homestay/tourism circuits in border villages (Lachen-Lachung axis)", "Village-level renewable energy and telecom gap-filling"],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation", "Funding-sharing pattern for VVP-I not confirmed from located official sources"],
+    "scores": {"financial": 3, "ease": 4, "fit": 5, "timeSensitivity": 4, "transformational": 4, "rationale": "Proven Sikkim pipeline and strong strategic fit, but the FY2026-27 continuation question makes timing critical."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Sikkim sanction figures from MHA parliamentary answer surfaced in search (mha.gov.in not directly loadable via proxy); post-March-2026 continuation unverified."
+  },
+  {
+    "id": "vibrant-villages-programme-2",
+    "name": "Vibrant Villages Programme-II (other international land borders)",
+    "shortName": "VVP-II",
+    "ministry": "Ministry of Home Affairs",
+    "agency": "Department of Border Management, MHA",
+    "policyArea": "Border Areas",
+    "subcategory": "Border village development",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Approved by Cabinet 2 April 2025 for FY2024-25 to FY2028-29; launched February 2026 (Cachar, Assam).",
+    "whyItMatters": "VVP-II extends vibrant-village treatment to blocks abutting international land borders other than the northern border - and Sikkim is explicitly among the 17 covered states/UTs, which for Sikkim means its Nepal- and Bhutan-facing border blocks (the China-facing blocks stay under VVP-I). As a 100% centrally funded Central Sector Scheme with Rs 6,839 crore till FY2028-29, it lets Sikkim develop strategic villages on both its other frontiers with no confirmed state matching burden.",
+    "eligibleApplicants": ["State Governments/UTs of the 17 covered states (incl. Sikkim) for select strategic villages"],
+    "sikkimNodalDept": "Home Department, Government of Sikkim (likely, mirroring VVP-I arrangements)",
+    "whatCanBeFunded": "Comprehensive development of selected strategic border villages: infrastructure, livelihood opportunities, connectivity gap-filling, border-security-supportive amenities (per Cabinet approval; detailed component guidelines per MHA).",
+    "fundingAvailable": "Rs 6,839 crore nationally till FY2028-29; state-wise/village-wise allocations by MHA selection. Sikkim envelope: Not confirmed from available official guidance.",
+    "fundingRatio": "Central Sector Scheme - 100% central funding (per scheme type); component-level norms: Not confirmed from available official guidance.",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE border states including Sikkim are core coverage; selection is strategic-village based rather than formula-based.",
+    "stateContribution": "Implementation machinery and land where needed; no confirmed fund matching.",
+    "allocationMethod": "ministry approval",
+    "accessPathway": [
+      "MHA identifies/approves the list of strategic villages in consultation with the state (requires confirmation of selection round status for Sikkim).",
+      "District administration prepares village development plans for selected villages.",
+      "State submits plans to MHA Department of Border Management for sanction.",
+      "MHA releases funds; state executes and reports through the VVP monitoring framework."
+    ],
+    "nextAction": "Sikkim Home Department should confirm with MHA which Sikkim villages on the Nepal/Bhutan borders are selected under VVP-II and fast-track their village development plans.",
+    "portal": null,
+    "applicationWindow": "Active through FY2028-29; village-selection and plan-submission cycles per MHA.",
+    "keyDocuments": [
+      {"doc": "VVP-II Cabinet approval note / MHA operational guidelines", "certainty": "confirmed"},
+      {"doc": "Village development plans for selected villages", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Home Affairs (Department of Border Management)",
+    "contact": "Department of Border Management, MHA, North Block, New Delhi",
+    "guidelines": [
+      {"title": "Cabinet approves Vibrant Villages Programme-II (PMO release)", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-vibrant-villages-programme-ii-vvp-ii-for-financial-years-2024-25-to-2028-29/"}
+    ],
+    "sources": [
+      {"title": "Cabinet approves Vibrant Villages Programme-II (VVP-II) for FY2024-25 to 2028-29", "publisher": "PMO India", "date": "2025-04-02", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-vibrant-villages-programme-ii-vvp-ii-for-financial-years-2024-25-to-2028-29/", "section": "Outlay, coverage incl. Sikkim"},
+      {"title": "Govt approves Rs 6,839 cr for Vibrant Villages Programme-II", "publisher": "DD News", "date": "2025-04", "url": "https://ddnews.gov.in/en/govt-approves-%E2%82%B96839-cr-for-vibrant-villages-programme-ii-to-boost-border-development-and-security/", "section": "Scheme details"},
+      {"title": "Union Home Minister to launch VVP-II in Assam's Cachar district", "publisher": "News on AIR", "date": "2026-02-20", "url": "https://www.newsonair.gov.in/union-home-minister-to-launch-vibrant-villages-programme-ii-in-assams-cachar-district", "section": "Launch"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim is listed among the 17 states/UTs covered by VVP-II in the Cabinet approval. Village selection/sanctions for Sikkim: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": ["Development of villages along the Nepal border (Gyalshing/Soreng districts)", "Bhutan-border village infrastructure in Pakyong district", "Livelihood/tourism anchors preventing border out-migration"],
+    "flags": ["Sikkim-specific village list and allocations need confirmation from MHA", "Do not double-count with VVP-I (northern border blocks)"],
+    "scores": {"financial": 3, "ease": 4, "fit": 4, "timeSensitivity": 3, "transformational": 3, "rationale": "Fresh, fully central-funded window running to 2028-29 with Sikkim named in coverage."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Cabinet approval, outlay, period and Sikkim's inclusion confirmed via PMO/DD News releases located in search."
+  },
+  {
+    "id": "badp-border-area-development",
+    "name": "Border Area Development Programme",
+    "shortName": "BADP",
+    "ministry": "Ministry of Home Affairs",
+    "agency": "Department of Border Management, MHA",
+    "policyArea": "Border Areas",
+    "subcategory": "Border area gap-filling development",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Status unclear",
+    "period": "Running since 1986-87; allocations sharply reduced in recent years (approx. Rs 600 crore in 2023-24 to approx. Rs 335 crore in 2024-25 per budget analyses); FY2026-27 position unconfirmed.",
+    "whyItMatters": "BADP historically funded gap-filling works (small roads, water, health, education assets) in villages within 0-10 km of the international border across 17 states including Sikkim - it was for decades Sikkim's default border-block funding line. Its budget has shrunk drastically as the Vibrant Villages Programmes scaled up, and whether a distinct BADP window remains operational for new works in FY2026-27 is unclear. Sikkim should treat VVP-I/VVP-II as the primary border-development channels and use BADP only if MHA confirms a live allocation.",
+    "eligibleApplicants": ["State Governments of border states (historically), for schemes in identified border blocks/villages"],
+    "sikkimNodalDept": "Home Department / Planning & Development Department, Government of Sikkim (historical BADP nodal) - 'likely'",
+    "whatCanBeFunded": "Historically: basic infrastructure gap-filling (roads, drinking water, schools, health sub-centres, community assets) in border villages per BADP guidelines (2015/2020 revisions).",
+    "fundingAvailable": "Recent national allocations approx. Rs 335 crore (2024-25) after decline; FY2025-26/FY2026-27 allocation: Not confirmed from available official guidance.",
+    "fundingRatio": "Not confirmed from available official guidance (historical guidelines provided 100% central non-lapsable special central assistance).",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Coverage-based (border blocks); no separate NE ratio confirmed in current documents.",
+    "stateContribution": "Implementation machinery; historical norms per guidelines.",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "Confirm with MHA Department of Border Management whether BADP has a live FY2026-27 allocation and whether new works are being accepted (requires confirmation).",
+      "If live: district committees prepare border-village scheme lists per BADP guidelines and the state submits its annual action plan to MHA.",
+      "If subsumed in practice: route the same works through VVP-I/VVP-II village action plans."
+    ],
+    "nextAction": "Sikkim Home Department should write to MHA's Department of Border Management for a definitive statement on BADP's FY2026-27 status and any unspent Sikkim balances that can still be utilised.",
+    "portal": null,
+    "applicationWindow": "unknown",
+    "keyDocuments": [
+      {"doc": "BADP Guidelines (revised 2015; later modifications)", "certainty": "confirmed"},
+      {"doc": "State annual action plan (if window live)", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Home Affairs (Department of Border Management); state-level screening committee",
+    "contact": "Department of Border Management, MHA, North Block, New Delhi",
+    "guidelines": [
+      {"title": "BADP Guidelines (revised)", "url": "https://megbad.gov.in/guidelines/Badp%20guidelines%20revised%202015.PDF"}
+    ],
+    "sources": [
+      {"title": "Border Area Development Scheme (parliamentary answer)", "publisher": "PIB (MHA)", "date": "2026", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238246", "section": "BADP status"},
+      {"title": "Demand for Grants 2025-26 Analysis: Home Affairs", "publisher": "PRS Legislative Research", "date": "2025", "url": "https://prsindia.org/files/budget/budget_parliament/2025/DFG_Analysis_2025-26-Home_Affairs.pdf", "section": "Border management allocations"},
+      {"title": "Budget 2024-25: border area development programme allocation fell 44% to Rs 335 crore", "publisher": "The Tribune / Deccan Herald budget coverage", "date": "2024", "url": "https://www.tribuneindia.com/news/india/budget-2024-25-more-in-mha-kitty-to-battle-strife-642700", "section": "BADP allocation trend"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim's border blocks have been covered under BADP since its extension to all border states; historical BADP works exist across Sikkim's border blocks. Recent-year Sikkim releases: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": ["Legacy asset completion in border blocks", "Gap-filling works not covered by VVP village lists (if window live)"],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation", "Risk of double-counting with VVP - MHA positions the two as complementary", "PIB parliamentary-answer page could not be opened via proxy; status assessed from budget analyses"],
+    "scores": {"financial": 2, "ease": 3, "fit": 4, "timeSensitivity": 2, "transformational": 2, "rationale": "Shrinking and possibly dormant window; strategic value now mostly transferred to VVP."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Low",
+    "confidenceNote": "Conflicting signals: budget documents show continued small allocations, while VVP has become the operative border-development vehicle; definitive FY2026-27 status unverified because MHA/PIB pages were unreachable."
+  },
+  {
+    "id": "bro-works-sikkim",
+    "name": "Border Roads Organisation works in Sikkim - Project Swastik (context record)",
+    "shortName": "BRO Project Swastik",
+    "ministry": "Ministry of Defence",
+    "agency": "Border Roads Organisation - Project Swastik (Gangtok); 758 BRTF",
+    "policyArea": "Border Areas",
+    "subcategory": "Strategic border roads",
+    "type": "Other",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "Ongoing since 1960; new works programme of Rs 1,152.66 crore announced for Sikkim (2025) including Western Sikkim Highway, NH-310A and NH-310AG.",
+    "whyItMatters": "BRO's Project Swastik builds and maintains Sikkim's strategic border roads (over 1,412 km of roads and 80 major bridges historically; 350+ km roads, 26 bridges and a tunnel in the last decade), including the axes to Nathu La and North Sikkim that also carry civilian traffic and tourism. The announced Rs 1,152.66 crore package (Western Sikkim Highway, NH-310A/310AG) will improve year-round connectivity in areas where the state PWD cannot operate. Sikkim cannot draw these funds, but it shapes outcomes by proposing roads through the border-roads planning process and expediting land, forest and quarry clearances.",
+    "eligibleApplicants": ["Not applicable - works funded via MoD/MoRTH border-roads budget and executed by BRO; state proposes/facilitates"],
+    "sikkimNodalDept": "Home Department (BRO coordination) with Forest & Environment Department for clearances - 'likely'",
+    "whatCanBeFunded": "Strategic roads, bridges and tunnels on the India-China Border Roads network and designated NHs assigned to BRO in Sikkim.",
+    "fundingAvailable": "Central defence/border-roads budget; announced Sikkim package Rs 1,152.66 crore for new highway works.",
+    "fundingRatio": "100% central.",
+    "nePreference": "true",
+    "nePreferenceDetail": "Border/strategic-area prioritisation inherent to BRO's mandate; Sikkim hosts a dedicated project (Swastik).",
+    "stateContribution": "Land, forest/wildlife clearances, quarry/muck-disposal permissions, local labour ecosystem.",
+    "allocationMethod": "other (defence/border works programme; state proposes via BRO/MoD channels)",
+    "accessPathway": [
+      "State identifies strategic-road needs and routes proposals through Project Swastik/DGBR and MoD-level reviews (CM-DGBR coordination meetings are the established channel).",
+      "Support inclusion of roads in the annual/long-term border works programme.",
+      "Fast-track state-side clearances so sanctioned works are not delayed."
+    ],
+    "nextAction": "The Sikkim Home Department should use the next CM-DGBR review to lock the execution timeline for the Rs 1,152.66 crore package (Western Sikkim Highway, NH-310A/310AG) and clear pending forest/land cases for Project Swastik.",
+    "portal": "https://www.bro.gov.in",
+    "applicationWindow": "n/a",
+    "keyDocuments": [
+      {"doc": "State clearance files for BRO works", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Defence / DGBR (works programme); MoRTH for NH-designated works",
+    "contact": "Project Swastik HQ, BRO, Gangtok",
+    "guidelines": [],
+    "sources": [
+      {"title": "BRO Project Swastik Marks 65 Years of Service in Sikkim", "publisher": "PIB", "date": "2025-10-01", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2173625", "section": "Achievements; Rs 1,152.66 crore new works"},
+      {"title": "758 BRTF and Project Swastik Receives Prestigious Awards", "publisher": "Government of Sikkim", "date": "2025", "url": "https://www.sikkim.gov.in/media/news-announcement/news-info?name=Press+Release+from+BRO+65th+BRO+Day+Celebrations%3A+758+BRTF+and+Project+Swastik+Receives+Prestigious+Awards", "section": "Sikkim-BRO engagement"},
+      {"title": "Border Roads Organisation Launches New Road Projects for Sikkim", "publisher": "Tractor Junction Infra News", "date": "2025", "url": "https://infra.tractorjunction.com/en/news/bro-announces-new-road-projects-in-sikkim", "section": "New projects"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Dedicated BRO project (Swastik) operates in Sikkim; Rs 1,152.66 crore of new works announced (Western Sikkim Highway, NH-310A, NH-310AG); state government holds regular coordination meetings with BRO/DGBR."
+    },
+    "potentialUseCases": ["Western Sikkim Highway completion", "North Sikkim axis resilience (post-GLOF reconstruction)", "Advocacy for additional strategic roads/tunnels in the border works programme"],
+    "flags": ["Context record - no state fund access; influence is via proposals and clearances"],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 3, "transformational": 4, "rationale": "Large central works critical to Sikkim, but state leverage is indirect."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "PIB release on Project Swastik 65th anniversary and Sikkim government release corroborate figures; PIB page itself not loadable via proxy but content confirmed across multiple official-adjacent reproductions."
+  },
+  {
+    "id": "leads-logistics-state-plans",
+    "name": "LEADS (Logistics Ease Across Different States) and National Logistics Policy state support",
+    "shortName": "LEADS / NLP state support",
+    "ministry": "Ministry of Commerce and Industry (DPIIT, Logistics Division)",
+    "agency": "DPIIT Logistics Division",
+    "policyArea": "Infrastructure & Connectivity",
+    "subcategory": "Logistics benchmarking and planning",
+    "type": "Technical assistance",
+    "grantOrLoan": "Technical assistance",
+    "status": "Active",
+    "period": "Annual LEADS survey (7th edition, LEADS 2025, released 2026); National Logistics Policy 2022 framework ongoing.",
+    "whyItMatters": "LEADS benchmarks Sikkim's logistics environment annually (Sikkim has moved between 'Fast Mover'/'Growth Seeker' categories in the NE group), and the NLP framework pushes states to adopt State Logistics Policies, set up state logistics cells/coordination committees and prepare city logistics plans - all technical-assistance backed by DPIIT. For Sikkim, whose logistics costs are inflated by the single NH-10 corridor and absent rail, the LEADS diagnostic plus a state logistics policy is the cheapest way to organise the Rangpo rail-head transition (post-2027) and to argue for central multimodal investments.",
+    "eligibleApplicants": ["State Governments (logistics nodal departments) - participation in LEADS survey and NLP institutional framework"],
+    "sikkimNodalDept": "Commerce & Industries Department, Government of Sikkim",
+    "whatCanBeFunded": "No direct funding: benchmarking (LEADS), handholding for State Logistics Policy/plans, capacity building, and access to Unified Logistics Interface Platform (ULIP) ecosystem. Any grant support for state logistics cells: Not confirmed from available official guidance.",
+    "fundingAvailable": "Technical assistance only.",
+    "fundingRatio": "",
+    "nePreference": "true",
+    "nePreferenceDetail": "LEADS assesses NE states as a separate category, recognising structural disadvantages; NE logistics gaps highlighted in LEADS action agendas.",
+    "stateContribution": "State logistics cell staffing; data provision for the survey.",
+    "allocationMethod": "other (annual survey participation and policy adoption)",
+    "accessPathway": [
+      "Commerce & Industries Department engages with the annual LEADS survey cycle and reviews Sikkim's indicator gaps.",
+      "Notify/update a Sikkim State Logistics Policy and constitute the state logistics coordination committee per NLP framework (requires confirmation of Sikkim's current policy status).",
+      "Prepare a state logistics plan aligning with the Rangpo rail-head and Pakyong airport as multimodal nodes.",
+      "Use LEADS findings to prioritise proposals under CRIF/SASCI/Gati Shakti."
+    ],
+    "nextAction": "Sikkim Commerce & Industries Department should act on its LEADS 2025 category assessment by finalising a State Logistics Policy and a Rangpo rail-head logistics plan before the line's commissioning.",
+    "portal": "https://logistics.gov.in (DPIIT Logistics Division) - (requires confirmation)",
+    "applicationWindow": "Annual survey cycle; policy support rolling.",
+    "keyDocuments": [
+      {"doc": "LEADS 2025 report (DPIIT)", "certainty": "confirmed"},
+      {"doc": "Draft Sikkim State Logistics Policy", "certainty": "likely"}
+    ],
+    "approvingAuthority": "DPIIT Logistics Division (survey/framework); state cabinet for state policy",
+    "contact": "Logistics Division, DPIIT, Ministry of Commerce and Industry",
+    "guidelines": [
+      {"title": "LEADS 2025 report coverage", "url": "https://visionias.in/current-affairs/news-today/2026-05-14/economy/7th-edition-of-logistics-ease-across-different-states-leads-2025-report-released"}
+    ],
+    "sources": [
+      {"title": "7th edition of LEADS 2025 Report Released", "publisher": "Vision IAS (secondary, reporting DPIIT release)", "date": "2026-05-14", "url": "https://visionias.in/current-affairs/news-today/2026-05-14/economy/7th-edition-of-logistics-ease-across-different-states-leads-2025-report-released", "section": "Edition, categories"},
+      {"title": "LEADS 2025 Report - state categorisations (Sikkim among NE group)", "publisher": "Vajiram & Ravi (secondary)", "date": "2026", "url": "https://vajiramandravi.com/current-affairs/leads-2025-report/", "section": "NE state categories"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim is assessed in every LEADS edition (categorised in the NE group; 'Front/Fast Mover' in 2024 coverage, 'Growth Seeker' in LEADS 2025 per secondary reporting). Status of a notified Sikkim State Logistics Policy: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": ["State Logistics Policy and Rangpo multimodal logistics plan", "City logistics plan for Gangtok", "Evidence base for central multimodal funding pitches"],
+    "flags": ["No direct money - value is diagnostic and planning leverage", "Sikkim's exact LEADS 2025 category from the official report needs confirmation (secondary sources differ in wording)"],
+    "scores": {"financial": 1, "ease": 4, "fit": 3, "timeSensitivity": 3, "transformational": 2, "rationale": "Low-cost enabler; timing matters because the rail-head arrives by 2027-28."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "LEADS 2025 release and Sikkim's inclusion confirmed via secondary reporting of the DPIIT report; official report PDF not retrieved through proxy."
+  }
+]
