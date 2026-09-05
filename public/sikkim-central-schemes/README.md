@@ -74,6 +74,8 @@ research-notes.md       ambiguities, unresolved questions, consolidation decisio
 
 The site is fully static — everything is plain files and the dataset ships inside `js/data.js`, so it works from `file://`, GitHub Pages, Netlify, or any web server.
 
-**Vercel:** create a new project from this repository and set the project's **Root Directory** to `sikkim-central-schemes/` with Framework Preset "Other" (no build command, output directory `.`). Because the repository root contains a separate Next.js app, pointing the root directory at this folder deploys the navigator on its own URL without touching that app. Alternatively copy this folder to any static host as-is.
+**Vercel (current setup):** this folder lives under the repository's `public/` directory, so the existing Next.js deployment serves it automatically at `/sikkim-central-schemes/index.html` on every deploy and preview — no configuration needed.
+
+**Standalone:** the folder is fully self-contained. Copy it to any static host (or a dedicated Vercel project with Framework Preset "Other", root directory pointed here) and open `index.html`.
 
 **Privacy note:** the Action Pipeline stores stages and notes only in the visitor's browser (localStorage). Nothing is transmitted; the export button produces a local JSON file for backup or manual sharing.
