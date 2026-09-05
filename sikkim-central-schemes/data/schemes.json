@@ -1,0 +1,80 @@
+[
+ {
+  "id": "sample-scheme",
+  "name": "Sample Scheme for Smoke Test",
+  "shortName": "SST",
+  "ministry": "Ministry of Testing",
+  "agency": "Test Agency",
+  "policyArea": "Testing",
+  "subcategory": "Unit",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "FY2026-27",
+  "whyItMatters": "This is a smoke test record.",
+  "eligibleApplicants": [
+   "State Government"
+  ],
+  "sikkimNodalDept": "likely Test Department",
+  "whatCanBeFunded": "Test items",
+  "fundingAvailable": "No fixed amount",
+  "fundingRatio": "90:10 Centre:State (NE states)",
+  "nePreference": true,
+  "nePreferenceDetail": "90:10",
+  "stateContribution": "10%",
+  "allocationMethod": "DPR submission",
+  "accessPathway": [
+   "Step one",
+   "Step two (requires confirmation)"
+  ],
+  "nextAction": "Test Department should test.",
+  "portal": "https://example.gov.in",
+  "applicationWindow": "rolling",
+  "keyDocuments": [
+   {
+    "doc": "DPR",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "Test Committee",
+  "contact": null,
+  "guidelines": [
+   {
+    "title": "Guidelines",
+    "url": "https://example.gov.in/guide.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Source",
+    "publisher": "PIB",
+    "date": "2026-01-01",
+    "url": "https://pib.gov.in",
+    "section": null
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "No participation located",
+   "detail": ""
+  },
+  "potentialUseCases": [
+   "Use case"
+  ],
+  "flags": [
+   "Funding details unclear"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 3,
+   "fit": 5,
+   "timeSensitivity": 2,
+   "transformational": 4,
+   "rationale": "Test rationale"
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "",
+  "priorityScore": 3.85
+ }
+]

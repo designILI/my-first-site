@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sikkim Central Resources Navigator</title>
+<meta name="description" content="A research-backed database of Central Government of India schemes, funds and financing windows accessible to the Government of Sikkim.">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="masthead">
+    <div>
+      <h1>Sikkim Central Resources Navigator</h1>
+      <p class="sub">Central Government of India schemes, missions, grants, funds and financing windows that the Government of Sikkim can access — with the administrative pathway for each.</p>
+    </div>
+    <div class="stamp">
+      <strong>Internal research &amp; planning tool</strong>
+      Research verified as of <span id="stamp-date">September 2026</span><br>
+      <span id="stamp-count"></span>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs">
+    <button data-view="dashboard" class="active">Dashboard</button>
+    <button data-view="browse">All Opportunities</button>
+    <button data-view="top">Top Opportunities</button>
+    <button data-view="depts">Who Should Do What</button>
+    <button data-view="map">Government Map</button>
+    <button data-view="stacks">Funding Stacks</button>
+    <button data-view="pipeline">Action Pipeline</button>
+    <button data-view="about">Methodology</button>
+  </nav>
+</header>
+
+<div class="disclaimer-bar">
+  Analytical prioritisation tool — priority scores are this project's research assessment, not an official Government of India or Government of Sikkim measure. Verify every entry with the administering ministry before acting.
+</div>
+
+<main>
+  <section class="view active" id="view-dashboard"></section>
+  <section class="view" id="view-browse">
+    <div class="browse-layout">
+      <aside class="filters" id="filters"></aside>
+      <div>
+        <div class="toolbar">
+          <input type="search" id="search" placeholder="Search schemes, ministries, keywords (e.g. ropeway, organic, GLOF, 90:10)…">
+          <select id="sort">
+            <option value="priority">Sort: Priority score</option>
+            <option value="financial">Sort: Financial potential</option>
+            <option value="ease">Sort: Ease of access</option>
+            <option value="alpha">Sort: A–Z</option>
+            <option value="window">Sort: Application window</option>
+            <option value="verified">Sort: Last verified</option>
+          </select>
+        </div>
+        <div class="active-chips" id="active-chips"></div>
+        <div class="result-count" id="result-count" style="margin-bottom:10px;"></div>
+        <div class="cards" id="cards"></div>
+      </div>
+    </div>
+  </section>
+  <section class="view" id="view-top"></section>
+  <section class="view" id="view-depts"></section>
+  <section class="view" id="view-map"></section>
+  <section class="view" id="view-stacks"></section>
+  <section class="view" id="view-pipeline"></section>
+  <section class="view" id="view-about"></section>
+</main>
+
+<div class="overlay" id="overlay">
+  <div class="detail" id="detail"></div>
+</div>
+
+<footer class="site-footer">
+  Sikkim Central Resources Navigator — independent research compilation from Government of India primary sources.
+  Pipeline statuses and notes are stored only in this browser (localStorage) and are not transmitted anywhere.
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
