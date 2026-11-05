@@ -1,0 +1,1580 @@
+[
+ {
+  "id": "pm-surya-ghar-muft-bijli-yojana",
+  "name": "PM Surya Ghar: Muft Bijli Yojana (rooftop solar for households)",
+  "shortName": "PM Surya Ghar",
+  "ministry": "Ministry of New and Renewable Energy (MNRE)",
+  "agency": "National Programme Implementation Agency (REC Ltd); DISCOM/State Power Department as State Implementation Agency",
+  "policyArea": "Energy",
+  "subcategory": "Rooftop solar / distributed renewable energy",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Approved February 2024; implementation up to FY 2026-27 (outlay ₹75,021 crore)",
+  "whyItMatters": "Sikkim is listed among Special Category States/UTs in the scheme guidelines and gets a roughly 10% higher central subsidy per kW than general states. Rooftop solar reduces household bills and diversifies Sikkim's near-total dependence on hydropower, which the 2023 Teesta-III GLOF disaster showed to be climate-vulnerable. The scheme also carries incentive components for DISCOMs and a Model Solar Village component (one village per district), directly implementable by the Sikkim Power Department as the state's distribution utility.",
+  "eligibleApplicants": [
+   "Residential households (subsidy)",
+   "DISCOM / State Power Department (implementation agency incentives)",
+   "Panchayats/villages (Model Solar Village component)"
+  ],
+  "sikkimNodalDept": "Energy & Power Department, Government of Sikkim (state DISCOM function)",
+  "whatCanBeFunded": "Central Financial Assistance for residential rooftop solar (up to 3 kW and group housing common facilities); DISCOM incentives for achieving rooftop solar capacity addition beyond baseline; Model Solar Village award of ₹1 crore for the winning village in each district; capacity building.",
+  "fundingAvailable": "For Special Category States (incl. Sikkim): CFA ₹33,000 per kW for first 2 kW and ₹19,800 for the third kW — maximum ₹85,800 for 3 kW and above (benchmark cost ₹55,000/kW for first 2 kW, ₹49,500 thereafter). General-state CFA is ₹30,000/₹18,000 (max ₹78,000). DISCOM incentive rates: Not confirmed from available official guidance.",
+  "fundingRatio": "CFA is a fixed per-kW capital subsidy (roughly 60%/40% of special-category benchmark cost for the first 2 kW / third kW); no state matching share required for the household CFA",
+  "nePreference": true,
+  "nePreferenceDetail": "Scheme guidelines set a higher benchmark and ~10% higher CFA for Special Category States/UTs — NE states including Sikkim, Uttarakhand, Himachal Pradesh, J&K, Ladakh, A&N and Lakshadweep (₹33,000/kW vs ₹30,000/kW; max ₹85,800 vs ₹78,000 for 3 kW).",
+  "stateContribution": "None mandatory; state may add its own top-up subsidy",
+  "allocationMethod": "demand-driven",
+  "accessPathway": [
+   "Energy & Power Department (as DISCOM) registers and operates as State Implementation Agency on the National Portal (pmsuryaghar.gov.in)",
+   "Empanel vendors, streamline technical feasibility approvals and net-metering under the state electricity regulatory framework",
+   "Households apply on the National Portal; CFA is released directly to consumer accounts after installation and inspection",
+   "Department nominates candidate villages per district for the Model Solar Village competition (requires confirmation of current round)",
+   "Claim DISCOM incentives for capacity addition above baseline through REC as national programme implementation agency (requires confirmation)"
+  ],
+  "nextAction": "Energy & Power Department should audit Sikkim's current registrations/installations on the PM Surya Ghar portal and launch a vendor-empanelment and consumer-awareness drive using the higher ₹85,800 special-category subsidy as the headline offer.",
+  "portal": "https://pmsuryaghar.gov.in",
+  "applicationWindow": "Rolling (households apply anytime on portal, within scheme period to FY 2026-27)",
+  "keyDocuments": [
+   {
+    "doc": "Scheme operational guidelines (MNRE, 2024)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "DISCOM baseline and incentive claim documentation",
+    "certainty": "likely"
+   },
+   {
+    "doc": "Model Solar Village scheme guidelines",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MNRE / REC Ltd (national programme implementation agency); DISCOM for feasibility approvals",
+  "contact": "MNRE rooftop solar division via pmsuryaghar.gov.in helpline; Energy & Power Department, Gangtok",
+  "guidelines": [
+   {
+    "title": "Guidelines for PM-Surya Ghar: Muft Bijli Yojana",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2024/07/202407021768035484.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Guidelines for PM-Surya Ghar: Muft Bijli Yojana (official PDF)",
+    "publisher": "MNRE / Government of India",
+    "date": "2024",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2024/07/202407021768035484.pdf",
+    "section": "CFA structure and Special Category State benchmarks"
+   },
+   {
+    "title": "PM Surya Ghar national portal",
+    "publisher": "MNRE",
+    "date": "2026",
+    "url": "https://pmsuryaghar.gov.in",
+    "section": "Portal / application"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "Sikkim is explicitly covered as a Special Category State; state-wise installation figures for Sikkim were not located in official sources during this research. Uptake in NE states is reported to be low nationally."
+  },
+  "potentialUseCases": [
+   "Rooftop solar on Gangtok and district-town households",
+   "Model Solar Village in each of Sikkim's six districts",
+   "Reducing winter peak import dependence when hydro output falls"
+  ],
+  "flags": [
+   "DISCOM incentive rates and Model Solar Village current-round timelines need confirmation from MNRE guidelines/portal"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 3,
+   "transformational": 3,
+   "rationale": "Fixed higher NE subsidy with a live national portal makes this easy money for households; moderate state-level financial scale but strong resilience/diversification fit for a hydro-dependent GLOF-hit state; scheme runs to FY27 so time to act is finite."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "CFA rates for special-category states and scheme structure confirmed from official guidelines PDF located via search; Sikkim-specific uptake not verified."
+ },
+ {
+  "id": "pm-kusum",
+  "name": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)",
+  "shortName": "PM-KUSUM",
+  "ministry": "Ministry of New and Renewable Energy (MNRE)",
+  "agency": "MNRE; state implementing agencies (energy department / renewable energy agency / DISCOM)",
+  "policyArea": "Energy",
+  "subcategory": "Solar for agriculture (pumps, feeder solarisation, decentralised plants)",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Extended to 31 March 2026; MNRE OM of 28 March 2026 extended completion timelines for eligible Phase-1 projects to 31 March 2027, with existing projects to be subsumed under a successor 'PM-KUSUM 2.0'",
+  "whyItMatters": "PM-KUSUM carries an explicitly higher central subsidy (50% CFA instead of 30%) for North Eastern and hilly states, which includes Sikkim. Solar pumps and feeder solarisation can serve Sikkim's fully-organic horticulture/floriculture sector, remote farms off reliable grid supply, and reduce agricultural power subsidy burden. Component A (small decentralised solar plants on farm land) offers farmer income in a land-scarce mountain state if sited carefully.",
+  "eligibleApplicants": [
+   "State government / state implementing agency (submits state quantities)",
+   "Farmers, cooperatives, panchayats, FPOs (end beneficiaries)",
+   "DISCOM (Component C feeder-level solarisation)"
+  ],
+  "sikkimNodalDept": "Energy & Power Department (likely, as DISCOM/implementing agency) with Agriculture & Horticulture Departments for beneficiary identification",
+  "whatCanBeFunded": "Component A: decentralised grid-connected solar plants (0.5–2 MW) on farmers' land with tariff support; Component B: standalone solar agriculture pumps; Component C: solarisation of grid-connected pumps and feeder-level solarisation.",
+  "fundingAvailable": "Per-pump/per-project CFA per MNRE benchmarks; national scheme targets >10 lakh standalone pumps installed (PIB, March 2026). Sikkim-specific quantum depends on quantities sanctioned to the state.",
+  "fundingRatio": "Components B & C: 50% CFA + 30% state subsidy + 20% farmer contribution for NE/hilly states including Sikkim (vs 30% CFA + 30% state + 40% farmer elsewhere) — per MNRE scheme guidelines; re-verify in PM-KUSUM 2.0 guidelines when issued",
+  "nePreference": true,
+  "nePreferenceDetail": "50% CFA (instead of 30%) for Components B and C in NER, hilly states/UTs and islands, per MNRE PM-KUSUM guidelines; confirm carry-over into PM-KUSUM 2.0.",
+  "stateContribution": "30% state subsidy for Components B/C (per existing guidelines)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "State implementing agency seeks/updates sanctioned quantities from MNRE for Components B and C",
+   "State notifies its 30% subsidy share in the state budget",
+   "Identify beneficiary farmers/feeders with Agriculture & Horticulture Departments; run demand aggregation",
+   "Procure through MNRE-compliant bidding; install and commission within extended timelines",
+   "Track PM-KUSUM 2.0 notification and reposition state demand under the new scheme (requires confirmation)"
+  ],
+  "nextAction": "Energy & Power Department should write to MNRE confirming Sikkim's sanctioned/unutilised quantities and register fresh demand under the PM-KUSUM 2.0 transition before new-scheme allocations are locked.",
+  "portal": "https://pmkusum.mnre.gov.in",
+  "applicationWindow": "State demand submission windows notified by MNRE; Phase-1 completions extended to 31 March 2027",
+  "keyDocuments": [
+   {
+    "doc": "MNRE PM-KUSUM scheme guidelines and amendments",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State subsidy commitment / implementation agency designation",
+    "certainty": "likely"
+   },
+   {
+    "doc": "MNRE OM dated 28 March 2026 on timeline extension",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "MNRE (sanction of state quantities)",
+  "contact": "MNRE PM-KUSUM division; state implementing agency",
+  "guidelines": [
+   {
+    "title": "PM-KUSUM scheme page",
+    "url": "https://mnre.gov.in/en/pradhan-mantri-kisan-urja-suraksha-evam-utthaan-mahabhiyaan-pm-kusum/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "PM-KUSUM scheme page",
+    "publisher": "MNRE",
+    "date": "2026",
+    "url": "https://mnre.gov.in/en/pradhan-mantri-kisan-urja-suraksha-evam-utthaan-mahabhiyaan-pm-kusum/",
+    "section": "Scheme components and CFA"
+   },
+   {
+    "title": "Progress and Implementation of PM KUSUM Scheme",
+    "publisher": "PIB",
+    "date": "2023-12",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1989815",
+    "section": "Implementation status"
+   },
+   {
+    "title": "Extension of timeline for financial closure and completion of projects under PM KUSUM scheme (MNRE OM)",
+    "publisher": "MNRE (via EQ Mag reproduction)",
+    "date": "2026-03-28",
+    "url": "https://www.eqmagpro.com/extension-of-timeline-for-financial-closure-and-completion-of-projects-under-pm-kusum-scheme-reg-eq/",
+    "section": "Timeline extension to March 2027 and PM-KUSUM 2.0 subsumption"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "No Sikkim-specific sanction/installation figures located in official sources during this research; national uptake concentrated in plains states."
+  },
+  "potentialUseCases": [
+   "Solar pumps/micro-irrigation for organic horticulture in South and West Sikkim",
+   "Feeder solarisation of rural agricultural feeders",
+   "Small solar plants on fallow land near substations"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 in the form of PM-KUSUM 2.0 needs confirmation once guidelines are notified",
+   "50% NE CFA rate should be re-verified in PM-KUSUM 2.0 guidelines"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 3,
+   "fit": 2,
+   "timeSensitivity": 3,
+   "transformational": 2,
+   "rationale": "Generous NE ratio but Sikkim's small, rain-fed, terraced agriculture limits pump demand; feeder solarisation is the realistic angle. Transition period is the moment to register demand."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Scheme status and March 2026 extension verified from search results; the 50% NE CFA ratio is from MNRE guidelines as widely documented but was not re-verified in a primary PDF during this session."
+ },
+ {
+  "id": "rdss",
+  "name": "Revamped Distribution Sector Scheme (RDSS)",
+  "shortName": "RDSS",
+  "ministry": "Ministry of Power",
+  "agency": "REC Ltd and PFC Ltd (nodal agencies); Energy & Power Department, GoS as DISCOM",
+  "policyArea": "Energy",
+  "subcategory": "Power distribution reform, loss reduction, smart metering",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "FY 2021-22 to FY 2025-26 (outlay ₹3,03,758 crore); sanctioned works continuing — Ministry of Power has told Parliament's Standing Committee the scheme needs extension to FY 2027-28 (extension reportedly under process)",
+  "whyItMatters": "Sikkim is expressly a Special Category State under RDSS, entitled to a higher grant share (up to 90% of approved cost for loss-reduction works vs 60% elsewhere). Sikkim's Power Department runs distribution directly and has high AT&C losses in difficult mountain terrain; RDSS is the main national funding line for upgrading its distribution network, smart metering and IT systems — including rebuilding infrastructure damaged by the 2023 GLOF and recurrent landslides.",
+  "eligibleApplicants": [
+   "DISCOMs / state power departments (Energy & Power Department, GoS)"
+  ],
+  "sikkimNodalDept": "Energy & Power Department, Government of Sikkim",
+  "whatCanBeFunded": "Loss-reduction infrastructure (feeder segregation, AB cables, new substations/lines, system strengthening), prepaid smart metering (consumer, feeder, DT), IT/OT and digitalisation works — against a Results Evaluation Framework and approved action plan.",
+  "fundingAvailable": "National sanctions: ~₹1.53 lakh crore loss-reduction works and ~₹1.31 lakh crore smart metering (Ministry of Power to Rajya Sabha, 2026); ₹47,124 crore released since FY2023. Sikkim-specific sanctioned amount: Not confirmed from available official guidance.",
+  "fundingRatio": "Special Category States incl. Sikkim: GBS up to 90% of approved cost for loss-reduction works (60% for other states); smart metering grant at enhanced special-category rate per guidelines (₹1,350/meter or 22.5% vs ₹900/15% general — re-verify exact figures in RDSS guidelines)",
+  "nePreference": true,
+  "nePreferenceDetail": "All NE states including Sikkim (plus J&K, Ladakh, HP, Uttarakhand, A&N, Lakshadweep) are Special Category States under RDSS with higher grant support — confirmed on the Ministry of Power RDSS overview page.",
+  "stateContribution": "Balance of project cost (counterpart funding/loans) beyond the central grant; achievement of reform milestones (energy accounting, tariff/subsidy discipline) is a funding pre-condition",
+  "allocationMethod": "DPR submission",
+  "accessPathway": [
+   "Energy & Power Department prepares/updates action plan and DPRs with REC/PFC as nodal agency",
+   "Monitoring Committee under Secretary (Power) sanctions works",
+   "Meet Result Evaluation Framework milestones (energy accounting, ACS-ARR gap trajectory) to unlock grant tranches",
+   "Award works (smart metering in TOTEX/DBFOOT mode per guidelines) and claim releases through nodal agency",
+   "Pursue inclusion of GLOF/landslide-damaged network reconstruction in any RDSS extension window (requires confirmation)"
+  ],
+  "nextAction": "Energy & Power Department should reconcile its RDSS sanction/release position with REC and submit pending milestone compliance now, so Sikkim's balance works survive into the reported FY2028 extension.",
+  "portal": "https://www.ipds.gov.in",
+  "applicationWindow": "Sanctions against approved action plans; scheme-period-bound (extension under process)",
+  "keyDocuments": [
+   {
+    "doc": "RDSS Guidelines (Ministry of Power, 2021, as revised)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State action plan, DPRs, Results Evaluation Framework compliance",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Fund disbursement guidelines (June 2023)",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "Monitoring Committee, Ministry of Power",
+  "contact": "REC Ltd (nodal agency for Sikkim region); Ministry of Power distribution division",
+  "guidelines": [
+   {
+    "title": "RDSS Guidelines (revised)",
+    "url": "https://www.pfcindia.co.in/ensite/Default/ViewFile/?id=1637601998204_Final_Revamped_Scheme_Guidelines_Revised.pdf&path=Page"
+   },
+   {
+    "title": "RDSS Fund Disbursement Guidelines, 26 June 2023",
+    "url": "https://www.ipds.gov.in/webappdocs/RDSS_Docs/Fund%20Disbursement%20Guidelines_RDSS_28062023.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Revamped Distribution Scheme — Overview",
+    "publisher": "Ministry of Power",
+    "date": "2026",
+    "url": "https://powermin.gov.in/en/content/overview-5",
+    "section": "Special Category States; outlay"
+   },
+   {
+    "title": "Revamped Distribution Scheme (RDSS) — Power Department, Government of Sikkim",
+    "publisher": "Government of Sikkim",
+    "date": "n.d.",
+    "url": "https://power.sikkim.gov.in/visitor/programandschemes/5",
+    "section": "State participation page (page located via search; could not be loaded from this environment)"
+   },
+   {
+    "title": "Govt sanctions smart metering works covering 19.79 crore consumers under RDSS (Rajya Sabha answer)",
+    "publisher": "ANI (reporting Ministry of Power RS reply)",
+    "date": "2026-08-10",
+    "url": "https://aninews.in/news/business/govt-sanctions-smart-metering-works-covering-1979-crore-electricity-consumers-under-rdss20260810215203/",
+    "section": "National sanction/release figures"
+   },
+   {
+    "title": "Two-Year Extension of Distribution Sector Reforms Program on the Cards",
+    "publisher": "Mercom India",
+    "date": "2025/2026",
+    "url": "https://www.mercomindia.com/two-year-extension-of-distribution-sector-reforms-program-on-the-cards",
+    "section": "Extension to FY2028"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim Power Department maintains an RDSS scheme page and Sikkim is covered as a Special Category State; digitalisation works sanctioned across 28 states/45 utilities include state power departments. Sikkim's exact sanctioned amount was not located (page unreachable from this environment)."
+  },
+  "potentialUseCases": [
+   "AB cabling and line strengthening on landslide-prone alignments",
+   "Prepaid smart metering in Gangtok/Namchi",
+   "Rebuilding Teesta-valley distribution assets damaged in the 2023 GLOF",
+   "SCADA/IT systems for the Power Department"
+  ],
+  "flags": [
+   "Extension beyond FY2025-26 to FY2027-28 reported but formal Cabinet approval needs confirmation",
+   "Sikkim-specific sanction and release figures need confirmation from REC/National Power Portal"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 3,
+   "fit": 4,
+   "timeSensitivity": 4,
+   "transformational": 4,
+   "rationale": "90% grant for a state-run distribution utility is the largest routine energy grant line open to Sikkim; milestone-linked releases add friction; window closing/extension makes acting now important."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Scheme structure, special-category status and national figures verified from official/near-official sources; Sikkim sanction amount and formal extension not verified."
+ },
+ {
+  "id": "mnre-small-hydro-power-development-scheme",
+  "name": "Small Hydro Power (SHP) Development Scheme, FY 2026-27 to FY 2030-31",
+  "shortName": "SHP Development Scheme",
+  "ministry": "Ministry of New and Renewable Energy (MNRE)",
+  "agency": "MNRE (small hydro division); state nodal agencies / IPPs as developers",
+  "policyArea": "Energy",
+  "subcategory": "Small hydropower (1–25 MW)",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Approved March 2026; FY 2026-27 to FY 2030-31; outlay ~₹2,585 crore; target ~1,500 MW new SHP capacity",
+  "whyItMatters": "After MNRE's earlier SHP CFA scheme was discontinued in 2017, the Government approved a new ₹2,585-crore SHP Development Scheme in March 2026 with operational guidelines issued in May 2026 — restoring central capital support for exactly the 1–25 MW run-of-river projects Sikkim's perennial Himalayan streams suit. For Sikkim, small hydro is the lower-GLOF-risk complement to large Teesta projects and can electrify remote valleys, with generation-linked CFA disciplines built into the revised guidelines.",
+  "eligibleApplicants": [
+   "State government agencies/utilities (Energy & Power Department, GoS)",
+   "Private developers/IPPs",
+   "Cooperatives/local bodies (per guidelines — requires confirmation)"
+  ],
+  "sikkimNodalDept": "Energy & Power Department, Government of Sikkim",
+  "whatCanBeFunded": "New small hydro projects of 1–25 MW installed capacity; CFA released in instalments with the second instalment linked to achieving at least 80% of projected generation (per 2025-revised norms); renovation/modernisation coverage: Not confirmed from available official guidance.",
+  "fundingAvailable": "₹2,584.72 crore national outlay for ~1,500 MW; per-MW CFA rates for Himalayan/NE states: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Earlier MNRE SHP CFA schemes carried higher per-MW CFA for NE/Himalayan states; whether the 2026 scheme retains a Himalayan/NE differential needs confirmation from the operational guidelines (issued May 2026).",
+  "stateContribution": "Balance project cost by developer/state utility; state facilitation (allotment, clearances, PPAs)",
+  "allocationMethod": "project-by-project sanction",
+  "accessPathway": [
+   "Obtain the FY27–FY31 SHP operational guidelines (MNRE, May 2026) and map eligible identified sites in Sikkim's SHP potential inventory",
+   "Energy & Power Department allots sites / prepares DPRs for state-sector projects and invites IPPs for others",
+   "Submit project proposals to MNRE for in-principle approval and CFA sanction (requires confirmation of exact channel/portal)",
+   "Achieve commissioning within timelines; certification of equipment and post-commissioning generation verification for CFA instalments",
+   "Claim second CFA instalment against ≥80% of projected generation"
+  ],
+  "nextAction": "Energy & Power Department should obtain MNRE's May 2026 SHP operational guidelines and submit a prioritised list of 1–25 MW Sikkim sites (with at least two shelf-ready DPRs) to MNRE this fiscal year while the new scheme's pipeline is being filled.",
+  "portal": "https://mnre.gov.in/en/small-hydro/",
+  "applicationWindow": "Project proposals within FY 2026-27 to FY 2030-31 scheme period",
+  "keyDocuments": [
+   {
+    "doc": "Operational guidelines for SHP Development Scheme (MNRE, May 2026)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "DPR with hydrology, generation projections and equipment certification plan",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MNRE",
+  "contact": "MNRE Small Hydro Division",
+  "guidelines": [
+   {
+    "title": "MNRE issues operational guidelines for small hydro power scheme (report on May 2026 guidelines)",
+    "url": "https://renewablewatch.in/2026/05/19/mnre-issues-operational-guidelines-for-small-hydro-power-scheme/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "India launches ₹2,584 crore Small Hydro Power (SHP) Development Scheme (1,500 MW)",
+    "publisher": "RESI India",
+    "date": "2026",
+    "url": "https://www.resiindia.org/post/india-launches-2-584-crore-small-hydro-power-shp-development-scheme-to-fuel-1-500-mw-green-energy",
+    "section": "Scheme approval and outlay"
+   },
+   {
+    "title": "MNRE issues operational guidelines for small hydro power scheme",
+    "publisher": "Renewable Watch",
+    "date": "2026-05-19",
+    "url": "https://renewablewatch.in/2026/05/19/mnre-issues-operational-guidelines-for-small-hydro-power-scheme/",
+    "section": "FY27–FY31 guidelines"
+   },
+   {
+    "title": "MNRE revises guidelines for small hydro power projects (generation-linked CFA)",
+    "publisher": "Power Line Magazine",
+    "date": "2025-05-30",
+    "url": "https://powerline.net.in/2025/05/30/mnre-revises-guidelines-for-small-hydro-power-projects/",
+    "section": "80% generation condition; commissioning grace periods"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "No participation located",
+   "detail": "Scheme is new (approved March 2026); no Sikkim sanction located yet. Sikkim has existing SHP stations and untapped identified potential, so early entry is feasible."
+  },
+  "potentialUseCases": [
+   "1–25 MW run-of-river projects on tributaries away from GLOF-exposed main Teesta channel",
+   "Replacement/augmentation of ageing state mini-hydel stations",
+   "IPP-led SHP with state facilitation"
+  ],
+  "flags": [
+   "CFA rates, eligible entities and any NE/Himalayan differential need confirmation from the May 2026 operational guidelines (MNRE site unreachable from this research environment)",
+   "Primary MNRE guidelines PDF not directly retrieved — figures corroborated across multiple sector publications"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 3,
+   "fit": 5,
+   "timeSensitivity": 4,
+   "transformational": 4,
+   "rationale": "A brand-new central capital-support line tailor-made for Sikkim's geography; early movers will capture the 1,500 MW national pipeline; per-MW support levels still to be confirmed."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Scheme existence, outlay, period and guideline issuance corroborated by multiple sector sources; primary guidelines not directly accessed, so rates/eligibility unconfirmed."
+ },
+ {
+  "id": "national-green-hydrogen-mission",
+  "name": "National Green Hydrogen Mission (NGHM)",
+  "shortName": "Green Hydrogen Mission",
+  "ministry": "Ministry of New and Renewable Energy (MNRE)",
+  "agency": "MNRE; SECI (SIGHT implementing agency); line ministries for sectoral pilots",
+  "policyArea": "Energy / Climate",
+  "subcategory": "Green hydrogen production, pilots, hubs",
+  "type": "Mission/programme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Approved January 2023; outlay ₹19,744 crore up to 2029-30",
+  "whyItMatters": "Direct state-government funding components are limited: SIGHT incentives target electrolyser manufacturers and hydrogen producers, and pilot projects (steel, shipping, mobility — ₹496 crore mobility, ₹115 crore shipping up to 2025-26) are awarded to implementing agencies, mostly PSUs. Sikkim's relevance is as a renewable (hydro) power source for green hydrogen and as a possible site for small mobility/decentralised pilots; designated hydrogen hubs are in other states. Worth tracking rather than a core funding line for the state.",
+  "eligibleApplicants": [
+   "Industry/PSUs (SIGHT, pilots)",
+   "State agencies in partnership with implementing agencies (pilot projects — requires confirmation)",
+   "R&D institutions (₹400 crore R&D component)"
+  ],
+  "sikkimNodalDept": "Energy & Power Department (likely), with Science & Technology Department for R&D linkages",
+  "whatCanBeFunded": "Electrolyser manufacturing and green hydrogen production incentives (SIGHT); sectoral pilot projects (steel, shipping, heavy mobility, innovative uses); R&D; hub infrastructure in designated hub locations.",
+  "fundingAvailable": "₹17,490 crore SIGHT; ₹400 crore R&D; sectoral pilot windows (₹496 crore mobility, ₹115 crore shipping up to 2025-26); ₹292 crore actually spent as of August 2026 (MNRE to Parliament).",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": false,
+  "nePreferenceDetail": "No NE/Himalayan preferential provision located in official mission documents.",
+  "stateContribution": "State role mainly facilitative (land, power, clearances); no mandatory contribution identified",
+  "allocationMethod": "competitive application",
+  "accessPathway": [
+   "Track MNRE/NGHM portal calls for pilot projects and hub designations",
+   "Position Sikkim hydropower (e.g. restored/new Teesta capacity) as renewable input for hydrogen producers (requires confirmation of offtake mechanisms)",
+   "State institutions apply to R&D/innovative-pilot calls with MNRE-recognised partners",
+   "Coordinate with SECI on any SIGHT-linked opportunities relevant to the state"
+  ],
+  "nextAction": "Energy & Power Department should assign a desk officer to monitor nghm.mnre.gov.in calls and flag any decentralised-use or hilly-region pilot window where Sikkim hydropower gives a cost edge.",
+  "portal": "https://nghm.mnre.gov.in/",
+  "applicationWindow": "Component-specific calls (SIGHT tranches, pilot RfPs)",
+  "keyDocuments": [
+   {
+    "doc": "NGHM framework document and component scheme guidelines (mobility/steel/shipping pilots)",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "MNRE / Empowered Group as per mission governance",
+  "contact": "MNRE NGHM division via mission portal",
+  "guidelines": [
+   {
+    "title": "National Green Hydrogen Mission page",
+    "url": "https://mnre.gov.in/en/national-green-hydrogen-mission/"
+   },
+   {
+    "title": "Scheme guidelines — pilot projects for green hydrogen in shipping",
+    "url": "https://mnre.gov.in/en/document/scheme-guidelines-for-implementation-of-pilot-projects-for-use-of-green-hydrogen-in-the-shipping-sector-under-the-national-green-hydrogen-mission-nghm/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Green Hydrogen Mission",
+    "publisher": "MNRE",
+    "date": "2026",
+    "url": "https://mnre.gov.in/en/national-green-hydrogen-mission/",
+    "section": "Mission components"
+   },
+   {
+    "title": "Govt spends ₹292 crore under National Green Hydrogen Mission so far: MNRE",
+    "publisher": "Business Standard (reporting MNRE parliamentary reply)",
+    "date": "2026-08-12",
+    "url": "https://www.business-standard.com/amp/industry/news/govt-spends-292-crore-under-national-green-hydrogen-mission-so-far-mnre-126081201853_1.html",
+    "section": "Expenditure status"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "No participation located",
+   "detail": "No Sikkim project or hub located under NGHM; hub development is centred on other states/ports."
+  },
+  "potentialUseCases": [
+   "Hydro-powered pilot electrolyser for local mobility/heating trials (speculative)",
+   "Sikkim University/state institutions joining R&D consortia"
+  ],
+  "flags": [
+   "State-accessible components are narrow; treat as watch-list rather than pipeline"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 2,
+   "fit": 2,
+   "timeSensitivity": 2,
+   "transformational": 2,
+   "rationale": "Large national mission but few state-government-facing windows; Sikkim's angle (cheap hydro) is real yet unproven at its scale."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Mission structure verified from MNRE pages via search; absence of state windows is an assessment, not an official statement."
+ },
+ {
+  "id": "pm-e-drive-ev-charging",
+  "name": "PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) — EV public charging infrastructure component",
+  "shortName": "PM E-DRIVE",
+  "ministry": "Ministry of Heavy Industries (MHI)",
+  "agency": "MHI; state governments/agencies, oil marketing companies and others as charging-station proposers",
+  "policyArea": "Energy / Transport",
+  "subcategory": "Electric mobility — public charging infrastructure (EVPCS)",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Scheme notified September 2024 (total ₹10,900 crore); EVPCS component ₹2,000 crore with final guidelines rolled out September 2025; scheme-period end date carries conflicting reports (31 March 2026 original vs reports of implementation to March 2028) — needs confirmation",
+  "whyItMatters": "The ₹2,000-crore charging-infrastructure component offers subsidy reported at up to 100% for public EV charging stations, and states submit site proposals — but approvals so far (5,871 chargers by July 2026) have gone to nine larger states, none in the North East. Sikkim's tourist-vehicle economy, short intercity distances and clean hydropower make it a strong EV geography, and NH-10 (Siliguri–Gangtok) is a natural charging corridor. An early, well-prepared Sikkim proposal could capture funds currently flowing entirely to plains states.",
+  "eligibleApplicants": [
+   "State governments/state agencies (site proposals)",
+   "CPSEs/oil marketing companies",
+   "Other government entities per EVPCS guidelines"
+  ],
+  "sikkimNodalDept": "Transport Department, Government of Sikkim (with Energy & Power Department for connections); 'likely' as nodal since state EV nodal designation not confirmed",
+  "whatCanBeFunded": "Upstream electrical infrastructure and chargers for public EV charging stations in cities and on highways; e-buses, e-trucks, e-ambulances and demand incentives sit under other PM E-DRIVE components.",
+  "fundingAvailable": "₹2,000 crore national EVPCS outlay; subsidy reported up to 100% of eligible cost for public charging stations (per MHI announcements); per-station ceilings: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "No NE-specific provision located; site selection is proposal-driven, so NE states compete on proposal quality.",
+  "stateContribution": "Land/sites, power connections, and any cost above sanctioned subsidy",
+  "allocationMethod": "ministry approval",
+  "accessPathway": [
+   "Transport Department constitutes a state EV infrastructure cell and identifies priority sites (Gangtok, Namchi, Pakyong airport, NH-10 corridor)",
+   "Prepare site-level proposals per MHI EVPCS guidelines (September 2025) with the DISCOM's connection commitments",
+   "Submit proposals to MHI in the notified invitation window (requires confirmation of current window)",
+   "On sanction, tender installation and operations; report deployment for subsidy release"
+  ],
+  "nextAction": "Transport Department should download MHI's EVPCS guidelines and submit a Gangtok+NH-10 charging-corridor proposal to MHI, since no NE state has yet claimed any of the ₹2,000-crore charging pot.",
+  "portal": "https://heavyindustries.gov.in",
+  "applicationWindow": "Proposal invitation windows notified by MHI; component operational since September 2025",
+  "keyDocuments": [
+   {
+    "doc": "EVPCS guidelines under PM E-DRIVE (MHI, final version September 2025)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State site-survey and DISCOM connection feasibility annexures",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "Ministry of Heavy Industries (Project Implementation & Sanctioning Committee — requires confirmation)",
+  "contact": "MHI, Udyog Bhawan, New Delhi (EV section)",
+  "guidelines": [
+   {
+    "title": "Draft guidelines for inviting proposals to avail incentives for EV public charging stations (MHI)",
+    "url": "https://www.heavyindustries.gov.in/sites/default/files/2025-07/draft_evpcs_guidelines.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Draft EVPCS guidelines under PM E-DRIVE",
+    "publisher": "Ministry of Heavy Industries",
+    "date": "2025-07",
+    "url": "https://www.heavyindustries.gov.in/sites/default/files/2025-07/draft_evpcs_guidelines.pdf",
+    "section": "Proposal process for charging stations"
+   },
+   {
+    "title": "PM E-DRIVE: Centre rolls out ₹2,000 crore subsidy scheme for EV charging stations",
+    "publisher": "ETV Bharat",
+    "date": "2025-09-29",
+    "url": "https://www.etvbharat.com/en/!technology/pm-e-drive-centre-rolls-out-rs-2000-crore-subsidy-scheme-for-ev-charging-stations-enn25092902512",
+    "section": "Component rollout"
+   },
+   {
+    "title": "PM E-DRIVE: 6,562 charging stations approved worth ₹689 crore (government statement)",
+    "publisher": "Swarajya (reporting government reply)",
+    "date": "2026",
+    "url": "https://swarajyamag.com/news-brief/pm-e-drive-scheme-6562-charging-stations-approved-worth-689-crore-but-none-deployed-says-government",
+    "section": "Approvals status — no NE state among approved"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "No participation located",
+   "detail": "Charger approvals to date cover nine states (Karnataka, Delhi, Rajasthan, AP, UP, Gujarat, Kerala, Telangana, Tamil Nadu); no Sikkim sanction located."
+  },
+  "potentialUseCases": [
+   "NH-10 Rangpo–Gangtok charging corridor",
+   "Public charging hubs at taxi stands in Gangtok/Namchi/Gyalshing",
+   "Charging at Pakyong airport and tourist gateways"
+  ],
+  "flags": [
+   "Scheme end-date conflicting across sources (March 2026 vs March 2028) — confirm current validity with MHI before committing",
+   "Per-station subsidy ceilings and proposal window dates need confirmation from final guidelines"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 3,
+   "fit": 3,
+   "timeSensitivity": 4,
+   "transformational": 3,
+   "rationale": "Modest sums but up-to-100% subsidy and zero NE uptake so far create an open lane; window uncertainty raises urgency."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Component and ₹2,000 crore outlay verified; scheme end date and per-station support not confirmed from primary sources in this session."
+ },
+ {
+  "id": "bee-sda-energy-efficiency",
+  "name": "BEE financial assistance to State Designated Agencies (SDA strengthening and state energy efficiency programmes)",
+  "shortName": "BEE SDA support",
+  "ministry": "Ministry of Power (Bureau of Energy Efficiency)",
+  "agency": "Bureau of Energy Efficiency (BEE)",
+  "policyArea": "Energy",
+  "subcategory": "Energy efficiency and conservation",
+  "type": "Capacity building",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Continuing programme under the Energy Conservation Act, 2001 framework; annual plan-based support",
+  "whyItMatters": "Under the EC Act every state must have a State Designated Agency, and BEE provides financial assistance to SDAs to build institutional/technical capacity and run demonstration projects (street lighting, pumping, building retrofits — ~500 such projects nationally). For Sikkim this is small but easy money to professionalise energy-efficiency work: energy audits of government buildings, EC Building Code adoption for its construction boom, and efficiency in municipal/water pumping — all of which cut load on a constrained Himalayan grid.",
+  "eligibleApplicants": [
+   "State Designated Agency under the Energy Conservation Act (for Sikkim: the notified SDA — likely the Energy & Power Department)"
+  ],
+  "sikkimNodalDept": "Energy & Power Department, Government of Sikkim (as SDA — designation 'likely'; confirm current notification)",
+  "whatCanBeFunded": "SDA institutional strengthening (manpower, training), state energy conservation action plans, demonstration projects (street lighting, building retrofit, pumping, waste-heat), ECBC/Eco-Niwas implementation, awareness; contributions to State Energy Conservation Fund (matching pattern: requires confirmation).",
+  "fundingAvailable": "Annual BEE assistance per approved SDA action plan; amounts: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Not confirmed from available official guidance.",
+  "stateContribution": "State matching contribution expected for the State Energy Conservation Fund (requires confirmation of current pattern)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Confirm/renotify Sikkim's SDA under the Energy Conservation Act",
+   "Prepare annual SDA action plan and submit to BEE for assistance (requires confirmation of current call cycle)",
+   "Operationalise the State Energy Conservation Fund with state contribution to unlock BEE matching (requires confirmation)",
+   "Execute demonstration projects and report in BEE's monitoring/State Energy Efficiency Index framework"
+  ],
+  "nextAction": "Energy & Power Department should write to BEE confirming Sikkim's SDA status and submit a FY2026-27 action plan covering government-building audits and ECBC notification.",
+  "portal": "https://beeindia.gov.in",
+  "applicationWindow": "Annual plan cycle (dates: Not confirmed from available official guidance)",
+  "keyDocuments": [
+   {
+    "doc": "SDA annual action plan",
+    "certainty": "likely"
+   },
+   {
+    "doc": "State Energy Conservation Fund notification",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "Bureau of Energy Efficiency",
+  "contact": "BEE, 4th Floor, Sewa Bhawan, R.K. Puram, New Delhi",
+  "guidelines": [
+   {
+    "title": "State Designated Agencies — BEE",
+    "url": "https://beeindia.gov.in/en/state-designated-agencies"
+   }
+  ],
+  "sources": [
+   {
+    "title": "State Designated Agencies",
+    "publisher": "Bureau of Energy Efficiency",
+    "date": "2026",
+    "url": "https://beeindia.gov.in/en/state-designated-agencies",
+    "section": "Two-component financial assistance to SDAs; ~500 demonstration projects (page content located via search; exact live URL path may vary)"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "All states/UTs have SDAs supported by BEE and Sikkim appears in BEE's State Energy Efficiency Index; Sikkim-specific grant amounts not located."
+  },
+  "potentialUseCases": [
+   "Energy audits and retrofits of secretariat/hospital buildings",
+   "Efficient pumping for Gangtok water supply",
+   "ECBC adoption for hill construction",
+   "LED street lighting completion"
+  ],
+  "flags": [
+   "Assistance amounts, matching pattern and current call cycle need confirmation directly from BEE"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 4,
+   "fit": 3,
+   "timeSensitivity": 2,
+   "transformational": 2,
+   "rationale": "Small, routine, low-friction grants that build capability rather than infrastructure."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Low",
+  "confidenceNote": "Programme existence confirmed via BEE page in search results, but amounts, cycle and Sikkim SDA designation were not verifiable from this environment."
+ },
+ {
+  "id": "campa-compensatory-afforestation-fund",
+  "name": "Compensatory Afforestation Fund (State CAMPA) under the Compensatory Afforestation Fund Act, 2016",
+  "shortName": "CAMPA",
+  "ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "agency": "National CAMPA (National Authority) and Sikkim State CAMPA",
+  "policyArea": "Environment & Forests",
+  "subcategory": "Compensatory afforestation and forest quality improvement",
+  "type": "Statutory/formula transfer",
+  "grantOrLoan": "Other",
+  "status": "Active",
+  "period": "Statutory and continuing (CAF Act 2016 and CAF Rules 2018); annual APO cycle",
+  "whyItMatters": "This is Sikkim's own accumulated statutory money, not a competitive grant: levies paid by user agencies (including hydropower and road projects that divert forest land) sit in the state's CAMPA fund, with 90% of collections devolved to the State Fund and spent through annually approved APOs. With ~47% forest cover and continuous infrastructure/hydro-related diversion pressure on the Teesta, CAMPA is Sikkim's largest assured forestry funding line; Sikkim is already among the best utilisers nationally (97.7% utilisation; 609.52 ha compensatory afforestation raised, 92.3% of target, 2019-20 to 2023-24).",
+  "eligibleApplicants": [
+   "Forest & Environment Department, Government of Sikkim (through State CAMPA)"
+  ],
+  "sikkimNodalDept": "Forest & Environment Department, Government of Sikkim (State CAMPA CEO)",
+  "whatCanBeFunded": "Compensatory afforestation, catchment area treatment, assisted natural regeneration, forest fire prevention, soil and moisture conservation, wildlife habitat improvement, relocation from protected areas, forest infrastructure — per approved Annual Plan of Operations and CAF Rules; salaries/general administration are restricted.",
+  "fundingAvailable": "Sikkim's accumulated principal and annual accruals: Not confirmed from available official guidance. Nationally, National CAMPA approved ₹38,516 crore of state APOs 2019-20 to 2023-24.",
+  "fundingRatio": "90% of net collections to the State Fund, 10% retained nationally (per CAF Act framework)",
+  "nePreference": false,
+  "nePreferenceDetail": "Statutory fund — accrual depends on forest-land diversion levies in the state, not on regional preference.",
+  "stateContribution": "None (fund accrues from user-agency payments: NPV, CA cost, CAT levies)",
+  "allocationMethod": "statutory fund",
+  "accessPathway": [
+   "Forest & Environment Department prepares the Annual Plan of Operations (APO) per CAF Rules 2018",
+   "State CAMPA Steering Committee (Chief Secretary chair) approves the APO",
+   "National Authority (MoEFCC) concurrence/release against the state's fund balance",
+   "Execution by territorial/wildlife divisions; e-Green Watch reporting and audit"
+  ],
+  "nextAction": "Forest & Environment Department should front-load its FY2027-28 APO with GLOF-affected Teesta catchment treatment and landslide-zone bio-engineering works so approvals land before the working season.",
+  "portal": "https://egreenwatch.nic.in",
+  "applicationWindow": "Annual APO cycle",
+  "keyDocuments": [
+   {
+    "doc": "Annual Plan of Operations (APO)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State CAMPA accounts/utilisation certificates on e-Green Watch",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "State CAMPA Steering Committee; National Authority (MoEFCC) for releases",
+  "contact": "CEO, Sikkim State CAMPA, Forest & Environment Department, Deorali, Gangtok",
+  "guidelines": [
+   {
+    "title": "Compensatory Afforestation Fund Act, 2016 and CAF Rules, 2018",
+    "url": "https://moef.gov.in"
+   },
+   {
+    "title": "CAMPA funds utilisation (PIB backgrounder)",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1906384"
+   }
+  ],
+  "sources": [
+   {
+    "title": "CAMPA funds utilized for compensating loss of forest land and ecosystem services",
+    "publisher": "PIB / MoEFCC",
+    "date": "2023-03",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1906384",
+    "section": "Fund purpose and mechanism"
+   },
+   {
+    "title": "India raised compensatory afforestation over 1.78 lakh ha from 2019-20 to 2023-24 (national CAMPA report)",
+    "publisher": "The Tribune (reporting official CAMPA report)",
+    "date": "2025/2026",
+    "url": "https://www.tribuneindia.com/news/india/india-raised-compensatory-afforestation-over-1-78-lakh-ha-from-2019-20-to-2023-24-report/",
+    "section": "Sikkim 97.7% utilisation; 609.52 ha (92.3% of target); ₹38,516 crore national APOs"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim reported 97.7% CAMPA fund utilisation and raised 609.52 ha compensatory afforestation (92.3% of target) over 2019-20 to 2023-24 — among the top-performing states."
+  },
+  "potentialUseCases": [
+   "Teesta catchment area treatment post-GLOF",
+   "Landslide-slope bio-engineering and ANR",
+   "Forest fire lines and moisture conservation",
+   "Buffer plantation around Khangchendzonga NP"
+  ],
+  "flags": [
+   "Sikkim's current accumulated fund balance needs confirmation from State CAMPA accounts/e-Green Watch",
+   "CAMPA money is restricted-purpose — cannot substitute general budget"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 5,
+   "fit": 5,
+   "timeSensitivity": 2,
+   "transformational": 3,
+   "rationale": "The state's own assured statutory money with a proven utilisation track record; the lever is APO design, not application effort."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Statutory mechanism and Sikkim performance figures confirmed; accumulated balance not located."
+ },
+ {
+  "id": "green-india-mission",
+  "name": "National Mission for a Green India (GIM)",
+  "shortName": "Green India Mission",
+  "ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "agency": "National GIM Directorate, MoEFCC; State Forest Department as implementing agency",
+  "policyArea": "Environment & Forests / Climate",
+  "subcategory": "Forest cover and quality improvement (NAPCC mission)",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Ongoing since 2015-16; Budget 2026-27 allocation ₹170 crore (63% above FY26 RE); a revised GIM framework emphasising Himalayan/Aravalli/mangrove landscapes has been announced",
+  "whyItMatters": "Sikkim is one of only a handful of states with confirmed GIM funding — ₹119.96 crore was released to Manipur, Mizoram and Sikkim between 2015-16 and 2020-21 for afforestation over 38,072 ha of identified landscapes. The revised GIM's Himalayan focus fits Sikkim's degraded-slope restoration and eco-restoration needs after the 2023 GLOF, and its enhanced 2026-27 budget signals fresh headroom. A CAG audit (2026) criticising national execution means well-performing states can argue for a larger share.",
+  "eligibleApplicants": [
+   "State Forest Department (through State GIM Perspective Plan and APOs)"
+  ],
+  "sikkimNodalDept": "Forest & Environment Department, Government of Sikkim",
+  "whatCanBeFunded": "Landscape-based afforestation and eco-restoration, forest quality improvement, agro-forestry, community-based conservation (JFMCs/EDCs), alternative fuel energy devices, livelihood convergence in mission landscapes.",
+  "fundingAvailable": "National BE 2026-27: ₹170 crore; Sikkim share via approved Perspective Plan/APO — current-year amount: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "GIM follows CSS sharing norms under which NE/Himalayan states normally bear only 10% state share (90:10); confirm in current GIM guidelines. DoNER has separately pushed for all NE states' inclusion in GIM.",
+  "stateContribution": "State share per CSS norms (10% for NE/Himalayan states if standard pattern applies — requires confirmation)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Forest & Environment Department updates the State GIM Perspective Plan for revised-GIM landscape priorities (Himalayan focus)",
+   "Submit Annual Plan of Operations to the GIM National Directorate, MoEFCC",
+   "National-level appraisal and fund release to the state",
+   "Implementation via forest divisions and JFMCs; utilisation certificates to sustain next releases"
+  ],
+  "nextAction": "Forest & Environment Department should submit a revised-GIM APO for FY2027-28 targeting Teesta-basin degraded-slope restoration, citing Sikkim's clean utilisation record and the enhanced ₹170-crore national allocation.",
+  "portal": "https://moef.gov.in",
+  "applicationWindow": "Annual APO cycle",
+  "keyDocuments": [
+   {
+    "doc": "State Perspective Plan and Annual Plan of Operations",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Revised GIM guidelines/framework",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "GIM National Directorate / MoEFCC",
+  "contact": "IGF (GIM), MoEFCC, Indira Paryavaran Bhawan, New Delhi",
+  "guidelines": [
+   {
+    "title": "GIM targets (PIB)",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1813175"
+   }
+  ],
+  "sources": [
+   {
+    "title": "State-wise details of funds released under Green India Mission (GIM) 2019-20 to 2021-22",
+    "publisher": "Government of Sikkim / data.gov.in",
+    "date": "2022",
+    "url": "https://sikkim.data.gov.in/resource/state-wise-details-funds-released-under-green-india-mission-gim-2019-20-2021-22",
+    "section": "Sikkim releases"
+   },
+   {
+    "title": "Targets set under Green India Mission",
+    "publisher": "PIB / MoEFCC",
+    "date": "2022-04",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1813175",
+    "section": "₹119.96 crore to Manipur, Mizoram and Sikkim (2015-16 to 2020-21); 38,072 ha"
+   },
+   {
+    "title": "Audit exposes fundamental flaws in Green India Mission's execution",
+    "publisher": "Mongabay India",
+    "date": "2026-08",
+    "url": "https://india.mongabay.com/2026/08/audit-exposes-fundamental-flaws-in-green-india-missions-execution/",
+    "section": "CAG audit; FY27 allocation ₹170 crore"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim is one of three NE states sharing ₹119.96 crore of GIM releases (2015-16 to 2020-21); state-wise release data published on data.gov.in."
+  },
+  "potentialUseCases": [
+   "Restoration of GLOF- and landslide-scarred slopes in the Teesta basin",
+   "Improving degraded forest density in mid-hills",
+   "Community conservation around Khangchendzonga landscape"
+  ],
+  "flags": [
+   "National under-utilisation and CAG criticism may tighten appraisal — submit clean, monitorable APOs",
+   "Funding pattern and revised guidelines need confirmation"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 3,
+   "transformational": 2,
+   "rationale": "Modest amounts but Sikkim is an established beneficiary with a Himalayan-focused revision working in its favour."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Sikkim participation and FY27 allocation verified; Sikkim's individual release amount within the three-state total not separated."
+ },
+ {
+  "id": "idwh-project-snow-leopard",
+  "name": "Integrated Development of Wildlife Habitats (IDWH) — including Development of Wildlife Habitats and Project Snow Leopard",
+  "shortName": "IDWH / Project Snow Leopard",
+  "ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "agency": "Wildlife Division, MoEFCC; State Chief Wildlife Warden",
+  "policyArea": "Environment & Forests",
+  "subcategory": "Protected areas, wildlife conservation, species recovery",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "Cabinet-approved continuation for 2021-22 to 2025-26 (₹2,602.98 crore, covering Project Tiger, Project Elephant and Development of Wildlife Habitats); continuation into the 16th FC cycle from FY2026-27 not yet confirmed in sources located",
+  "whyItMatters": "This is the core central funding line for Sikkim's protected-area network — Khangchendzonga National Park (UNESCO World Heritage), Fambonglho, Maenam, Kyongnosla, Pangolakha and Barsey — and for snow leopard and red panda conservation. Sikkim is one of the original Project Snow Leopard states, and the Snow Leopard is among 22 species under the IDWH species-recovery programme. Project Tiger/Elephant components have little direct application (Sikkim has no tiger or elephant reserve), so Development of Wildlife Habitats is the operative window.",
+  "eligibleApplicants": [
+   "State Forest/Wildlife Department (annual plan of operations per protected area / species programme)"
+  ],
+  "sikkimNodalDept": "Forest & Environment Department (Wildlife Wing / Chief Wildlife Warden), Government of Sikkim",
+  "whatCanBeFunded": "Protected-area management (anti-poaching, habitat improvement, infrastructure), community/eco-development around PAs, species recovery actions (Project Snow Leopard landscape plans, monitoring such as snow leopard population assessment), human-wildlife conflict mitigation, capacity building.",
+  "fundingAvailable": "Against annually approved APOs; Sikkim-specific releases: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Standard CSS pattern gives NE/Himalayan states a 90:10 centre:state share for such schemes; the exact IDWH pattern was not confirmed from an official source in this research.",
+  "stateContribution": "State share per CSS norms (requires confirmation); staff costs largely state-borne",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Chief Wildlife Warden prepares PA-wise and species-programme APOs (including Project Snow Leopard components for the Khangchendzonga landscape)",
+   "Submit APOs to the Wildlife Division, MoEFCC for appraisal and sanction",
+   "Central share released to the state; execution by wildlife divisions with eco-development committees",
+   "Report utilisation and monitoring data (e.g. snow leopard population assessment protocols)"
+  ],
+  "nextAction": "Forest & Environment Department (Wildlife Wing) should seek MoEFCC's written confirmation of IDWH continuation for FY2026-27 onward and submit an enhanced Khangchendzonga snow-leopard landscape APO for the new cycle.",
+  "portal": "https://moef.gov.in",
+  "applicationWindow": "Annual APO cycle",
+  "keyDocuments": [
+   {
+    "doc": "Annual Plan of Operations per protected area",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Project Snow Leopard landscape management plan",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "Wildlife Division, MoEFCC",
+  "contact": "Additional DGF (Wildlife), MoEFCC, New Delhi; Chief Wildlife Warden, Gangtok",
+  "guidelines": [
+   {
+    "title": "Integrated Development of Wildlife Habitats — scheme overview",
+    "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/integrated-development-of-wildlife-habitats"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approval for continuation of IDWH (2021-26, ₹2,602.98 crore)",
+    "publisher": "PIB / MoEFCC (as reported)",
+    "date": "2021",
+    "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/integrated-development-of-wildlife-habitats",
+    "section": "Continuation and components (secondary source; primary PIB page unreachable from this environment)"
+   },
+   {
+    "title": "Project Snow Leopard — five Himalayan states",
+    "publisher": "Model Diplomat (secondary)",
+    "date": "2026",
+    "url": "https://modeldiplomat.com/learn/glossary/project-snow-leopard",
+    "section": "Coverage of Himalayan states incl. Sikkim"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim is a Project Snow Leopard state and its PAs receive IDWH central assistance through annual APOs (state-wise release figures not located in this research); Sikkim participated in the national Snow Leopard Population Assessment."
+  },
+  "potentialUseCases": [
+   "Khangchendzonga NP management and UNESCO-site obligations",
+   "Snow leopard and red panda monitoring and conflict mitigation",
+   "Eco-development committees in buffer villages",
+   "Post-GLOF habitat restoration in high-altitude valleys"
+  ],
+  "flags": [
+   "Continuation beyond FY2025-26 needs confirmation (16th FC cycle scheme approvals)",
+   "Primary PIB/MoEFCC pages unreachable from this research environment — figures rest on corroborated secondary sources"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 4,
+   "fit": 5,
+   "timeSensitivity": 3,
+   "transformational": 2,
+   "rationale": "Modest but recurring and perfectly aligned to Sikkim's biodiversity mandate; the near-term task is securing the new-cycle continuation."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Scheme continuation for 2021-26 and Project Snow Leopard coverage corroborated; current-cycle status and funding pattern unverified."
+ },
+ {
+  "id": "nmhs-himalayan-studies",
+  "name": "National Mission on Himalayan Studies (NMHS) — demand-driven action research grants",
+  "shortName": "NMHS",
+  "ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "agency": "G.B. Pant National Institute of Himalayan Environment (GBP-NIHE), Almora — nodal/serving hub",
+  "policyArea": "Environment / Climate / Himalayan research",
+  "subcategory": "Research and demonstration grants for the Indian Himalayan Region",
+  "type": "Competitive grant",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Implemented since 2015-16; 1st Call for Demand-Driven Action Research Projects 2026-27 currently open — submission deadline extended to 15 September 2026",
+  "whyItMatters": "NMHS funds exactly the applied research Sikkim needs after the South Lhonak GLOF: glacial-lake and hazard studies, springshed revival, Himalayan livelihoods, biodiversity and water security across the Indian Himalayan Region. Sikkim state institutions, universities and organisations can bid directly, and the 2026-27 first call is open with a deadline just days away (15 September 2026) — an immediate, concrete opportunity.",
+  "eligibleApplicants": [
+   "Reputed institutions/universities/organisations in or working on the IHR (including state government institutions, Sikkim University, SSDMA-partnered research bodies)"
+  ],
+  "sikkimNodalDept": "Science & Technology and Climate Change Department, Government of Sikkim (likely coordinating dept); individual institutions apply directly",
+  "whatCanBeFunded": "Demand-driven action R&D projects under notified Broad Thematic Areas (water/springs, hazards, biodiversity, livelihoods, waste, tourism etc. per current call), including demonstration components; project fellowships and equipment per NMHS norms.",
+  "fundingAvailable": "Project grants sized by category (small/medium/large per NMHS norms); ceilings for the 2026-27 call: Not confirmed from available official guidance.",
+  "fundingRatio": "100% central grant to selected projects",
+  "nePreference": true,
+  "nePreferenceDetail": "The mission is exclusively for the Indian Himalayan Region — Sikkim is inherently within scope.",
+  "stateContribution": "None (institutional overheads per norms)",
+  "allocationMethod": "competitive application",
+  "accessPathway": [
+   "Read the 1st Call advertisement for 2026-27 on nmhs.org.in and the thrust areas",
+   "Eligible Sikkim institutions register and submit proposals on the NMHS online portal (newprojectsubmission.nmhs-himal.res.in) by 15 September 2026",
+   "Note: AI-generated content is barred in NMHS 2026-27 proposals",
+   "Peer review and Scientific/Steering Committee selection at GBP-NIHE/MoEFCC; sanction and instalment-based release"
+  ],
+  "nextAction": "Science & Technology and Climate Change Department should immediately circulate the open NMHS 2026-27 call (deadline 15 September 2026) to Sikkim University, SSDMA and state research cells and help at least two GLOF/springshed proposals reach the portal in time.",
+  "portal": "https://newprojectsubmission.nmhs-himal.res.in/",
+  "applicationWindow": "Open now; extended deadline 15 September 2026 for the 1st call 2026-27",
+  "keyDocuments": [
+   {
+    "doc": "1st Call 2026-27 advertisement and proposal formats",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Institutional registration documents on NMHS portal",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "NMHS Scientific and Steering Committees (GBP-NIHE / MoEFCC)",
+  "contact": "NMHS Project Management Unit, GBP-NIHE, Kosi-Katarmal, Almora",
+  "guidelines": [
+   {
+    "title": "NMHS 1st Project Grant Call 2026-27 advertisement",
+    "url": "https://nmhs.org.in/PDF/Advertisement/Project_Call/Advertisement_1st_Call_2026-27_NMHS_Project%20Grant_15.07.2026.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NMHS official site",
+    "publisher": "GBP-NIHE / MoEFCC",
+    "date": "2026",
+    "url": "https://nmhs.org.in/",
+    "section": "Mission overview and calls"
+   },
+   {
+    "title": "Advertisement — 1st Call 2026-27 NMHS Project Grant (15.07.2026)",
+    "publisher": "NMHS / GBP-NIHE",
+    "date": "2026-07-15",
+    "url": "https://nmhs.org.in/PDF/Advertisement/Project_Call/Advertisement_1st_Call_2026-27_NMHS_Project%20Grant_15.07.2026.pdf",
+    "section": "Call terms; deadline extended to 15 September 2026"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "NMHS has funded projects across IHR states since 2015-16; a current list of Sikkim-based grantees was not located in this research."
+  },
+  "potentialUseCases": [
+   "Glacial-lake hazard and EWS action research with SSDMA",
+   "Springshed revival (Dhara Vikas 2.0) science support",
+   "Red panda / alpine biodiversity monitoring",
+   "Climate-resilient mountain agriculture pilots"
+  ],
+  "flags": [
+   "Hard deadline 15 September 2026 — ten days from verification date",
+   "Grant ceilings for this call need confirmation from the advertisement PDF"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 3,
+   "fit": 5,
+   "timeSensitivity": 5,
+   "transformational": 2,
+   "rationale": "Small grants but a live, Himalaya-exclusive window closing in days, feeding directly into Sikkim's post-GLOF knowledge needs."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Open call, portal and extended deadline confirmed from official NMHS documents located via search."
+ },
+ {
+  "id": "nafcc-adaptation-fund",
+  "name": "National Adaptation Fund for Climate Change (NAFCC)",
+  "shortName": "NAFCC",
+  "ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "agency": "NABARD (National Implementing Entity)",
+  "policyArea": "Climate",
+  "subcategory": "Climate change adaptation projects",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Status unclear",
+  "period": "Established August 2015; 30 projects (₹847.48 crore) sanctioned across 27 states/UTs; no evidence of new sanctions in recent years — widely regarded as effectively dormant, needs final confirmation from Budget 2026-27 documents",
+  "whyItMatters": "NAFCC was the dedicated national window for state adaptation projects and Sikkim already used it — the sanctioned project 'Addressing Climate Change Vulnerability of Water Sector at Gram Panchayat level in drought-prone areas of Sikkim' built on the state's pioneering springshed work. The fund appears to have received negligible fresh allocations for several years, so its practical value now is (a) closing out/leveraging the completed Sikkim project and (b) advocacy for recapitalisation or a successor adaptation window under India's National Adaptation Plan process.",
+  "eligibleApplicants": [
+   "State governments (project proposals routed through NABARD as NIE)"
+  ],
+  "sikkimNodalDept": "Science & Technology and Climate Change Department / Rural Development Department (implementing dept of the earlier project)",
+  "whatCanBeFunded": "Concrete adaptation projects in agriculture, water, forestry, ecosystems and livelihoods aligned with the State Action Plan on Climate Change.",
+  "fundingAvailable": "Historically up to ~₹25 crore per state project (typical sanction size); fresh availability: Not confirmed from available official guidance.",
+  "fundingRatio": "100% central grant for sanctioned projects",
+  "nePreference": false,
+  "nePreferenceDetail": "No NE-specific provision; vulnerability-based project selection.",
+  "stateContribution": "None mandatory",
+  "allocationMethod": "project-by-project sanction",
+  "accessPathway": [
+   "Prepare adaptation project concept aligned to Sikkim SAPCC",
+   "Route Detailed Project Report through NABARD (NIE) to MoEFCC for appraisal (mechanism intact but fund flow uncertain — requires confirmation)",
+   "If dormancy confirmed, pursue the same DPR via GCF/NABARD or Adaptation Fund windows instead"
+  ],
+  "nextAction": "Science & Technology and Climate Change Department should write to MoEFCC (Climate Change Division) and NABARD asking whether NAFCC will take fresh proposals in FY2026-27, and keep a springshed/GLOF-adaptation DPR ready to redirect to the GCF window if not.",
+  "portal": "https://www.nabard.org/content.aspx?id=585",
+  "applicationWindow": "No active call identified",
+  "keyDocuments": [
+   {
+    "doc": "DPR in NAFCC format aligned to SAPCC",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "MoEFCC (with NABARD appraisal)",
+  "contact": "Climate Change Division, MoEFCC; DGM (Climate Change), NABARD",
+  "guidelines": [
+   {
+    "title": "NAFCC — NABARD page",
+    "url": "https://www.nabard.org/content.aspx?id=585"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Adaptation Fund for Climate Change (NAFCC)",
+    "publisher": "NABARD",
+    "date": "2026",
+    "url": "https://www.nabard.org/content.aspx?id=585",
+    "section": "Fund mechanism and NIE role"
+   },
+   {
+    "title": "National Adaptation Fund for Climate Change (NAFCC) — 30 projects, ₹847.48 crore",
+    "publisher": "PIB / MoEFCC",
+    "date": "2022-02",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1795075",
+    "section": "Sanctioned projects incl. Sikkim water-sector project"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim's NAFCC project 'Addressing Climate Change Vulnerability of Water Sector at Gram Panchayat level in drought-prone areas of Sikkim' is among the 30 sanctioned projects."
+  },
+  "potentialUseCases": [
+   "Scaling springshed revival (Dhara Vikas) to more drought-prone gram panchayats",
+   "GLOF-adaptation and water-security follow-on project (if fund is recapitalised)"
+  ],
+  "flags": [
+   "Likely dormant — no new allocations/sanctions identified in recent years; confirm from Budget 2026-27 and MoEFCC before planning on it",
+   "Keep DPRs fungible with GCF/Adaptation Fund formats"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 2,
+   "fit": 4,
+   "timeSensitivity": 1,
+   "transformational": 2,
+   "rationale": "Strong past fit but the pipe appears empty; value is mainly in ready-to-redirect DPRs and advocacy."
+  },
+  "openWindow": "closed",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Historic sanctions and Sikkim project confirmed from PIB/NABARD; dormancy inferred from absence of new sanctions/allocations, not from an explicit official statement."
+ },
+ {
+  "id": "gcf-via-nabard",
+  "name": "Green Climate Fund (GCF) access via NABARD as Direct Access Entity",
+  "shortName": "GCF–NABARD",
+  "ministry": "MoEFCC (National Designated Authority); Ministry of Finance oversight of NABARD",
+  "agency": "NABARD (GCF-accredited Direct Access Entity)",
+  "policyArea": "Climate",
+  "subcategory": "International climate finance (adaptation and mitigation)",
+  "type": "Externally aided project",
+  "grantOrLoan": "Mixed",
+  "status": "Active",
+  "period": "NABARD accredited since 2015; re-accredited October 2022; Accreditation Master Agreement effective 7 August 2024, term to 6 August 2029 — with eligibility for projects above USD 250 million once the amended AMA applies",
+  "whyItMatters": "GCF is the largest multilateral climate fund and Sikkim has never had a GCF project. NABARD, as India's Direct Access Entity, can carry a state-sponsored proposal — and a Teesta-basin GLOF-resilience/adaptation programme is precisely the kind of high-vulnerability, high-visibility proposal GCF funds (it has financed GLOF risk reduction in Pakistan). NABARD's accreditation is current through 2029, removing a key uncertainty.",
+  "eligibleApplicants": [
+   "State government departments/agencies as executing entities, with NABARD as Accredited Entity and MoEFCC (NDA) endorsement"
+  ],
+  "sikkimNodalDept": "Science & Technology and Climate Change Department (SAPCC nodal), with SSDMA and Water Resources for a GLOF-resilience concept",
+  "whatCanBeFunded": "Adaptation and mitigation programmes: watershed/springshed resilience, climate-resilient agriculture, GLOF/flood risk management, ecosystem-based adaptation, renewable energy — grants, concessional loans or blended finance depending on proposal.",
+  "fundingAvailable": "Proposal-dependent (India's NABARD portfolio: 3 approved projects, USD 531.3 million total value, USD 154.4 million from GCF); Simplified Approval Process window for projects up to USD 25 million.",
+  "fundingRatio": "Project-specific; co-financing expected (state/centre/NABARD share negotiated per proposal)",
+  "nePreference": false,
+  "nePreferenceDetail": "No NE preference; vulnerability and paradigm-shift potential drive selection — Sikkim's GLOF profile is a strength.",
+  "stateContribution": "Co-financing/parallel financing as negotiated; project execution capacity",
+  "allocationMethod": "competitive application",
+  "accessPathway": [
+   "Develop concept note with NABARD's climate change department (state workshops/toolkit available)",
+   "Obtain MoEFCC (NDA) no-objection for the concept",
+   "NABARD submits concept note then full funding proposal to GCF (Simplified Approval Process for ≤USD 25M is the realistic first route)",
+   "GCF Board approval; Funded Activity Agreement; execution by state agencies with NABARD supervision"
+  ],
+  "nextAction": "Science & Technology and Climate Change Department should convene NABARD's Sikkim regional office and SSDMA to scope a USD 20–25 million Teesta GLOF-resilience concept note for the GCF Simplified Approval Process.",
+  "portal": "https://www.greenclimate.fund/countries/india",
+  "applicationWindow": "Rolling (GCF Board cycles ~3 per year)",
+  "keyDocuments": [
+   {
+    "doc": "GCF concept note (SAP/PAP format)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "NDA no-objection letter (MoEFCC)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "MoEFCC GCF Toolkit for Indian proponents",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "GCF Board (after NDA endorsement and NABARD due diligence)",
+  "contact": "Climate Change Department, NABARD HO Mumbai; GCF Cell, MoEFCC",
+  "guidelines": [
+   {
+    "title": "GCF Toolkit (MoEFCC)",
+    "url": "https://moef.gov.in/uploads/pdf/GCF-Toolkit-Final-A.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Green Climate Fund — NABARD",
+    "publisher": "NABARD",
+    "date": "2026",
+    "url": "https://www.nabard.org/content1.aspx?id=584&catid=8&mid=8",
+    "section": "DAE role; re-accreditation; AMA effective 7 Aug 2024, term to 6 Aug 2029"
+   },
+   {
+    "title": "NABARD — Accredited Entity profile",
+    "publisher": "Green Climate Fund",
+    "date": "2026",
+    "url": "https://www.greenclimate.fund/partners/accredited-entities/nabard",
+    "section": "3 approved projects, USD 531.3M value"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "No participation located",
+   "detail": "No GCF project in Sikkim; India's NABARD GCF projects are in other states (groundwater, solar rooftop finance, coastal resilience)."
+  },
+  "potentialUseCases": [
+   "Teesta-basin GLOF and flood resilience programme (EWS + catchment + livelihoods)",
+   "Springshed-based mountain water security at scale",
+   "Climate-resilient organic agriculture value chains"
+  ],
+  "flags": [
+   "Long preparation timelines (18–36 months concept-to-approval) — start now to land funds within the 16th FC cycle",
+   "Requires strong state execution arrangements and co-financing strategy"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 1,
+   "fit": 5,
+   "timeSensitivity": 2,
+   "transformational": 5,
+   "rationale": "The only realistic route to USD-scale adaptation money for the Teesta basin; heavy lift but transformational if landed."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "NABARD accreditation status and portfolio verified from NABARD/GCF pages via search results."
+ },
+ {
+  "id": "ndma-glof-risk-mitigation-programme",
+  "name": "National Glacial Lake Outburst Flood (GLOF) Risk Mitigation Programme (NGRMP)",
+  "shortName": "GLOF Risk Mitigation Programme",
+  "ministry": "Ministry of Home Affairs (NDMA)",
+  "agency": "National Disaster Management Authority with State Disaster Management Authorities (SSDMA for Sikkim)",
+  "policyArea": "Disaster resilience",
+  "subcategory": "Glacial lake outburst flood risk mitigation",
+  "type": "Mission/programme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Approved with an outlay of ₹150 crore for high-risk Himalayan states (Sikkim among the priority states); financed from the National Disaster Mitigation Fund window (requires confirmation); implementation ongoing since 2024",
+  "whyItMatters": "This is the single most Sikkim-specific disaster programme in the country: it exists substantially because of the October 2023 South Lhonak GLOF that destroyed the Teesta-III dam and killed dozens. Sikkim is a priority state, and multi-agency expeditions to Sikkim's high-risk glacial lakes (including South Lhonak and Sako Cho) were conducted from 2024 with NDMA, SSDMA and scientific partners to install monitoring/early-warning systems and assess lake-lowering options. It funds hazard assessment, automated weather/water-level stations, EWS and community preparedness in exactly the basins that threaten Sikkim's people and hydropower assets.",
+  "eligibleApplicants": [
+   "State governments/SDMAs of identified GLOF-risk states (Sikkim, Himachal Pradesh, Uttarakhand, Arunachal Pradesh and other Himalayan states/UTs per programme documents — exact list requires confirmation)"
+  ],
+  "sikkimNodalDept": "Sikkim State Disaster Management Authority (SSDMA), Land Revenue & Disaster Management Department",
+  "whatCanBeFunded": "Glacial-lake hazard assessment and bathymetry expeditions, automated monitoring stations and end-to-end early warning systems, structural mitigation (controlled lake lowering/outlet works), community awareness and capacity building.",
+  "fundingAvailable": "₹150 crore national outlay across participating states; Sikkim's share: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": true,
+  "nePreferenceDetail": "Programme is by design confined to Himalayan GLOF-risk states; Sikkim is a named priority state following the 2023 South Lhonak disaster.",
+  "stateContribution": "State implementation support (logistics, personnel); any cost-share: Not confirmed from available official guidance.",
+  "allocationMethod": "project-by-project sanction",
+  "accessPathway": [
+   "SSDMA maintains/updates the prioritised inventory of high-risk glacial lakes with NDMA and scientific agencies (CWC, GSI, SAC, NRSC)",
+   "Submit lake-specific mitigation and EWS proposals to NDMA under NGRMP (requires confirmation of format)",
+   "NDMA/High-Level Committee sanction and release (requires confirmation of sanctioning route via NDMF)",
+   "Execute expeditions, install monitoring/EWS, commission structural mitigation; report to NDMA"
+  ],
+  "nextAction": "SSDMA should submit to NDMA the next tranche of proposals covering permanent EWS on South Lhonak/Sako Cho and a lake-lowering DPR, citing completed 2024–25 expedition findings.",
+  "portal": "https://ndma.gov.in",
+  "applicationWindow": "Programme-period sanctions (no public call; state-NDMA channel)",
+  "keyDocuments": [
+   {
+    "doc": "High-risk glacial lake inventory and expedition reports",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Lake-specific mitigation DPRs / EWS proposals",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "NDMA / High-Level Committee (MHA) for mitigation-fund releases (requires confirmation)",
+  "contact": "Mitigation Division, NDMA, NDMA Bhawan, Safdarjung Enclave, New Delhi; SSDMA, Gangtok",
+  "guidelines": [
+   {
+    "title": "NDMA — GLOF (hazard page and programme material)",
+    "url": "https://ndma.gov.in/Natural-Hazards/GLOF"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NDMA GLOF page / NGRMP material",
+    "publisher": "NDMA",
+    "date": "2024-2026",
+    "url": "https://ndma.gov.in/Natural-Hazards/GLOF",
+    "section": "Programme description (official domain unreachable from this research environment; cited as known-stable official page)"
+   },
+   {
+    "title": "PIB releases on GLOF risk mitigation programme and Sikkim expeditions",
+    "publisher": "PIB / MHA-NDMA",
+    "date": "2024",
+    "url": "https://pib.gov.in",
+    "section": "₹150 crore outlay; multi-state coverage; Sikkim expeditions (specific release could not be re-fetched — see confidenceNote)"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim is a priority state; SSDMA-partnered multi-agency expeditions to South Lhonak, Sako Cho and other high-risk lakes were undertaken from September 2024 with monitoring/EWS installation initiated. Fund-release figures to Sikkim not confirmed."
+  },
+  "potentialUseCases": [
+   "Permanent EWS network on Teesta headwater lakes",
+   "Controlled lowering of South Lhonak and Sako Cho",
+   "Downstream siren/alert systems for Chungthang–Singtam corridor",
+   "Community drills in Lachen/Lachung"
+  ],
+  "flags": [
+   "Primary NDMA/PIB pages unreachable from this research environment — outlay, state list and funding source (NDMF) need document-level confirmation",
+   "Sikkim-specific sanction/release amounts unknown"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 3,
+   "fit": 5,
+   "timeSensitivity": 5,
+   "transformational": 4,
+   "rationale": "Purpose-built for Sikkim's defining hazard; modest national outlay argues for moving fast and pairing with GCF/NDMF for structural works."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Programme existence, ₹150 crore outlay and Sikkim priority status are widely documented (and asserted in the commissioning brief); primary sources could not be re-fetched due to network egress blocks, so details are flagged for confirmation."
+ },
+ {
+  "id": "sdrf-ndrf-sdmf-ndmf-disaster-funds",
+  "name": "Disaster Risk Management Funds — SDRF/NDRF (response) and SDMF/NDMF (mitigation) under the 15th Finance Commission, with 16th FC arrangements from FY2026-27",
+  "shortName": "SDRF/NDRF & Mitigation Funds",
+  "ministry": "Ministry of Home Affairs (with Ministry of Finance / Finance Commission)",
+  "agency": "MHA (DM Division); NDMA for mitigation funds; state executive committee for SDRF",
+  "policyArea": "Disaster resilience",
+  "subcategory": "Statutory disaster response and mitigation financing",
+  "type": "Statutory/formula transfer",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "15th FC framework covered 2021-22 to 2025-26 (SDRMF = SDRF 80% + SDMF 20%; national funds NDRF/NDMF); 16th Finance Commission recommendations govern FY2026-27 to 2030-31 — continuation of the fund architecture and Sikkim's new allocations need confirmation from the tabled 16th FC report and its action taken",
+  "whyItMatters": "This is Sikkim's guaranteed, no-application disaster money. As a NE/Himalayan state Sikkim contributes only 10% of its SDRF (90% central share versus 75% for general states) — a formula the state used heavily after the October 2023 GLOF, alongside NDRF supplementation assessed via central teams. The 20% mitigation window (SDMF) is the readiest source for landslide stabilisation, seismic retrofitting (Zone IV) and local flood mitigation/early-warning works, and NDMF finances national programmes such as GLOF and landslide risk mitigation from which Sikkim benefits. Confirming Sikkim's FY2026-27 onward allocations under the 16th FC is an immediate housekeeping priority.",
+  "eligibleApplicants": [
+   "Government of Sikkim (automatic SDRF/SDMF allocations)",
+   "NDRF/NDMF assistance on assessment/sanction for severe disasters and approved mitigation projects"
+  ],
+  "sikkimNodalDept": "Land Revenue & Disaster Management Department / SSDMA (with Finance Department for fund accounting)",
+  "whatCanBeFunded": "SDRF/NDRF: immediate relief and response per notified items and norms (gratuitous relief, restoration of damaged infrastructure within norms); SDMF/NDMF: mitigation projects — landslide stabilisation, flood/GLOF mitigation, early warning systems, retrofitting and preparedness within the mitigation framework guidelines.",
+  "fundingAvailable": "Sikkim's annual SDRMF allocation under the 15th FC and its 16th FC successor: Not confirmed from available official guidance. NDRF assistance is need-based on inter-ministerial central team assessment.",
+  "fundingRatio": "SDRF centre:state = 90:10 for NE and Himalayan states including Sikkim (75:25 for other states); NDRF/NDMF 100% central",
+  "nePreference": true,
+  "nePreferenceDetail": "90:10 central share for NE/Himalayan states in SDRF/SDRMF is an established Finance Commission provision applicable to Sikkim.",
+  "stateContribution": "10% of SDRF/SDMF corpus",
+  "allocationMethod": "formula-based",
+  "accessPathway": [
+   "SDRF/SDMF: budget the state share; draw per MHA items-and-norms via the State Executive Committee — no application to the Centre needed",
+   "NDRF: submit memorandum after severe disasters; inter-ministerial central team assessment; High-Level Committee (MHA) sanction",
+   "SDMF: SSDMA prepares mitigation project pipeline (landslide, flood EWS, retrofitting) for State Executive Committee approval under the mitigation-fund guidelines",
+   "NDMF: state proposals to NDMA for national mitigation programmes (e.g. GLOF, landslide) (requires confirmation of current proposal window)",
+   "Reconcile Sikkim's FY2026-27–2030-31 allocations once 16th FC-based MHA allocation letters issue"
+  ],
+  "nextAction": "Land Revenue & Disaster Management Department should obtain from MHA the 16th FC-cycle SDRMF allocation letter for Sikkim and place a costed SDMF pipeline (landslide + urban flood EWS + school retrofitting) before the State Executive Committee this quarter.",
+  "portal": "https://ndmindia.mha.gov.in",
+  "applicationWindow": "n/a (statutory); NDRF memoranda event-driven",
+  "keyDocuments": [
+   {
+    "doc": "MHA SDRF/NDRF items and norms and mitigation fund guidelines",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "16th Finance Commission report (disaster risk management chapter)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Post-disaster memorandum format for NDRF",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "State Executive Committee (SDRF/SDMF); High-Level Committee chaired by Home Minister (NDRF/NDMF)",
+  "contact": "DM Division, MHA, North Block; Relief Commissioner, Land Revenue & DM Department, Gangtok",
+  "guidelines": [
+   {
+    "title": "Disaster Management Division — MHA (SDRF/NDRF norms and allocations)",
+    "url": "https://ndmindia.mha.gov.in"
+   },
+   {
+    "title": "Finance Commission reports (15th FC disaster chapter; 16th FC)",
+    "url": "https://fincomindia.nic.in"
+   }
+  ],
+  "sources": [
+   {
+    "title": "MHA Disaster Management Division — SDRF/NDRF",
+    "publisher": "Ministry of Home Affairs",
+    "date": "2026",
+    "url": "https://ndmindia.mha.gov.in",
+    "section": "Fund norms and state allocations (official domain unreachable from this research environment; cited as known-stable official page)"
+   },
+   {
+    "title": "XV Finance Commission Report — Disaster Risk Management chapter",
+    "publisher": "Finance Commission of India",
+    "date": "2021",
+    "url": "https://fincomindia.nic.in",
+    "section": "SDRMF architecture, 90:10 share for NE/Himalayan states, SDRF/SDMF split"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim receives formula-based SDRF annually and drew on SDRF/central assistance after the October 2023 GLOF (central team assessment conducted); precise allocation and NDRF release figures not confirmed from sources reachable in this research."
+  },
+  "potentialUseCases": [
+   "Landslide stabilisation on NH-10 feeder roads and habitations (SDMF)",
+   "City flood mitigation and early warning for Gangtok/Singtam/Rangpo (SDMF)",
+   "Seismic retrofitting of schools/hospitals in Zone IV (SDMF, within guidelines)",
+   "Post-monsoon relief operations (SDRF)"
+  ],
+  "flags": [
+   "16th FC disaster-fund arrangements from FY2026-27 (fund sizes, windows, any recovery & reconstruction facility) need confirmation from the tabled report and MHA operationalisation",
+   "Exact Sikkim SDRMF allocation figures not confirmed — obtain from MHA allocation tables",
+   "Official MHA/FC domains unreachable from this research environment"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 5,
+   "fit": 5,
+   "timeSensitivity": 4,
+   "transformational": 3,
+   "rationale": "Assured statutory money with a mitigation window most states under-use; the 16th FC transition makes this the year to lock in Sikkim's pipeline."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Fund architecture and 90:10 share are settled Finance Commission policy (High confidence); Sikkim figures and 16th FC operational detail unverified due to blocked official domains — hence overall Medium."
+ },
+ {
+  "id": "ndma-mha-preparedness-capacity-schemes",
+  "name": "NDMA/MHA preparedness and capacity-building schemes: Fire Services Modernisation, Aapda Mitra / Yuva Aapda Mitra, and Common Alerting Protocol (SACHET)",
+  "shortName": "Preparedness & alerting schemes",
+  "ministry": "Ministry of Home Affairs (NDMA / DM Division)",
+  "agency": "NDMA; C-DOT (CAP-SACHET technical partner); State Fire & Emergency Services and SSDMA as state implementers",
+  "policyArea": "Disaster resilience",
+  "subcategory": "Preparedness, volunteer capacity, fire services, early-warning dissemination",
+  "type": "Central Sector Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "Fire services: 'Scheme for Expansion and Modernisation of Fire Services in the States' announced 2023 with ₹5,000 crore from the NDRF preparedness-and-capacity-building window, implementation ongoing; Aapda Mitra upscaled scheme completed/being succeeded by the Yuva Aapda Mitra Scheme (youth volunteer training in most disaster-prone districts — parameters require confirmation); CAP-SACHET geo-targeted alerting operational in all states/UTs",
+  "whyItMatters": "Three ready-made preparedness lines for a small state: (1) the ₹5,000-crore fire services scheme funds modern fire tenders, hydraulic platforms and fire-station strengthening — Sikkim's mountain towns have thin fire cover and difficult access; (2) Aapda Mitra/Yuva Aapda Mitra trains community disaster-response volunteers, vital where landslides cut villages off before state forces arrive; (3) CAP-SACHET is the national geo-targeted SMS/cell-broadcast alerting backbone Sikkim must fully integrate with its GLOF and landslide early-warning systems — a gap exposed on the night of the October 2023 South Lhonak disaster.",
+  "eligibleApplicants": [
+   "State government (fire services proposals via Home/Police/UD department)",
+   "SDMA/districts (Aapda Mitra volunteer training)",
+   "State alert-issuing agencies (SACHET onboarding — SSDMA)"
+  ],
+  "sikkimNodalDept": "Sikkim Fire & Emergency Services (Police Department) for fire modernisation; SSDMA / Land Revenue & DM Department for volunteers and SACHET",
+  "whatCanBeFunded": "Fire services: vehicles, equipment, station infrastructure and training per approved state proposals; Aapda Mitra/YAMS: training, insurance, kits for community volunteers; CAP-SACHET: integration of state alert workflows, siren/EWS linkage (central platform is free to states).",
+  "fundingAvailable": "Fire services: ₹5,000 crore national envelope (state-wise earmarking per MHA sanctions — Sikkim share: Not confirmed from available official guidance); Aapda Mitra/YAMS outlays: Not confirmed from available official guidance; SACHET: platform provided centrally.",
+  "fundingRatio": "Fire services scheme includes a state co-contribution requirement (percentage: Not confirmed from available official guidance); volunteer schemes 100% central (requires confirmation)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Not confirmed from available official guidance.",
+  "stateContribution": "Fire services co-share per scheme guidelines (requires confirmation); staff time and district machinery for volunteer schemes",
+  "allocationMethod": "ministry approval",
+  "accessPathway": [
+   "Fire services: Home Department prepares a gap analysis and proposal per MHA scheme guidelines; submit to MHA for sanction; procure and report (requires confirmation of current proposal window)",
+   "Aapda Mitra/YAMS: SSDMA coordinates district selection and volunteer training per NDMA allocation of districts (requires confirmation whether Sikkim districts are in the current phase)",
+   "SACHET: SSDMA ensures all alert-issuing officers are onboarded, integrates GLOF/landslide EWS triggers with CAP, and runs public test alerts"
+  ],
+  "nextAction": "SSDMA should ask NDMA (a) for Sikkim's district coverage under Yuva Aapda Mitra and (b) to link the South Lhonak EWS feed into CAP-SACHET cell-broadcast, while the Home Department files a fire-services modernisation proposal for the ₹5,000-crore window.",
+  "portal": "https://sachet.ndma.gov.in",
+  "applicationWindow": "Scheme-specific; fire services proposals per MHA communication (requires confirmation)",
+  "keyDocuments": [
+   {
+    "doc": "Fire services scheme guidelines (MHA, 2023)",
+    "certainty": "likely"
+   },
+   {
+    "doc": "Aapda Mitra / Yuva Aapda Mitra scheme documents (NDMA)",
+    "certainty": "likely"
+   },
+   {
+    "doc": "CAP-SACHET state onboarding/SOP documents",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MHA (fire services, via NDRF preparedness window sanctions); NDMA (volunteer schemes; CAP programme)",
+  "contact": "DM Division, MHA; Capacity Building Division, NDMA; SSDMA, Gangtok",
+  "guidelines": [
+   {
+    "title": "SACHET — National Disaster Alert Portal",
+    "url": "https://sachet.ndma.gov.in"
+   },
+   {
+    "title": "NDMA — Aapda Mitra",
+    "url": "https://ndma.gov.in/Capacity_Building/AapdaMitra"
+   }
+  ],
+  "sources": [
+   {
+    "title": "SACHET national alerting portal (CAP Integrated Alert System)",
+    "publisher": "NDMA / C-DOT",
+    "date": "2026",
+    "url": "https://sachet.ndma.gov.in",
+    "section": "Operational alerting in all states incl. Sikkim (official domain unreachable from this research environment; cited as known-stable official portal)"
+   },
+   {
+    "title": "Scheme for Expansion and Modernisation of Fire Services in the States (₹5,000 crore from NDRF preparedness window)",
+    "publisher": "PIB / MHA",
+    "date": "2023",
+    "url": "https://pib.gov.in",
+    "section": "Scheme announcement (specific release could not be re-fetched — see confidenceNote)"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "SACHET/CAP alerting is operational in Sikkim (SSDMA issues alerts on the platform); Aapda Mitra earlier phases covered selected flood-prone districts nationally — Sikkim coverage and any fire-services sanction to Sikkim not confirmed."
+  },
+  "potentialUseCases": [
+   "Modern fire tenders suited to narrow hill roads for Gangtok/Namchi/Mangan",
+   "Trained Aapda Mitra volunteers in landslide-prone GPUs",
+   "Cell-broadcast GLOF alerts for the Teesta corridor tied to lake EWS"
+  ],
+  "flags": [
+   "All three components rest on widely documented but here-unverifiable primary pages (NDMA/PIB domains blocked from this environment) — confirm scheme windows and Sikkim coverage with NDMA/MHA before budgeting",
+   "Yuva Aapda Mitra parameters (outlay, districts) require confirmation"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 3,
+   "fit": 4,
+   "timeSensitivity": 3,
+   "transformational": 2,
+   "rationale": "Modest sums but cheap resilience wins; SACHET integration is effectively free and directly answers the 2023 warning failure."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Low",
+  "confidenceNote": "Composite record; scheme existence is well established but current windows, Sikkim allocations and exact parameters could not be verified due to blocked access to NDMA/MHA/PIB domains and exhausted search budget."
+ }
+]

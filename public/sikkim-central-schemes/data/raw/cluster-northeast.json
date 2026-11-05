@@ -1,0 +1,964 @@
+[
+  {
+    "id": "pm-devine",
+    "name": "Prime Minister's Development Initiative for North East Region (PM-DevINE)",
+    "shortName": "PM-DevINE",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "MDoNER (projects executed by State Governments/central agencies)",
+    "policyArea": "Regional development / infrastructure / social development / livelihoods",
+    "subcategory": "High-impact infrastructure and livelihood projects for NER",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "FY2022-23 to FY2025-26 (co-terminus with 15th FC); operationally continuing in FY2026-27 with a Budget 2026-27 allocation of Rs.2,300 crore and fresh Q1 FY2026-27 sanctions",
+    "whyItMatters": "PM-DevINE is 100% centrally funded and takes larger, high-visibility projects than most windows open to a small state. Sikkim has already secured 5 projects worth about Rs.561 crore and is the only NE state with completed projects (including the Pelling-Sangachoeling ropeway), giving it a strong delivery track record to argue for a bigger share of the pipeline. With FY2026-27 sanctions already flowing (3 Sikkim projects, Rs.82.81 crore across MDoNER schemes in Q1), a ready shelf of DPRs positions Sikkim to capture early-cycle funding.",
+    "eligibleApplicants": ["State Government", "Central ministries/agencies proposing NER projects"],
+    "sikkimNodalDept": "Development Planning, Economic Reforms and North Eastern Council Affairs Department (planning/nodal), with line departments (Tourism, Health, PWD) as executing agencies — likely",
+    "whatCanBeFunded": "Infrastructure in the spirit of PM GatiShakti; social development projects; livelihood activities for youth and women; gap-filling in various sectors. Sikkim examples: passenger ropeways, skywalks, State Medical College at Sichey, Gyan Mandir Library Gangtok.",
+    "fundingAvailable": "Scheme outlay Rs.6,600 crore (FY2022-23 to FY2025-26); Budget 2026-27 allocation Rs.2,300 crore. 48 projects worth Rs.6,044.36 crore sanctioned NER-wide till 28 February 2026. Sikkim share so far: 5 projects, approx Rs.561.11 crore.",
+    "fundingRatio": "100% Central (Central Sector Scheme)",
+    "nePreference": true,
+    "nePreferenceDetail": "Exclusively for the 8 North Eastern states including Sikkim; 100% central funding.",
+    "stateContribution": "Nil capital contribution (100% central funding); State bears O&M sustainability arrangements as per project sanction — details Not confirmed from available official guidance.",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "State line department identifies a high-impact project consistent with PM-DevINE objectives (infrastructure, social sector, livelihoods)",
+      "Prepare DPR and route it through the State's planning/nodal department to MDoNER",
+      "MDoNER appraises the proposal per the August 2023 scheme guidelines (requires confirmation whether revised guidelines have been issued for the post-March 2026 period)",
+      "Approval by the scheme's empowered inter-ministerial committee chaired at MDoNER level (requires confirmation)",
+      "Sanction, fund release in instalments against physical/financial progress tracked on MDoNER's NE-Setu dashboard"
+    ],
+    "nextAction": "Development Planning, Economic Reforms and NECA Department should confirm with MDoNER the appraisal calendar and any revised PM-DevINE guidelines for FY2026-27 and submit 2-3 shelf-ready DPRs (e.g., disaster-resilient tourism or health infrastructure).",
+    "portal": "https://nesetu.mdoner.gov.in/projects/project-list?scheme=pmdevine",
+    "applicationWindow": "rolling (proposal-driven; no fixed call dates announced)",
+    "keyDocuments": [
+      {"doc": "Detailed Project Report (DPR)", "certainty": "confirmed"},
+      {"doc": "State Government recommendation/prioritisation letter", "certainty": "likely"},
+      {"doc": "Land availability and statutory clearance certificates", "certainty": "likely"}
+    ],
+    "approvingAuthority": "MDoNER (empowered inter-ministerial committee for PM-DevINE); Cabinet approved the scheme",
+    "contact": null,
+    "guidelines": [
+      {"title": "MDoNER new Scheme Guidelines for Cabinet-approved schemes during 15th FC balance period (PIB, Aug 2023)", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1950889"},
+      {"title": "PM-DevINE scheme page, PWD Assam (mirror of scheme details)", "url": "https://pwdroads.assam.gov.in/schemes/pm-devine"}
+    ],
+    "sources": [
+      {"title": "Cabinet approves new Scheme PM-DevINE for remaining four years of 15th FC", "publisher": "PMO / pmindia.gov.in", "date": "2022-10-12", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-new-scheme-prime-ministers-development-initiative-for-north-east-region-pm-devine-for-the-remaining-four-years-of-the-15th-finance-commission-from-2022-23-to-2025/", "section": "Cabinet decision"},
+      {"title": "Progress of PM-DevINE scheme (48 projects, Rs.6,044.36 crore till 28.02.2026; continuation for next FC cycle under examination)", "publisher": "Press Information Bureau", "date": "2026 (exact date not confirmed)", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238832", "section": "Parliamentary answer/progress release"},
+      {"title": "48 Projects Worth Rs 6,044 Crore Approved Under PM-DevINE Scheme (Sikkim: 5 projects Rs.561.11 crore, 2 completed)", "publisher": "KNN India", "date": "2026", "url": "https://knnindia.co.in/news/newsdetails/sectors/others/48-projects-worth-rs-6044-crore-approved-under-pm-devine-scheme", "section": "state-wise breakup"},
+      {"title": "MDoNER Clears Rs 883 Crore for 30 New North East Projects in Q1 2026-27 (Sikkim: 3 projects, Rs.82.81 crore)", "publisher": "The Sentinel, Assam", "date": "2026", "url": "https://www.sentinelassam.com/topheadlines/mdoner-clears-rs-883-crore-for-30-new-north-east-projects-in-q1-2026-27", "section": "Q1 FY2026-27 sanctions"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "5 projects worth approx Rs.561.11 crore sanctioned; 2 completed worth Rs.121.21 crore, including the Passenger Ropeway System from Pelling to Sanga-Choeling. Other named Sikkim projects reported: Bhaleydunga Skywalk, Singshore Bridge Glass Skywalk, State Medical College at Sichey, Gyan Mandir Library Gangtok. Sikkim is reported as the only NE state with completed PM-DevINE projects."
+    },
+    "potentialUseCases": [
+      "Disaster-resilient eco-tourism infrastructure (ropeways, skywalks phase-II works)",
+      "Health infrastructure augmentation around the new State Medical College",
+      "Livelihood projects for youth/women in organic value chains"
+    ],
+    "flags": [
+      "Formal Cabinet approval of continuation for the post-15th-FC cycle not located; FY2026-27 budget allocation (Rs.2,300 crore) and Q1 FY2026-27 sanctions confirm operational continuity — verify revised guidelines before new DPR submission",
+      "PIB pages could not be fetched directly through the research proxy; content verified via official search results"
+    ],
+    "scores": {"financial": 5, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 5, "rationale": "Largest 100% central discretionary window for NER with proven Sikkim delivery; early new-cycle pipeline capture is time-sensitive."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "nesids-roads",
+    "name": "North East Special Infrastructure Development Scheme — Roads component (NESIDS-Roads)",
+    "shortName": "NESIDS-Roads",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "MDoNER (State PWDs as implementing agencies)",
+    "policyArea": "Road connectivity infrastructure",
+    "subcategory": "Roads, bridges and supporting road infrastructure (absorbed the former NERSDS)",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "FY2022-23 to FY2025-26 (restructured NESIDS, 15th FC balance period); NESIDS allocated Rs.2,500 crore in Budget 2026-27, with new sanctions continuing in FY2026-27",
+    "whyItMatters": "Sikkim's single-corridor dependence on NH-10 and repeated monsoon/GLOF damage make strategic and alternate road connectivity its top infrastructure gap. NESIDS-Roads offers 100% central funding for roads and bridges, complementing (not duplicating) PMGSY and NH works. MDoNER's inter-ministerial facilitation has already prioritised the alternative alignment to NH-10 for Sikkim, indicating ministry-level receptiveness to Sikkim road proposals.",
+    "eligibleApplicants": ["State Government"],
+    "sikkimNodalDept": "Roads and Bridges Department, Government of Sikkim (with Development Planning, ER & NECA Department as nodal) — likely",
+    "whatCanBeFunded": "Creation of physical assets in roads, bridges and supporting road infrastructure filling critical connectivity gaps; includes inter-state and economically important roads (legacy NERSDS mandate).",
+    "fundingAvailable": "NESIDS (both components) approved outlay Rs.8,139.5 crore for FY2022-23 to FY2025-26 including committed liabilities; Budget 2026-27 NESIDS allocation Rs.2,500 crore. 82 NESIDS projects worth Rs.4,703.81 crore sanctioned NER-wide in the two preceding FYs plus FY2025-26 (as on 31 January 2026). Sikkim cumulative NESIDS sanctions reported at approx Rs.232.01 crore (component-wise split not confirmed).",
+    "fundingRatio": "100% Central (Central Sector Scheme)",
+    "nePreference": true,
+    "nePreferenceDetail": "Exclusively for the 8 NE states; 100% central funding.",
+    "stateContribution": "Nil capital contribution; maintenance liability post-completion rests with the State (requires confirmation of exact terms in guidelines).",
+    "allocationMethod": "DPR submission",
+    "accessPathway": [
+      "Roads and Bridges Department identifies priority road/bridge gaps not covered by other CSS/NH programmes",
+      "Prepare DPR per NESIDS-Roads guidelines (separate guidelines issued August 2023)",
+      "Submit through the State nodal department to MDoNER with State prioritisation",
+      "MDoNER appraisal and sanction by the scheme's competent committee (requires confirmation of committee composition)",
+      "Implementation by State PWD; progress reporting on NE-Setu dashboard"
+    ],
+    "nextAction": "Roads and Bridges Department should shortlist 2-3 climate-resilient alternate-connectivity DPRs (feeder links to the NH-10 alternative alignment) and confirm the FY2026-27 NESIDS-Roads proposal calendar with MDoNER.",
+    "portal": "https://nesetu.mdoner.gov.in/projects/project-list?scheme=NesidsR",
+    "applicationWindow": "rolling (proposal-driven; no fixed call dates announced)",
+    "keyDocuments": [
+      {"doc": "DPR with road alignment surveys and cost estimates", "certainty": "confirmed"},
+      {"doc": "Forest/environment clearance status documentation", "certainty": "likely"},
+      {"doc": "Certificate of non-duplication with other road schemes", "certainty": "likely"}
+    ],
+    "approvingAuthority": "MDoNER (inter-ministerial/empowered committee per NESIDS guidelines)",
+    "contact": null,
+    "guidelines": [
+      {"title": "MDoNER new Scheme Guidelines for 15th FC balance period incl. NESIDS-Roads (PIB, Aug 2023)", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1950889"},
+      {"title": "NESIDS-Roads scheme page, PWD (Roads) Assam", "url": "https://pwdroads.assam.gov.in/schemes/north-east-special-infrastructure-development-scheme-nesids-roads"}
+    ],
+    "sources": [
+      {"title": "Cabinet approves continuation of Schemes of MDoNER, outlay Rs.12,882.2 crore for 15th FC balance period (NESIDS Rs.8,139.5 crore, two components, 100% central)", "publisher": "PMO / pmindia.gov.in", "date": "2022-12", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-schemes-of-ministry-of-development-of-north-eastern-region-with-an-outlay-of-rs-12882-2-crore-for-the-balance-period-of-the-15th-finance-commission-2022-23-to-2025/", "section": "Cabinet decision"},
+      {"title": "NESIDS Sanctions 82 Projects Worth Rs 47,038.1 mn", "publisher": "Construction World", "date": "2026", "url": "https://www.constructionworld.in/policy-updates-and-economic-news/nesids-sanctions-82-projects-worth-rs-47038.1-mn/86241", "section": "sanction totals as on 31.01.2026"},
+      {"title": "Pathway To Progress: NESIDS (Sikkim sanctions approx Rs.2,320.1 million)", "publisher": "IMPRI", "date": "not confirmed", "url": "https://www.impriindia.com/insights/north-east-special-infrastructure/", "section": "state-wise data"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Approx Rs.232.01 crore sanctioned to Sikkim under NESIDS (roads + OTRI combined; component split and project names not located in available sources). Part of the 3 new Sikkim projects (Rs.82.81 crore) sanctioned by MDoNER in Q1 FY2026-27 may fall under NESIDS (scheme-wise split requires confirmation)."
+    },
+    "potentialUseCases": [
+      "Alternate/feeder connectivity to reduce NH-10 dependence",
+      "Bridges replacing vulnerable crossings damaged in the 2023 Teesta GLOF",
+      "Border-area and tourism-circuit road upgrades"
+    ],
+    "flags": [
+      "Current continuation beyond FY2025-26 needs confirmation (Budget 2026-27 allocation confirms funding, but new-cycle Cabinet approval/guidelines not located)",
+      "Funding details unclear (Sikkim component-wise sanction split not confirmed)"
+    ],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 4, "rationale": "100% central road funding directly addresses Sikkim's most acute vulnerability — single-corridor connectivity."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "nesids-otri",
+    "name": "North East Special Infrastructure Development Scheme — Other Than Road Infrastructure component (NESIDS-OTRI)",
+    "shortName": "NESIDS-OTRI",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "MDoNER (State line departments as implementing agencies)",
+    "policyArea": "Physical and social infrastructure (non-road)",
+    "subcategory": "Water supply, power, education, health, sports, tourism, waste management, industrial/telecom infrastructure",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "FY2022-23 to FY2025-26 (15th FC balance period); NESIDS allocated Rs.2,500 crore in Budget 2026-27, with sanctions continuing in FY2026-27",
+    "whyItMatters": "NESIDS-OTRI is Sikkim's most flexible 100% central window for mid-sized social and physical infrastructure — urban water supply, health, education, sports and tourism assets that are too small for PM-DevINE and not covered by sectoral CSS. For a hill state with dispersed habitations, the ability to fund water supply and eco-tourism infrastructure at full central cost materially relieves the small state budget.",
+    "eligibleApplicants": ["State Government"],
+    "sikkimNodalDept": "Development Planning, Economic Reforms and NECA Department (nodal), with Water Resources/PHE, Health, Education, Tourism as executing departments — likely",
+    "whatCanBeFunded": "Non-road infrastructure: water supply, electrification/power, education, health, sports, tourism, solid waste management, industrial estates and telecom-supporting infrastructure (gap-filling).",
+    "fundingAvailable": "Within the NESIDS outlay of Rs.8,139.5 crore (2022-26) and the Rs.2,500 crore Budget 2026-27 NESIDS line. Secondary summaries report an OTRI project-size band of approx Rs.5-50 crore per project; Not confirmed from available official guidance.",
+    "fundingRatio": "100% Central (Central Sector Scheme)",
+    "nePreference": true,
+    "nePreferenceDetail": "Exclusively for the 8 NE states; 100% central funding.",
+    "stateContribution": "Nil capital contribution; O&M responsibility with the State (requires confirmation of exact terms).",
+    "allocationMethod": "DPR submission",
+    "accessPathway": [
+      "Line department identifies infrastructure gap not fundable under sectoral CSS",
+      "Prepare DPR per NESIDS-OTRI guidelines (issued August 2023)",
+      "State nodal department prioritises and forwards to MDoNER",
+      "MDoNER appraisal and sanction (committee process — requires confirmation)",
+      "Implementation with progress reporting on NE-Setu dashboard"
+    ],
+    "nextAction": "Development Planning, ER & NECA Department should convene line departments to build a prioritised FY2026-27 OTRI shelf (urban water supply, district sports and health infrastructure) and verify with MDoNER whether revised OTRI guidelines apply post-March 2026.",
+    "portal": "https://nesetu.mdoner.gov.in/projects/",
+    "applicationWindow": "rolling (proposal-driven; no fixed call dates announced)",
+    "keyDocuments": [
+      {"doc": "DPR with cost estimates and O&M plan", "certainty": "confirmed"},
+      {"doc": "Non-duplication certificate vis-a-vis sectoral schemes", "certainty": "likely"},
+      {"doc": "Land availability certificate", "certainty": "likely"}
+    ],
+    "approvingAuthority": "MDoNER (empowered/inter-ministerial committee per NESIDS guidelines)",
+    "contact": null,
+    "guidelines": [
+      {"title": "MDoNER new Scheme Guidelines for 15th FC balance period incl. NESIDS-OTRI (PIB, Aug 2023)", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1950889"}
+    ],
+    "sources": [
+      {"title": "Cabinet approves continuation of Schemes of MDoNER (NESIDS restructured into Roads and OTRI, 100% central)", "publisher": "PMO / pmindia.gov.in", "date": "2022-12", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-schemes-of-ministry-of-development-of-north-eastern-region-with-an-outlay-of-rs-12882-2-crore-for-the-balance-period-of-the-15th-finance-commission-2022-23-to-2025/", "section": "Cabinet decision"},
+      {"title": "NESIDS overview with component descriptions and sector coverage", "publisher": "Khan Global Studies (secondary)", "date": "2025", "url": "https://currentaffairs.khanglobalstudies.com/north_east_special_infrastructure_development_scheme_nesids/", "section": "OTRI sector coverage"},
+      {"title": "NESIDS Sanctions 82 Projects Worth Rs 47,038.1 mn (as on 31.01.2026)", "publisher": "Construction World", "date": "2026", "url": "https://www.constructionworld.in/policy-updates-and-economic-news/nesids-sanctions-82-projects-worth-rs-47038.1-mn/86241", "section": "sanction totals"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim included in the approx Rs.232.01 crore cumulative NESIDS sanctions; specific OTRI project names for Sikkim not located in available sources (MDoNER NE-Setu dashboard lists project-wise detail)."
+    },
+    "potentialUseCases": [
+      "Gravity-fed rural/urban water supply augmentation",
+      "District hospital and school infrastructure gap-filling",
+      "Eco-tourism wayside amenities and waste management in tourist corridors"
+    ],
+    "flags": [
+      "Current continuation beyond FY2025-26 needs confirmation (funded in Budget 2026-27; new-cycle guidelines not located)",
+      "Funding details unclear (project-size band from secondary sources only)"
+    ],
+    "scores": {"financial": 4, "ease": 4, "fit": 5, "timeSensitivity": 4, "transformational": 3, "rationale": "Flexible 100% central gap-filling for exactly the mid-size social infrastructure a 7-lakh-population hill state needs."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Component-level guidelines (project ceilings, appraisal chain) could not be read directly because gov.in PDFs are blocked through the research proxy; details rest on official press summaries and secondary sources."
+  },
+  {
+    "id": "schemes-of-nec-special-development-projects",
+    "name": "Schemes of North Eastern Council (including NEC Special Development Projects)",
+    "shortName": "Schemes of NEC",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "North Eastern Council (NEC) Secretariat, Shillong",
+    "policyArea": "Regional planning and development",
+    "subcategory": "Multi-sector projects of regional significance: connectivity, agriculture/allied, tourism, human resource development, S&T, industry",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "FY2022-23 to FY2025-26 (within the Rs.12,882.2 crore MDoNER continuation); NEC projects in Sikkim being completed and closed through July-August 2026, indicating ongoing operation",
+    "whyItMatters": "NEC is the statutory regional planning body for the NER and the longest-standing discretionary window Sikkim has used — 25 projects worth Rs.154.70 crore were ongoing as of July 2024, and three Sikkim projects (Rangpo drainage, Namchi underground parking, Sikkim State University) were completed in mid-2026. New projects are funded 100% centrally (ongoing legacy projects at 90:10), so NEC can fund smaller regional-significance projects that fall below PM-DevINE/NESIDS thresholds, plus NGO and institution-led work.",
+    "eligibleApplicants": ["State Government", "Central agencies/institutions", "NGOs (via NITI Aayog Darpan portal for grants under 'Promotion of NER' head)"],
+    "sikkimNodalDept": "Development Planning, Economic Reforms and North Eastern Council Affairs Department (the State's designated NEC nodal department)",
+    "whatCanBeFunded": "Projects of regional significance across sectors (transport/connectivity, agriculture and allied, tourism, HRD/capacity building, science & technology, industries, medical/health); special development projects filling regional gaps; grants to NGOs/institutions for promotion of the NER.",
+    "fundingAvailable": "NEC schemes funded within MDoNER's Rs.12,882.2 crore 15th-FC-balance envelope (NEC-specific sub-allocation not confirmed). Sikkim portfolio: 25 projects, Rs.154.70 crore (as of July 2024). No fixed per-project ceiling confirmed.",
+    "fundingRatio": "100% Central for new projects; 90:10 Centre:State continues for ongoing legacy projects (per Cabinet-approved continuation)",
+    "nePreference": true,
+    "nePreferenceDetail": "NEC exists solely for the 8 NE states; Sikkim is a full member state of the Council.",
+    "stateContribution": "Nil for new projects (100% central); 10% for legacy ongoing 90:10 projects.",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "State nodal department invites/collates project proposals from line departments aligned to NEC priority sectors and the Guidelines of Schemes of NEC 2023",
+      "Proposals submitted to NEC Secretariat, Shillong (State Plan/priority list route; NGOs apply via NITI Aayog Darpan portal)",
+      "NEC Secretariat appraisal by sector divisions; scrutiny against regional-significance criteria",
+      "Approval by competent NEC/MDoNER authority depending on project cost (delegation thresholds require confirmation)",
+      "Sanction and instalment-based releases against utilisation certificates and quarterly progress reports"
+    ],
+    "nextAction": "Development Planning, ER & NECA Department should submit Sikkim's FY2026-27 priority project list to the NEC Secretariat and seek confirmation of the NEC planning calendar under the post-2026 cycle and Vision NER 2047 framing.",
+    "portal": "https://necouncil.gov.in/",
+    "applicationWindow": "annual, no current date announced",
+    "keyDocuments": [
+      {"doc": "Project proposal/DPR in NEC format per Guidelines of Schemes of NEC 2023", "certainty": "confirmed"},
+      {"doc": "State priority list endorsement", "certainty": "confirmed"},
+      {"doc": "Darpan portal registration (for NGO grants)", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "North Eastern Council / MDoNER (cost-based delegation; NEC plenary sets regional priorities)",
+    "contact": "NEC Secretariat, Nongrim Hills, Shillong (sector divisions); publicly listed on necouncil.gov.in",
+    "guidelines": [
+      {"title": "Guidelines of Schemes of NEC 2023", "url": "https://necouncil.gov.in/sites/default/files/Guidelines%20of%20Schemes%20of%20NEC%202023.pdf"},
+      {"title": "NEC General Guidelines 2020", "url": "https://www.mdoner.gov.in/static/uploads/2025/08/eefb795bc64081ef3f631e8e53a4726a.pdf"}
+    ],
+    "sources": [
+      {"title": "Cabinet approves continuation of Schemes of MDoNER (NEC special development projects: 90:10 for ongoing, 100% central for new)", "publisher": "PMO / pmindia.gov.in", "date": "2022-12", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-schemes-of-ministry-of-development-of-north-eastern-region-with-an-outlay-of-rs-12882-2-crore-for-the-balance-period-of-the-15th-finance-commission-2022-23-to-2025/", "section": "Cabinet decision"},
+      {"title": "North Eastern Council Completes Rs.32.54-Crore Infrastructure Projects In Sikkim (Rangpo drainage Rs.8.17 cr; Namchi underground parking Rs.14.77 cr; Sikkim State University Rs.9.62 cr)", "publisher": "Northeast Today", "date": "2026-08", "url": "https://northeasttoday.in/northeast/north-eastern-council-completes-%E2%82%B932-54-crore-infrastructure-projects-in-sikkim/", "section": "Sikkim completions"},
+      {"title": "NOTICE FOR NGOs seeking grants from NEC", "publisher": "North Eastern Council", "date": "not confirmed", "url": "https://necouncil.gov.in/notices/notice-ngos-seeking-grants-nec", "section": "NGO grant route"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "25 NEC projects worth Rs.154.70 crore in Sikkim (as of July 2024). Completed and closed in Jul-Aug 2026: Lower Rangpo Drainage System (Rs.8.17 crore, re-revised), Namchi Underground Parking (Rs.14.77 crore), Sikkim State University at Temi Tarku (Rs.9.6196 crore). NERACE (NEC-funded, NERAMAC-implemented) also serves Sikkim farmers."
+    },
+    "potentialUseCases": [
+      "Small-town drainage, parking and urban resilience projects (proven track record)",
+      "Higher education and skill infrastructure",
+      "Regional tourism circuits and inter-state connectivity studies"
+    ],
+    "flags": [
+      "Current continuation beyond FY2025-26 needs confirmation",
+      "Funding details unclear (NEC sub-allocation for FY2026-27 not located)"
+    ],
+    "scores": {"financial": 3, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Reliable, familiar window with dedicated Sikkim nodal machinery and 100% central funding for new projects."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "nec-science-technology-capacity-building",
+    "name": "NEC Science & Technology and Capacity Building Interventions",
+    "shortName": "NEC S&T / Capacity Building",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "North Eastern Council Secretariat (S&T and HRD sectors), with partner institutions NESAC, NECTAR, IIT Guwahati, CSIR-NEIST, NIPER, ERNET",
+    "policyArea": "Science & technology, skilling, human resource development",
+    "subcategory": "Emerging technologies, geospatial applications, innovation ecosystems, digital education, research infrastructure, official/artisan skill development",
+    "type": "Capacity building",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing within Schemes of NEC; NEC S&T sector reported 56 ongoing projects (Rs.338.33 crore) and 113 completed projects (Rs.227.01 crore) as of 31 March 2026",
+    "whyItMatters": "Sikkim's small administration benefits disproportionately from centrally funded technical capacity — geospatial planning, disaster-risk technology, digital education and officer training that the State could not fund alone. The NEC S&T sector routes projects through premier partner institutions, letting Sikkim departments and universities access ISRO/CSIR-grade expertise at no or minimal state cost. It also complements NESAC services already engaged with the Sikkim SDMA.",
+    "eligibleApplicants": ["State Government departments", "State universities/technical institutions", "Regional institutions (NESAC, NECTAR, CSIR-NEIST etc.) proposing NER-wide projects"],
+    "sikkimNodalDept": "Department of Science and Technology, Government of Sikkim (with Development Planning, ER & NECA Department as NEC nodal) — likely",
+    "whatCanBeFunded": "Technology deployment and demonstration projects, geospatial applications, innovation/incubation ecosystems, digital education, research infrastructure, and skill/capacity-building programmes for officials, youth and artisans.",
+    "fundingAvailable": "No fixed state-wise allocation; project-by-project grants within the NEC S&T sector portfolio (56 ongoing projects, Rs.338.33 crore approved cost, as of 31.03.2026).",
+    "fundingRatio": "100% Central for new NEC projects (per Schemes-of-NEC funding pattern); Not confirmed from available official guidance for institution-routed sub-projects.",
+    "nePreference": true,
+    "nePreferenceDetail": "NEC S&T sector serves only the 8 NE states.",
+    "stateContribution": "Nil for new 100%-central projects; in-kind facilitation (land, staff time) as applicable.",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "Identify technology/capacity gap (e.g., geospatial cell strengthening, officer training) in a Sikkim department or institution",
+      "Prepare proposal aligned to NEC S&T sector priorities per Guidelines of Schemes of NEC 2023",
+      "Route through the State NEC nodal department to the NEC Secretariat S&T sector (or partner with a regional institution such as NESAC/NECTAR that submits on Sikkim's behalf) (requires confirmation)",
+      "NEC appraisal and sanction; implementation with progress reporting"
+    ],
+    "nextAction": "Department of Science and Technology should propose to the NEC S&T sector a Sikkim-focused geospatial and disaster-risk capacity project in partnership with NESAC, routed via the Development Planning, ER & NECA Department.",
+    "portal": "https://necouncil.gov.in/nec-project-sectors/science-and-technology",
+    "applicationWindow": "rolling (proposal-driven; no fixed call announced)",
+    "keyDocuments": [
+      {"doc": "Project proposal in NEC format", "certainty": "confirmed"},
+      {"doc": "Partner institution MoU/consent (where routed via NESAC/NECTAR etc.)", "certainty": "likely"}
+    ],
+    "approvingAuthority": "North Eastern Council Secretariat (S&T sector) / MDoNER per cost delegation",
+    "contact": "NEC Secretariat S&T Sector, Shillong (details on necouncil.gov.in)",
+    "guidelines": [
+      {"title": "Guidelines of Schemes of NEC 2023", "url": "https://necouncil.gov.in/sites/default/files/Guidelines%20of%20Schemes%20of%20NEC%202023.pdf"}
+    ],
+    "sources": [
+      {"title": "Science and Technology sector page, North Eastern Council (56 ongoing projects Rs.338.33 crore; 113 completed Rs.227.01 crore as of 31.03.2026)", "publisher": "North Eastern Council", "date": "2026", "url": "https://necouncil.gov.in/nec-project-sectors/science-and-technology", "section": "sector overview"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "Sikkim-specific NEC S&T project names not located in accessible sources; Sikkim engages NESAC (an NEC-DoS joint centre) including an SDMA-NESAC meeting in August 2023, and Sikkim State Remote Sensing Applications Centre operates under the State DST."
+    },
+    "potentialUseCases": [
+      "Geospatial decision-support and landslide-risk capacity for Sikkim SDMA/DST",
+      "Digital education and research infrastructure at Sikkim State University",
+      "Innovation/incubation support for organic-sector agri-tech startups"
+    ],
+    "flags": [
+      "Application process unclear (routing for state-initiated vs institution-initiated proposals requires confirmation)",
+      "Current continuation beyond FY2025-26 needs confirmation"
+    ],
+    "scores": {"financial": 2, "ease": 4, "fit": 4, "timeSensitivity": 2, "transformational": 3, "rationale": "Modest sums but high leverage for a small administration's technical capacity."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "NEC sector page content verified via search results only (gov.in fetch blocked); state-level routing steps not directly confirmed."
+  },
+  {
+    "id": "unnati-2024",
+    "name": "Uttar Poorva Transformative Industrialization Scheme, 2024 (UNNATI 2024)",
+    "shortName": "UNNATI 2024",
+    "ministry": "Ministry of Commerce and Industry (Department for Promotion of Industry and Internal Trade - DPIIT)",
+    "agency": "DPIIT (state single-window/DIC machinery for facilitation)",
+    "policyArea": "Industrial development / private investment incentives",
+    "subcategory": "Capital investment incentive, interest subvention and manufacturing/services-linked incentives for new and expanding units in NER",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active but current call closed",
+    "period": "In force 09.03.2024 to 08.03.2034 (plus 8 years for committed liabilities); unit registration window 09.03.2024 to 31.03.2026 (no extension located)",
+    "whyItMatters": "UNNATI is the successor industrial-incentive regime for the NER and the main lever for attracting private manufacturing and services investment to Sikkim (pharma, food processing, tourism-linked services). Incentives flow to private units, but the State government's facilitation quality — registration support through DICs, land and clearances — determines how much of the corpus Sikkim captures. With the registration window having closed on 31 March 2026 (unless extended), the immediate state task is ensuring registered Sikkim units convert registrations into commissioned investments and claims.",
+    "eligibleApplicants": ["New industrial units in the 8 NE states", "Existing units undertaking substantial expansion", "(State Government role: facilitation, not beneficiary)"],
+    "sikkimNodalDept": "Commerce and Industries Department, Government of Sikkim (with District Industries Centres and the SEED Cell)",
+    "whatCanBeFunded": "Part A incentives to eligible units: Capital Investment Incentive (CII), Central Interest Subvention (CIS), and Manufacturing & Services Linked Incentive (MSLI), with zone-differentiated rates per the gazette notification; Part B for scheme administration. Minimum investment thresholds: Rs.1 crore plant & machinery (manufacturing), Rs.50 lakh (services/micro categories) per scheme documents.",
+    "fundingAvailable": "Approved scheme outlay approx Rs.10,037 crore over the scheme period (as reported at March 2024 Cabinet approval); incentives are demand-driven against registrations, with disbursal capped by approved funds (registration can be halted at 115% committed liability).",
+    "fundingRatio": "100% Central (incentives paid by Government of India to units)",
+    "nePreference": true,
+    "nePreferenceDetail": "Applies only to the 8 NE states including Sikkim; zone-based differentiation gives higher incentive rates to less-industrialised districts (Zone A/B per notification).",
+    "stateContribution": "None mandated for the incentive corpus; State provides facilitation, land, and single-window clearances.",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Unit registers on the UNNATI portal (unnati.dpiit.gov.in) — window ran 09.03.2024 to 31.03.2026; any reopening/extension requires confirmation",
+      "Registered unit commences commercial production/operation within the notified period and applies for incentive claims with prescribed documentation",
+      "State-level committee scrutiny and DPIIT sanction of claims (requires confirmation of exact claim chain)",
+      "Commerce & Industries Department/DICs assist units and track claims"
+    ],
+    "nextAction": "Commerce and Industries Department should audit all Sikkim units registered on the UNNATI portal before 31 March 2026, fast-track their land/clearance needs so they commission within eligibility timelines, and formally query DPIIT on any registration-window extension.",
+    "portal": "https://unnati.dpiit.gov.in/",
+    "applicationWindow": "registration closed 31 March 2026 (per scheme notification; extension not located); incentive claims by registered units continue per scheme timelines",
+    "keyDocuments": [
+      {"doc": "UNNATI portal registration certificate", "certainty": "confirmed"},
+      {"doc": "Gazette notification and FAQ of UNNATI 2024", "certainty": "confirmed"},
+      {"doc": "Claim documentation (investment proof, GST returns, loan statements)", "certainty": "likely"}
+    ],
+    "approvingAuthority": "DPIIT, Ministry of Commerce and Industry (with state-level scrutiny committees)",
+    "contact": "Commerce and Industries Department, Government of Sikkim / District Industries Centres; DPIIT UNNATI cell via portal",
+    "guidelines": [
+      {"title": "UNNATI 2024 notification/brochure (Sikkim Commerce & Industries Department)", "url": "https://industries.sikkim.gov.in/schemedoc/8f32ycEfhDSA8olnD9dopaJ698nJl3OS1sMDdeju.pdf"},
+      {"title": "UNNATI 2024 portal and FAQ, DPIIT", "url": "https://unnati.dpiit.gov.in/"}
+    ],
+    "sources": [
+      {"title": "Uttar Poorva Transformative Industrialization Scheme (UNNATI), 2024 — notification summary", "publisher": "TaxGuru (reproducing DPIIT notification)", "date": "2024", "url": "https://taxguru.in/corporate-law/uttar-poorva-transformative-industrialization-scheme-unnati-2024.html", "section": "scheme text"},
+      {"title": "Samvad Under UNNATI 2024 Highlights Investment Opportunities in Sikkim", "publisher": "Government of Sikkim (sikkim.gov.in)", "date": "2024", "url": "https://www.sikkim.gov.in/media/news-announcement/news-info?name=Samvad+Under+UNNATI+2024+Highlights+Investment+Opportunities+in+Sikkim", "section": "state facilitation"},
+      {"title": "Sikkim Hosts UNNATI 2024 Awareness Programme to Boost Entrepreneurship", "publisher": "Press Information Bureau", "date": "2024-12", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2080518", "section": "awareness programme"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim actively promoted the scheme (SEED Cell/Commerce & Industries awareness programmes, DIC Gyalshing capacity-building workshop); the state industries portal hosts UNNATI documents. Number and value of Sikkim unit registrations not located in public sources."
+    },
+    "potentialUseCases": [
+      "Expansion of pharma and nutraceutical units in existing Sikkim industrial areas",
+      "Organic food processing plants leveraging Mission Sikkim Organics supply chains",
+      "Tourism-linked service-sector investments (Zone-based incentives)"
+    ],
+    "flags": [
+      "No current proposal window found (registration closed 31.03.2026 unless extended — needs confirmation with DPIIT)",
+      "Funding details unclear (zone-wise incentive rates stated only in the gazette notification, not re-verified here)"
+    ],
+    "scores": {"financial": 4, "ease": 3, "fit": 4, "timeSensitivity": 5, "transformational": 4, "rationale": "Main private-investment magnet for Sikkim this decade, but the registration cliff makes conversion of registered units urgent."},
+    "openWindow": "closed",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "north-east-venture-fund",
+    "name": "North East Venture Fund (NEVF)",
+    "shortName": "NEVF",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "NEDFi Venture Capital Limited (fund manager), NEDFi",
+    "policyArea": "Startup and enterprise financing",
+    "subcategory": "Dedicated venture capital fund for NER startups and growth-stage enterprises",
+    "type": "Other",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "Launched 9 September 2017; open-ended investment operations continuing (investment commitments of approx Rs.100 crore to 69 startups reported)",
+    "whyItMatters": "NEVF is the first and only dedicated VC fund for the NER, and equity capital is the scarcest financing layer in Sikkim's nascent startup ecosystem. One Sikkim startup (traveltech firm Topview Infolabs) has already been funded, proving the pipeline works. The State's role is ecosystem-side: sourcing and preparing investable Sikkim startups (tourism-tech, organic agri-tech) so more equity lands in the state.",
+    "eligibleApplicants": ["Startups and enterprises based in / operating in the 8 NE states (private applicants; State role is facilitation)"],
+    "sikkimNodalDept": "Commerce and Industries Department (Sikkim Entrepreneurship and Economic Development - SEED Cell) — likely",
+    "whatCanBeFunded": "Equity/venture investment in early- and growth-stage companies in sectors such as food processing, healthcare, tourism, aggregation of services, IT etc. (investment size bands per fund policy; typically Rs.25 lakh to Rs.10 crore per NEDFi Venture published terms — requires confirmation of current band).",
+    "fundingAvailable": "Fund corpus Rs.100 crore (MDoNER Rs.45 crore, NEDFi Rs.30 crore, SIDBI Rs.25 crore); approx Rs.100 crore committed to 69 startups per official statements. No state-wise quota.",
+    "fundingRatio": "Not applicable (equity investment, not a Centre:State grant)",
+    "nePreference": true,
+    "nePreferenceDetail": "Invests exclusively in NER-linked enterprises.",
+    "stateContribution": "None.",
+    "allocationMethod": "competitive application",
+    "accessPathway": [
+      "Startup prepares business plan/pitch and applies to NEDFi Venture Capital Ltd (nedfiventure.com)",
+      "Fund manager screening, due diligence and investment committee approval",
+      "Equity/quasi-equity investment with agreed exit terms",
+      "State side: SEED Cell curates and refers investable Sikkim startups (requires confirmation of any formal referral channel)"
+    ],
+    "nextAction": "The SEED Cell under the Commerce and Industries Department should run a Sikkim pitch-preparation cohort and formally invite NEDFi Venture Capital for an investor connect in Gangtok.",
+    "portal": "https://www.nedfiventure.com/",
+    "applicationWindow": "rolling",
+    "keyDocuments": [
+      {"doc": "Business plan / pitch deck and financials", "certainty": "confirmed"},
+      {"doc": "Company incorporation and NER-operations proof", "certainty": "likely"}
+    ],
+    "approvingAuthority": "NEDFi Venture Capital Limited investment committee",
+    "contact": "NEDFi Venture Capital Limited, Guwahati (via nedfiventure.com); NEDFi Gangtok branch for local facilitation",
+    "guidelines": [
+      {"title": "NEDFi Venture Capital Limited — Funds", "url": "https://www.nedfiventure.com/funds/"}
+    ],
+    "sources": [
+      {"title": "North East Venture Fund (corpus Rs.100 crore: MDoNER 45, NEDFi 30, SIDBI 25; launched 09.09.2017)", "publisher": "Press Information Bureau", "date": "2023-08", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1946370", "section": "fund structure"},
+      {"title": "North East Venture Fund Has Invested INR 56 Cr In 37 Startups (incl. Sikkim traveltech Topview Infolabs)", "publisher": "Inc42", "date": "2023", "url": "https://inc42.com/buzz/north-east-venture-fund-has-invested-inr-56-cr-in-37-startups-govt/", "section": "Sikkim beneficiary"},
+      {"title": "MDoNER Consultative Committee reviews NEDFi's contribution to investment, MSME growth and employment in NE", "publisher": "Press Information Bureau", "date": "2026", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239679", "section": "current review"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim-based traveltech startup Topview Infolabs received NEVF investment (per MDoNER data reported 2023). Only one Sikkim investee located — indicating headroom."
+    },
+    "potentialUseCases": [
+      "Equity for Sikkim tourism-tech and homestay-aggregation startups",
+      "Organic agri-tech and food-processing ventures scaling beyond the state",
+      "Health/wellness ventures leveraging Sikkim's organic brand"
+    ],
+    "flags": [
+      "Funding details unclear (current investment band and remaining corpus/possible follow-on fund not confirmed)"
+    ],
+    "scores": {"financial": 2, "ease": 3, "fit": 3, "timeSensitivity": 2, "transformational": 3, "rationale": "Small cheque sizes but the only NE-dedicated equity source; state effort is ecosystem-building, not fiscal."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "nedfi-financing-windows",
+    "name": "NEDFi Financing Windows (term loans, MSME and micro-lending schemes)",
+    "shortName": "NEDFi loans",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER) — administrative control of NEDFi",
+    "agency": "North Eastern Development Finance Corporation Ltd (NEDFi), Gangtok and Namchi branches in Sikkim",
+    "policyArea": "Enterprise and infrastructure financing",
+    "subcategory": "Rupee Term Loans for MSMEs and large projects; NEDFi Opportunity Scheme for Small Enterprises (NoSSE); Women Enterprise Development Scheme; Micro Lending Scheme (up to Rs.2 lakh); Micro Finance through MFIs/NGOs",
+    "type": "Concessional loan",
+    "grantOrLoan": "Loan",
+    "status": "Active",
+    "period": "Ongoing (NEDFi incorporated 1995; schemes operational and marketed in Sikkim through Gangtok and Namchi branches as of 2025-26)",
+    "whyItMatters": "NEDFi is the region's development finance institution with physical branches in Gangtok and Namchi, actively disbursing to Sikkim homestays, traders and agri-allied units. For Sikkim entrepreneurs outside bank comfort zones, NEDFi's concessional windows (e.g., NoSSE loans up to Rs.1 crore at reported approx 8% p.a., women's enterprise loans, Rs.2-lakh micro loans) are the most accessible debt on offer. The State can multiply uptake via credit camps and by using NEDFi as a project-finance partner for tourism and organic-sector enterprises.",
+    "eligibleApplicants": ["MSMEs, entrepreneurs, women entrepreneurs, micro-borrowers and larger enterprises in the 8 NE states (private applicants; State role is facilitation)"],
+    "sikkimNodalDept": "Commerce and Industries Department, Government of Sikkim — likely",
+    "whatCanBeFunded": "Setting up/expansion of industrial, infrastructure, agri-allied and service projects; working capital-linked term needs; micro-enterprise activity; women-led enterprise expansion, modernisation or diversification.",
+    "fundingAvailable": "Scheme-dependent: NoSSE loans up to Rs.1 crore for projects between Rs.50 lakh and Rs.2 crore (reported approx 8% p.a., up to 7-year tenor); Micro Lending Scheme up to Rs.2 lakh per beneficiary; other windows per NEDFi published terms. No state quota.",
+    "fundingRatio": "Not applicable (loans at concessional interest, repayable)",
+    "nePreference": true,
+    "nePreferenceDetail": "NEDFi lends only in the 8 NE states; NE-specific concessional pricing.",
+    "stateContribution": "None; borrowers provide margin/security per scheme norms.",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Entrepreneur approaches NEDFi Gangtok or Namchi branch (or applies via nedfi.com) with project proposal",
+      "Branch appraisal of eligibility, security and viability",
+      "Sanction and disbursement per scheme norms; repayment over agreed tenor"
+    ],
+    "nextAction": "Commerce and Industries Department should co-host district-level credit outreach camps with NEDFi's Gangtok and Namchi branches targeting homestay, food-processing and organic agri-allied borrowers.",
+    "portal": "https://www.nedfi.com/",
+    "applicationWindow": "rolling",
+    "keyDocuments": [
+      {"doc": "Project report and KYC/financial documents", "certainty": "confirmed"},
+      {"doc": "Security/collateral documentation per scheme", "certainty": "likely"}
+    ],
+    "approvingAuthority": "NEDFi (branch/HO sanctioning committees per delegation)",
+    "contact": "NEDFi Gangtok Branch, Ground Floor, Yangthang House, Sonam Tshering Marg (Kazi Road), Gangtok 737101; NEDFi Namchi branch",
+    "guidelines": [
+      {"title": "NEDFi — Loan for Existing & New MSMEs", "url": "https://www.nedfi.com/loan-for-existing-and-new-business/"},
+      {"title": "NEDFi branch network", "url": "https://www.nedfi.com/our-branch-network/"}
+    ],
+    "sources": [
+      {"title": "Business cum Entrepreneurship meets held in Namchi & Gangtok by NEDFi (disbursement cheques to Sikkim units)", "publisher": "KNN India", "date": "not confirmed", "url": "https://knnindia.co.in/news/newsdetails/state/business-cum-entrepreneurship-meet-held-in-namchi-gangtok-by-north-eastern-dev-finance-corp-nedfi", "section": "Sikkim operations"},
+      {"title": "NEDFi Opportunity Scheme for Small Enterprises (NoSSE)", "publisher": "MSME (my.msme.gov.in)", "date": "not confirmed", "url": "https://my.msme.gov.in/MyMsmeMob/MsmeScheme/Pages/7_1_5.html", "section": "scheme terms"},
+      {"title": "Skill Gap Study of Sikkim with special focus on the MSME sector", "publisher": "NEDFi", "date": "not confirmed", "url": "https://www.nedfi.com/skill-gap-study-of-sikkim-with-special-focus-on-the-msme-sector-in-the-state/", "section": "Sikkim engagement"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "NEDFi operates Gangtok and Namchi branches; entrepreneur meets held with loan disbursements to existing Sikkim units (homestays, trading, agri-allied); NEDFi has published a Sikkim MSME skill-gap study."
+    },
+    "potentialUseCases": [
+      "Homestay and tourism-enterprise upgrade loans",
+      "Organic food processing and packaging units",
+      "Women-led handicraft and agri-value-addition enterprises"
+    ],
+    "flags": [
+      "Funding details unclear (interest rates/tenors from secondary summaries; confirm current rate card with NEDFi branch)"
+    ],
+    "scores": {"financial": 3, "ease": 5, "fit": 4, "timeSensitivity": 2, "transformational": 3, "rationale": "On-the-ground concessional lender with two Sikkim branches; immediate, low-friction uptake possible."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "neramac-nerace-agri-marketing",
+    "name": "NERAMAC Agri-Marketing Support and NERACE (North East Region Agri Commodity e-Connect)",
+    "shortName": "NERAMAC / NERACE",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "North Eastern Regional Agricultural Marketing Corporation Ltd (NERAMAC); NERACE funded by NEC, implemented by NERAMAC",
+    "policyArea": "Agricultural marketing and value chains",
+    "subcategory": "Procurement of NE produce, market linkage, GI registration support, e-marketplace (nerace.in portal and app launched 12 July 2024)",
+    "type": "Procurement/support programme",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "NERAMAC operating since 1982 (Sikkim zonal office at Tadong since 02.06.2008); NERACE portal live since July 2024 with 6,807 sellers, 735 buyers and Rs.895.56 lakh sales facilitated as of 23 January 2026",
+    "whyItMatters": "Sikkim's organic premium is realised only if produce reaches distant buyers at fair prices; NERAMAC's Tadong zonal office already procures large cardamom, ginger and other cash crops directly from Sikkim farmer groups, SHGs and cooperatives, and supported the GI registration of Sikkim Large Cardamom. NERACE now gives Sikkim FPOs a zero-cost digital channel to national buyers. This is a marketing/procurement support opportunity, not a grant — the State's play is onboarding FPOs at scale and aligning it with Mission Sikkim Organics aggregation.",
+    "eligibleApplicants": ["Farmers, FPOs/FPCs, SHGs, cooperatives (MPCS), NGOs, GPUs in NE states", "State agriculture/horticulture agencies as partners"],
+    "sikkimNodalDept": "Food Security and Agriculture Development Department / Horticulture Department (marketing wing), Government of Sikkim — likely",
+    "whatCanBeFunded": "Not a funding scheme: procurement of agri-horti produce at remunerative prices, market linkage via NERACE listings, processing and marketing infrastructure services, GI product promotion and branding support.",
+    "fundingAvailable": "No grant corpus for states; demand-driven procurement and free platform onboarding. NERACE sales facilitated Rs.895.56 lakh cumulatively (as of 23.01.2026).",
+    "fundingRatio": "Not applicable (procurement/marketing support; NERACE centrally funded by NEC)",
+    "nePreference": true,
+    "nePreferenceDetail": "NERAMAC and NERACE serve only NE-region producers.",
+    "stateContribution": "None mandated; state departments support aggregation logistics.",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Farmer groups/FPOs register as sellers on nerace.in (or via the NERACE app), listing commodities",
+      "For bulk procurement, contact the NERAMAC Zonal Office at Tadong, Gangtok, with produce and aggregation details",
+      "State marketing wing coordinates seasonal procurement calendars with NERAMAC (requires confirmation of any formal MoU mechanism)"
+    ],
+    "nextAction": "The Food Security and Agriculture Development Department should run an FPO onboarding drive for NERACE across all districts and agree a large-cardamom and ginger procurement calendar with the NERAMAC Tadong zonal office ahead of the harvest season.",
+    "portal": "https://www.nerace.in/",
+    "applicationWindow": "rolling",
+    "keyDocuments": [
+      {"doc": "Seller registration details (FPO/SHG credentials, bank account)", "certainty": "confirmed"},
+      {"doc": "Commodity quality/organic certification documents", "certainty": "likely"}
+    ],
+    "approvingAuthority": "NERAMAC (procurement decisions); NEC (NERACE funding)",
+    "contact": "NERAMAC Zonal Office, Tadong, Gangtok (East Sikkim); HQ Guwahati via neramac.com",
+    "guidelines": [
+      {"title": "NERAMAC corporate site (activities and offices)", "url": "https://neramac.com/"},
+      {"title": "NERACE portal", "url": "https://www.nerace.in/"}
+    ],
+    "sources": [
+      {"title": "North Eastern Region Agri-Commodity e-Connect (NERACE) — usage statistics as of 23.01.2026", "publisher": "Press Information Bureau", "date": "2026-01", "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2223653", "section": "platform progress"},
+      {"title": "Scindia launches NE-RACE portal, mobile app for farmers in northeast", "publisher": "ANI", "date": "2024-07-12", "url": "https://aninews.in/news/national/politics/jyotiraditya-scindia-launches-ne-race-portal-mobile-app-for-farmers-in-northeast20240712225606/", "section": "launch"},
+      {"title": "NERAMAC old website — Sikkim zonal office at Tadong since 02.06.2008, procurement from farmer groups/SHGs/MPCS/GPUs", "publisher": "NERAMAC", "date": "not confirmed", "url": "https://www.neramac.com/old-website/index.html", "section": "Sikkim operations"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "NERAMAC zonal office at Tadong (East Sikkim) since 2008 procuring from Sikkim farmer groups; NERAMAC lists Sikkim Large Cardamom among its GI products; NERAMAC held millet promotion events with the Government of Sikkim."
+    },
+    "potentialUseCases": [
+      "Guaranteed off-take of large cardamom, ginger and turmeric at remunerative prices",
+      "NERACE listings for organic vegetables and Sikkim mandarin from FPOs",
+      "Joint branding of GI-tagged Sikkim products in national markets"
+    ],
+    "flags": [
+      "Application process unclear (formal state-NERAMAC procurement MoU mechanics not documented publicly)"
+    ],
+    "scores": {"financial": 2, "ease": 5, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Zero-cost, immediately usable marketing channel aligned with Sikkim's organic economy."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "nehhdc-handloom-handicrafts",
+    "name": "NEHHDC Handloom and Handicrafts Support (procurement, training and market development)",
+    "shortName": "NEHHDC support",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "North Eastern Handicrafts and Handlooms Development Corporation Ltd (NEHHDC)",
+    "policyArea": "Handloom, handicrafts and artisan livelihoods",
+    "subcategory": "Procurement and retail via Purbashree emporia, Comprehensive Skill Upgradation Programme (CSUP), e-commerce partnerships (Etsy MoU), NEC-funded market development projects",
+    "type": "Procurement/support programme",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "Ongoing (incorporated 1977; current initiatives include Ashtalaxmi Haat & Experience Centre Guwahati Rs.7.6 crore and ASPIRE-funded incubation centre Rs.1.9 crore)",
+    "whyItMatters": "Sikkim's carpet-weaving, thangka, wood-carving and handloom traditions (Lepcha weaves) lack scaled market access; NEHHDC procures artisan products for its Purbashree emporia network (Delhi, Kolkata, Bangalore, Guwahati, Shillong) and runs demand-driven skill training in convergence with MSDE. Notably, one NEC-funded NEHHDC digitalisation/traceability project covered 7 NE states excluding Sikkim — a gap the State should actively close by seeking inclusion in the next phase.",
+    "eligibleApplicants": ["Artisans, weavers, artisan SHGs/cooperatives in NE states", "State handicrafts/handloom agencies as partners"],
+    "sikkimNodalDept": "Commerce and Industries Department (Directorate of Handicrafts and Handloom, Government of Sikkim) — likely",
+    "whatCanBeFunded": "Not a grant to the State: procurement of handicraft/handloom products, artisan skill training and certification (CSUP with Handicrafts and Carpet Sector Skill Council), design innovation, e-commerce onboarding, exhibitions and emporium retail.",
+    "fundingAvailable": "No fixed corpus for states; programme- and project-based (e.g., NEC-funded projects implemented by NEHHDC; ASPIRE incubation centre Rs.1.9 crore).",
+    "fundingRatio": "Not applicable (support programme; underlying projects funded by NEC/MSME schemes)",
+    "nePreference": true,
+    "nePreferenceDetail": "NEHHDC serves artisans of the 8 NE states exclusively.",
+    "stateContribution": "None mandated; state directorate coordinates artisan mobilisation.",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "State handicrafts directorate shares artisan cluster and product profiles with NEHHDC",
+      "Artisans/SHGs empanelled for procurement and emporium supply (empanelment process details require confirmation)",
+      "Nominate artisans for CSUP training batches and e-commerce (Etsy/portal) onboarding",
+      "Seek inclusion of Sikkim in the next phase of NEHHDC's NEC-funded market development/traceability project"
+    ],
+    "nextAction": "The Directorate of Handicrafts and Handloom should write to NEHHDC Guwahati seeking Sikkim's inclusion in the digitalisation/traceability project's next phase and a CSUP training calendar for Sikkim carpet and thangka artisans.",
+    "portal": "https://nehhdc.com/",
+    "applicationWindow": "rolling",
+    "keyDocuments": [
+      {"doc": "Artisan/SHG profiles and product catalogues", "certainty": "likely"},
+      {"doc": "Artisan identity (Pehchan) cards for trainees", "certainty": "likely"}
+    ],
+    "approvingAuthority": "NEHHDC management (project-wise, with NEC/MSME scheme approvals where applicable)",
+    "contact": "NEHHDC HQ, Guwahati (via nehhdc.com)",
+    "guidelines": [
+      {"title": "NEHHDC — Sikkim page", "url": "https://nehhdc.com/sikkim"},
+      {"title": "NEHHDC training projects", "url": "https://nehhdc.com/training-projects"}
+    ],
+    "sources": [
+      {"title": "NEHHDC to establish Ashtlaxmi Haat & Experience Centre in Guwahati (and NEC-funded projects incl. market development for weavers across 7 states, less Sikkim)", "publisher": "Press Information Bureau", "date": "2023-12", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1992108", "section": "NEHHDC projects"},
+      {"title": "NEHHDC — About and Purbashree emporia network", "publisher": "NEHHDC", "date": "not confirmed", "url": "https://nehhdc.com/about-nehhdc", "section": "procurement/retail"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "NEHHDC sources products from all 8 NE states including Sikkim and maintains a Sikkim crafts page; however, the NEC-funded weaver digitalisation/traceability project explicitly covered 7 states excluding Sikkim — participation is partial and should be deepened."
+    },
+    "potentialUseCases": [
+      "Empanelment of Sikkim carpet/thangka/Lepcha-weave artisans for Purbashree procurement",
+      "CSUP skill certification batches in Gangtok and Namchi",
+      "Etsy/e-commerce onboarding of Sikkim craft SHGs"
+    ],
+    "flags": [
+      "Sikkim eligibility requires confirmation (for the ongoing traceability project phase)",
+      "Application process unclear (empanelment procedure not published)"
+    ],
+    "scores": {"financial": 1, "ease": 4, "fit": 3, "timeSensitivity": 2, "transformational": 2, "rationale": "Modest money but direct artisan-income channel; the Sikkim exclusion gap is easily actionable."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "NEHHDC processes verified from corporate site and PIB summaries via search; empanelment mechanics not confirmed."
+  },
+  {
+    "id": "nesac-space-applications",
+    "name": "NESAC Space Applications Services for NE States",
+    "shortName": "NESAC services",
+    "ministry": "Department of Space (jointly with North Eastern Council / MDoNER)",
+    "agency": "North Eastern Space Applications Centre (NESAC), Umiam, Shillong",
+    "policyArea": "Space technology applications: disaster management, natural resources, governance support",
+    "subcategory": "Remote sensing & GIS projects, disaster management support (floods, landslides, storms, lightning early warning), user-specific paid projects, capacity building and training",
+    "type": "Technical assistance",
+    "grantOrLoan": "Technical assistance",
+    "status": "Active",
+    "period": "Ongoing (established September 2000; jointly funded by DoS, MDoNER/NEC and state governments; state Plans of Action coordinated across all 8 states)",
+    "whyItMatters": "Sikkim is among India's most landslide- and GLOF-prone states, and NESAC provides exactly the geospatial early-warning and susceptibility-mapping capability the Sikkim SDMA needs — a NESAC-SDMA meeting was held in August 2023. NESAC also executes user-specific projects on a payment basis and trains state officials, letting Sikkim's small DST and SDMA leverage ISRO-grade capacity without building it in-house.",
+    "eligibleApplicants": ["State Government departments (SDMA, DST, Forest, Agriculture, Mines)", "State universities and institutions (for training/collaboration)"],
+    "sikkimNodalDept": "Department of Science and Technology (State Remote Sensing Applications Centre) and Sikkim State Disaster Management Authority",
+    "whatCanBeFunded": "Technical services rather than funds: satellite-based disaster monitoring and early warning, landslide susceptibility and mines mapping, natural resource inventories, agriculture/forestry applications, UAV surveys, officer training (e.g., 5-day Space Technology in Disaster Risk Management courses), and joint Plans of Action with nodal state departments.",
+    "fundingAvailable": "No grant corpus to states; NESAC programmes jointly funded by MDoNER/NEC, DoS and State Governments; user-specific projects executed on payment basis (cost-sharing per project).",
+    "fundingRatio": "Joint funding by MDoNER, DoS and State Governments for Plan-of-Action programmes (proportions Not confirmed from available official guidance)",
+    "nePreference": true,
+    "nePreferenceDetail": "NESAC's mandate is exclusively the North Eastern Region including Sikkim.",
+    "stateContribution": "Payment/cost-share for user-specific projects; officer time for training and joint programmes.",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Nodal department (DST/SDMA) writes to NESAC identifying the application need (e.g., landslide susceptibility mapping for specific corridors)",
+      "Joint scoping and, where applicable, MoU/Plan-of-Action agreement with cost-sharing (requires confirmation of current template)",
+      "NESAC executes the project/service and delivers geospatial products; state officials trained through NESAC outreach programmes (outreach.nesdr.gov.in)"
+    ],
+    "nextAction": "The Sikkim SDMA, through the Department of Science and Technology, should formalise the 2023 engagement with NESAC into a costed Plan of Action for statewide landslide susceptibility mapping and Teesta-basin GLOF monitoring.",
+    "portal": "https://nesac.gov.in/",
+    "applicationWindow": "rolling",
+    "keyDocuments": [
+      {"doc": "Requirement/scoping letter from nodal department", "certainty": "likely"},
+      {"doc": "MoU or project agreement with cost-sharing terms", "certainty": "likely"}
+    ],
+    "approvingAuthority": "NESAC (with NESAC Society governance chaired at DoS/NEC level)",
+    "contact": "NESAC, Umiam, Meghalaya (nesac.gov.in); capacity building via outreach.nesdr.gov.in",
+    "guidelines": [
+      {"title": "NESAC — About and scientific programmes", "url": "https://nesac.gov.in/about/about-nesac/"},
+      {"title": "Capacity Building & Outreach Programme of NESAC", "url": "https://outreach.nesdr.gov.in/"}
+    ],
+    "sources": [
+      {"title": "Meeting held between Sikkim State Disaster Management Authority (SDMA) and NESAC", "publisher": "NESAC", "date": "2023-08", "url": "https://nesac.gov.in/events/2023/08/meeting-held-between-sikkim-state-disaster-management-authority-sdma-and-nesac/", "section": "Sikkim engagement"},
+      {"title": "NESAC Remote Sensing and GIS programme (landslide susceptibility, mines mapping, paid user-specific projects)", "publisher": "NESAC", "date": "not confirmed", "url": "https://nesac.gov.in/scientific-programmes/remote-sensing-and-gis/", "section": "services"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "SDMA-NESAC meeting on landslide/disaster applications (August 2023); Sikkim included in NESAC's 8-state Plans of Action for disaster management support; Sikkim's 9 Mile slide was a pilot site in a related national landslide programme."
+    },
+    "potentialUseCases": [
+      "Statewide landslide susceptibility and early-warning products for SDMA",
+      "GLOF and Teesta-basin flood monitoring",
+      "Organic-agriculture and forest-cover geospatial inventories"
+    ],
+    "flags": [
+      "Funding details unclear (cost-sharing terms for user-specific projects are negotiated case-by-case)"
+    ],
+    "scores": {"financial": 1, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Low-cost, high-fit technical assistance for Sikkim's defining hazard profile."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "nertps",
+    "name": "North East Region Textile Promotion Scheme (NERTPS)",
+    "shortName": "NERTPS",
+    "ministry": "Ministry of Textiles",
+    "agency": "Ministry of Textiles (with Central Silk Board, DC-Handlooms, DC-Handicrafts; state sericulture/handloom directorates as implementing agencies)",
+    "policyArea": "Textiles, sericulture, handloom and handicrafts",
+    "subcategory": "Umbrella project-mode scheme: sericulture projects (ISDP, IBSDP, ESSM, aspirational districts), apparel & garment making, handloom/handicraft cluster development",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Launched 2014; guidelines of April 2018; Rs.806.73 crore released as of 2021; no post-2021 sanction announcements or FY2026-27 window located",
+    "whyItMatters": "NERTPS funded 38 sericulture projects across all NE states including Sikkim and built apparel/garment capacity in the region; Sikkim's nascent sericulture and strong handloom traditions were direct beneficiaries. However, no evidence was found of new NERTPS project calls after the 15th FC restructuring of Ministry of Textiles schemes — Sikkim should verify whether NE textile support now flows through the ministry's mainstream schemes (National Handloom/Handicraft programmes, Silk Samagra) with NE earmarks rather than a standalone NERTPS window.",
+    "eligibleApplicants": ["State Government (project proposals via state textile/sericulture directorates)", "Implementing agencies approved by Ministry of Textiles"],
+    "sikkimNodalDept": "Commerce and Industries Department (Handloom & Handicrafts) and the state sericulture unit — likely",
+    "whatCanBeFunded": "Project-mode support: sericulture development (plantation to reeling), apparel and garment making centres, handloom cluster infrastructure, capacity building and marketing (per 2018 guidelines).",
+    "fundingAvailable": "No current outlay confirmed; historically Rs.806.73 crore released under NERTPS up to mid-2021. Current window: Not confirmed from available official guidance.",
+    "fundingRatio": "Not confirmed from available official guidance (historically high central shares in project mode; exact current pattern unverified)",
+    "nePreference": true,
+    "nePreferenceDetail": "Scheme exists exclusively for the NE region.",
+    "stateContribution": "Not confirmed from available official guidance.",
+    "allocationMethod": "DPR submission",
+    "accessPathway": [
+      "Verify with Ministry of Textiles whether NERTPS accepts new project proposals or has been subsumed into mainstream textile schemes (requires confirmation)",
+      "If open: state directorate prepares project proposal per NERTPS guidelines (April 2018)",
+      "Submission to Ministry of Textiles; appraisal by Project Approval & Monitoring Committee (requires confirmation)",
+      "Sanction and phased releases against progress"
+    ],
+    "nextAction": "The Commerce and Industries Department should formally ask the Ministry of Textiles (DC-Handlooms/Central Silk Board) whether NERTPS or successor NE-earmarked windows will accept new Sikkim sericulture/handloom project proposals in FY2026-27.",
+    "portal": null,
+    "applicationWindow": "not applicable — no current window located",
+    "keyDocuments": [
+      {"doc": "NERTPS guidelines (11.04.2018), Ministry of Textiles", "certainty": "confirmed"},
+      {"doc": "Project DPR per component", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Textiles",
+    "contact": null,
+    "guidelines": [
+      {"title": "Guidelines for the NER Textile Promotion Scheme (April 2018)", "url": "https://texmin.nic.in/sites/default/files/NERTPS%20guidelines%2011.04.18.pdf"}
+    ],
+    "sources": [
+      {"title": "Rs.806.73 Crore released under North East Region Textile Promotion Scheme", "publisher": "Press Information Bureau", "date": "2021-07", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1740719", "section": "releases"},
+      {"title": "NERTPS page — NEHHDC development projects", "publisher": "NEHHDC", "date": "not confirmed", "url": "https://nehhdc.com/development-projects/nertps", "section": "scheme description"},
+      {"title": "NERTPS — Directorate of Sericulture, Assam (38 sericulture projects in all NE states)", "publisher": "Government of Assam", "date": "not confirmed", "url": "https://sericulture.assam.gov.in/projects/north-eastern-region-textile-promotion-schemenertps", "section": "components"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sericulture projects under NERTPS were approved for all North Eastern states including Sikkim (project categories ISDP/IBSDP/aspirational districts); Sikkim-specific project names and amounts not located in accessible sources."
+    },
+    "potentialUseCases": [
+      "Eri/mulberry sericulture expansion in lower-altitude belts",
+      "Handloom cluster infrastructure for Lepcha weaves",
+      "Garment-making skill centres for youth"
+    ],
+    "flags": [
+      "Current continuation beyond FY2025-26 needs confirmation",
+      "Old scheme documentation may have been superseded",
+      "No current proposal window found"
+    ],
+    "scores": {"financial": 2, "ease": 2, "fit": 3, "timeSensitivity": 1, "transformational": 2, "rationale": "Historically useful but currently dormant/unclear; verification is the only near-term action."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Low",
+    "confidenceNote": "No post-2021 official activity located; status inferred from absence of new sanction announcements. Ministry of Textiles confirmation required."
+  },
+  {
+    "id": "ten-percent-gbs-ner-earmark",
+    "name": "10% Gross Budgetary Support Earmarking for the North Eastern Region (context record)",
+    "shortName": "10% GBS for NER",
+    "ministry": "All 55 non-exempt Central Ministries/Departments (monitored by MDoNER)",
+    "agency": "MDoNER (monitoring via MIS portal); Ministry of Finance (budget provision)",
+    "policyArea": "Fiscal earmarking policy for regional development",
+    "subcategory": "Mandatory minimum 10% of Gross Budgetary Support of Central Sector and Centrally Sponsored Schemes to be spent in NER (policy since 1998-99)",
+    "type": "Statutory/formula transfer",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "Continuous since 1998-99; NER GBS allocation Rs.1,05,833.28 crore in FY2025-26 (up from Rs.1,00,893.23 crore in FY2024-25); dedicated NE envelope reported at a record Rs.11,486 crore for region-specific programmes in Budget 2026-27",
+    "whyItMatters": "This is not a scheme to 'apply' to — it is the structural earmark that guarantees NE-directed spending across 55 ministries and underwrites nearly every other opportunity in this cluster. For Sikkim the practical use is analytical and advocacy-based: tracking each ministry's 10% NER utilisation lets the State identify under-spending ministries and pitch Sikkim projects to absorb their unspent NER earmark before year-end surrenders.",
+    "eligibleApplicants": ["Not applicable — an earmarking rule, not an application-based programme; benefits flow through each ministry's own schemes"],
+    "sikkimNodalDept": "Development Planning, Economic Reforms and NECA Department (for monitoring and advocacy)",
+    "whatCanBeFunded": "Nothing directly; the earmark shapes allocations under all non-exempt ministries' CS/CSS schemes in the NER.",
+    "fundingAvailable": "FY2025-26: Rs.1,05,833.28 crore NER GBS across ministries (aggregate for all 8 states). No state-wise entitlement; Sikkim's share flows through individual schemes.",
+    "fundingRatio": "Not applicable (earmarking rule; underlying schemes carry their own ratios, typically 90:10 for CSS in NE/Himalayan states)",
+    "nePreference": true,
+    "nePreferenceDetail": "The entire mechanism exists to guarantee minimum central spending in the 8 NE states.",
+    "stateContribution": "Not applicable.",
+    "allocationMethod": "other (mandatory budget earmarking by each non-exempt central ministry, monitored quarterly by MDoNER through an MIS portal)",
+    "accessPathway": [
+      "No application. Context: each non-exempt ministry must budget at least 10% of scheme GBS for the NER",
+      "State advocacy step: monitor ministry-wise NER utilisation (MDoNER MIS/annual report data)",
+      "Pitch ready Sikkim proposals to ministries lagging on NER utilisation, especially in Q3-Q4 (requires confirmation of data access route)"
+    ],
+    "nextAction": "Development Planning, ER & NECA Department should institute a quarterly tracker of ministry-wise 10% GBS NER utilisation from MDoNER reporting and brief line departments on under-utilising ministries to target with proposals.",
+    "portal": "https://www.mdoner.gov.in/",
+    "applicationWindow": "not applicable",
+    "keyDocuments": [
+      {"doc": "MDoNER Annual Report 2025-26 (GBS statements)", "certainty": "confirmed"},
+      {"doc": "Union Budget Statement on NER allocations (indiabudget.gov.in)", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Finance / individual ministries (MDoNER monitors)",
+    "contact": null,
+    "guidelines": [
+      {"title": "MDoNER Annual Report 2025-26", "url": "https://www.mdoner.gov.in/static/uploads/2026/03/048fc9d0e603df717f9660394adc93d1.pdf"}
+    ],
+    "sources": [
+      {"title": "Fifty five non-exempted Central Ministries/Departments mandated to spend at least 10% of GBS in NER (statement of MDoNER Minister)", "publisher": "Odisha Diary (reporting official statement)", "date": "not confirmed", "url": "https://orissadiary.com/fifty-five-non-exempted-central-ministries-departments-are-mandated-to-spend-at-least-10-of-their-gross-budgetary-support-gbs-for-central-sector-and-centrally-sponsored-schemes-in-the-north-eastern/", "section": "policy statement"},
+      {"title": "Union Budget 2025: NER allocation Rs.1,05,833.28 crore under GBS", "publisher": "ETV Bharat", "date": "2025-02", "url": "https://www.etvbharat.com/en/!business/union-budget-2025-north-eastern-states-see-increase-in-allocation-by-0-dot-25-percent-congress-says-mere-eyewash-enn25020105859", "section": "GBS figures"},
+      {"title": "MDoNER Annual Report 2025-26", "publisher": "MDoNER", "date": "2026-03", "url": "https://www.mdoner.gov.in/static/uploads/2026/03/048fc9d0e603df717f9660394adc93d1.pdf", "section": "GBS monitoring"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim, as one of the 8 NER states, is a structural beneficiary of the earmark across all non-exempt ministries; state-wise GBS utilisation figures for Sikkim not located in accessible sources."
+    },
+    "potentialUseCases": [
+      "Advocacy tool to capture unspent NER earmarks of lagging ministries",
+      "Evidence base for demanding Sikkim-fair shares in sectoral scheme allocations"
+    ],
+    "flags": [
+      "This is a context record — never describe as requiring an application",
+      "Funding details unclear (state-wise Sikkim GBS share not published in accessible sources)"
+    ],
+    "scores": {"financial": 5, "ease": 2, "fit": 4, "timeSensitivity": 2, "transformational": 4, "rationale": "The single largest structural pool of NE-directed money, but usable only through informed advocacy, not application."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": null
+  },
+  {
+    "id": "mission-sikkim-organics-usp",
+    "name": "Mission Sikkim Organics (MDoNER USP / Brand North East flagship for Sikkim)",
+    "shortName": "Mission Sikkim Organics",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "MDoNER with convergence partners NABARD, APEDA, central ministries and private sector; state implementation machinery",
+    "policyArea": "Organic agriculture value chains / state USP development",
+    "subcategory": "Flagship state-specific mission under MDoNER's USP initiative for Brand North East (one flagship USP per NE state)",
+    "type": "Mission/programme",
+    "grantOrLoan": "Mixed",
+    "status": "Active",
+    "period": "Launched at Sikkim's 51st Statehood Day (reported 1 June 2026); implementation period Not confirmed from available official guidance",
+    "whyItMatters": "This is the newest and most Sikkim-specific opportunity in the cluster: a Rs.360 crore convergence mission to turn Sikkim's fully-organic status into a globally integrated premium organic economy, expected to benefit over 66,000 farming families. MDoNER contributes Rs.85 crore directly for infrastructure, aggregation and coordination, with the balance mobilised through NABARD, APEDA, central schemes and private investment — meaning Sikkim's execution and convergence capacity determines how much of the Rs.360 crore materialises. It was launched alongside 21 projects worth Rs.223 crore for the state.",
+    "eligibleApplicants": ["State Government (mission mode with MDoNER)", "FPOs/cooperatives and private processors as convergence participants"],
+    "sikkimNodalDept": "Food Security and Agriculture Development Department / Horticulture Department, with Development Planning, ER & NECA Department for MDoNER coordination — likely",
+    "whatCanBeFunded": "Organic value-chain development: quality improvement, processing infrastructure, aggregation systems, branding, packaging, value addition and assured market linkages; programme coordination (per launch announcements).",
+    "fundingAvailable": "Total estimated outlay Rs.360 crore, of which MDoNER contributes Rs.85 crore (infrastructure, aggregation systems, programme coordination); balance via convergence with central ministries, NABARD, APEDA and private-sector investment.",
+    "fundingRatio": "Convergence-funded (MDoNER Rs.85 crore direct; remaining shares Not confirmed from available official guidance)",
+    "nePreference": true,
+    "nePreferenceDetail": "Sikkim-exclusive flagship under the 8-state USP initiative (each NE state gets one USP mission; Sikkim's is organics).",
+    "stateContribution": "Not confirmed from available official guidance.",
+    "allocationMethod": "ministry approval",
+    "accessPathway": [
+      "Constitute/confirm the state-level mission governance structure with MDoNER (requires confirmation)",
+      "Finalise the mission implementation plan and component-wise convergence mapping with NABARD, APEDA and central schemes (requires confirmation)",
+      "Submit component project proposals for MDoNER's Rs.85 crore direct funding tranche (requires confirmation)",
+      "Onboard FPOs and private processors into aggregation and market-linkage components"
+    ],
+    "nextAction": "The Food Security and Agriculture Development Department should obtain from MDoNER the approved Mission Sikkim Organics implementation framework and immediately constitute the state mission unit with component-wise convergence assignments.",
+    "portal": null,
+    "applicationWindow": "not applicable (mission mode; component windows to be notified)",
+    "keyDocuments": [
+      {"doc": "Mission Sikkim Organics framework/approval document from MDoNER", "certainty": "likely"},
+      {"doc": "Component DPRs for processing/aggregation infrastructure", "certainty": "likely"}
+    ],
+    "approvingAuthority": "MDoNER (with convergence partners' own approval chains)",
+    "contact": null,
+    "guidelines": [
+      {"title": "DoNER ministry launches Rs.360 cr Mission Sikkim Organics (launch report)", "url": "https://www.sikkimexpress.com/news-details/doner-ministry-launches-rs-360-cr-mission-sikkim-organics-extends-similar-cash-crop-development-flagship-initiative-to-other-four-ne-states"}
+    ],
+    "sources": [
+      {"title": "Centre announces Rs 583 crore push for Sikkim's organic, infrastructure growth (Mission Sikkim Organics Rs.360 crore; MDoNER Rs.85 crore; 66,000+ farming families; 21 projects worth Rs.223 crore)", "publisher": "ANI", "date": "2026-06-01", "url": "https://www.aninews.in/news/national/general-news/centre-announces-rs-583-crore-push-for-sikkims-organic-infrastructure-growth20260601090515/", "section": "launch coverage"},
+      {"title": "DoNER ministry launches Rs. 360 cr Mission Sikkim Organics, extends similar flagship to four other NE states", "publisher": "Sikkim Express", "date": "2026-06", "url": "https://www.sikkimexpress.com/news-details/doner-ministry-launches-rs-360-cr-mission-sikkim-organics-extends-similar-cash-crop-development-flagship-initiative-to-other-four-ne-states", "section": "launch coverage"},
+      {"title": "Centre reviews North East USP initiative, reaffirms state-led strategy (Brand North East, one flagship USP per state)", "publisher": "DD India", "date": "2026-07", "url": "https://ddindia.co.in/2026/07/centre-reviews-north-east-usp-initiative-reaffirms-state-led-strategy-to-build-globally-competitive-value-chains/", "section": "USP framework"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Mission launched in Gangtok at the 51st Statehood Day (June 2026) specifically for Sikkim; Sikkim's organic model is cited as the template extended to Tripura (pineapple), Mizoram (ginger), Arunachal (kiwi) and Nagaland (coffee) missions worth Rs.592.79 crore combined."
+    },
+    "potentialUseCases": [
+      "Organic aggregation and processing hubs for large cardamom, ginger, turmeric and buckwheat",
+      "Premium branding/packaging and APEDA-supported export channels for Sikkim organic produce",
+      "FPO strengthening and traceability systems across 66,000+ farm families"
+    ],
+    "flags": [
+      "Funding details unclear (component-wise breakdown and implementation framework document not yet publicly located)",
+      "Application process unclear (mission governance and proposal routes to be confirmed with MDoNER)"
+    ],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 5, "transformational": 5, "rationale": "Brand-new, Sikkim-exclusive Rs.360 crore mission squarely on the state's core identity; early framework-shaping is urgent."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Launch and headline figures confirmed by multiple news reports of the official event; the approved mission document/guidelines were not locatable online as of verification date."
+  },
+  {
+    "id": "mdoner-inter-ministerial-facilitation",
+    "name": "MDoNER Inter-Ministerial Facilitation Mechanism and NE-Setu project tracking",
+    "shortName": "MDoNER facilitation / NE-Setu",
+    "ministry": "Ministry of Development of North Eastern Region (MDoNER)",
+    "agency": "MDoNER (coordination with sectoral ministries and agencies)",
+    "policyArea": "Project facilitation and unblocking of major NER infrastructure",
+    "subcategory": "Fast-tracking approvals of major projects stuck across central ministries (e.g., alternative alignment to NH-10 in Sikkim), plus the NE-Setu/MDoNER dashboard for scheme project tracking",
+    "type": "Other",
+    "grantOrLoan": "Technical assistance",
+    "status": "Active",
+    "period": "Ongoing (highlighted in MDoNER's one-year achievements briefing, 2025; NH-10 alternative alignment for Sikkim named among accelerated approvals)",
+    "whyItMatters": "Some of Sikkim's largest needs (an alternative to the landslide-prone NH-10 lifeline) are not fundable through any single MDoNER scheme but through other ministries' budgets (MoRTH), where the binding constraint is approval velocity, not money. MDoNER's inter-ministerial facilitation has already accelerated the NH-10 alternative alignment for Sikkim, making this coordination channel a genuine opportunity: the State should keep a standing list of stuck central-ministry projects and push them through MDoNER's mechanism and quarterly reviews.",
+    "eligibleApplicants": ["State Government (raising stuck/priority projects)", "Central ministries/agencies with NER projects"],
+    "sikkimNodalDept": "Chief Secretary's office / Development Planning, ER & NECA Department — likely",
+    "whatCanBeFunded": "Not a funding line: facilitation, inter-ministerial unblocking, prioritisation of NER projects in sectoral ministries' pipelines, and transparency via the NE-Setu project dashboard.",
+    "fundingAvailable": "No corpus; value lies in accelerating projects funded from sectoral ministry budgets (e.g., MoRTH funding for the NH-10 alternative alignment).",
+    "fundingRatio": "Not applicable",
+    "nePreference": true,
+    "nePreferenceDetail": "Mechanism exists solely to accelerate NER projects.",
+    "stateContribution": "Not applicable.",
+    "allocationMethod": "other (agenda-setting through MDoNER coordination meetings and reviews)",
+    "accessPathway": [
+      "State compiles a priority list of centrally funded projects stuck in inter-ministerial approvals",
+      "Raise items through MDoNER's facilitation mechanism/secretary-level and ministerial review meetings (requires confirmation of meeting calendar)",
+      "Track resolution and sanctions on the NE-Setu dashboard"
+    ],
+    "nextAction": "The Development Planning, ER & NECA Department should prepare Sikkim's standing 'stuck projects' brief (NH-10 alternative alignment progress, railway extension, power evacuation) for the next MDoNER inter-ministerial review.",
+    "portal": "https://nesetu.mdoner.gov.in/projects/",
+    "applicationWindow": "rolling",
+    "keyDocuments": [
+      {"doc": "State priority/stuck-projects brief", "certainty": "likely"}
+    ],
+    "approvingAuthority": "MDoNER (coordination); sanctioning remains with sectoral ministries",
+    "contact": null,
+    "guidelines": [
+      {"title": "MDoNER Projects Dashboard (NE-Setu)", "url": "https://nesetu.mdoner.gov.in/projects/"}
+    ],
+    "sources": [
+      {"title": "Union Minister Scindia highlights Northeast as India's Growth Engine — one-year achievements of MDoNER (inter-ministerial facilitation accelerated alternative alignment to NH-10 in Sikkim)", "publisher": "Press Information Bureau", "date": "2025", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2180315", "section": "facilitation mechanism"},
+      {"title": "Achievements of MDoNER during the year 2025", "publisher": "Press Information Bureau", "date": "2025-12", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209534", "section": "year-end review"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "The alternative alignment to NH-10 in Sikkim is explicitly named among projects accelerated through MDoNER's Inter-Ministerial Facilitation Mechanism."
+    },
+    "potentialUseCases": [
+      "Pushing the NH-10 alternative alignment to sanction/construction milestones",
+      "Unblocking Sikkim railway connectivity and airport-related approvals",
+      "Escalating delayed forest/environment clearances for sanctioned NER projects"
+    ],
+    "flags": [
+      "Application process unclear (mechanism operates through official coordination channels, not a public application)"
+    ],
+    "scores": {"financial": 3, "ease": 3, "fit": 5, "timeSensitivity": 3, "transformational": 5, "rationale": "No money of its own, but the proven unlock for Sikkim's single most transformational infrastructure need."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Mechanism confirmed via PIB summaries in search results; internal procedures are not publicly documented."
+  }
+]

@@ -1,0 +1,1326 @@
+[
+ {
+  "id": "amrut-2-0",
+  "name": "Atal Mission for Rejuvenation and Urban Transformation 2.0",
+  "shortName": "AMRUT 2.0",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "agency": "MoHUA Mission Directorate; State Urban Development & Housing Department / State Level Technical Committee",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Urban water supply, sewerage/septage, water body rejuvenation, green spaces",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "FY2021-22 to FY2025-26; extended to 31.03.2027 for completion of already-sanctioned projects within the existing approved outlay (13th Apex Committee, 26.02.2026); further extension contingent on utilisation of at least 50% of central share",
+  "whyItMatters": "AMRUT 2.0 covers universal household tap water supply in ALL statutory towns (not just large cities), so every statutory town in Sikkim — Gangtok, Namchi, Gyalshing, Mangan, Singtam, Rangpo, Jorethang and other notified towns — qualifies for water supply projects, with sewerage/septage coverage in the 500 AMRUT 1.0 cities. As a North Eastern/Himalayan state Sikkim gets a 90:10 central:state funding ratio, making this the largest grant window for urban water and septage infrastructure in Sikkim's difficult mountain terrain. State urban-sector planning documents indicate Sikkim's State Water Action Plan includes last-mile tap connectivity works in Gangtok, Mangan, Singtam, Rangpo and Jorethang-Nayabazar and lake rejuvenation.",
+  "eligibleApplicants": [
+   "State Government (Urban Development & Housing Department) via State Water Action Plan (SWAP)",
+   "Urban Local Bodies / statutory towns (through the State)"
+  ],
+  "sikkimNodalDept": "Urban Development Department (UDD), Government of Sikkim",
+  "whatCanBeFunded": "Household water tap connections and water supply augmentation in all statutory towns; sewerage/septage management in AMRUT 1.0 cities (Gangtok); rejuvenation of urban water bodies and wells; green spaces and parks; 20% of fund for recycle/reuse of treated water; reform incentives and capacity building",
+  "fundingAvailable": "National outlay ₹2,99,000 crore (2021-26) including central share ₹76,760 crore; central allocation of ₹66,750 crore for projects distributed among States/UTs by formula (urban population and area weighted 90:10). Sikkim-specific allocation: Not confirmed from available official guidance.",
+  "fundingRatio": "90:10 (Centre:State) for North Eastern and Himalayan states, per AMRUT funding pattern confirmed in official statements; smaller cities elsewhere get 50% central share",
+  "nePreference": "true",
+  "nePreferenceDetail": "Central assistance is 90% of project cost for the eight North Eastern states and Himalayan states, versus 25-50% elsewhere depending on city size",
+  "stateContribution": "10% of project cost (state/ULB share) for NE/Himalayan states",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Urban Development Department prepares/updates City Water Balance Plans and City Water Action Plans for each statutory town",
+   "Consolidate into the State Water Action Plan (SWAP) and get State High Powered Steering Committee approval",
+   "Submit SWAP tranches to MoHUA Apex Committee for approval of project allocations",
+   "Execute projects through ULBs/parastatal (with PHE/Water Security wing), report progress on the AMRUT 2.0 portal to draw central instalments",
+   "For FY2026-27: focus on completing already-sanctioned projects — new sanctions beyond the approved SWAP need MoHUA confirmation (requires confirmation)"
+  ],
+  "nextAction": "Sikkim UDD should reconcile its approved SWAP project list with actual grounding/expenditure and push completion before 31.03.2027, while seeking MoHUA clarity on any residual allocation for new works.",
+  "portal": "https://amrut.mohua.gov.in/",
+  "applicationWindow": "Mission period extended to 31.03.2027 primarily for completing sanctioned projects; window for fresh project sanction: Not confirmed from available official guidance.",
+  "keyDocuments": [
+   {
+    "doc": "State Water Action Plan (SWAP) with city-wise project lists",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "City Water Balance Plan and City Water Action Plan per town",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "DPRs for individual water supply/septage projects",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "Apex Committee, MoHUA (chaired by Secretary, MoHUA); state-level: State High Powered Steering Committee",
+  "contact": "Mission Directorate AMRUT, MoHUA, Nirman Bhawan, New Delhi; Sikkim UDD, Gangtok",
+  "guidelines": [
+   {
+    "title": "AMRUT 2.0 Operational Guidelines (October 2021)",
+    "url": "https://amrut.mohua.gov.in/uploads/AMRUT_2.0_Operational_Guidelines.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approves AMRUT 2.0 till 2025-26",
+    "publisher": "PMO/PIB",
+    "date": "2021-10-12",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-the-atal-mission-for-rejuvenation-and-urban-transformation-amrut-2-0-till-2025-26/",
+    "section": "Cabinet decision"
+   },
+   {
+    "title": "Minutes of the 13th Apex Committee Meeting of AMRUT 2.0 (26.02.2026) — extension to 31.03.2027",
+    "publisher": "MoHUA (copy hosted by AMRUT Kerala)",
+    "date": "2026-02-26",
+    "url": "https://amrutkerala.in/wp-content/uploads/2026/03/MoM-13th-Apex-Committee-Meeting-of-AMRUT-2.0-26.02.2026.pdf",
+    "section": "Mission extension decision"
+   },
+   {
+    "title": "Central allocation of ₹66,750 crore for AMRUT 2.0 distributed among States/UTs",
+    "publisher": "PIB",
+    "date": "2022-08-01",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1846993&reg=48&lang=2",
+    "section": "Allocation formula"
+   },
+   {
+    "title": "Sikkim Integrated Urban Development Project — sector assessment (urban)",
+    "publisher": "Asian Development Bank",
+    "date": "2024",
+    "url": "https://www.adb.org/sites/default/files/linked-documents/57230-001-ssa.pdf",
+    "section": "Sikkim urban water supply plans incl. AMRUT context"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim is covered under AMRUT (Gangtok was an AMRUT 1.0 city) and has an approved allocation under AMRUT 2.0; state planning documents list last-mile tap connectivity works for Gangtok, Mangan, Singtam, Rangpo and Jorethang-Nayabazar and lake rejuvenation (e.g. Tamzey lake area). Town-wise sanctioned amounts not located in official public sources."
+  },
+  "potentialUseCases": [
+   "24x7 or improved gravity-fed water supply schemes for Gangtok and district towns",
+   "Faecal sludge and septage management plants suited to hill towns without networked sewerage",
+   "Rejuvenation of urban lakes and springs feeding town supplies",
+   "Recycle/reuse of treated water for non-potable municipal uses"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 confirmed only for completing sanctioned projects (to 31.03.2027) — scope for new sanctions needs confirmation",
+   "PIB pages could not be opened directly from this environment; content confirmed via official-domain search results"
+  ],
+  "scores": {
+   "financial": 4,
+   "ease": 4,
+   "fit": 5,
+   "timeSensitivity": 4,
+   "transformational": 4,
+   "rationale": "90:10 grant covering every Sikkim statutory town's water needs; state already inside the mission with established machinery; urgency high because the extension window is completion-focused and ends March 2027."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Extension to 31.03.2027 verified from Apex Committee minutes (official document, mirrored on a state AMRUT site). Sikkim town-wise project amounts not verified."
+ },
+ {
+  "id": "sbm-urban-2-0",
+  "name": "Swachh Bharat Mission - Urban 2.0",
+  "shortName": "SBM-U 2.0",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "agency": "SBM-U Mission Directorate, MoHUA; State Mission Directorate (Urban Development Department)",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Urban sanitation, solid waste management, used-water management, garbage-free cities",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "01.10.2021 to FY2025-26 (mission literature also cites 1 October 2021 to 1 October 2026); continuation beyond that not confirmed",
+  "whyItMatters": "SBM-U 2.0 funds scientific solid waste management, legacy dumpsite remediation and — critically for Sikkim — used-water (grey/black water) management in cities under 1 lakh population NOT covered by AMRUT, which describes every Sikkim town except Gangtok. Mountain terrain makes conventional sewerage prohibitively costly, so SBM-U's decentralised septage/used-water funding is the practical route for Namchi, Gyalshing, Mangan, Singtam and Rangpo. Sikkim towns already perform well in Swachh Survekshan (Gangtok and Mangan won 2023 state-category cleanest-city awards), positioning the state for performance recognition.",
+  "eligibleApplicants": [
+   "State Government via State Sanitation/SBM Action Plan",
+   "Urban Local Bodies (through the State Mission Directorate)"
+  ],
+  "sikkimNodalDept": "Urban Development Department, Government of Sikkim (with Gangtok Municipal Corporation and other ULBs)",
+  "whatCanBeFunded": "Source segregation and door-to-door collection systems, material recovery facilities, waste processing (composting, bio-methanation), construction & demolition waste plants, legacy dumpsite remediation, plastic waste management, used-water management (grey/black water) for towns <1 lakh population, community/public toilets, ODF+/ODF++ infrastructure, IEC and capacity building",
+  "fundingAvailable": "National outlay ₹1,41,600 crore for 2021-26, including central share ₹36,465 crore. Sikkim-specific allocation: Not confirmed from available official guidance.",
+  "fundingRatio": "90:10 (Centre:State/ULB) for North Eastern and Himalayan states per SBM-U 2.0 guidelines",
+  "nePreference": "true",
+  "nePreferenceDetail": "Central funding share of 90% for ULBs in North Eastern and Himalayan states (versus lower shares by city-size elsewhere)",
+  "stateContribution": "10% (state/ULB share)",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "UDD/State Mission Directorate prepares city-wise DPRs for SWM and used-water components aligned to the State Action Plan",
+   "State High Powered Committee approves and submits proposals to MoHUA for central share release",
+   "ULBs implement, upload progress on SBM-U MIS and Swachh Survekshan/certification protocols (ODF+, ODF++, Garbage Free City star rating)",
+   "Claim performance-linked recognition through Swachh Survekshan and GFC/ODF certifications",
+   "Confirm with MoHUA the availability of central releases for FY2026-27 given mission end-date ambiguity (requires confirmation)"
+  ],
+  "nextAction": "Sikkim UDD should complete utilisation certificates for released SBM-U 2.0 funds and submit any pending used-water/SWM DPRs for the smaller towns before the mission closes, while seeking written MoHUA confirmation on FY2026-27 fund availability.",
+  "portal": "https://sbmurban.org/",
+  "applicationWindow": "Mission-period submissions via State Action Plan; post-March-2026 window: Not confirmed from available official guidance.",
+  "keyDocuments": [
+   {
+    "doc": "State SBM-U Action Plan / city sanitation plans",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "DPRs for SWM and used-water projects",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "ODF+/ODF++/GFC certification documentation",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "National Advisory and Review Committee / MoHUA; State High Powered Committee at state level",
+  "contact": "SBM-Urban Mission Directorate, MoHUA, New Delhi; Sikkim UDD, Gangtok",
+  "guidelines": [
+   {
+    "title": "Guidelines for Swachh Bharat Mission-Urban 2.0 (October 2021)",
+    "url": "https://sbmurban.org/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approves continuation of Swachh Bharat Mission (Urban) till 2025-26",
+    "publisher": "PMO/PIB",
+    "date": "2021-10-12",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-the-continuation-of-swachh-bharat-mission-urban-sbm-u-till-2025-26-for-sustainable-outcomes/",
+    "section": "Cabinet decision, outlay, focus areas"
+   },
+   {
+    "title": "Swachh Survekshan Cleanest Cities Awards for Gangtok & Mangan",
+    "publisher": "Sikkim Express",
+    "date": "2024-01",
+    "url": "https://sikkimexpress.com/news-details/swachh-survekshan-cleanest-cities-awards-for-gangtok-mangan",
+    "section": "Sikkim participation"
+   },
+   {
+    "title": "Guidelines for SBM-Urban 2.0 (V21, 29.9.21) — funding pattern for NE/Himalayan states",
+    "publisher": "MoHUA (guidelines document)",
+    "date": "2021-09-29",
+    "url": "https://www.scribd.com/document/534358629/Guidelines-for-SBM-Urban-2-0-V21-29-9-21",
+    "section": "Fund sharing pattern"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim ULBs implement SBM-U; Gangtok Municipal Corporation and Mangan Nagar Panchayat received Swachh Survekshan 2023 awards as cleanest cities in the state category at Bharat Mandapam, New Delhi. Fund utilisation figures not located."
+  },
+  "potentialUseCases": [
+   "Decentralised solid waste processing units for small hill towns",
+   "Legacy waste remediation at Gangtok's dumpsite (Martam) and district town dumps",
+   "Grey-water management systems for towns under 1 lakh population",
+   "Plastic waste management units serving tourist towns"
+  ],
+  "flags": [
+   "Current continuation beyond FY2025-26 needs confirmation — cabinet approval runs to 2025-26 while mission literature cites 1 October 2026; no FY2026-27 extension order located",
+   "Official guidelines PDF cited via mirrored copy; sbmurban.org direct link not verified from this environment"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 4,
+   "fit": 5,
+   "timeSensitivity": 4,
+   "transformational": 4,
+   "rationale": "90:10 grant that directly targets the sanitation/waste problems of small hill towns; Sikkim already performing and administratively embedded; urgency because the mission window is closing."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Scheme parameters well documented; end-date/extension status as of September 2026 is ambiguous between March and October 2026 and no continuation approval was located."
+ },
+ {
+  "id": "pmay-urban-2-0",
+  "name": "Pradhan Mantri Awas Yojana - Urban 2.0 (Housing for All)",
+  "shortName": "PMAY-U 2.0",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "agency": "PMAY-U Mission Directorate; State Level Nodal Agency (SLNA) and State Level Sanctioning and Monitoring Committee (SLSMC) in each state",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Affordable urban housing (construction, rental, interest subsidy)",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "FY2024-25 to FY2028-29 (Cabinet approval 09.08.2024; implementation five years)",
+  "whyItMatters": "PMAY-U 2.0 will assist one crore urban poor and middle-class families nationally, and Sikkim's urban households (EWS/LIG/MIG) in Gangtok and the district towns can access house construction assistance at a 90:10 Centre:State ratio reserved for North Eastern and Himalayan states. The Beneficiary-Led Construction vertical suits Sikkim's pattern of individually-owned plots in hill towns, while Affordable Rental Housing can serve Gangtok's migrant service workforce. Sikkim also runs its own state housing scheme (Sikkim Urban Garib Awas Yojana), which PMAY-U 2.0 funds can complement or converge with.",
+  "eligibleApplicants": [
+   "State Government via SLNA (Urban Development Department)",
+   "ULBs",
+   "Eligible EWS/LIG/MIG beneficiary households (through State/ULB)",
+   "Private/public agencies for AHP and ARH projects"
+  ],
+  "sikkimNodalDept": "Urban Development Department, Government of Sikkim (SLNA role; likely, exact SLNA designation to be confirmed)",
+  "whatCanBeFunded": "Four verticals: Beneficiary-Led Construction (BLC) — assistance to EWS families building on own land; Affordable Housing in Partnership (AHP); Affordable Rental Housing (ARH); Interest Subsidy Scheme (ISS) for home loans. Government assistance of ₹2.50 lakh per unit in AHP/BLC verticals (shared Centre:State 90:10 in NE/Himalayan states, plus any state top-up).",
+  "fundingAvailable": "National: ₹10 lakh crore investment envisaged with government subsidy of approximately ₹2.30 lakh crore over the scheme period; per-unit central+state assistance ₹2.50 lakh in BLC/AHP. Sikkim allocation is demand-driven — no fixed state quota located.",
+  "fundingRatio": "90:10 (Centre:State) for North Eastern and Himalayan states; 60:40 for other states (ISS vertical is 100% central)",
+  "nePreference": "true",
+  "nePreferenceDetail": "Central:State sharing of house-construction assistance is 90:10 for North Eastern states and Himalayan states (HP, Uttarakhand), versus 60:40 elsewhere — confirmed in the PMAY-U 2.0 Cabinet approval materials",
+  "stateContribution": "10% of the government assistance per unit in NE/Himalayan states, plus land, infrastructure and any state top-up assistance",
+  "allocationMethod": "demand-driven",
+  "accessPathway": [
+   "State signs MoU with MoHUA and notifies SLNA and SLSMC (already done for all states/UTs per MoHUA)",
+   "UDD/ULBs conduct demand survey and register beneficiaries on the PMAY-U 2.0 portal (pmaymis 2.0)",
+   "SLSMC sanctions BLC/AHP/ARH projects and beneficiary lists; MoHUA's CSMC approves central assistance",
+   "Central share released in instalments against construction progress tracked by geo-tagging",
+   "For ISS, eligible borrowers route interest subsidy through their home-loan lenders"
+  ],
+  "nextAction": "Sikkim UDD should complete the PMAY-U 2.0 beneficiary demand survey for all seven ULB areas and place a first BLC project batch before the SLSMC, leveraging the 90:10 ratio and convergence with SUGAY.",
+  "portal": "https://pmaymis.gov.in/pmaymis2_2024/PMAY-urban-2.html",
+  "applicationWindow": "Open — demand-driven throughout FY2024-25 to FY2028-29",
+  "keyDocuments": [
+   {
+    "doc": "State MoU with MoHUA and SLNA/SLSMC notifications",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Beneficiary demand survey and Aadhaar-seeded beneficiary list",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "BLC/AHP project sanctions with geo-tagged land records",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "Central Sanctioning and Monitoring Committee (CSMC), MoHUA; State Level Sanctioning and Monitoring Committee at state level",
+  "contact": "PMAY-U Mission Directorate, MoHUA, Nirman Bhawan, New Delhi; Sikkim UDD, Gangtok",
+  "guidelines": [
+   {
+    "title": "PMAY-U 2.0 Operational Guidelines (2024)",
+    "url": "https://pmay-urban.gov.in/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approves Pradhan Mantri Awas Yojana-Urban 2.0 Scheme",
+    "publisher": "PMO",
+    "date": "2024-08-09",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-pradhan-mantri-awas-yojana-urban-2-0-scheme/",
+    "section": "Cabinet decision, verticals, 90:10 NE ratio"
+   },
+   {
+    "title": "PMAY-Urban 2.0: 2.88 lakh additional houses approved, total sanctions reach 13.61 lakh",
+    "publisher": "Eastern Mirror / MoHUA release",
+    "date": "2026-02",
+    "url": "https://www.easternmirrornagaland.com/pmay-urban-20-288-lakh-additional-houses-approved-total-sanctions-reach-1361-lakh",
+    "section": "Progress; MoUs/SLNA in all states"
+   },
+   {
+    "title": "Sikkim Urban Garib Awas Yojana Operational Guidelines",
+    "publisher": "Government of Sikkim",
+    "date": "2023-07-27",
+    "url": "https://www.sikkim.gov.in/uploads/DeptUploads/Operational_Guidelines_for_SUGAY_in_English_20230727.pdf",
+    "section": "State housing context/convergence"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim implemented PMAY-U 1.0 through UDD (BLC-dominant, modest numbers given small urban population); under PMAY-U 2.0, MoHUA states MoUs/SLNAs/SLSMCs are in place for ALL states/UTs, which includes Sikkim. Sikkim-specific PMAY-U 2.0 sanction counts not located in public sources."
+  },
+  "potentialUseCases": [
+   "BLC assistance for EWS households in Gangtok, Namchi, Singtam and Rangpo",
+   "Affordable Rental Housing for Gangtok's service and construction workforce",
+   "Convergence top-up with Sikkim Urban Garib Awas Yojana",
+   "ISS interest subsidy for first-time LIG/MIG homebuyers"
+  ],
+  "flags": [
+   "Sikkim-specific PMAY-U 2.0 sanctions/progress need verification on pmaymis 2.0 dashboard",
+   "Land availability and beneficiary land titles in hill towns are the usual bottleneck for BLC"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 3,
+   "transformational": 3,
+   "rationale": "Demand-driven grant with generous 90:10 ratio and a long open window to 2028-29; absolute amounts limited by Sikkim's small urban population."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Scheme parameters confirmed from Cabinet approval; Sikkim-level uptake unverified."
+ },
+ {
+  "id": "pm-ebus-sewa",
+  "name": "PM-eBus Sewa (including PM-eBus Sewa - Payment Security Mechanism)",
+  "shortName": "PM-eBus Sewa",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA); PSM component with Ministry of Heavy Industries",
+  "agency": "MoHUA; Convergence Energy Services Ltd (CESL) as aggregator; state Public Transport Authorities",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Urban mobility — electric city bus services on PPP (GCC) model",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Active but current call closed",
+  "period": "Approved 16.08.2023; bus deployment phase through FY2026-27 (indicative), with central support for operations for 10 years, up to March 2037",
+  "whyItMatters": "PM-eBus Sewa explicitly extends eligibility to capital cities of North Eastern and hill states with population under 3 lakh, which makes Gangtok eligible despite its small size — a rare urban-transport window for Sikkim. Electric buses suit Gangtok's chronic congestion, air-quality concerns and tourism profile, and central support (per-km operational assistance plus depot/power infrastructure funding) removes most of the viability burden. No sanction of buses for Sikkim was located, so the state's position — whether it applied, and whether residual allocation remains within the 10,000-bus national cap — needs to be established with MoHUA.",
+  "eligibleApplicants": [
+   "Cities of 3-40 lakh population (2011 Census) including adjoining town clusters",
+   "State capitals and capital cities of North Eastern Region and hill states with population below 3 lakh (Gangtok qualifies)",
+   "State governments/Public Transport Authorities on behalf of cities"
+  ],
+  "sikkimNodalDept": "Transport Department, Government of Sikkim (with Urban Development Department and Gangtok Municipal Corporation); likely",
+  "whatCanBeFunded": "Electric buses deployed on gross-cost-contract PPP (operator paid per km; central assistance subsidises the per-km cost); civil depot infrastructure and behind-the-meter power infrastructure; associated ITS. The companion PM-eBus Sewa-Payment Security Mechanism (₹3,435.33 crore, approved October 2024) backstops timely payments to bus operators via escrow accounts and direct debit mandates, covering 38,000 e-buses nationally.",
+  "fundingAvailable": "National: total estimated cost ₹57,613 crore with central support of ₹20,000 crore for 10,000 e-buses in 169 eligible cities; sanctions of 10,000 buses across ~116 cities reported by 2025-26. Per-city entitlement for a Gangtok-size city: Not confirmed from available official guidance (small cities were indicatively eligible for up to 50 buses under scheme literature — requires confirmation).",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": "true",
+  "nePreferenceDetail": "Eligibility relaxation: capital cities of North Eastern Region and hill states qualify even below the 3 lakh population threshold applied to other cities",
+  "stateContribution": "State/PTA bears the balance of per-km operating cost beyond central assistance, plus PSM obligations (escrow pre-funding, state guarantee/direct debit mandate discipline)",
+  "allocationMethod": "ministry approval",
+  "accessPathway": [
+   "State Transport Department/PTA assesses bus requirement for Gangtok and submits/updates the city proposal to MoHUA (original call was in 2023-24; availability of residual allocation requires confirmation)",
+   "MoHUA sanctions buses and infrastructure funds; CESL runs aggregated procurement/tendering for GCC operators",
+   "State signs the tripartite arrangements and PSM instruments (escrow account with 3 months' central assistance pre-funded, RBI direct-debit mandate)",
+   "Depot civil work and power infrastructure executed with sanctioned central support",
+   "Operations begin; central assistance flows per-km against monitored service delivery"
+  ],
+  "nextAction": "Sikkim Transport Department should formally ask MoHUA whether unallocated buses remain under the 10,000-bus cap and lodge a Gangtok proposal citing the sub-3-lakh NE/hill capital eligibility clause.",
+  "portal": "https://pm-ebus-sewa.mohua.gov.in/",
+  "applicationWindow": "Original city proposals were invited in 2023-24; sanctions now cover roughly the full 10,000-bus target, so any new window depends on reallocation — Not confirmed from available official guidance.",
+  "keyDocuments": [
+   {
+    "doc": "City bus service proposal/demand assessment for Gangtok",
+    "certainty": "likely"
+   },
+   {
+    "doc": "State commitment to PSM instruments (escrow agreement, direct debit mandate)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Depot land identification and DPR for depot/power infrastructure",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MoHUA (scheme sanctioning); Cabinet-approved scheme; CESL for procurement",
+  "contact": "PM-eBus Sewa Mission cell, MoHUA, New Delhi",
+  "guidelines": [
+   {
+    "title": "Guidelines for PM-eBus Sewa Scheme (Part I)",
+    "url": "https://mohua.gov.in/upload/uploadfiles/files/PM-eBus-Sewa-Guidelines-Part-I.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cabinet approves PM-eBus Sewa; priority to cities having no organized bus service",
+    "publisher": "PIB",
+    "date": "2023-08-16",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1949430",
+    "section": "Eligibility incl. NE/hill capitals <3 lakh"
+   },
+   {
+    "title": "Cabinet approves PM-eBus Sewa-Payment Security Mechanism (PSM) scheme",
+    "publisher": "PMO",
+    "date": "2024-10",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-pm-ebus-sewa-payment-security-mechanism-psm-scheme-for-procurement-and-operation-of-e-buses-by-public-transport-authorities/",
+    "section": "PSM ₹3,435 crore"
+   },
+   {
+    "title": "PM-eBus Sewa portal",
+    "publisher": "MoHUA",
+    "date": "2026",
+    "url": "https://pm-ebus-sewa.mohua.gov.in/",
+    "section": "Scheme status"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "No participation located",
+   "detail": "No sanction of e-buses for Gangtok/Sikkim found in PIB releases, scheme reporting (sanctions listed across 14-20 states) or news as of September 2026, although Gangtok is expressly eligible as a NE/hill capital under 3 lakh population."
+  },
+  "potentialUseCases": [
+   "Electric city bus service for the Gangtok urban corridor (Ranipool-Gangtok-Tadong)",
+   "Depot and charging infrastructure at Gangtok with central support",
+   "Feeder e-bus links to Singtam/Rangpo cluster if structured as adjoining-town cluster (requires confirmation)"
+  ],
+  "flags": [
+   "National bus cap appears fully sanctioned — Sikkim must confirm whether residual/reallocated slots exist",
+   "Sikkim's hilly routes need bus specifications (smaller 7-9 m buses) — per-km assistance rates for smaller buses to be confirmed from guidelines",
+   "PIB pages could not be opened directly; details confirmed via official-domain search results"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 2,
+   "fit": 4,
+   "timeSensitivity": 4,
+   "transformational": 4,
+   "rationale": "Explicit eligibility carve-out for Gangtok and 10-year operational support make this attractive, but Sikkim has not entered the pipeline and allocation may be exhausted — immediate advocacy needed."
+  },
+  "openWindow": "unknown",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Scheme design and eligibility confirmed; whether new cities can still be sanctioned in FY2026-27 is unverified."
+ },
+ {
+  "id": "smart-cities-mission",
+  "name": "Smart Cities Mission",
+  "shortName": "SCM",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "agency": "City SPVs — Gangtok Smart City Development Limited (GSCDL); Namchi Smart City Ltd",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Integrated urban infrastructure (area-based development + pan-city smart solutions)",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Discontinued",
+  "period": "2015 to 31.03.2025 (mission closed after final extension; no further extension located)",
+  "whyItMatters": "Both of Sikkim's principal towns were mission cities: Namchi (selected 2016; adjudged best-performing Smart City in the North Eastern region) and Gangtok (selected in a later round; SPV GSCDL). The mission itself ended on 31 March 2025 and offers no new funding, but it matters for Sikkim's forward strategy in three ways: completing/commissioning any residual works from mission-era funds, sustaining O&M of created assets (water augmentation in Namchi, LED-solar streetlighting, Gangtok projects) now that central support has ceased, and repurposing the SPVs and Integrated Command and Control Centre capabilities for city management and future schemes.",
+  "eligibleApplicants": [
+   "Not applicable — city selection rounds closed in 2018; mission ended 31.03.2025"
+  ],
+  "sikkimNodalDept": "Urban Development Department, Government of Sikkim; GSCDL/Namchi SPV boards",
+  "whatCanBeFunded": "No new funding. Mission-era funding covered area-based development and pan-city projects (water supply augmentation with rainwater harvesting in Namchi, city-wide LED streetlights with rooftop solar PV, urban mobility and public-space projects in Gangtok).",
+  "fundingAvailable": "None (mission closed). Unspent balances/completion of ongoing projects governed by MoHUA closure instructions — Not confirmed from available official guidance.",
+  "fundingRatio": "",
+  "nePreference": "false",
+  "nePreferenceDetail": "Mission funding was equal central grant per city (₹500 crore over mission period for most cities) rather than NE-differentiated",
+  "stateContribution": "Matching state/ULB share during the mission; post-mission O&M now fully a state/ULB responsibility",
+  "allocationMethod": "other (competitive city challenge — closed; funds released against SPV milestones)",
+  "accessPathway": [
+   "No new access. For legacy matters: reconcile GSCDL and Namchi SPV accounts and complete any residual projects per MoHUA closure guidance",
+   "Decide the post-mission role of the SPVs (wind-up, merge into ULB, or repurpose as urban infrastructure vehicle)",
+   "Institutionalise O&M budgets for smart-city assets in ULB/state budgets and 16th FC ULB grant plans"
+  ],
+  "nextAction": "Sikkim UDD should commission a closure audit of GSCDL and the Namchi SPV, confirm completion status of all sanctioned projects, and formally decide the SPVs' future role.",
+  "portal": "https://smartcities.gov.in/",
+  "applicationWindow": "Closed — mission ended 31.03.2025",
+  "keyDocuments": [
+   {
+    "doc": "MoHUA mission closure instructions and final utilisation certificates",
+    "certainty": "likely"
+   },
+   {
+    "doc": "SPV audited accounts and project completion reports",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "MoHUA (historical); SPV boards for residual decisions",
+  "contact": "Smart Cities Mission Directorate, MoHUA; GSCDL, Gangtok",
+  "guidelines": [
+   {
+    "title": "Smart Cities Mission Statement & Guidelines (2015)",
+    "url": "https://smartcities.gov.in/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Smart Cities Mission (SCM) deadline ended on March 31, 2025",
+    "publisher": "Vision IAS current affairs (reporting MoHUA decision)",
+    "date": "2025-03-31",
+    "url": "https://visionias.in/current-affairs/news-today/2025-03-31/schemes-in-news/smart-cities-mission-scm-deadline-ended-on-march-31-2025",
+    "section": "Mission end"
+   },
+   {
+    "title": "Gangtok Smart City Development Limited — Our Projects",
+    "publisher": "GSCDL",
+    "date": "n.d.",
+    "url": "https://smartcitygangtok.com/Our%20Projects.aspx",
+    "section": "Gangtok SPV and projects"
+   },
+   {
+    "title": "Sikkim: Namchi adjudged best performing Smart City in the North Eastern Region",
+    "publisher": "The Sentinel (Assam)",
+    "date": "n.d.",
+    "url": "https://www.sentinelassam.com/north-east-india-news/sikkim-news/sikkim-namchi-adjudged-as-the-best-performing-smart-city-in-the-north-eastern-region",
+    "section": "Namchi performance"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Namchi (selected 2016) and Gangtok (selected in a subsequent round, implemented via SPV Gangtok Smart City Development Limited) were both mission cities. Namchi was adjudged best-performing Smart City in the NE region; Namchi's flagship projects included integrated water supply augmentation with rainwater harvesting and city-wide LED streetlights with rooftop solar. Some reports placed Gangtok among NE cities with lower completion percentages near mission end."
+  },
+  "potentialUseCases": [
+   "Completion and commissioning of residual Gangtok projects",
+   "Repurposing GSCDL as a state urban infrastructure SPV for future schemes (e.g. CITIIS-type or PPP projects)",
+   "Using ICCC/digital assets for municipal service delivery under NUDM"
+  ],
+  "flags": [
+   "Mission is closed — include for institutional-legacy and asset-O&M planning only",
+   "Final completion status of Gangtok's sanctioned projects needs verification with MoHUA/GSCDL"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 3,
+   "fit": 3,
+   "timeSensitivity": 2,
+   "transformational": 2,
+   "rationale": "No new money; value is in closure management, asset O&M and repurposing the SPV/digital infrastructure."
+  },
+  "openWindow": "closed",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "Mission end (31.03.2025) and Sikkim participation are well documented; residual project status unverified."
+ },
+ {
+  "id": "nulm-2-0-urban-livelihoods",
+  "name": "National Urban Livelihoods Mission 2.0 (successor to Deendayal Antyodaya Yojana - NULM)",
+  "shortName": "NULM 2.0",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "agency": "State Urban Livelihoods Mission / Urban Development Department; ULBs (City Mission Management Units)",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Urban poverty alleviation, livelihoods, SHGs, street vendors, urban workers",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "DAY-NULM implementation period ended 30.09.2024; Union Cabinet reported to have approved NULM 2.0 on 4 May 2026 with an enhanced outlay (official PIB confirmation of outlay and operational guidelines not located from this environment)",
+  "whyItMatters": "Urban livelihoods support lapsed nationally when DAY-NULM ended in September 2024; the successor NULM 2.0 targets six urban worker groups — construction, gig, waste management, care, domestic and transportation workers — plus SHG credit (up to ₹4 lakh individual / ₹20 lakh group microcredit) and street vendor support. Gangtok's tourism-driven informal economy (porters, taxi and hotel workers, street vendors on MG Marg and Lal Bazar, waste workers) maps directly onto these categories. Sikkim previously implemented DAY-NULM through UDD/SUDA, so restarting under the new architecture is an early-mover opportunity as state allocations are set.",
+  "eligibleApplicants": [
+   "State Government (State Urban Livelihoods Mission)",
+   "ULBs",
+   "Urban poor households, SHGs and their federations, street vendors, urban informal workers (as beneficiaries)"
+  ],
+  "sikkimNodalDept": "Urban Development Department, Government of Sikkim (State Urban Livelihoods Mission cell / SUDA); likely",
+  "whatCanBeFunded": "Social mobilisation of urban poor into SHGs; skill training and placement; interest subvention on microcredit for self-employment (individual up to ₹4 lakh, group up to ₹20 lakh reported for NULM 2.0); support to street vendors (convergence with PM SVANidhi); shelters for urban homeless; capacity building of city missions. Final NULM 2.0 component list: Not confirmed from available official guidance.",
+  "fundingAvailable": "NULM 2.0 outlay: reported as 'enhanced' over DAY-NULM but exact figure Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance (DAY-NULM used 90:10 for Special Category/NE states; carry-over to NULM 2.0 unverified)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Under DAY-NULM, North Eastern and Special Category states had a 90:10 funding pattern; whether NULM 2.0 retains this is not confirmed",
+  "stateContribution": "Not confirmed from available official guidance.",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "Track issuance of NULM 2.0 operational guidelines and state allocations by MoHUA (requires confirmation)",
+   "Re-constitute/notify the State Urban Livelihoods Mission cell and City Mission Management Units for Sikkim ULBs",
+   "Prepare the state Annual Action Plan mapping Sikkim's six target worker groups and SHG network",
+   "Submit Annual Action Plan to MoHUA for approval and central share release",
+   "Implement via ULBs with banks for SHG credit linkage and skill providers for training"
+  ],
+  "nextAction": "Sikkim UDD should write to MoHUA's NULM directorate seeking the NULM 2.0 guidelines and state allocation, and simultaneously refresh its urban SHG and street-vendor databases so an Annual Action Plan can be filed immediately.",
+  "portal": "https://nulm.gov.in/",
+  "applicationWindow": "Expected to open with NULM 2.0 rollout in FY2026-27; exact window Not confirmed from available official guidance.",
+  "keyDocuments": [
+   {
+    "doc": "State Annual Action Plan for urban livelihoods",
+    "certainty": "likely"
+   },
+   {
+    "doc": "SHG and street vendor registries (town-wise)",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MoHUA (NULM directorate); state-level empowered committee",
+  "contact": "DAY-NULM/NULM Directorate, MoHUA, New Delhi",
+  "guidelines": [
+   {
+    "title": "DAY-NULM Mission Document (legacy; NULM 2.0 guidelines awaited)",
+    "url": "https://nulm.gov.in/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "SCHEMES FOR URBAN POOR (Parliament answer — DAY-NULM ended 30.09.2024; NULM 2.0 planned)",
+    "publisher": "PIB",
+    "date": "2025",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220349&reg=3&lang=1",
+    "section": "DAY-NULM closure and successor"
+   },
+   {
+    "title": "National Urban Livelihood Mission (NULM 2.0) — six target worker groups, microcredit limits",
+    "publisher": "Vajiram & Ravi current affairs",
+    "date": "2025-26",
+    "url": "https://vajiramandravi.com/current-affairs/national-urban-livelihood-mission/",
+    "section": "NULM 2.0 design"
+   },
+   {
+    "title": "Union Cabinet approves National Urban Livelihoods Mission 2.0 with enhanced outlay (current affairs of 5 May 2026)",
+    "publisher": "GPT Sir / Wonderslate (secondary)",
+    "date": "2026-05-05",
+    "url": "https://www.wonderslate.com/gptsirdaily/noteDetail/5958",
+    "section": "Cabinet approval report"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim implemented DAY-NULM as a Special Category state through UDD/SUDA machinery (SUDA is documented as the state urban development agency operating in Gangtok); scheme-wise Sikkim outputs (SHGs formed, loans, vendors supported) not located in public sources."
+  },
+  "potentialUseCases": [
+   "SHG credit and enterprise support for urban women's groups in Gangtok and Namchi",
+   "Skilling for tourism/hospitality and gig workers",
+   "Street vendor support and vending zone development on MG Marg/Lal Bazar in convergence with PM SVANidhi",
+   "Support for waste-management workers formalisation alongside SBM-U"
+  ],
+  "flags": [
+   "Cabinet approval of NULM 2.0 (4 May 2026) located only in secondary current-affairs sources — confirm from PIB/MoHUA before relying on it",
+   "Guidelines, funding pattern and state allocations for NULM 2.0 not yet located"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 3,
+   "fit": 4,
+   "timeSensitivity": 4,
+   "transformational": 3,
+   "rationale": "Modest sums but high social fit for Gangtok's informal economy; being ready when NULM 2.0 guidelines issue is the time-critical step."
+  },
+  "openWindow": "upcoming",
+  "lastVerified": "2026-09-05",
+  "confidence": "Low",
+  "confidenceNote": "DAY-NULM closure is officially confirmed; NULM 2.0 approval and parameters rest on secondary sources and need PIB/MoHUA verification."
+ },
+ {
+  "id": "16th-fc-ulb-grants",
+  "name": "16th Finance Commission grants to Urban Local Bodies (2026-31), succeeding 15th FC ULB grants",
+  "shortName": "16th FC ULB grants",
+  "ministry": "Ministry of Finance (Department of Expenditure), on recommendations of the 16th Finance Commission; MoHUA for urban conditionalities",
+  "agency": "State Finance Department channels grants to ULBs",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Untied and tied fiscal transfers to municipal governments",
+  "type": "Finance Commission grant",
+  "grantOrLoan": "Grant",
+  "status": "Active",
+  "period": "15th FC ULB grants covered FY2021-22 to FY2025-26; 16th FC award covers FY2026-27 to FY2030-31 (report tabled in Parliament on 1 February 2026)",
+  "whyItMatters": "This is a formula-based statutory transfer, not an application-based scheme — it is the predictable core of municipal finance for Sikkim's small ULBs, which have very weak own revenues. The 16th FC has recommended ₹3.6 lakh crore nationally for urban local bodies over 2026-31, a step-up in the urban share of local-body grants (from about 36% under the 15th FC to 45%), split 80% basic and 20% performance-based, plus new Special Infrastructure Grants and Urbanisation Premium Grants. Under the 15th FC, Sikkim's ULBs received non-million-plus-city grants in small instalments (e.g. ₹5 crore and ₹6.60 crore releases), and the larger 16th FC pool should raise Sikkim's flows from FY2026-27 — provided ULBs meet the entry/performance conditions.",
+  "eligibleApplicants": [
+   "All duly constituted Urban Local Bodies of Sikkim (Gangtok Municipal Corporation, municipal councils and nagar panchayats), through the State Government — no application; entitlement flows by formula subject to conditions"
+  ],
+  "sikkimNodalDept": "Finance Department, Government of Sikkim (with Urban Development Department for ULB compliance)",
+  "whatCanBeFunded": "Basic (largely untied) grants for civic services; performance/tied components historically linked to drinking water, sanitation and solid waste service outcomes and to accounts/property-tax conditions; 16th FC additionally recommends Special Infrastructure Grants and Urbanisation Premium Grants for urban areas. Precise 16th FC conditionalities as accepted by Government of India: Not confirmed from available official guidance.",
+  "fundingAvailable": "National: ₹3.6 lakh crore for ULBs over 2026-31 (16th FC recommendation; part of ₹9.47 lakh crore total local body + disaster grants). Sikkim's state-wise ULB share: Not confirmed from available official guidance.",
+  "fundingRatio": "Not applicable — 100% central grant by formula",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Inter-se distribution among states uses population/area-based formulae rather than an NE quota; any special weighting in the 16th FC formula not confirmed",
+  "stateContribution": "None required; timely onward transfer by the State (with interest for delays, under FC norms) and ULB compliance with conditions",
+  "allocationMethod": "formula-based",
+  "accessPathway": [
+   "No application — grants are released by the Department of Expenditure to the State on the 16th FC formula once the Government of India's acceptance/Action Taken Report operationalises the award",
+   "State Finance Department transfers to ULBs within the stipulated period",
+   "ULBs maintain conditions: audited/online accounts, property tax and service-level performance (exact 16th FC conditions to be confirmed from the accepted report)",
+   "State ensures compliance documentation to unlock the 20% performance-based component and the new special urban grants (requires confirmation of modalities)"
+  ],
+  "nextAction": "Sikkim Finance Department, with UDD, should map every ULB's accounts-publication and property-tax status against the 16th FC's entry and performance conditions so no instalment from FY2026-27 is forfeited.",
+  "portal": null,
+  "applicationWindow": "n/a — formula transfer, released in instalments each financial year",
+  "keyDocuments": [
+   {
+    "doc": "ULB audited annual accounts published online",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Property tax collection data / notification of floor rates",
+    "certainty": "likely"
+   },
+   {
+    "doc": "State utilisation and onward-transfer certificates",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "Department of Expenditure, Ministry of Finance (releases); 16th Finance Commission award as accepted by Government of India",
+  "contact": "FC Division, Department of Expenditure, Ministry of Finance; Finance Department, Government of Sikkim",
+  "guidelines": [
+   {
+    "title": "Report of the 16th Finance Commission (2026-31)",
+    "url": "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Report of the 16th Finance Commission for 2026-31 (summary)",
+    "publisher": "PRS Legislative Research",
+    "date": "2026-02",
+    "url": "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31",
+    "section": "Local body grants: ₹3.6 lakh crore urban; 80:20 basic:performance"
+   },
+   {
+    "title": "16th Finance Commission gives recommendations for strengthening local bodies",
+    "publisher": "Vision IAS (reporting tabled report)",
+    "date": "2026-02-05",
+    "url": "https://visionias.in/current-affairs/news-today/2026-02-05/polity-and-governance/16th-finance-commission-fc-gives-recommendations-for-strengthening-local-bodies",
+    "section": "Urban share increase; special urban grants"
+   },
+   {
+    "title": "Grant of Rs. 1154.90 crore released to States for Urban Local Bodies (incl. Sikkim ₹5 crore, NMPC)",
+    "publisher": "PIB",
+    "date": "2022-02",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1798314&reg=3&lang=2",
+    "section": "15th FC releases to Sikkim"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Sikkim ULBs received 15th FC non-million-plus-city grants throughout 2021-26 (documented releases include ₹5 crore in 2021-22 and a ₹6.60 crore second instalment of untied grants in 2025-26). 16th FC flows begin FY2026-27."
+  },
+  "potentialUseCases": [
+   "Untied funds for ULB O&M — including sustaining Smart City and SBM assets",
+   "Meeting the state/ULB 10% share of AMRUT/SBM projects",
+   "Property-tax modernisation to unlock performance grants",
+   "Solid waste and drinking water service-level improvements"
+  ],
+  "flags": [
+   "Do NOT treat as an application-based scheme — it is a statutory formula transfer",
+   "Government of India's acceptance (Action Taken) of specific 16th FC conditionalities and Sikkim's state-wise share need confirmation from the tabled report/Explanatory Memorandum"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 5,
+   "fit": 5,
+   "timeSensitivity": 3,
+   "transformational": 3,
+   "rationale": "Assured, unconditional-core money for very small ULBs with no application burden; magnitude modest but the most reliable municipal revenue Sikkim has."
+  },
+  "openWindow": "n/a",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "16th FC report tabling and headline urban numbers well documented; Sikkim-specific 16th FC share and final conditions unverified."
+ },
+ {
+  "id": "nudm-upyog",
+  "name": "National Urban Digital Mission (UPYOG platform)",
+  "shortName": "NUDM / UPYOG",
+  "ministry": "Ministry of Housing and Urban Affairs (with Ministry of Electronics & IT)",
+  "agency": "National Institute of Urban Affairs (NIUA); eGov Foundation (technology partner)",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Urban e-governance, municipal digital public infrastructure",
+  "type": "Mission/programme",
+  "grantOrLoan": "Technical assistance",
+  "status": "Active",
+  "period": "Launched February 2021; ongoing — described post-Smart Cities Mission as the primary national programme for urban digital governance; FY2026-27 budget support to be watched",
+  "whyItMatters": "NUDM provides the shared UPYOG digital platform (18 operational modules — building permissions, property tax, trade licence, grievances, water charges etc.) plus onboarding support, so small ULBs like Sikkim's do not have to build or buy municipal software. For a state with seven small ULBs and thin municipal staffing, adopting UPYOG is the lowest-cost route to online citizen services and to the digital accounts/property-tax records that Finance Commission performance grants reward. 32 states/UTs have signed MoUs covering 3,300+ ULBs; Sikkim's onboarding status could not be specifically confirmed and should be established.",
+  "eligibleApplicants": [
+   "State Governments (MoU with MoHUA/NIUA)",
+   "Urban Local Bodies (onboarded through the state)"
+  ],
+  "sikkimNodalDept": "Urban Development Department, Government of Sikkim (with Department of Information Technology); likely",
+  "whatCanBeFunded": "Primarily technical assistance: access to the UPYOG open-source platform, deployment/configuration support, training of ULB staff, national helpdesk. Direct capital grants to states under NUDM: Not confirmed from available official guidance.",
+  "fundingAvailable": "Platform and onboarding support in kind; NUDM budget utilisation nationally has been low and FY2026-27 allocations are a noted uncertainty. State-level financial envelope: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "No NE-specific provision located in official material",
+  "stateContribution": "State bears local IT infrastructure, data migration and change-management costs (typical pattern; exact requirement not confirmed)",
+  "allocationMethod": "other (MoU-based onboarding with NIUA/MoHUA)",
+  "accessPathway": [
+   "Confirm whether Sikkim has signed the NUDM MoU (32 states/UTs have; Sikkim-specific status requires confirmation)",
+   "If not, UDD signs MoU with MoHUA/NIUA and nominates a state nodal officer and pilot ULBs (Gangtok MC first)",
+   "Select priority UPYOG modules (property tax, building permission, grievance redressal, water charges)",
+   "NIUA/eGov Foundation support configuration, data migration and staff training",
+   "Roll out to remaining ULBs and integrate with Swachh/AMRUT reporting and FC-grant compliance records"
+  ],
+  "nextAction": "Sikkim UDD should write to the NUDM programme office at NIUA to confirm the state's MoU/onboarding status and request a deployment plan for Gangtok Municipal Corporation as the pilot ULB.",
+  "portal": "https://www.nudm.mohua.gov.in/",
+  "applicationWindow": "Rolling — MoU-based onboarding",
+  "keyDocuments": [
+   {
+    "doc": "State MoU with MoHUA/NIUA for NUDM/UPYOG",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State Project Implementation Plan for module rollout",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MoHUA / NIUA (NUDM programme management unit)",
+  "contact": "NUDM PMU, National Institute of Urban Affairs, New Delhi",
+  "guidelines": [
+   {
+    "title": "National Urban Digital Mission — official site",
+    "url": "https://www.nudm.mohua.gov.in/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Urban Digital Mission — home (MoUs with 32 States/UTs, 3300+ ULBs, 18 UPYOG modules)",
+    "publisher": "MoHUA/NIUA",
+    "date": "2025-26",
+    "url": "https://www.nudm.mohua.gov.in/",
+    "section": "Mission status"
+   },
+   {
+    "title": "NUDM: Transforming Urban Governance Through Digital Public Infrastructure",
+    "publisher": "IMPRI (policy update)",
+    "date": "2026",
+    "url": "https://www.impriindia.com/insights/policy-update/national-urban-digital-mission-transforming-urban-governance-through-digital-public-infrastructure/",
+    "section": "Status, budget-utilisation concerns"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Unable to determine",
+   "detail": "32 states/UTs have signed NUDM MoUs, which very likely includes Sikkim, but no Sikkim-specific onboarding record (MoU date, ULBs live on UPYOG) was located in public sources."
+  },
+  "potentialUseCases": [
+   "Online property tax and building permission for Gangtok MC",
+   "Common grievance-redressal module across all seven ULBs",
+   "Digital municipal accounts supporting 16th FC performance-grant compliance",
+   "Water/sanitation charge collection for AMRUT-created assets"
+  ],
+  "flags": [
+   "Sikkim MoU/onboarding status unconfirmed — first step is verification",
+   "NUDM's own budget continuity into FY2026-27 flagged as uncertain by analysts"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 2,
+   "transformational": 3,
+   "rationale": "Little direct money but high enabling value: free platform and TA that raise ULB capability and unlock performance-linked grants."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "National status confirmed from official NUDM site; Sikkim specifics unverified."
+ },
+ {
+  "id": "amrut-gis-master-plan-subscheme",
+  "name": "AMRUT sub-scheme: Formulation of GIS-based Master Plans (AMRUT cities and Class-II towns)",
+  "shortName": "AMRUT GIS Master Plan sub-scheme",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "agency": "Town and Country Planning Organisation (TCPO); state Town Planning/UDD; NRSC/state remote-sensing agencies for base maps",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Urban planning reform — GIS base maps, land-use maps and statutory master plans",
+  "type": "Centrally Sponsored Scheme",
+  "grantOrLoan": "Grant",
+  "status": "Under continuation/revision",
+  "period": "AMRUT 1.0 sub-scheme (455-456 towns) ongoing to completion; AMRUT 2.0 sub-scheme for Class-II towns (population 50,000-99,999) approved as part of AMRUT 2.0 (2021-26, with AMRUT extended to 31.03.2027 for completing sanctioned work)",
+  "whyItMatters": "Almost no Sikkim town has a modern statutory GIS-based master plan, and unplanned ridge-line growth is the state's core urban risk (landslides, water stress, congestion). This sub-scheme pays for drone/satellite base maps, land-use mapping and master plan formulation through TCPO-standardised processes. Sikkim is already using it: the state floated an RFP in February 2025 for a GIS-based Master Plan for the Namchi Planning Area, indicating the pathway is live. Master plans are also the gateway condition for urban-planning-reform incentives under SASCI Parts III/IV.",
+  "eligibleApplicants": [
+   "State Government (Town Planning wing of UDD) for covered AMRUT cities and Class-II towns; smaller-town eligibility relaxations for NE/hill states: Not confirmed from available official guidance."
+  ],
+  "sikkimNodalDept": "Urban Development Department (Town Planning), Government of Sikkim",
+  "whatCanBeFunded": "GIS base map generation (aerial/drone/satellite), urban geodatabase and geo-portal, formulation of land-use and statutory master plans to TCPO design standards, capacity building of state town-planning staff",
+  "fundingAvailable": "Funded from within AMRUT/AMRUT 2.0 allocations as a sub-scheme (AMRUT 1.0 sub-scheme implemented in 456 towns across 35 states/UTs). Sikkim-specific allocation: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance (sub-scheme was largely centrally funded under AMRUT; exact sharing for Sikkim unverified)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "AMRUT's 90:10 NE/Himalayan pattern applies to mission projects; its application to this sub-scheme, and any population-threshold relaxation for NE/hill towns, not confirmed",
+  "stateContribution": "Not confirmed from available official guidance.",
+  "allocationMethod": "annual state proposal",
+  "accessPathway": [
+   "UDD Town Planning identifies towns (Gangtok, Namchi already in planning-area processes; district towns as eligible)",
+   "Submit town list/proposal to MoHUA-TCPO under the sub-scheme for approval and fund earmarking",
+   "Procure empanelled agencies for base-map creation and plan formulation per TCPO Design & Standards",
+   "Prepare draft GIS master plan, run statutory public consultation, notify the master plan",
+   "Report milestones to TCPO/MoHUA; use notified plans to claim urban-planning reform incentives (e.g. SASCI)"
+  ],
+  "nextAction": "Sikkim UDD Town Planning should conclude the Namchi GIS master plan procurement and simultaneously propose Gangtok Planning Area and remaining district headquarters towns to TCPO for coverage before the AMRUT extension window closes in March 2027.",
+  "portal": "http://tcpo.gov.in/sub-scheme-formulation-gis-based-master-plan-amrut-cities",
+  "applicationWindow": "Within AMRUT 2.0 window (extended to 31.03.2027 for sanctioned work); fresh coverage requires MoHUA/TCPO confirmation",
+  "keyDocuments": [
+   {
+    "doc": "Town-wise proposal to TCPO/MoHUA under the sub-scheme",
+    "certainty": "likely"
+   },
+   {
+    "doc": "RFP/contract for GIS base map and master plan formulation (Namchi model available)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "TCPO Design & Standards compliance documentation",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "MoHUA / TCPO (sub-scheme); State Government for plan notification",
+  "contact": "Town and Country Planning Organisation, MoHUA, New Delhi; UDD Town Planning, Gangtok",
+  "guidelines": [
+   {
+    "title": "Formulation of GIS-Based Master Plan for AMRUT Cities — Design and Standards (TCPO)",
+    "url": "https://smartnet.niua.org/sites/default/files/resources/Formulation%20of%20GIS%20Based%20Master%20Plan%20for%20AMRUT%20Cities-%20Design%20and%20Standards%20(1).pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Sub-scheme on Formulation of GIS based Master Plan for AMRUT Cities (456 towns; AMRUT 2.0 Class-II towns sub-scheme)",
+    "publisher": "PIB",
+    "date": "2022-03",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1805773",
+    "section": "Sub-scheme design"
+   },
+   {
+    "title": "RFP: GIS-Based Master Plan for Namchi Planning Area",
+    "publisher": "Government of Sikkim (UDD)",
+    "date": "2025-02-10",
+    "url": "https://www.sikkim.gov.in/uploads/DeptUploads/RFP_GIS_BASED_MASTER_PLAN_NAMCHI_PLANNING_AREA_20250210.pdf",
+    "section": "Sikkim participation"
+   },
+   {
+    "title": "Sub-Scheme on Formulation of GIS based Master Plan for AMRUT Cities",
+    "publisher": "TCPO, Government of India",
+    "date": "n.d.",
+    "url": "http://tcpo.gov.in/sub-scheme-formulation-gis-based-master-plan-amrut-cities",
+    "section": "Implementing agency page"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Government of Sikkim issued an RFP (10.02.2025) for a GIS-based Master Plan for the Namchi Planning Area, consistent with the AMRUT GIS master plan pathway; whether this is formally funded under the AMRUT 2.0 Class-II sub-scheme or state funds is not explicit in the RFP — likely AMRUT-linked."
+  },
+  "potentialUseCases": [
+   "GIS-based statutory master plans for Gangtok and Namchi planning areas",
+   "Base maps and geo-portal for all district HQ towns (Gyalshing, Mangan, Soreng, Pakyong)",
+   "Hazard-aware land-use zoning for landslide-prone urban slopes",
+   "Foundation for SASCI urban-planning reform incentive claims"
+  ],
+  "flags": [
+   "Sikkim towns are mostly below the 50,000 Class-II threshold — applicability/relaxation for NE hill towns must be confirmed with TCPO",
+   "Funding source of the Namchi master plan (AMRUT sub-scheme vs state budget) requires confirmation"
+  ],
+  "scores": {
+   "financial": 2,
+   "ease": 4,
+   "fit": 5,
+   "timeSensitivity": 3,
+   "transformational": 4,
+   "rationale": "Small money, outsized leverage: statutory GIS plans underpin hazard-safe growth and unlock reform-linked incentives; Sikkim has already started with Namchi."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Sub-scheme existence and Sikkim's Namchi RFP confirmed; population-threshold applicability to Sikkim's small towns unverified."
+ },
+ {
+  "id": "sasci-urban-reform-parts",
+  "name": "SASCI — urban-reform-linked parts (urban planning and municipal finance incentives)",
+  "shortName": "SASCI urban parts",
+  "ministry": "Ministry of Finance (Department of Expenditure)",
+  "agency": "Department of Expenditure; state Finance Department; MoHUA for urban-reform verification",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Reform-linked interest-free capital lending — urban planning and urban finance reform parts",
+  "type": "Concessional loan",
+  "grantOrLoan": "Loan",
+  "status": "Active",
+  "period": "Running annually since FY2020-21; FY2026-27 guidelines issued 27.03.2026 (F.No. 44(1)/PF-S/2026-27)",
+  "whyItMatters": "The core SASCI window is covered in its own entry; this entry tracks the urban parts specifically. The FY2026-27 guidelines again include parts incentivising urban planning reforms and urban finance/ULB reforms (Parts III and IV), for which only reforms undertaken during 2026-27 count. For Sikkim's urban agenda, completing GIS master plans, modernising building bye-laws and improving ULB property-tax systems can convert urban reforms into additional 50-year interest-free capital borrowing headroom for the state.",
+  "eligibleApplicants": [
+   "State Governments only (Finance Department submits proposals)"
+  ],
+  "sikkimNodalDept": "Finance Department, Government of Sikkim (urban-reform documentation by UDD)",
+  "whatCanBeFunded": "50-year interest-free loans for capital projects; specific earmarked parts reward states completing notified urban planning and urban finance reforms during the year (reform menu per annual guidelines)",
+  "fundingAvailable": "National FY2025-26 allocation was ₹1.5 lakh crore across all parts; FY2026-27 part-wise amounts per the 27.03.2026 guidelines (urban-parts figures: Not confirmed from available official guidance in this research pass — see fiscal cluster)",
+  "fundingRatio": "100% central lending; no state matching",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Part-A style allocations track central-tax devolution shares, which favour Sikkim relative to population; urban parts are reform-conditional rather than NE-preferential",
+  "stateContribution": "None (loan; repayable after 50 years, interest-free)",
+  "allocationMethod": "other (annual guidelines; part-wise entitlement/reform certification and project approval by DoE)",
+  "accessPathway": [
+   "Finance Department studies the FY2026-27 SASCI guidelines' urban reform parts (Parts III/IV)",
+   "UDD executes qualifying urban planning/urban finance reforms during FY2026-27 (only same-year reforms count)",
+   "State submits reform evidence and capital project proposals to Department of Expenditure",
+   "DoE approves and releases interest-free loan funds against milestones"
+  ],
+  "nextAction": "Sikkim UDD should hand the Finance Department a list of urban reforms achievable within FY2026-27 (master plan notifications, property-tax reforms) mapped to the SASCI Parts III/IV menu.",
+  "portal": null,
+  "applicationWindow": "Annual — FY2026-27 guidelines issued 27.03.2026; reforms must be undertaken during 2026-27",
+  "keyDocuments": [
+   {
+    "doc": "SASCI FY2026-27 guidelines (DoE)",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Urban reform completion evidence (notifications, bye-laws, tax data)",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "Department of Expenditure, Ministry of Finance",
+  "contact": "PF-S Division, Department of Expenditure, Ministry of Finance",
+  "guidelines": [
+   {
+    "title": "Guidelines: Scheme for Special Assistance to States for Capital Investment 2026-27 (DoE, 27.03.2026)",
+    "url": "https://dahd.gov.in/sites/default/files/2026-04/DOESASCIGuidelines2026-27Dt27.03.2026.pdf"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Guidelines for SASCI 2026-27, F.No. 44(1)/PF-S/2026-27 dated 27.03.2026",
+    "publisher": "Department of Expenditure (copy on dahd.gov.in)",
+    "date": "2026-03-27",
+    "url": "https://dahd.gov.in/sites/default/files/2026-04/DOESASCIGuidelines2026-27Dt27.03.2026.pdf",
+    "section": "Parts incl. urban reform incentives"
+   },
+   {
+    "title": "Scheme of Special Assistance to States for Capital Investment (explainer)",
+    "publisher": "Drishti IAS",
+    "date": "2025-26",
+    "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/scheme-of-special-assistance-to-states-for-capital-investment",
+    "section": "Scheme design"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "Sikkim, like all states, has drawn SASCI loans in earlier years (details in the fiscal cluster). Sikkim-specific claims under the urban-reform parts not located."
+  },
+  "potentialUseCases": [
+   "Interest-free capital for urban roads/parking in Gangtok tied to completed planning reforms",
+   "Monetising GIS master-plan notifications as reform achievements",
+   "Property-tax reform in Gangtok MC counted toward urban finance reform incentives"
+  ],
+  "flags": [
+   "Cross-reference record only — full treatment in the SASCI/fiscal cluster",
+   "Loan, not grant — counts against long-term state liabilities (albeit interest-free, 50-year)"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 3,
+   "fit": 3,
+   "timeSensitivity": 4,
+   "transformational": 3,
+   "rationale": "Sizeable interest-free capital tied to urban reforms Sikkim should do anyway; same-year reform window makes FY2026-27 action urgent."
+  },
+  "openWindow": "open",
+  "lastVerified": "2026-09-05",
+  "confidence": "High",
+  "confidenceNote": "FY2026-27 guidelines located (official copy); urban part-wise amounts left to the SASCI cluster."
+ },
+ {
+  "id": "hudco-urban-financing",
+  "name": "HUDCO loans for urban infrastructure and housing (Housing and Urban Development Corporation Ltd)",
+  "shortName": "HUDCO financing",
+  "ministry": "Ministry of Housing and Urban Affairs (HUDCO is a CPSE/NBFC under MoHUA)",
+  "agency": "HUDCO (regional office serving Sikkim/North-East)",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Debt financing for housing and urban infrastructure; consultancy services",
+  "type": "Infrastructure financing",
+  "grantOrLoan": "Loan",
+  "status": "Active",
+  "period": "Ongoing/perpetual — rolling lending window",
+  "whyItMatters": "HUDCO is the standing public financier that Sikkim's government, ULBs and parastatals can borrow from for urban infrastructure and housing where grant schemes fall short — e.g. the state share of AMRUT/PMAY projects, parking structures, bus terminals, water infrastructure or land development. It is a LOAN window, not a grant, so it suits revenue-generating or budget-backed projects. HUDCO also offers project consultancy (it has previously prepared a DPR for an Urban Resource Centre at Gangtok) and has been signing large state MoUs (e.g. Bihar, 2026), indicating appetite for state partnerships that Sikkim could emulate at its own scale.",
+  "eligibleApplicants": [
+   "State Government and state parastatals/corporations",
+   "Urban Local Bodies and development authorities (typically with state guarantee)",
+   "Housing boards and government agencies"
+  ],
+  "sikkimNodalDept": "Finance Department, Government of Sikkim (borrowing decisions) with Urban Development Department (projects)",
+  "whatCanBeFunded": "Loans for housing (social/rental/staff housing), water supply, sewerage/drainage, solid waste, roads/bridges, bus terminals, commercial/social infrastructure and land acquisition/development; fee-based consultancy (DPRs, appraisal, project management)",
+  "fundingAvailable": "Project-size-based lending per HUDCO's loan products; interest rates per HUDCO's periodic rate cards. No fixed state quota. Terms for Sikkim: Not confirmed from available official guidance.",
+  "fundingRatio": "Not applicable — debt financing (typically up to a percentage of project cost per HUDCO norms; exact loan-to-cost ceilings not confirmed)",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "HUDCO has historically had differential/concessional terms for North East and special category borrowers in some products — Not confirmed from available official guidance for current products",
+  "stateContribution": "Borrower equity/margin per HUDCO appraisal norms; state guarantee usually required for ULB/parastatal borrowings (requires confirmation)",
+  "allocationMethod": "project-by-project sanction",
+  "accessPathway": [
+   "Identify bankable urban projects (with revenue stream or state budget backing) in consultation with the Finance Department",
+   "Approach HUDCO's regional office with a project concept; HUDCO can also be engaged for DPR/consultancy",
+   "Submit loan application with DPR, cash-flow projections and security package (state guarantee where needed, within state guarantee ceiling)",
+   "HUDCO appraisal and sanction; execute loan agreement",
+   "Draw down against implementation milestones; service debt per schedule"
+  ],
+  "nextAction": "Sikkim Finance Department should request HUDCO's NE regional office for a lending-terms presentation and shortlist one bankable Gangtok project (multi-level parking or bus terminal) for a pilot loan appraisal.",
+  "portal": "https://hudco.org.in/",
+  "applicationWindow": "Rolling — no fixed window",
+  "keyDocuments": [
+   {
+    "doc": "DPR with financial/cash-flow analysis",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "State guarantee/security documentation within fiscal-limits",
+    "certainty": "likely"
+   },
+   {
+    "doc": "Loan application per HUDCO product format",
+    "certainty": "confirmed"
+   }
+  ],
+  "approvingAuthority": "HUDCO Board/competent sanctioning authority",
+  "contact": "HUDCO Regional Office (North East), and HUDCO House, Lodhi Road, New Delhi",
+  "guidelines": [
+   {
+    "title": "HUDCO Loan Products",
+    "url": "https://hudco.org.in/Site/FormTemplete/frmTemp1PLargeTC1C.aspx?MnId=125&ParentID=6"
+   }
+  ],
+  "sources": [
+   {
+    "title": "HUDCO — official site and loan products",
+    "publisher": "HUDCO",
+    "date": "2026",
+    "url": "https://www.hudco.org.in/Home",
+    "section": "Products/services"
+   },
+   {
+    "title": "HUDCO consultancy record incl. DPR for Urban Resource Centre at Gangtok, Sikkim",
+    "publisher": "HUDCO (corporate profile/LinkedIn)",
+    "date": "n.d.",
+    "url": "https://in.linkedin.com/company/hudco-limited",
+    "section": "Sikkim consultancy engagement"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Evidence of previous participation",
+   "detail": "HUDCO prepared a DPR for an Urban Resource Centre at Gangtok (consultancy engagement). No recent HUDCO loan to the Government of Sikkim or its ULBs located in public sources."
+  },
+  "potentialUseCases": [
+   "Multi-level parking and transport terminals in Gangtok",
+   "Bridging finance for state share of AMRUT/PMAY projects",
+   "Staff/rental housing for government employees in Gangtok",
+   "Fee-based DPR/consultancy support for complex urban projects"
+  ],
+  "flags": [
+   "Loan, not grant — requires debt-servicing capacity and fits within Sikkim's borrowing/guarantee limits",
+   "Current concessional terms for NE/special category borrowers need direct confirmation from HUDCO"
+  ],
+  "scores": {
+   "financial": 3,
+   "ease": 3,
+   "fit": 3,
+   "timeSensitivity": 1,
+   "transformational": 3,
+   "rationale": "Always-open debt window useful for projects grants won't cover; constrained by small state's debt appetite."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "HUDCO's role and products are certain; Sikkim-specific terms and prior lending history unverified."
+ },
+ {
+  "id": "citiis-2-0",
+  "name": "City Investments to Innovate, Integrate and Sustain 2.0 (CITIIS 2.0)",
+  "shortName": "CITIIS 2.0",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "agency": "National Institute of Urban Affairs (NIUA) as PMU; financed by AFD and KfW loans with EU grant",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Challenge-selected city projects — circular economy/integrated waste management; state climate actions",
+  "type": "Challenge fund",
+  "grantOrLoan": "Mixed",
+  "status": "Active but current call closed",
+  "period": "Approved by Cabinet mid-2023; four-year programme (approximately 2023-24 to 2027)",
+  "whyItMatters": "CITIIS 2.0's city component funds circular-economy/integrated waste management projects, but the competitive selection is over — 18 cities were chosen and none is in Sikkim, so Gangtok/Namchi cannot now join the city window (no re-opening located). The programme still matters to Sikkim through its second component: climate-oriented reform actions and capacity support at the STATE level (climate centres/cells, climate data and planning support delivered nationally through NIUA), which all states can engage with. It is also the template MoHUA uses for challenge funds — Sikkim should be ready for any CITIIS 3.0 or successor challenge with pre-prepared waste/climate project concepts.",
+  "eligibleApplicants": [
+   "City component: the 18 competitively selected cities only (selection closed; no Sikkim city)",
+   "State component: State Governments for climate-reform actions/capacity support (modalities via NIUA)"
+  ],
+  "sikkimNodalDept": "Urban Development Department, Government of Sikkim (with Forest & Environment Department for climate component); likely",
+  "whatCanBeFunded": "In selected cities: integrated waste management/circular-economy projects with technical assistance. At state level: climate-oriented reform actions, climate cells/centres, capacity building and knowledge products. National level: institutional strengthening through NIUA.",
+  "fundingAvailable": "National: ₹1,760 crore (€200 million) in AFD+KfW loans plus ₹106 crore (€12 million) EU technical-assistance grant. State-component envelope for non-city states like Sikkim: Not confirmed from available official guidance.",
+  "fundingRatio": "Not confirmed from available official guidance.",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Agartala and Guwahati were among selected cities but no NE-specific quota was confirmed in official material",
+  "stateContribution": "For city projects, city/state co-funding per programme agreements; state-component obligations: Not confirmed from available official guidance.",
+  "allocationMethod": "competitive application",
+  "accessPathway": [
+   "City window: closed — 18 cities selected through the 2023-24 CITIIS 2.0 Challenge; no evidence new cities can join (requires confirmation with NIUA if re-opened)",
+   "State window: UDD/Forest & Environment Department contact the CITIIS PMU at NIUA about state climate-action support (climate cells, ClimateSmart assessments)",
+   "Prepare Sikkim urban climate/waste project concepts to be challenge-ready for any successor round"
+  ],
+  "nextAction": "Sikkim UDD should ask the NIUA CITIIS PMU what state-level climate-component support is open to non-selected states and register Sikkim's interest for any future CITIIS round.",
+  "portal": "https://niua.in/project-details/City_Investments_To_Innovate,_Integrate_&_Sustain_(CITIIS)_2.0",
+  "applicationWindow": "City challenge closed (18 cities selected); state climate component engagement rolling via NIUA (requires confirmation)",
+  "keyDocuments": [
+   {
+    "doc": "Challenge application/project proposal (for any future round)",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MoHUA/NIUA with AFD/KfW/EU partners",
+  "contact": "CITIIS Programme Management Unit, NIUA, New Delhi",
+  "guidelines": [
+   {
+    "title": "CITIIS 2.0 — NIUA project page",
+    "url": "https://niua.in/project-details/City_Investments_To_Innovate,_Integrate_&_Sustain_(CITIIS)_2.0"
+   }
+  ],
+  "sources": [
+   {
+    "title": "CITIIS 2.0 — NIUA (programme design: 18 cities, circular economy, state climate actions)",
+    "publisher": "NIUA",
+    "date": "2023-26",
+    "url": "https://niua.in/project-details/City_Investments_To_Innovate,_Integrate_&_Sustain_(CITIIS)_2.0",
+    "section": "Programme components"
+   },
+   {
+    "title": "Agreements worth over Rs 1,800 crore signed under CITIIS 2.0 (18 selected cities listed)",
+    "publisher": "Manorama Yearbook (reporting MoHUA)",
+    "date": "2025-03-05",
+    "url": "https://www.manoramayearbook.in/current-affairs/india/2025/03/05/citiis-programme.html",
+    "section": "Selected cities"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "No participation located",
+   "detail": "No Sikkim city is among the 18 CITIIS 2.0 cities (NE representation: Agartala, Guwahati). No record of Sikkim engagement with the state-level climate component was located."
+  },
+  "potentialUseCases": [
+   "State climate-cell/capacity support via the national/state component (subject to confirmation)",
+   "Challenge-ready integrated waste management concept for Gangtok for any CITIIS successor",
+   "Learning exchange with Agartala/Guwahati CITIIS projects on hill/NE waste solutions"
+  ],
+  "flags": [
+   "City funding window is closed — new cities cannot currently join",
+   "Extent of state-component benefits available to Sikkim needs confirmation from NIUA PMU"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 2,
+   "fit": 3,
+   "timeSensitivity": 1,
+   "transformational": 2,
+   "rationale": "Closed to new cities; residual value is TA via the state climate component and readiness for a successor challenge."
+  },
+  "openWindow": "closed",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Programme design and city list confirmed; state-component access for Sikkim unverified."
+ },
+ {
+  "id": "swachh-survekshan-incentives",
+  "name": "Swachh Survekshan rankings and SBM certification-linked incentives (MoHUA recognition framework)",
+  "shortName": "Swachh Survekshan incentives",
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "agency": "SBM-U Mission Directorate; Quality Council of India / designated assessors",
+  "policyArea": "Urban Development & Housing",
+  "subcategory": "Performance benchmarking, certification (ODF+/++, Garbage Free City stars) and awards for cities",
+  "type": "Challenge fund",
+  "grantOrLoan": "Other",
+  "status": "Active",
+  "period": "Annual survey cycle since 2016; conducted under SBM-U 2.0 (mission continuation beyond FY2025-26 needs confirmation, but the FY2025-26 survey cycle proceeded)",
+  "whyItMatters": "Swachh Survekshan is MoHUA's annual cleanliness survey and awards framework; performance in it — and in ODF+/ODF++/Water+ and Garbage Free City star certifications — drives reputational recognition and has been used to condition/prioritise SBM performance funds. Sikkim's towns punch above their weight: Gangtok MC and Mangan Nagar Panchayat won Swachh Survekshan 2023 cleanest-city awards in the state category, and small-population categories give Sikkim's towns a realistic shot at national recognition that supports tourism branding. Sustained certification also positions ULBs for performance-linked components of FC grants and SBM releases.",
+  "eligibleApplicants": [
+   "All ULBs (automatically surveyed under Swachh Survekshan protocols; certifications applied for by ULBs through the state)"
+  ],
+  "sikkimNodalDept": "Urban Development Department with Gangtok Municipal Corporation and all ULBs",
+  "whatCanBeFunded": "Primarily recognition/awards rather than a standing grant line; certification outcomes feed eligibility/priority for SBM-U performance releases. Monetary award amounts, if any, for current cycles: Not confirmed from available official guidance.",
+  "fundingAvailable": "Not confirmed from available official guidance.",
+  "fundingRatio": "",
+  "nePreference": "unverified",
+  "nePreferenceDetail": "Survey has population-category and state-level award classes that effectively let small NE towns compete among peers; no formal NE quota confirmed",
+  "stateContribution": "Cost of preparing documentation, citizen-feedback drives and certification assessments (assessment fees where applicable — requires confirmation)",
+  "allocationMethod": "other (annual third-party survey, document assessment, citizen feedback and field validation)",
+  "accessPathway": [
+   "ULBs update service-level progress on SBM-U MIS through the year",
+   "Apply for ODF+/ODF++ and Garbage Free City star-rating certification through the state in the notified windows",
+   "Participate in the annual Swachh Survekshan cycle (documentation, direct observation, citizen feedback)",
+   "Leverage awards/certifications in SBM performance-fund claims and public communication"
+  ],
+  "nextAction": "Gangtok Municipal Corporation, supported by UDD, should target Garbage Free City 3-star and ODF++ certification for Gangtok in the current cycle and enrol all seven ULBs in the next Swachh Survekshan round.",
+  "portal": "https://sbmurban.org/",
+  "applicationWindow": "Annual cycle; certification windows notified by MoHUA each year",
+  "keyDocuments": [
+   {
+    "doc": "SBM-U MIS updated service data and GFC/ODF certification applications",
+    "certainty": "confirmed"
+   },
+   {
+    "doc": "Citizen feedback mobilisation plan",
+    "certainty": "likely"
+   }
+  ],
+  "approvingAuthority": "MoHUA (Swachh Survekshan awards; certification via empanelled third-party assessors)",
+  "contact": "SBM-Urban Mission Directorate, MoHUA, New Delhi",
+  "guidelines": [
+   {
+    "title": "Swachh Survekshan toolkit (current cycle) — SBM Urban portal",
+    "url": "https://sbmurban.org/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Swachh Survekshan Cleanest Cities Awards for Gangtok & Mangan (Survekshan 2023, awarded January 2024)",
+    "publisher": "Sikkim Express",
+    "date": "2024-01",
+    "url": "https://sikkimexpress.com/news-details/swachh-survekshan-cleanest-cities-awards-for-gangtok-mangan",
+    "section": "Sikkim awards"
+   },
+   {
+    "title": "Swachh Survekshan (framework overview)",
+    "publisher": "Wikipedia (secondary; framework since 2016)",
+    "date": "2026",
+    "url": "https://en.wikipedia.org/wiki/Swachh_Survekshan",
+    "section": "Survey design"
+   }
+  ],
+  "sikkimParticipation": {
+   "status": "Confirmed Sikkim participation",
+   "detail": "Gangtok Municipal Corporation and Mangan Nagar Panchayat received Swachh Survekshan 2023 awards (state-category cleanest cities), presented by the President of India at Bharat Mandapam; Sikkim ULBs participate in the annual survey."
+  },
+  "potentialUseCases": [
+   "National recognition for Gangtok in small-city categories supporting tourism branding",
+   "GFC star and ODF++ certifications strengthening SBM/FC performance-fund claims",
+   "Inter-town cleanliness competition among Sikkim's seven ULBs"
+  ],
+  "flags": [
+   "Primarily reputational/performance-gating rather than a direct funding line — monetary linkage varies by cycle",
+   "Continuation of survey cycles beyond SBM-U 2.0's end needs confirmation"
+  ],
+  "scores": {
+   "financial": 1,
+   "ease": 4,
+   "fit": 4,
+   "timeSensitivity": 2,
+   "transformational": 2,
+   "rationale": "Low direct money but cheap to pursue, already a Sikkim strength, and gates performance-linked funds."
+  },
+  "openWindow": "rolling",
+  "lastVerified": "2026-09-05",
+  "confidence": "Medium",
+  "confidenceNote": "Sikkim's 2023 awards confirmed; current-cycle incentive structure and post-mission continuation unverified."
+ }
+]

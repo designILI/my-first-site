@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "national-health-mission-nhm",
+    "name": "National Health Mission (including Ayushman Arogya Mandir and Tele-MANAS components)",
+    "shortName": "NHM",
+    "ministry": "Ministry of Health and Family Welfare",
+    "agency": "National Health Mission (NHM Division, MoHFW); State Health Society Sikkim",
+    "policyArea": "Health",
+    "subcategory": "Primary and secondary healthcare systems; RCH; disease control; Ayushman Arogya Mandirs; mental health (Tele-MANAS is NHM/PIP-funded)",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing since 2005/2013 (NHM umbrella); last Cabinet extension covered up to 31 March 2026; FY2026-27 PIP cycle running under MoHFW PIP Guidance Note FY2026-27, with Budget 2026-27 allocation of Rs 39,390 crore",
+    "whyItMatters": "NHM is by far the largest recurring central funding line for Sikkim's health system, financing human resources, drugs, ambulances, RCH, NCD and disease-control activities across Sikkim's dispersed mountain settlements where per-capita service delivery costs are high. Sikkim, as a North Eastern state, receives NHM funds on the concessional NE sharing pattern, so nearly the whole approved Programme Implementation Plan is centrally funded. Tele-MANAS (mental health, highly relevant given Sikkim's suicide burden) and operationalisation of Ayushman Arogya Mandirs run on NHM PIP funds. The FY2026-27 PIP guidance introduces outcome-focused reforms, so the quality of Sikkim's PIP directly determines its envelope.",
+    "eligibleApplicants": ["State Government (Health & Family Welfare Department) via State Health Society", "District Health Societies (through the state PIP)"],
+    "sikkimNodalDept": "Health & Family Welfare Department, Government of Sikkim (State Health Society Sikkim / Mission Director NHM)",
+    "whatCanBeFunded": "Contractual health human resources; RCH/immunisation; national disease control programmes; NCD screening; free drugs and diagnostics; patient transport (108/102); infrastructure maintenance and upgradation of SHCs/PHCs/CHCs into Ayushman Arogya Mandirs; community processes (ASHA); quality certification; mental health including Tele-MANAS cell operations; untied funds — all as approved in the annual PIP/Record of Proceedings.",
+    "fundingAvailable": "National BE FY2026-27: Rs 39,390 crore (approx. 6% above RE 2025-26). Sikkim's annual Record of Proceedings allocation: Not confirmed from available official guidance.",
+    "fundingRatio": "90:10 Centre:State for North Eastern states including Sikkim under the NHM framework (60:40 for general states) — long-standing NHM norm; FY2026-27 ratio reverification via primary guidance blocked in this research session",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE states including Sikkim receive the concessional 90:10 central:state sharing pattern under the NHM framework.",
+    "stateContribution": "10% state share plus timely transfer of central releases to the State Health Society; state must also meet its committed health budget growth conditionalities under NHM framework norms.",
+    "allocationMethod": "annual state proposal (PIP)",
+    "accessPathway": [
+      "State Health Society prepares the annual Programme Implementation Plan (PIP) for FY2027-28 per the MoHFW PIP Guidance Note (the FY2026-27 note introduces outcome-focused, SDG-aligned planning and revised submission/approval processes)",
+      "Submit PIP to MoHFW NHM Division within the notified timeline",
+      "National Programme Coordination Committee (NPCC) appraisal and negotiation meetings with the state team",
+      "MoHFW issues Record of Proceedings (RoP) approving activities and budgets",
+      "Central share released to state treasury/SNA account; state adds 10% share; expenditure reported via PFMS and FMR (requires confirmation of current SNA-SPARSH routing for Sikkim)"
+    ],
+    "nextAction": "Health & Family Welfare Department (Mission Director, NHM Sikkim) should prepare the FY2027-28 PIP strictly per the new outcome-focused PIP Guidance Note and simultaneously seek MoHFW confirmation of the NHM successor design for the 16th Finance Commission cycle (2026-31).",
+    "portal": "https://nhm.gov.in",
+    "applicationWindow": "Annual PIP cycle (typically PIP submission in the last quarter of the preceding financial year; NPCC meetings before April)",
+    "keyDocuments": [
+      {"doc": "State Programme Implementation Plan (PIP) with budget sheets/FMR", "certainty": "confirmed"},
+      {"doc": "Previous year Record of Proceedings and utilisation/expenditure statements", "certainty": "confirmed"},
+      {"doc": "State Health Society board approvals", "certainty": "likely"}
+    ],
+    "approvingAuthority": "National Programme Coordination Committee / Mission Steering Group, MoHFW",
+    "contact": "NHM Division, Ministry of Health & Family Welfare, Nirman Bhawan, New Delhi; Mission Director NHM, Health & Family Welfare Department, Gangtok",
+    "guidelines": [
+      {"title": "NHM PIP Guidance Note FY2026-27", "url": "https://ncdc.mohfw.gov.in/uploads/pdf/NHM%20PIP%20Guidance%20Note%20FY2026-27.pdf"},
+      {"title": "NHM Framework for Implementation", "url": "https://nhm.gov.in/index4.php?lang=1&level=0&linkid=445&lid=38"}
+    ],
+    "sources": [
+      {"title": "NHM PIP Guidance Note FY2026-27", "publisher": "MoHFW/NCDC", "date": "2026", "url": "https://ncdc.mohfw.gov.in/uploads/pdf/NHM%20PIP%20Guidance%20Note%20FY2026-27.pdf", "section": "PIP process reforms for FY2026-27"},
+      {"title": "Union Budget 2026-27: Rs 1,06,530.42 crore allocated to MoHFW", "publisher": "PIB", "date": "2026-02", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221616", "section": "NHM allocation Rs 39,390 crore for 2026-27"},
+      {"title": "Cabinet apprised of Achievements under National Health Mission (2021-24)", "publisher": "PIB", "date": "2025-01", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2095052", "section": "NHM continuation and progress"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim has implemented NHM since inception through the State Health Society with annual RoP allocations; Sikkim also operates a Tele-MANAS cell (state Health Minister publicly promoted Tele-MANAS 14416 services in Feb 2025) and has upgraded facilities as Ayushman Arogya Mandirs. Sikkim-specific FY2025-26/2026-27 RoP figures: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Expanded specialist and contractual HR for STNM referral network and remote PHCs",
+      "Strengthened Tele-MANAS cell staffing and district mental health outreach given Sikkim's high suicide burden",
+      "Difficult-area incentives and telemedicine spokes for dispersed mountain settlements",
+      "Upgrading remaining SHCs/PHCs to fully functional Ayushman Arogya Mandirs"
+    ],
+    "flags": [
+      "Formal Cabinet approval of the NHM successor/continuation for the 16th FC cycle (2026-31) was not located; FY2026-27 is funded (BE Rs 39,390 crore) and a FY2026-27 PIP guidance note is in force, but the multi-year design beyond FY2026-27 needs confirmation",
+      "Direct access to primary MoHFW pages was blocked during this research session; figures are from official-domain search results"
+    ],
+    "scores": {"financial": 5, "ease": 4, "fit": 5, "timeSensitivity": 4, "transformational": 3, "rationale": "Largest recurring health envelope on a 90:10 pattern with an established PIP machinery Sikkim already runs; time-sensitive because the 2026-31 successor design and outcome-based PIP reforms are being set now."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "FY2026-27 operation and allocation confirmed via PIB/MoHFW-domain search results; Sikkim-specific allocation figures and post-FY2027 continuation unverified."
+  },
+  {
+    "id": "pm-abhim-health-infrastructure",
+    "name": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM), with 15th/16th Finance Commission health-grant context",
+    "shortName": "PM-ABHIM",
+    "ministry": "Ministry of Health and Family Welfare",
+    "agency": "MoHFW (CSS components implemented through NHM/State Health Society); some central-sector components via central agencies",
+    "policyArea": "Health",
+    "subcategory": "Public health infrastructure: sub-health centres, urban AAMs, block public health units, integrated public health laboratories, critical care blocks",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "FY2021-22 to FY2025-26 (co-terminus with 15th Finance Commission); continuation into FY2026-27 not confirmed",
+    "whyItMatters": "PM-ABHIM is the main capital-infrastructure window for Sikkim's public health facilities below the tertiary level — building-less sub-health centres, a Block Public Health Unit in every block and an Integrated Public Health Laboratory in every district. For a state with one major referral hospital (STNM) and dispersed settlements, completing the district/block diagnostic and surveillance layer reduces avoidable referrals to Gangtok. The scheme was co-terminus with the 15th FC (ended 31 March 2026), and the parallel 15th FC health grants through local bodies have also ended, so Sikkim must secure its remaining sanctioned works and clarity on the successor arrangement.",
+    "eligibleApplicants": ["State Government (Health & Family Welfare Department) for CSS components", "Local governments were channels for the linked 15th FC health grants (now ended)"],
+    "sikkimNodalDept": "Health & Family Welfare Department, Government of Sikkim (through State Health Society/NHM)",
+    "whatCanBeFunded": "CSS components: upgradation of building-less/rented sub-health centres into Ayushman Arogya Mandirs; urban AAMs; 3,382 Block Public Health Units nationally; 730 district Integrated Public Health Laboratories; critical care hospital blocks (districts above 5 lakh population — Sikkim's districts fall below this threshold, so CCB applicability to Sikkim requires confirmation). The linked 15th FC health sector grants (approx. Rs 70,051 crore nationally, 2021-26, routed through rural and urban local bodies for primary health infrastructure) ended on 31 March 2026.",
+    "fundingAvailable": "Approx. Rs 33,081 crore approved to States/UTs for CSS components for works up to 2026 (national); Sikkim-specific approval: Not confirmed from available official guidance.",
+    "fundingRatio": "CSS components follow the NHM funding pattern (90:10 for NE states including Sikkim) — stated in scheme literature; direct verification of the operational guidelines was blocked (requires confirmation)",
+    "nePreference": "true",
+    "nePreferenceDetail": "CSS components flow through NHM norms under which NE states get the 90:10 pattern (requires confirmation against PM-ABHIM operational guidelines).",
+    "stateContribution": "10% of CSS component cost (if NHM pattern applies to Sikkim), plus land and recurring operating costs of created facilities.",
+    "allocationMethod": "annual state proposal (PIP)",
+    "accessPathway": [
+      "Include PM-ABHIM CSS component proposals (SHC upgradation, BPHUs, IPHLs) in the NHM PIP of the Health & Family Welfare Department",
+      "MoHFW appraisal and approval through the NHM RoP mechanism",
+      "Execute civil works through state works agencies; report physical/financial progress to MoHFW",
+      "For FY2026-27 onwards, seek MoHFW instruction on completing sanctioned-but-incomplete works and on the successor scheme (requires confirmation)",
+      "Separately, note that 16th FC local-body grants (2026-31) are largely untied (50% of basic grant) plus tied to water/sanitation; a dedicated health tie was not evident in the tabled report summary — local bodies may deploy untied funds for primary health infrastructure (requires confirmation from the full 16th FC report and Government's action taken)"
+    ],
+    "nextAction": "Health & Family Welfare Department should compile the status of all PM-ABHIM works sanctioned for Sikkim up to FY2025-26 and formally ask MoHFW (NHM Division) how incomplete works and new proposals will be funded in the 16th FC cycle.",
+    "portal": "https://nhm.gov.in",
+    "applicationWindow": "Via annual NHM PIP cycle; original scheme window closed 31 March 2026 — transition arrangements unknown",
+    "keyDocuments": [
+      {"doc": "Component-wise PM-ABHIM proposals within NHM PIP", "certainty": "confirmed"},
+      {"doc": "Gap analysis of sub-health centres, block units and district labs in Sikkim", "certainty": "likely"},
+      {"doc": "Utilisation certificates and physical progress reports for sanctioned works", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "MoHFW (NHM appraisal mechanism/NPCC)",
+    "contact": "NHM Division, MoHFW, Nirman Bhawan, New Delhi",
+    "guidelines": [
+      {"title": "Operational Guidelines: PM Ayushman Bharat Health Infrastructure Mission", "url": "https://nhsrcindia.org/sites/default/files/OGls%20PM%20Ayushman%20Bharat%20Health%20Infrastructure%20Mission.pdf"}
+    ],
+    "sources": [
+      {"title": "PM-ABHIM (progress press release)", "publisher": "PIB", "date": "2025", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2182105", "section": "Component approvals and completion status (U-AAM ~68%, SHC ~39%, IPHL ~32%, BPHU ~31%)"},
+      {"title": "Centre approves Rs 33,081 crore to states for health infra upgrade by 2026", "publisher": "Business Standard", "date": "2025-07-22", "url": "https://www.business-standard.com/india-news/pm-ayushman-bharat-health-infrastructure-mission-allocation-centre-states-ut-125072201033_1.html", "section": "State allocations under CSS components"},
+      {"title": "Report of the 16th Finance Commission for 2026-31 (tabled 1 Feb 2026)", "publisher": "Sixteenth Finance Commission / fincomindia.nic.in", "date": "2026-02-01", "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol1-Main-Report.pdf", "section": "Local body grants: Rs 4.4 lakh crore rural + Rs 3.6 lakh crore urban; 80% basic/20% performance; basic grant 50% untied, 50% tied to sanitation/water — no dedicated health tie evident in summary"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "PM-ABHIM CSS components were approved for all States/UTs including NE states within the Rs 33,081 crore state envelope; Sikkim-specific sanctioned works (number of BPHUs/IPHLs/SHC upgrades) were not locatable in this session — obtain from State Health Society records."
+    },
+    "potentialUseCases": [
+      "Completing an Integrated Public Health Laboratory in each of Sikkim's six districts",
+      "Block Public Health Units for surveillance in remote blocks (Lachen/Lachung axis, Yuksom, Dzongu)",
+      "Replacing building-less/rented sub-health centres in landslide-prone locations"
+    ],
+    "flags": [
+      "Scheme was co-terminus with the 15th FC and its continuation beyond FY2025-26 needs confirmation — no continuation Cabinet decision located as of Sept 2026",
+      "15th FC health grants through local bodies ended 31 March 2026; the 16th FC report (tabled 1 Feb 2026) does not appear to continue a dedicated health grant through local bodies — verify against full report and action-taken report",
+      "Critical care block component applicability to Sikkim (districts under 5 lakh population) requires confirmation"
+    ],
+    "scores": {"financial": 4, "ease": 3, "fit": 4, "timeSensitivity": 5, "transformational": 4, "rationale": "Substantial capital funding on concessional terms through machinery Sikkim already uses, but the scheme window has lapsed and the successor is undefined — securing sanctioned works and transition clarity is urgent."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "National component data confirmed via PIB-domain results; post-March 2026 status and Sikkim-specific sanctions unverified because direct fetches to MoHFW/PIB/PRS were blocked."
+  },
+  {
+    "id": "ab-pmjay",
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana",
+    "shortName": "AB PM-JAY",
+    "ministry": "Ministry of Health and Family Welfare",
+    "agency": "National Health Authority (NHA); State Health Agency in Sikkim",
+    "policyArea": "Health",
+    "subcategory": "Health assurance/insurance — Rs 5 lakh per family per year for secondary and tertiary hospitalisation; PM-JAY Vay Vandana extension to all citizens aged 70+",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing since 2018; no announced end date",
+    "whyItMatters": "PM-JAY funds hospitalisation costs for entitled Sikkimese families and, since 2024, all residents aged 70+, reducing out-of-pocket spending and the burden on the state's free-care commitments at STNM. Because Sikkim has limited in-state tertiary capacity, PM-JAY portability lets beneficiaries obtain cashless treatment in empanelled hospitals outside the state (Siliguri, Kolkata, Delhi), which is structurally important for a small Himalayan state. Sikkim already implements the scheme and has among the highest empanelled beds per 1,00,000 population, and can deepen use through convergence with its state schemes (e.g., Sikkim Manipal Swasthya Suraksha at CRH).",
+    "eligibleApplicants": ["State Government via State Health Agency (scheme implementation)", "Entitled beneficiary families (service side)"],
+    "sikkimNodalDept": "Health & Family Welfare Department, Government of Sikkim (State Health Agency)",
+    "whatCanBeFunded": "Central share of the premium/claims cost for entitled families (trust/insurance/hybrid mode as adopted by the state); administrative support to the State Health Agency; hospital empanelment and claims under approx. 1,900+ health benefit packages; Ayushman Vay Vandana cards for 70+ population.",
+    "fundingAvailable": "Demand-driven (claims/premium based); national BE for PM-JAY FY2026-27: Not confirmed from available official guidance.",
+    "fundingRatio": "60:40 Centre:State generally; 90:10 for NE and Himalayan states including Sikkim per AB PM-JAY scheme documentation (direct verification of the NHA page was blocked in this session — requires confirmation)",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE/Himalayan states bear only 10% of scheme cost per PM-JAY funding norms (requires confirmation against current NHA guidelines).",
+    "stateContribution": "10% of premium/claims cost (if NE pattern confirmed) plus State Health Agency operating costs and any state top-up scheme costs.",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "State Health Agency maintains the MoU with the National Health Authority and the chosen implementation mode (trust/insurance)",
+      "Expand beneficiary identification and Ayushman card saturation, including Vay Vandana enrolment of the 70+ population",
+      "Empanel additional public and private facilities in Sikkim and strengthen claim processing on the NHA transaction platform",
+      "Central share reimbursed/released per NHA financial norms against verified claims/premium (requires confirmation of Sikkim's current mode)"
+    ],
+    "nextAction": "The State Health Agency under the Health & Family Welfare Department should run a card-saturation and 70+ Vay Vandana enrolment drive and reconcile PM-JAY empanelment with STNM and district hospitals to maximise central claim inflows.",
+    "portal": "https://nha.gov.in/PM-JAY",
+    "applicationWindow": "Rolling (continuous implementation; no application window)",
+    "keyDocuments": [
+      {"doc": "State-NHA MoU and implementation-mode documentation", "certainty": "confirmed"},
+      {"doc": "Beneficiary database (SECC/state-notified categories) and card issuance records", "certainty": "confirmed"},
+      {"doc": "Hospital empanelment and claims records on NHA IT platform", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "National Health Authority, MoHFW",
+    "contact": "National Health Authority, New Delhi; State Health Agency, Gangtok",
+    "guidelines": [
+      {"title": "About PM-JAY (NHA)", "url": "https://nha.gov.in/PM-JAY"}
+    ],
+    "sources": [
+      {"title": "About PM-JAY", "publisher": "National Health Authority", "date": "", "url": "https://nha.gov.in/PM-JAY", "section": "Scheme design and coverage"},
+      {"title": "Distribution programme of Sikkim Manipal Swasthya Suraksha Insurance Card and Ayushman Bharat (PM-JAY) cards", "publisher": "Government of Sikkim (sikkim.gov.in)", "date": "", "url": "https://www.sikkim.gov.in/media/news-announcement/news-info?name=A+distribution+programme+of+Sikkim+Manipal+Swasthya+Surakhsha+Insurance+Card+and+Ayushman+Bharat", "section": "Sikkim card distribution"},
+      {"title": "Empanelment of health care facilities under AB PM-JAY in India", "publisher": "PLOS One", "date": "2021", "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0251814", "section": "Sikkim and Goa had the highest empanelled beds per 100,000 population"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim implements AB PM-JAY (state distribution of PM-JAY cards documented on sikkim.gov.in; among the highest empanelled beds per lakh population per peer-reviewed empanelment analysis). Current enrolment and claims figures for Sikkim: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Full card saturation and 70+ Vay Vandana enrolment across all six districts",
+      "Claims-based revenue stream for STNM and district hospitals to fund service upgrades",
+      "Portability-based cashless referrals for tertiary care outside Sikkim"
+    ],
+    "flags": [
+      "Confirm Sikkim's current implementation mode (trust vs insurance) and 90:10 sharing directly with NHA before financial planning"
+    ],
+    "scores": {"financial": 3, "ease": 4, "fit": 4, "timeSensitivity": 3, "transformational": 3, "rationale": "Demand-driven assurance rather than a capital grant, but on highly concessional sharing and already operational; upside lies in saturation and hospital revenue, not new applications."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Sikkim participation confirmed via state-government and peer-reviewed sources; sharing-ratio text on the NHA page could not be fetched directly."
+  },
+  {
+    "id": "national-ayush-mission-sowa-rigpa",
+    "name": "National AYUSH Mission (with Sowa-Rigpa relevance for Sikkim)",
+    "shortName": "NAM",
+    "ministry": "Ministry of Ayush",
+    "agency": "Ministry of Ayush; State AYUSH Society/Directorate under Health & Family Welfare Department, Sikkim",
+    "policyArea": "Health",
+    "subcategory": "Traditional medicine — AYUSH services, integrated AYUSH hospitals/dispensaries, Ayush Arogya Mandirs (AYUSH wellness), medicinal plants, Sowa-Rigpa",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Cabinet-approved continuation 1 April 2021 to 31 March 2026 (Rs 4,607.30 crore: Rs 3,000 crore central + Rs 1,607.30 crore state); continuation beyond FY2025-26 not confirmed",
+    "whyItMatters": "Sikkim has a living Sowa-Rigpa (Himalayan/Amchi medicine) tradition alongside Ayurveda and Yoga, and has already used NAM to build two integrated AYUSH hospitals (10-bedded in Gangtok and 50-bedded at Kyongsa, Gyalshing). The 2026 Sikkim Medical Council for Indian System of Medicine Act positions the state to register and regulate practitioners, a precondition for scaling publicly funded Sowa-Rigpa services. NAM's annual action plan route is the natural channel for wellness-tourism-aligned AYUSH infrastructure, medicinal-plant cultivation in high-altitude zones, and Sowa-Rigpa integration in public facilities.",
+    "eligibleApplicants": ["State Government (State AYUSH Society) via State Annual Action Plan"],
+    "sikkimNodalDept": "Health & Family Welfare Department, Government of Sikkim (Directorate/State AYUSH Society); likely",
+    "whatCanBeFunded": "AYUSH hospitals and dispensaries (construction/upgradation); co-location of AYUSH in PHCs/CHCs/district hospitals; Ayush Arogya Mandirs; supply of AYUSH drugs; AYUSH educational institution support; quality control; medicinal plants component (cultivation, nurseries, post-harvest); IEC and Yoga wellness activities.",
+    "fundingAvailable": "National envelope Rs 4,607.30 crore for 2021-26; annual state allocations per approved State Annual Action Plan. Sikkim's current SAAP amount: Not confirmed from available official guidance.",
+    "fundingRatio": "90:10 Centre:State for NE states including Sikkim per NAM framework norms (requires confirmation against current NAM operational guidelines)",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE states receive the concessional 90:10 pattern under NAM norms; NE states have also historically received relaxed norms for AYUSH infrastructure (requires confirmation).",
+    "stateContribution": "10% state share plus recurring staff/operations of AYUSH facilities.",
+    "allocationMethod": "annual state proposal (PIP)",
+    "accessPathway": [
+      "State AYUSH Society prepares the State Annual Action Plan (SAAP) with component-wise proposals including Sowa-Rigpa services and medicinal plants",
+      "Submit SAAP to Ministry of Ayush (NAM portal/online submission)",
+      "Appraisal by the Ministry's National AYUSH Mission appraisal committee and approval of the SAAP",
+      "Central share released; state implements through AYUSH directorate and reports utilisation",
+      "For FY2026-27 onwards, confirm NAM continuation/successor design with Ministry of Ayush (requires confirmation)"
+    ],
+    "nextAction": "The Health & Family Welfare Department's AYUSH wing should submit a FY2026-27/2027-28 SAAP foregrounding Sowa-Rigpa service integration and high-altitude medicinal plants, while seeking Ministry of Ayush confirmation of NAM's post-March 2026 continuation.",
+    "portal": "https://namayush.gov.in",
+    "applicationWindow": "Annual SAAP cycle; current-year window status unknown",
+    "keyDocuments": [
+      {"doc": "State Annual Action Plan (SAAP)", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates for prior NAM releases", "certainty": "confirmed"},
+      {"doc": "Registration/regulatory framework for Sowa-Rigpa practitioners (Sikkim Medical Council for ISM Act 2026)", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Ayush (NAM appraisal/approval committee)",
+    "contact": "Ministry of Ayush, AYUSH Bhawan, New Delhi",
+    "guidelines": [
+      {"title": "Cabinet approves continuation of National AYUSH Mission (2021-26)", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-centrally-sponsored-scheme-national-ayush-mission/"}
+    ],
+    "sources": [
+      {"title": "Cabinet approves continuation of centrally sponsored scheme National AYUSH Mission", "publisher": "PMO / pmindia.gov.in", "date": "2021-07", "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-centrally-sponsored-scheme-national-ayush-mission/", "section": "2021-26 continuation, Rs 4,607.30 crore"},
+      {"title": "Government of Sikkim press release on AYUSH/NAM implementation", "publisher": "Government of Sikkim", "date": "", "url": "https://www.sikkim.gov.in/media/press-release/press-info?name=PRESS+RELEASE&id=132396", "section": "Two integrated AYUSH hospitals under NAM (Gangtok 10-bed; Kyongsa, Gyalshing 50-bed)"},
+      {"title": "Sikkim Assembly passes AYUSH/ISM Medical Council Bill 2026", "publisher": "NewKerala/agency report", "date": "2026", "url": "https://www.newkerala.com/news/a/sikkim-assembly-passes-bill-set-up-medical-council-326.htm", "section": "State regulatory framework for Ayurveda/Sowa-Rigpa"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Two integrated AYUSH hospitals operational under NAM (10-bedded Gangtok; 50-bedded Kyongsa, Gyalshing) per Government of Sikkim press material; state building an Ayurveda/Sowa-Rigpa/Yoga ecosystem and enacted an ISM Medical Council law in 2026."
+    },
+    "potentialUseCases": [
+      "Sowa-Rigpa integration into Ayushman Arogya Mandirs in Buddhist-majority areas (Dzongu, West Sikkim)",
+      "High-altitude medicinal plant cultivation clusters linked to farmer incomes",
+      "AYUSH wellness offerings aligned to Sikkim's tourism economy"
+    ],
+    "flags": [
+      "Current continuation beyond FY2025-26 needs confirmation — no Cabinet decision for the 16th FC cycle located",
+      "Sowa-Rigpa-specific NAM norms/components require confirmation from current NAM guidelines"
+    ],
+    "scores": {"financial": 2, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Modest money but exceptional cultural fit (Sowa-Rigpa) and proven Sikkim track record; the continuation question caps timing certainty."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "2021-26 approval and Sikkim usage confirmed; FY2026-27 status and current SAAP window unverified."
+  },
+  {
+    "id": "css-new-medical-colleges",
+    "name": "Centrally Sponsored Scheme for Establishment of New Medical Colleges Attached with Existing District/Referral Hospitals",
+    "shortName": "CSS New Medical Colleges",
+    "ministry": "Ministry of Health and Family Welfare",
+    "agency": "MoHFW (with state Health Department as implementing partner); DoNER has separately sanctioned funds for Sikkim's medical college",
+    "policyArea": "Health / Medical education",
+    "subcategory": "Establishment of government medical colleges attached to district/referral hospitals",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active but current call closed",
+    "period": "Launched January 2014; three phases sanctioned 157 colleges nationally; further expansion of medical seats announced in Union Budget 2025-26 (10,000 seats, 75,000 over five years) — modality for new-college phases requires confirmation",
+    "whyItMatters": "Sikkim has no government medical college; the private SMIMS ceased MBBS operations at CRH years ago, leaving the 1,002-bed STNM Multi-Speciality Hospital as an ideal but unattached teaching base. The state's own budget commits a State Medical College at the STNM complex in Sochakgang targeting operations from 2026, and DoNER has sanctioned Rs 170 crore towards a new medical college in Sikkim. Central support under this CSS carries a 90:10 pattern for NE/special-category states, so anchoring the college to the CSS (or securing a bespoke central package) would transfer most capital cost to the Centre while addressing doctor retention and youth outmigration.",
+    "eligibleApplicants": ["State Government (Health & Family Welfare Department) proposing a college attached to an existing district/referral hospital"],
+    "sikkimNodalDept": "Health & Family Welfare Department, Government of Sikkim (with Education Department for HR pipeline); likely",
+    "whatCanBeFunded": "Capital cost of establishing a new government medical college attached to an existing district/referral hospital (academic block, hostels, equipment), per scheme norms; per-college cost ceilings per phase: Not confirmed from available official guidance.",
+    "fundingAvailable": "Phase-based national sanctions (157 colleges over 3 phases). For Sikkim: DoNER has sanctioned Rs 170 crore for a new medical college (whether under this CSS or a separate DoNER package requires confirmation).",
+    "fundingRatio": "90:10 Centre:State for North Eastern and special category states; 60:40 for others (confirmed in scheme descriptions located via official-domain search reporting)",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE/special category states receive the 90:10 sharing pattern under the scheme.",
+    "stateContribution": "10% of project cost plus land, recurring faculty/staff costs and hospital integration; state must meet NMC minimum standards for seats sought.",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "Health & Family Welfare Department prepares a DPR for a medical college attached to STNM (referral hospital) meeting NMC norms",
+      "Submit proposal to MoHFW seeking inclusion in any new phase/expansion tranche of the CSS (phase window status requires confirmation)",
+      "Parallel track: consolidate the DoNER sanction (Rs 170 crore) and clarify convergence between DoNER, CSS and state funds",
+      "Central appraisal and sanction; execute works; apply to National Medical Commission for Letter of Permission for MBBS seats",
+      "Report utilisation and physical progress to MoHFW/DoNER"
+    ],
+    "nextAction": "Health & Family Welfare Department should formally seek MoHFW confirmation of whether a fourth phase/expansion window of the CSS is open and reconcile the DoNER Rs 170 crore sanction with the State Medical College project at STNM Sochakgang.",
+    "portal": null,
+    "applicationWindow": "No open phase confirmed as of Sept 2026; seat-expansion announcements in Budget 2025-26 suggest forthcoming windows (requires confirmation)",
+    "keyDocuments": [
+      {"doc": "Detailed Project Report for medical college attached to STNM", "certainty": "confirmed"},
+      {"doc": "Land and hospital-attachment documentation (STNM as teaching hospital)", "certainty": "likely"},
+      {"doc": "NMC compliance/feasibility assessment", "certainty": "likely"}
+    ],
+    "approvingAuthority": "MoHFW (with EFC/Cabinet approval for new phases); DoNER for its sanctioned component",
+    "contact": "Medical Education Division, MoHFW, Nirman Bhawan, New Delhi; Ministry of DoNER, New Delhi",
+    "guidelines": [
+      {"title": "CSS for establishment of new medical colleges (scheme description via states' progress reporting)", "url": "https://news.careers360.com/14-states-urged-expedite-completion-of-new-medical-colleges-approved-under-central-scheme"}
+    ],
+    "sources": [
+      {"title": "State Medical College to start by 2026 — State Budget 2025-26", "publisher": "Sikkim Express", "date": "2025", "url": "https://sikkimexpress.com/news-details/state-medical-college-to-start-by-2026-state-budget-2025-26-aims-to-expand-enhance-public-healthcare-facilities-in-sikkim", "section": "State Medical College at STNM complex, Sochakgang"},
+      {"title": "Centre sanctions projects worth Rs 400 crore for Sikkim: CM Tamang", "publisher": "Deccan Herald", "date": "", "url": "https://www.deccanherald.com/india/sikkim/centre-sanctions-projects-worth-rs-400-crore-for-sikkim-cm-tamang-3179864", "section": "DoNER sanction of Rs 170 crore for new medical college in Sikkim"},
+      {"title": "14 states urged to expedite completion of new medical colleges approved under central scheme", "publisher": "Careers360 (reporting MoHFW scheme)", "date": "", "url": "https://news.careers360.com/14-states-urged-expedite-completion-of-new-medical-colleges-approved-under-central-scheme", "section": "Scheme launched Jan 2014; 90:10 NE/special category, 60:40 others"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim was not among the 157 colleges of Phases I-III (no government medical college exists); however DoNER has sanctioned Rs 170 crore for a new medical college in Sikkim and the state budget targets a State Medical College at STNM by 2026 — funding route (this CSS vs DoNER/state) requires confirmation."
+    },
+    "potentialUseCases": [
+      "Government medical college attached to the 1,002-bed STNM referral hospital",
+      "In-state MBBS seats to counter youth outmigration and doctor shortages in remote PHCs",
+      "Nursing/allied health expansion on the same campus"
+    ],
+    "flags": [
+      "Whether Sikkim's medical college is being financed under this CSS, the DoNER package, or state funds is not confirmed from available official guidance",
+      "No currently open CSS phase confirmed; Budget 2025-26 seat-expansion modality needs tracking"
+    ],
+    "scores": {"financial": 4, "ease": 2, "fit": 5, "timeSensitivity": 4, "transformational": 5, "rationale": "A first government medical college is transformational for a state with one referral hospital and heavy outmigration of students; pathway is complex (NMC norms, phase windows) but a DoNER sanction already exists."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Scheme parameters and Sikkim project reported via credible secondary/state sources; primary MoHFW phase documents not directly accessible in this session."
+  },
+  {
+    "id": "samagra-shiksha",
+    "name": "Samagra Shiksha (Integrated Scheme for School Education)",
+    "shortName": "Samagra Shiksha",
+    "ministry": "Ministry of Education (Department of School Education & Literacy)",
+    "agency": "DoSEL; State Implementation Society (Sikkim Education Department)",
+    "policyArea": "Education",
+    "subcategory": "School education — pre-primary to class XII: access, infrastructure, teachers, RTE entitlements, inclusive education, vocational education",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "2021-22 to 2025-26 (Rs 2.94 lakh crore approved cycle); temporarily extended to 30 September 2026 or until approval of the revamped NEP-aligned successor scheme for 2026-27 to 2030-31, whichever is earlier; BE 2026-27: Rs 42,100 crore",
+    "whyItMatters": "Samagra Shiksha is the backbone grant for Sikkim's entire school system — teacher salaries support, school infrastructure, ICT, uniforms/textbook entitlements, inclusive education and vocationalisation. With high literacy but small, dispersed schools, Sikkim depends on the scheme's NE-concessional sharing to keep unit costs viable. The scheme is in a pivotal transition: a six-month extension to 30 September 2026 is in force while a redesigned 2026-31 scheme is finalised, so Sikkim's inputs into the redesign and a strong FY2026-27 PAB approval directly shape its five-year envelope.",
+    "eligibleApplicants": ["State Government (Education Department) through the state implementation society"],
+    "sikkimNodalDept": "Education Department, Government of Sikkim (Samagra Shiksha State Project Office)",
+    "whatCanBeFunded": "School infrastructure and strengthening; teacher training and salaries support (as per norms); RTE entitlements (uniforms, textbooks); ICT and digital initiatives; inclusive education for CWSN; vocational education in schools; quality interventions (FLN/NIPUN Bharat); Kasturba Gandhi Balika Vidyalayas; sports and library grants.",
+    "fundingAvailable": "National BE FY2026-27: Rs 42,100 crore. Sikkim's annual PAB approval: Not confirmed from available official guidance (comparators: Himachal Pradesh approved Rs 720 crore for 2026-27).",
+    "fundingRatio": "90:10 Centre:State for NE and Himalayan states including Sikkim per Samagra Shiksha framework norms (requires confirmation in the revamped scheme)",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE states including Sikkim receive the 90:10 sharing pattern under the scheme framework.",
+    "stateContribution": "10% state share plus timely SNA transfers and committed liabilities for staff.",
+    "allocationMethod": "annual state proposal (PIP)",
+    "accessPathway": [
+      "Education Department prepares the Annual Work Plan & Budget (AWP&B) on the PRABANDH portal",
+      "Project Approval Board (PAB) meeting chaired by Secretary DoSEL appraises and approves Sikkim's plan",
+      "Central share released to the state SNA account; state adds its share; expenditure via PFMS",
+      "Engage with DoSEL consultations on the revamped 2026-31 scheme so Sikkim's mountain-state cost norms are protected (requires confirmation of consultation status)"
+    ],
+    "nextAction": "The Education Department's Samagra Shiksha State Project Office should confirm its FY2026-27 PAB approval status and formally submit Sikkim-specific proposals (small-school viability, hill transport, teacher housing) for the revamped 2026-31 scheme before it is finalised.",
+    "portal": "https://samagra.education.gov.in",
+    "applicationWindow": "Annual AWP&B/PAB cycle (usually January-May); interim extension window runs to 30 September 2026",
+    "keyDocuments": [
+      {"doc": "Annual Work Plan & Budget on PRABANDH", "certainty": "confirmed"},
+      {"doc": "UDISE+ data and previous PAB minutes", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates and SNA account statements", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Project Approval Board, Department of School Education & Literacy, Ministry of Education",
+    "contact": "DoSEL, Ministry of Education, Shastri Bhawan, New Delhi",
+    "guidelines": [
+      {"title": "Samagra Shiksha framework and portal", "url": "https://samagra.education.gov.in"},
+      {"title": "Cabinet approves continuation of Samagra Shiksha up to 31 March 2026", "url": "https://www.cbgaindia.org/policy-update/cabinet-approves-continuation-of-samagra-shiksha-scheme-for-school-education-up-till-march-31-2026/"}
+    ],
+    "sources": [
+      {"title": "Centre extends Samagra Shiksha by six months ahead of revamp rollout", "publisher": "Business Standard", "date": "2026-06-14", "url": "https://www.business-standard.com/education/news/centre-extends-samagra-shiksha-by-six-months-pending-revamped-scheme-rollout-126061400294_1.html", "section": "Extension to 30 Sept 2026; revamped 2026-31 scheme under finalisation"},
+      {"title": "Notes on Demands for Grants 2026-27 (DoSEL)", "publisher": "Ministry of Finance, indiabudget.gov.in", "date": "2026-02", "url": "https://www.indiabudget.gov.in/doc/eb/sbe25.pdf", "section": "Samagra Shiksha BE 2026-27 Rs 42,100 crore"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim implements Samagra Shiksha through annual PAB-approved plans like all states; Sikkim-specific FY2026-27 PAB figures were not locatable in this session."
+    },
+    "potentialUseCases": [
+      "Consolidation/strengthening of small mountain schools with residential and transport support",
+      "ICT/smart classrooms and vocational trades aligned to tourism and hospitality",
+      "Inclusive education services across dispersed habitations"
+    ],
+    "flags": [
+      "Scheme is on a temporary extension to 30 September 2026; the revamped 2026-31 successor's norms (including NE sharing and unit costs) need confirmation once approved",
+      "Current continuation beyond FY2025-26 confirmed only as an interim extension"
+    ],
+    "scores": {"financial": 5, "ease": 4, "fit": 5, "timeSensitivity": 5, "transformational": 3, "rationale": "Sikkim's largest education envelope, on familiar machinery; the 2026-31 redesign happening right now makes engagement time-critical."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Extension to 30 Sept 2026 and BE 2026-27 confirmed via multiple sources; Sikkim PAB figures unverified."
+  },
+  {
+    "id": "pm-shri-schools",
+    "name": "PM SHRI Schools (PM Schools for Rising India)",
+    "shortName": "PM SHRI",
+    "ministry": "Ministry of Education (Department of School Education & Literacy)",
+    "agency": "DoSEL; Sikkim Education Department (implementation in selected state schools)",
+    "policyArea": "Education",
+    "subcategory": "Exemplar/model schools showcasing NEP 2020 — green campuses, digital pedagogy, vocational exposure",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "2022-23 to 2026-27 (five years); total project cost Rs 27,360 crore including central share Rs 18,128 crore; more than 14,500 schools targeted nationally",
+    "whyItMatters": "PM SHRI upgrades selected existing government schools into NEP-2020 exemplar schools with substantially higher per-school investment than regular Samagra norms — valuable in Sikkim where a handful of well-equipped anchor schools can serve clusters of dispersed habitations. Sikkim has signed on and PM SHRI schools are already operating in the state (a 2024-25 state partnership introduced sustainable farming education across Sikkim's PM SHRI schools). The scheme runs to March 2027, so additional selection windows within the ceiling remain worth contesting.",
+    "eligibleApplicants": ["State Government (after MoU with DoSEL); individual government schools apply in challenge mode through the state"],
+    "sikkimNodalDept": "Education Department, Government of Sikkim",
+    "whatCanBeFunded": "Per-school upgradation: modern infrastructure, smart classrooms and ICT, science/maths labs, green-school features (solar, water conservation), vocational labs and skill exposure, sports facilities, teacher development — per approved school development plans.",
+    "fundingAvailable": "National: Rs 27,360 crore over 2022-27 (central share Rs 18,128 crore); per-school allocations per approved plan. Sikkim envelope: Not confirmed from available official guidance.",
+    "fundingRatio": "Follows Samagra Shiksha sharing pattern — 90:10 for NE states including Sikkim (requires confirmation from PM SHRI guidelines)",
+    "nePreference": "true",
+    "nePreferenceDetail": "As a DoSEL CSS following the Samagra pattern, NE states' share is 10% (requires confirmation).",
+    "stateContribution": "10% share (if Samagra pattern applies) plus commitment to adopt NEP 2020 fully in PM SHRI schools per the MoU.",
+    "allocationMethod": "competitive application",
+    "accessPathway": [
+      "State MoU with DoSEL (Sikkim has signed; 29 states/UTs plus KVS/NVS reported as signatories)",
+      "Eligible government schools self-apply on the PM SHRI portal during notified challenge windows",
+      "State-level verification and shortlisting; DoSEL expert committee selects schools (max two per block)",
+      "Selected schools prepare School Development Plans; funds flow via Samagra machinery",
+      "Annual progress reporting and quality benchmarking"
+    ],
+    "nextAction": "Education Department should nominate remaining strong government schools (including in underrepresented districts like Soreng and Pakyong) in the next PM SHRI challenge window and confirm the current window status with DoSEL.",
+    "portal": "https://pmshrischools.education.gov.in",
+    "applicationWindow": "Periodic challenge-mode windows through 2026-27; current window status unknown",
+    "keyDocuments": [
+      {"doc": "School self-application on PM SHRI portal (UDISE-based)", "certainty": "confirmed"},
+      {"doc": "State verification and recommendation list", "certainty": "confirmed"},
+      {"doc": "School Development Plans for selected schools", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Expert committee, Department of School Education & Literacy, Ministry of Education",
+    "contact": "DoSEL, Ministry of Education, Shastri Bhawan, New Delhi",
+    "guidelines": [
+      {"title": "Cabinet approval of PM SHRI Schools scheme", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1857409"}
+    ],
+    "sources": [
+      {"title": "Cabinet approves PM SHRI Schools", "publisher": "PIB", "date": "2022-09-07", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1857409", "section": "Scheme design, 14,500 schools, Rs 27,360 crore"},
+      {"title": "Sikkim Government partners with OMG to introduce sustainable farming education in PM SHRI schools", "publisher": "Northeast Today", "date": "", "url": "https://northeasttoday.in/northeast/sikkim-government-partners-with-omg-to-introduce-sustainable-farming-education-in-pm-shri-schools/", "section": "PM SHRI schools operating in Sikkim (six schools referenced)"},
+      {"title": "Status of schools selected under PM SHRI", "publisher": "DoSEL, Ministry of Education", "date": "", "url": "https://dsel.education.gov.in/en/pmshri-schools-list", "section": "State-wise selection list (page not directly fetchable this session)"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim has PM SHRI schools operating (a state partnership on sustainable farming education referenced six PM SHRI schools); the official state-wise selected count for Sikkim could not be fetched — verify on the DoSEL PM SHRI list."
+    },
+    "potentialUseCases": [
+      "Anchor exemplar schools in each district as NEP hubs for surrounding small schools",
+      "Green-school investments (solar, spring-water conservation) suited to Himalayan campuses",
+      "Vocational exposure labs linked to organic farming and tourism"
+    ],
+    "flags": [
+      "Official Sikkim PM SHRI school count not verified (DoSEL list page blocked in this session)",
+      "Scheme period ends 2026-27 — future of the exemplar-school line beyond March 2027 unknown"
+    ],
+    "scores": {"financial": 3, "ease": 4, "fit": 4, "timeSensitivity": 4, "transformational": 3, "rationale": "Competitive but low-burden per-school upgrades with high visibility; remaining windows before the scheme ends make timing significant."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Scheme parameters confirmed via PIB; Sikkim count based on secondary reporting only."
+  },
+  {
+    "id": "pm-poshan",
+    "name": "Pradhan Mantri Poshan Shakti Nirman (PM POSHAN)",
+    "shortName": "PM POSHAN",
+    "ministry": "Ministry of Education (Department of School Education & Literacy)",
+    "agency": "DoSEL; Sikkim Education Department (school meals administration)",
+    "policyArea": "Education / Nutrition",
+    "subcategory": "Hot cooked mid-day meals for pre-primary (Balvatika) to class VIII in government and aided schools",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "2021-22 to 2025-26 cycle; extended in April 2026 up to 30 September 2026 or until approval of the 16th FC-cycle scheme (2026-27 to 2030-31), whichever is earlier; BE 2026-27 approx. Rs 12,750 crore",
+    "whyItMatters": "PM POSHAN funds daily hot meals for Sikkim's government school children on a 90:10 NE/Himalayan sharing pattern, protecting nutrition and attendance in remote schools where households face high food costs. Material and cooking-cost norms plus cook-cum-helper honorariums are centrally supported, and the scheme's transition to the 16th FC cycle (with possible revised norms) is the key watch item for the state's FY2026-27 budgeting. Sikkim can also use the annual PAB process to seek hill-appropriate transport/LPG cost recognition.",
+    "eligibleApplicants": ["State Government (Education Department) via annual work plan"],
+    "sikkimNodalDept": "Education Department, Government of Sikkim (Mid-Day Meal/PM POSHAN cell)",
+    "whatCanBeFunded": "Foodgrain cost (100% central via FCI), cooking cost (materials), cook-cum-helper honorarium, transport assistance, kitchen-cum-stores and kitchen devices, social audit and monitoring; supplementary nutrition items per PAB approval.",
+    "fundingAvailable": "National BE FY2026-27 approx. Rs 12,750 crore; Sikkim annual PAB approval: Not confirmed from available official guidance.",
+    "fundingRatio": "90:10 Centre:State for North Eastern and Himalayan states (confirmed in scheme description located via search); 60:40 for most states; 100% central for UTs without legislature",
+    "nePreference": "true",
+    "nePreferenceDetail": "Sikkim qualifies under both NE and Himalayan categories for the 90:10 pattern.",
+    "stateContribution": "10% of recurring cost plus administration; states may add eggs/fruits etc. from own funds.",
+    "allocationMethod": "annual state proposal (PIP)",
+    "accessPathway": [
+      "Education Department submits the Annual Work Plan & Budget for PM POSHAN",
+      "Programme Approval Board (PAB-PM POSHAN) meeting approves Sikkim's plan (enrolment, working days, cost norms)",
+      "Foodgrains allocated via FCI; central cash share released to state; state adds share and disburses to schools/implementing agencies",
+      "Track approval of the 16th FC-cycle successor scheme and revised cost norms (requires confirmation)"
+    ],
+    "nextAction": "Education Department's PM POSHAN cell should secure its FY2026-27 PAB approval under the extension and submit hill-cost evidence (transport, LPG) for the 2026-31 scheme redesign.",
+    "portal": "https://pmposhan.education.gov.in",
+    "applicationWindow": "Annual PAB cycle; interim extension to 30 September 2026 in force",
+    "keyDocuments": [
+      {"doc": "Annual Work Plan & Budget for PM POSHAN", "certainty": "confirmed"},
+      {"doc": "Enrolment and meals-served data (AVSAR/portal reporting)", "certainty": "likely"},
+      {"doc": "Utilisation certificates", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Programme Approval Board, DoSEL, Ministry of Education",
+    "contact": "PM POSHAN Division, DoSEL, Ministry of Education, New Delhi",
+    "guidelines": [
+      {"title": "PM POSHAN PAB documents", "url": "https://pmposhan.education.gov.in/PAB_PM_POSHAN.html"}
+    ],
+    "sources": [
+      {"title": "PM POSHAN PAB page", "publisher": "Ministry of Education", "date": "", "url": "https://pmposhan.education.gov.in/PAB_PM_POSHAN.html", "section": "State PAB approvals"},
+      {"title": "PM POSHAN scheme extension reporting (April 2026 extension to 30 Sept 2026 pending 16th FC-cycle approval)", "publisher": "Vision IAS current affairs (secondary, reporting Ministry of Education decision)", "date": "2026-06-30", "url": "https://dce.visionias.in/monthly-magazine/2026-06-30/schemes-in-news/pradhan-mantri-poshan-shakti-nirman-pm-poshan-scheme", "section": "Extension terms; 90:10 NE/Himalayan sharing"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "PM POSHAN operates in all Sikkim government/aided elementary schools as a universal CSS; Sikkim-specific PAB figures not located in this session."
+    },
+    "potentialUseCases": [
+      "Kitchen-cum-store upgrades and clean-cooking (LPG/electric) conversion in mountain schools",
+      "Locally sourced organic vegetables into school meals, linking to Sikkim's organic farming",
+      "Balvatika (pre-primary) meal coverage expansion"
+    ],
+    "flags": [
+      "On temporary extension to 30 September 2026; 2026-31 successor norms need confirmation",
+      "Extension details confirmed via secondary reporting; primary DoSEL order not directly accessed"
+    ],
+    "scores": {"financial": 3, "ease": 5, "fit": 4, "timeSensitivity": 3, "transformational": 2, "rationale": "Established, low-friction recurring grant on 90:10; limited transformational upside but essential continuity through the FC-cycle transition."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Extension and ratio corroborated by multiple sources; Sikkim figures unverified."
+  },
+  {
+    "id": "ullas-nilp",
+    "name": "ULLAS — Nav Bharat Saaksharta Karyakram (New India Literacy Programme)",
+    "shortName": "ULLAS / NILP",
+    "ministry": "Ministry of Education (Department of School Education & Literacy)",
+    "agency": "DoSEL; Sikkim Education Department (State Literacy Mission)",
+    "policyArea": "Education",
+    "subcategory": "Adult education — foundational literacy and numeracy, critical life skills, vocational skills, continuing education for age 15+",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "2022-23 to 2026-27; national outlay Rs 1,037.90 crore (Rs 700 crore central per original approval — state share balance; exact split requires confirmation)",
+    "whyItMatters": "Sikkim was declared a fully literate state under ULLAS on 27 May 2026 — India's fifth — at the Sikkim University convocation in the presence of the President, marking a completed milestone rather than an open funding need. Residual value for Sikkim lies in the scheme's continuing-education and lifelong-learning components: sustaining neo-literates, vocational-skills modules for adults, and digital literacy in remote wards until the scheme closes in March 2027. The achievement also strengthens Sikkim's case in performance-linked education negotiations for the 2026-31 successor schemes.",
+    "eligibleApplicants": ["State Government (Education Department/State Literacy Mission Authority)"],
+    "sikkimNodalDept": "Education Department, Government of Sikkim (State Literacy Mission)",
+    "whatCanBeFunded": "Foundational literacy and numeracy teaching-learning via volunteerism and the ULLAS app; assessments (FLNAT); critical life skills, basic education equivalency, vocational skill modules and continuing education centres; awareness and Jan-Andolan activities.",
+    "fundingAvailable": "Modest per-state annual allocations within the Rs 1,037.90 crore national outlay; Sikkim allocation: Not confirmed from available official guidance.",
+    "fundingRatio": "Standard CSS sharing with 90:10 for NE states per NILP approval norms (requires confirmation)",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE states receive the concessional sharing pattern under NILP CSS norms (requires confirmation).",
+    "stateContribution": "10% share (if NE pattern applies) plus volunteer mobilisation machinery.",
+    "allocationMethod": "annual state proposal (PIP)",
+    "accessPathway": [
+      "State Literacy Mission submits annual plan/targets to DoSEL",
+      "Central approval and release of central share",
+      "Implementation through schools as units, volunteer teachers and the ULLAS app; learners certified through FLNAT",
+      "Post-full-literacy: propose continuing education and lifelong learning activities for FY2026-27 (requires confirmation of post-declaration funding norms)"
+    ],
+    "nextAction": "Education Department should ask DoSEL what ULLAS funding remains available to a declared fully-literate state for continuing education and neo-literate retention through March 2027.",
+    "portal": "https://ullas.education.gov.in",
+    "applicationWindow": "Annual planning cycle through 2026-27",
+    "keyDocuments": [
+      {"doc": "State annual literacy plan and FLNAT results", "certainty": "confirmed"},
+      {"doc": "Full-literacy declaration documentation (27 May 2026)", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Department of School Education & Literacy, Ministry of Education",
+    "contact": "Adult Education Bureau, DoSEL, Ministry of Education, New Delhi",
+    "guidelines": [
+      {"title": "ULLAS/NILP programme information", "url": "https://ullas.education.gov.in"}
+    ],
+    "sources": [
+      {"title": "Sikkim achieves Fully Literate State status under ULLAS initiative", "publisher": "Akashvani News (newsonair.gov.in)", "date": "2026-05-27", "url": "https://newsonair.gov.in/sikkim-achieves-fully-literate-state-status-under-ullas-initiative/", "section": "Declaration details"},
+      {"title": "Sikkim declared fully literate state, CM Tamang calls it historic milestone", "publisher": "Deccan Herald", "date": "2026-05", "url": "https://www.deccanherald.com/india/sikkim/sikkim-declared-fully-literate-state-cm-tamang-calls-it-historic-milestone-4018384", "section": "Fifth fully literate state; declared at Sikkim University convocation with President Murmu present"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim declared a fully literate state under ULLAS on 27 May 2026 — the fifth state after Mizoram, Goa, Tripura and Himachal Pradesh."
+    },
+    "potentialUseCases": [
+      "Continuing-education centres for neo-literates in remote GPUs",
+      "Adult digital and financial literacy modules",
+      "Showcasing full-literacy status in negotiations for successor-scheme performance incentives"
+    ],
+    "flags": [
+      "Milestone achieved — remaining funding relevance is limited to continuing education till March 2027; post-2027 adult education arrangements unknown"
+    ],
+    "scores": {"financial": 1, "ease": 5, "fit": 4, "timeSensitivity": 2, "transformational": 1, "rationale": "Tiny residual money but a completed, reputationally valuable milestone; minimal further effort required."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Full-literacy declaration multiply confirmed including government media; funding split details unverified."
+  },
+  {
+    "id": "pm-usha",
+    "name": "Pradhan Mantri Uchchatar Shiksha Abhiyan (PM-USHA)",
+    "shortName": "PM-USHA",
+    "ministry": "Ministry of Education (Department of Higher Education)",
+    "agency": "DoHE; State Higher Education Council / Education Department, Sikkim",
+    "policyArea": "Education",
+    "subcategory": "State higher education — grants to state universities and colleges (MERU, GSU, NMDC, gender inclusion and equity components)",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "2023-24 to 2025-26; outlay Rs 12,926.10 crore; continuation beyond FY2025-26 not confirmed",
+    "whyItMatters": "PM-USHA is the only large central grant window for Sikkim's state higher-education institutions (Sikkim University, being central, is funded separately through UGC/HEFA). Sikkim has already secured approval for Khangchendzonga State University under the Grants to Strengthen Universities (GSU) component with Rs 20 crore — significant capital for a young state university. With the scheme's 15th-FC-aligned window ending March 2026, Sikkim's priorities are drawing down the approved grant fully and positioning for the successor scheme, including a possible MERU-scale (Rs 100 crore) bid once accreditation prerequisites are met.",
+    "eligibleApplicants": ["State Government via State Higher Education Council (MoU with DoHE)", "State universities and government colleges through the state plan"],
+    "sikkimNodalDept": "Education Department, Government of Sikkim (State Higher Education Council)",
+    "whatCanBeFunded": "MERU (Rs 100 crore each to 35 accredited state universities for multidisciplinary transformation); GSU (Rs 20 crore per university); new model degree colleges; infrastructure grants to colleges; gender inclusion and equity initiatives; accreditation and governance reforms.",
+    "fundingAvailable": "National outlay Rs 12,926.10 crore (2023-26). Sikkim: Rs 20 crore approved for Khangchendzonga State University under GSU.",
+    "fundingRatio": "90:10 Centre:State for NE/Himalayan/special category states under PM-USHA norms (requires confirmation from scheme guidelines)",
+    "nePreference": "true",
+    "nePreferenceDetail": "Special category/NE states covered by concessional sharing under PM-USHA norms (requires confirmation).",
+    "stateContribution": "10% share plus commitment to governance reforms, accreditation and samarth-portal adoption per MoU.",
+    "allocationMethod": "annual state proposal (PIP)",
+    "accessPathway": [
+      "State signs MoU with DoHE and constitutes the State Higher Education Council (Sikkim among the 26 states/UTs that submitted proposals)",
+      "Prepare State Higher Education Plan and component-wise proposals on the PM-USHA portal",
+      "Project Approval Board (PAB) of DoHE approves components (Sikkim: KSU approved under GSU, Rs 20 crore)",
+      "Utilise and report through PFMS; pursue NAAC accreditation to unlock larger components (MERU) in any successor cycle"
+    ],
+    "nextAction": "The State Higher Education Council under the Education Department should ensure full drawdown/utilisation of the Rs 20 crore GSU grant for Khangchendzonga State University and formally register interest in the PM-USHA successor cycle for 2026-31.",
+    "portal": "https://pmusha.education.gov.in",
+    "applicationWindow": "PAB windows of 2023-26 cycle closed; successor cycle unknown",
+    "keyDocuments": [
+      {"doc": "State Higher Education Plan and PAB proposals", "certainty": "confirmed"},
+      {"doc": "MoU with DoHE", "certainty": "confirmed"},
+      {"doc": "NAAC accreditation documents for state institutions", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Project Approval Board, Department of Higher Education, Ministry of Education",
+    "contact": "PM-USHA National Project Directorate, DoHE, Ministry of Education, New Delhi",
+    "guidelines": [
+      {"title": "PM-USHA PAB minutes (component approvals)", "url": "https://pmusha.education.gov.in/pm-usha/assets/docs/PAB-1%20Minutes.pdf"},
+      {"title": "PM-USHA scheme overview (PIB)", "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154392&ModuleId=3"}
+    ],
+    "sources": [
+      {"title": "Approval of 78 universities under MERU and GSU components of PM-USHA", "publisher": "Ministry of Education (circulated approval list)", "date": "2024", "url": "https://smkvbastar.ac.in/Admin/Files/HomeUploads/Approval%20of%2078%20Universities%20under%20MERU%20and%20GSU%20components%20of%20PMUSHA.pdf", "section": "Khangchendzonga State University (Gangtok) approved under GSU, Rs 20 crore"},
+      {"title": "Pradhan Mantri Uchchatar Shiksha Abhiyan", "publisher": "PIB", "date": "", "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154392&ModuleId=3", "section": "Scheme components and outlay Rs 12,926.10 crore"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Khangchendzonga State University (Gangtok) approved under the GSU component with Rs 20 crore; Sikkim among 26 states/UTs that submitted PM-USHA proposals. Utilisation status: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Completing Khangchendzonga State University academic infrastructure with the GSU grant",
+      "Accreditation drive for state colleges to qualify for larger successor-scheme components",
+      "Gender-inclusion and equity funds for first-generation hill students"
+    ],
+    "flags": [
+      "Scheme window co-terminus with 15th FC ended 31 March 2026 — successor/continuation needs confirmation",
+      "Sikkim GSU grant utilisation status unverified"
+    ],
+    "scores": {"financial": 3, "ease": 3, "fit": 4, "timeSensitivity": 4, "transformational": 3, "rationale": "Confirmed Rs 20 crore win to consolidate, and the successor design is imminent; accreditation gaps limit access to the biggest components."},
+    "openWindow": "closed",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "KSU GSU approval confirmed from a circulated Ministry approval list; ratio and continuation unverified."
+  },
+  {
+    "id": "merite-technical-education",
+    "name": "Multidisciplinary Education and Research Improvement in Technical Education (MERITE) — with HEFA financing distinction",
+    "shortName": "MERITE",
+    "ministry": "Ministry of Education (Department of Higher Education)",
+    "agency": "DoHE (World Bank-assisted); state technical education departments",
+    "policyArea": "Education",
+    "subcategory": "Quality improvement of government technical institutions (engineering colleges/polytechnics), NEP-aligned multidisciplinary reform",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Reported Cabinet approval in 2025 with an outlay of about Rs 4,200 crore, part-financed by World Bank loan, covering government technical institutions across states for approximately 2025-26 onwards — precise period and coverage: Not confirmed from available official guidance",
+    "whyItMatters": "MERITE is the current central window for improving government technical institutions in states — relevant to Sikkim's small technical-education base (state polytechnics such as CCCT Chisopani and ATTC Bardang, and any state engineering institution). For a state whose youth outmigrate for technical education, centrally funded quality upgrades, industry linkage and NEP-aligned multidisciplinary reform could retain students in-state. It must be distinguished from HEFA, which is interest-bearing loan financing used mainly by central institutions (e.g., Sikkim University could access HEFA; state institutions should target MERITE-type grants instead).",
+    "eligibleApplicants": ["State Governments and their government/government-aided technical institutions (per scheme coverage — requires confirmation)", "Central institutions may be covered separately"],
+    "sikkimNodalDept": "Education Department, Government of Sikkim (Technical Education wing); likely",
+    "whatCanBeFunded": "Institutional development grants for government technical institutions: curriculum and multidisciplinary reform, labs and digital infrastructure, faculty development, industry linkage, employability and internships, governance reforms — component detail: Not confirmed from available official guidance.",
+    "fundingAvailable": "Reported national outlay approx. Rs 4,200 crore including external (World Bank) financing — requires confirmation; per-institution grants: Not confirmed from available official guidance.",
+    "fundingRatio": "Not confirmed from available official guidance.",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Whether NE states receive preferential coverage or sharing under MERITE is not confirmed from available official guidance.",
+    "stateContribution": "Not confirmed from available official guidance.",
+    "allocationMethod": "ministry approval",
+    "accessPathway": [
+      "Education Department (Technical Education) obtains MERITE scheme guidelines from DoHE (requires confirmation)",
+      "Identify eligible government technical institutions in Sikkim and prepare institutional development proposals (requires confirmation)",
+      "State-level endorsement and submission to DoHE/National Project Implementation Unit (requires confirmation)",
+      "Appraisal and selection; grant agreement; implementation with World Bank-linked results monitoring (requires confirmation)"
+    ],
+    "nextAction": "Education Department (Technical Education wing) should write to DoHE seeking MERITE guidelines and confirmation of whether Sikkim's polytechnics/technical institutions are eligible, before institution selection closes.",
+    "portal": null,
+    "applicationWindow": "Unknown",
+    "keyDocuments": [
+      {"doc": "Institutional development proposals for state technical institutions", "certainty": "likely"},
+      {"doc": "State endorsement/commitment letters", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Higher Education, Ministry of Education (with World Bank project governance)",
+    "contact": "Technical Education Bureau, DoHE, Ministry of Education, New Delhi",
+    "guidelines": [
+      {"title": "Not confirmed from available official guidance", "url": ""}
+    ],
+    "sources": [
+      {"title": "MERITE scheme Cabinet approval (2025) — training-data recollection; primary PIB release not retrievable in this session", "publisher": "PIB (not directly verified)", "date": "2025", "url": "https://www.pib.gov.in", "section": "Cabinet approval of MERITE, approx. Rs 4,200 crore, World Bank-assisted"}
+    ],
+    "sikkimParticipation": {
+      "status": "No participation located",
+      "detail": "No evidence located of Sikkim institutions selected under MERITE; eligibility and selection status require direct confirmation from DoHE."
+    },
+    "potentialUseCases": [
+      "Upgrading CCCT/ATTC polytechnic labs and industry linkages",
+      "NEP-aligned multidisciplinary conversion of a state technical institution",
+      "Distinguishing grant (MERITE) vs loan (HEFA) routes: reserve HEFA only for revenue-capable central institutions"
+    ],
+    "flags": [
+      "Scheme details (outlay, period, eligibility, ratio) rest on recollection of 2025 reporting; primary verification was blocked — treat all parameters as requiring confirmation",
+      "HEFA is a loan instrument (interest-bearing, mainly central institutions) and should not be conflated with this grant scheme"
+    ],
+    "scores": {"financial": 2, "ease": 2, "fit": 3, "timeSensitivity": 3, "transformational": 3, "rationale": "Potentially the only live technical-education grant window, but Sikkim eligibility and process are unverified; effort-to-certainty ratio currently poor."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Low",
+    "confidenceNote": "Primary sources not retrievable this session (search budget exhausted; egress blocked); parameters flagged accordingly."
+  },
+  {
+    "id": "nmmss-scholarships",
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS), with note on National Scheme of Incentive to Girls for Secondary Education (NSIGSE)",
+    "shortName": "NMMSS",
+    "ministry": "Ministry of Education (Department of School Education & Literacy)",
+    "agency": "DoSEL; state education department conducts selection examination; DBT via National Scholarship Portal",
+    "policyArea": "Education",
+    "subcategory": "Scholarships for meritorious students from economically weaker sections, classes IX-XII (Rs 12,000/year)",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Approved continuation 2021-22 to 2025-26 (approx. Rs 1,827 crore nationally); continuation beyond FY2025-26 not confirmed",
+    "whyItMatters": "NMMSS provides Rs 12,000 per year to meritorious class IX-XII students from families with income below the scheme ceiling, reducing secondary-stage dropout — relevant in Sikkim where retention through class XII in remote areas is a concern despite high literacy. The state runs the selection examination and verifies applications on the National Scholarship Portal, so the operational burden is light. Sikkim's small population means the state quota is modest but delivery is direct-to-student via DBT with no state matching share.",
+    "eligibleApplicants": ["Students of government/aided/local-body schools (through the state-conducted exam)", "State Education Department administers quota and examination"],
+    "sikkimNodalDept": "Education Department, Government of Sikkim (scholarships/examinations cell)",
+    "whatCanBeFunded": "Rs 12,000 per student per year for classes IX-XII, paid 100% centrally via DBT to selected students within Sikkim's state quota.",
+    "fundingAvailable": "Per-student Rs 12,000/year; Sikkim's annual quota: Not confirmed from available official guidance.",
+    "fundingRatio": "100% central (Central Sector Scheme, DBT)",
+    "nePreference": "false",
+    "nePreferenceDetail": "Quota-based allocation across states; no NE-preferential ratio (quotas favour population/enrolment shares).",
+    "stateContribution": "Administrative cost of conducting the state selection examination and NSP verification only.",
+    "allocationMethod": "other (state-quota-based selection examination with central DBT)",
+    "accessPathway": [
+      "Education Department notifies and conducts the annual NMMSS selection examination for class VIII students",
+      "Selected students apply/renew on the National Scholarship Portal within the notified window",
+      "State-level verification on NSP; DoSEL disburses via DBT",
+      "Annual renewal verification for continuing awardees"
+    ],
+    "nextAction": "Education Department should confirm with DoSEL whether NMMSS is continued for FY2026-27 and, if so, notify the state selection exam and NSP window on schedule.",
+    "portal": "https://scholarships.gov.in",
+    "applicationWindow": "Annual NSP window (typically opens mid-year); FY2026-27 window status unknown",
+    "keyDocuments": [
+      {"doc": "State selection-exam results and merit list", "certainty": "confirmed"},
+      {"doc": "Student income/category certificates for NSP verification", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Department of School Education & Literacy, Ministry of Education",
+    "contact": "NMMSS desk, DoSEL, Ministry of Education, New Delhi",
+    "guidelines": [
+      {"title": "National Scholarship Portal — NMMSS", "url": "https://scholarships.gov.in"}
+    ],
+    "sources": [
+      {"title": "NMMSS scheme continuation 2021-26 (approx. Rs 1,827 crore) — training-data recollection of Cabinet/CCEA approval of March 2022; primary release not retrievable this session", "publisher": "PIB (not directly verified)", "date": "2022-03", "url": "https://www.pib.gov.in", "section": "Continuation and outlay"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim holds a state quota and conducts the NMMSS selection examination annually as all states do; current Sikkim awardee numbers: Not confirmed from available official guidance. NSIGSE (incentive to girls for secondary education) is reported to have been discontinued/subsumed after 2020-21 — Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Maximising Sikkim's quota utilisation through exam outreach in remote blocks",
+      "Bundling NMMSS awareness with class VIII career counselling to reduce dropout"
+    ],
+    "flags": [
+      "Current continuation beyond FY2025-26 needs confirmation",
+      "NSIGSE status (reported discontinued) requires confirmation from DoSEL"
+    ],
+    "scores": {"financial": 1, "ease": 5, "fit": 3, "timeSensitivity": 2, "transformational": 1, "rationale": "Small, fully central, low-effort DBT scheme; value is in administration quality, not new funds."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Scheme mechanics well-established; continuation status and Sikkim figures unverified in this session."
+  },
+  {
+    "id": "skill-india-programme-pmkvy4",
+    "name": "Skill India Programme (composite: PMKVY 4.0, PM-NAPS apprenticeship, Jan Shikshan Sansthan)",
+    "shortName": "Skill India / PMKVY 4.0",
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "agency": "MSDE; NSDC; RDAT/DGT; State Skill Development Mission (Sikkim)",
+    "policyArea": "Skills",
+    "subcategory": "Short-term skilling and reskilling (PMKVY 4.0), apprenticeship stipend support (PM-NAPS), community skilling for non-literates/neo-literates (JSS)",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Composite 'Skill India Programme' continuation approved by Cabinet in February 2025 with an outlay of approx. Rs 8,800 crore for 2022-23 to 2025-26, merging PMKVY 4.0, PM-NAPS and JSS (per widely reported Cabinet decision; primary release not retrievable this session); continuation beyond FY2025-26 not confirmed",
+    "whyItMatters": "With strong literacy but persistent youth outmigration, Sikkim's core skills problem is matching young people to tourism, hospitality, organic agriculture, adventure sports and care-economy jobs — exactly the short-course and apprenticeship instruments PMKVY 4.0 and PM-NAPS fund at central cost. As a central sector programme, the state bears no matching share; the task is pipeline-building: proposing Sikkim-relevant job roles, activating training centres beyond Gangtok, and pushing establishments to register apprentices for NAPS stipend support. JSS can serve adult skilling in rural wards, complementing Sikkim's full-literacy achievement.",
+    "eligibleApplicants": ["Training providers/centres accredited under PMKVY (public ITIs, PMKKs, private TPs)", "Establishments engaging apprentices (PM-NAPS)", "NGOs/registered societies for JSS sanction", "State Skill Development Mission for state-component coordination"],
+    "sikkimNodalDept": "Skill Development Department, Government of Sikkim (State Skill Development Mission); likely",
+    "whatCanBeFunded": "PMKVY 4.0: training and assessment costs for short-term skilling/special projects/recognition of prior learning, including new-age courses; PM-NAPS: government share of apprentice stipend (DBT to apprentices/establishments); JSS: annual grants to sanctioned Jan Shikshan Sansthans for community skilling of non/neo-literates and school dropouts.",
+    "fundingAvailable": "National composite outlay approx. Rs 8,800 crore (2022-26, reported); Sikkim-specific targets/allocations: Not confirmed from available official guidance.",
+    "fundingRatio": "100% central funding (central sector) for scheme components (requires confirmation for any state-managed sub-component)",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "PMKVY historically carried special provisions/higher costs for NE states and special areas; current PMKVY 4.0 NE provisions: Not confirmed from available official guidance.",
+    "stateContribution": "None mandated for central-sector components; state provides facilitation, mobilisation and district skill committee machinery.",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "State Skill Development Mission coordinates with MSDE/NSDC on Sikkim's skilling targets under PMKVY 4.0 via the Skill India Digital Hub",
+      "Accredit training centres (including government ITIs/PMKK) for Sikkim-relevant job roles and run batches; costs reimbursed per common norms",
+      "Register establishments (hotels, hydel, pharma units) on the apprenticeship portal for PM-NAPS stipend support",
+      "Support/seek sanction of Jan Shikshan Sansthan coverage for Sikkim districts (existing JSS coverage in Sikkim requires confirmation)",
+      "Track post-March 2026 continuation of the composite scheme with MSDE (requires confirmation)"
+    ],
+    "nextAction": "The Skill Development Department should convene the State Skill Development Mission to agree FY2026-27 PMKVY 4.0 targets with MSDE/NSDC and drive apprenticeship registrations by Sikkim's hotel and pharma employers under PM-NAPS.",
+    "portal": "https://www.skillindiadigital.gov.in",
+    "applicationWindow": "Rolling/demand-driven (batch and apprenticeship registration cycles)",
+    "keyDocuments": [
+      {"doc": "Training centre accreditation (SMART/SIDH)", "certainty": "confirmed"},
+      {"doc": "District skill development plans", "certainty": "likely"},
+      {"doc": "Apprenticeship contracts on portal (NAPS)", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "MSDE / NSDC (PMKVY); DGT (NAPS/JSS sanctioning per component)",
+    "contact": "Ministry of Skill Development and Entrepreneurship, Shivaji Stadium, New Delhi",
+    "guidelines": [
+      {"title": "PMKVY 4.0 / Skill India Programme (MSDE schemes page)", "url": "https://www.msde.gov.in/en/schemes-initiatives"}
+    ],
+    "sources": [
+      {"title": "Cabinet approval of continuation/restructuring of Skill India Programme (PMKVY 4.0, PM-NAPS, JSS composite; approx. Rs 8,800 crore, 2022-26) — training-data recollection of Feb 2025 decision; primary PIB release not retrievable this session", "publisher": "PIB (not directly verified)", "date": "2025-02", "url": "https://www.pib.gov.in", "section": "Composite scheme approval"},
+      {"title": "MSDE schemes and initiatives", "publisher": "Ministry of Skill Development and Entrepreneurship", "date": "", "url": "https://www.msde.gov.in/en/schemes-initiatives", "section": "PMKVY, NAPS, JSS"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "PMKVY training centres and candidates operated in Sikkim in earlier PMKVY phases and Sikkim maintains a skilling apparatus; current PMKVY 4.0 enrolment, NAPS apprentices and JSS presence in Sikkim: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Tourism/hospitality, adventure-sports guide and homestay-management skilling batches",
+      "NAPS apprenticeships in Sikkim's pharmaceutical manufacturing cluster and hotels",
+      "JSS-style community skilling for rural women building on full-literacy status"
+    ],
+    "flags": [
+      "Composite scheme window reportedly ends FY2025-26 — continuation beyond FY2025-26 needs confirmation",
+      "Cabinet-approval details based on recollection of Feb 2025 reporting; verify against PIB/MSDE before citing figures"
+    ],
+    "scores": {"financial": 2, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Fully central-funded, demand-driven skilling that matches Sikkim's outmigration problem; money is modest and continuation is the open question."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Component mechanics solid; composite-scheme figures and Sikkim data unverified due to research-session limits."
+  },
+  {
+    "id": "national-scheme-iti-upgradation",
+    "name": "National Scheme for ITI Upgradation and Setting up of National Centres of Excellence for Skilling",
+    "shortName": "ITI Upgradation Scheme",
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "agency": "MSDE (with industry-led SPV model); state craftsmen-training directorates",
+    "policyArea": "Skills",
+    "subcategory": "Upgradation of 1,000 government ITIs in hub-and-spoke arrangement; five National Centres of Excellence for Skilling",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Approved by Cabinet in May 2025; five-year implementation with total outlay Rs 60,000 crore (reported split: Centre Rs 30,000 crore, States Rs 20,000 crore, Industry Rs 10,000 crore; approx. 50% of the central share planned to be co-financed by ADB/World Bank) — details per reported Cabinet decision; primary release not retrievable this session",
+    "whyItMatters": "This is the single largest new skilling investment of the decade — upgrading 1,000 government ITIs with industry co-ownership in a hub-and-spoke model — and Sikkim must actively contest inclusion since selection is finite. Sikkim's government ITIs are small and its industry base thin, so the realistic play is securing at least one hub or spoke ITI aligned to tourism/hospitality, electronics or pharma, with an anchor employer, rather than assuming automatic coverage. The state contribution requirement (states carry a share of the national cost) makes early Finance Department engagement necessary.",
+    "eligibleApplicants": ["State Governments proposing government ITIs for upgradation (with industry partners)"],
+    "sikkimNodalDept": "Skill Development Department, Government of Sikkim (Directorate handling craftsmen training/ITIs); likely",
+    "whatCanBeFunded": "Modernisation of selected government ITIs: infrastructure, equipment for industry-aligned trades, trainer capacity, digital systems and industry-led management (hub-and-spoke); creation of five National Centres of Excellence for Skilling (locations per scheme decisions).",
+    "fundingAvailable": "Rs 60,000 crore national outlay over five years (reported); per-ITI investment and state envelopes: Not confirmed from available official guidance.",
+    "fundingRatio": "Reported national contribution split Centre:States:Industry of 30,000:20,000:10,000 (Rs crore) — per-project state share for NE states: Not confirmed from available official guidance.",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Whether NE/special-category states get a concessional state-share or reserved ITI slots is not confirmed from available official guidance.",
+    "stateContribution": "A defined state share of project cost (national aggregate reported at Rs 20,000 crore of Rs 60,000 crore) plus land/existing ITI assets and recurring commitments — exact Sikkim terms require confirmation.",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "Skill Development Department reviews scheme guidelines issued by MSDE (requires confirmation of issuance date)",
+      "Identify candidate government ITIs in Sikkim and secure an industry partner/anchor employer for the hub-and-spoke proposal",
+      "Submit state proposal to MSDE for ITI selection with committed state share (requires confirmation of proposal format/window)",
+      "Central appraisal and selection of ITIs; SPV/management arrangements with industry; implementation and monitoring"
+    ],
+    "nextAction": "Skill Development Department should immediately obtain the scheme guidelines from MSDE and submit a proposal nominating Sikkim's best-performing government ITI (with a hospitality or pharma industry partner) for inclusion among the 1,000 ITIs.",
+    "portal": null,
+    "applicationWindow": "Selection ongoing over the five-year window; Sikkim-relevant deadlines unknown",
+    "keyDocuments": [
+      {"doc": "State proposal nominating ITIs with industry partnership commitments", "certainty": "likely"},
+      {"doc": "State share commitment from Finance Department", "certainty": "likely"},
+      {"doc": "ITI asset and trade-wise enrolment data", "certainty": "likely"}
+    ],
+    "approvingAuthority": "MSDE (Cabinet-approved scheme; central selection/appraisal mechanism)",
+    "contact": "Ministry of Skill Development and Entrepreneurship, New Delhi",
+    "guidelines": [
+      {"title": "Not confirmed from available official guidance (scheme guidelines to be obtained from MSDE)", "url": ""}
+    ],
+    "sources": [
+      {"title": "Cabinet approval of National Scheme for ITI Upgradation (Rs 60,000 crore; 1,000 ITIs hub-and-spoke; 5 National Centres of Excellence) — training-data recollection of May 2025 decision; primary PIB release not retrievable this session", "publisher": "PIB (not directly verified)", "date": "2025-05", "url": "https://www.pib.gov.in", "section": "Scheme approval and financing structure"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "No evidence located on whether any Sikkim ITI has been selected or proposed; the tasking's premise (2024-25 announcement, 1,000 ITIs) matches the May 2025 Cabinet approval. Verify with MSDE and the state Skill Development Department."
+    },
+    "potentialUseCases": [
+      "Upgrading one Sikkim ITI as a spoke (or hub) for tourism/hospitality and adventure-sports trades",
+      "Pharma-sector trades partnership with East Sikkim manufacturing units",
+      "Trainer development and dual-system training with hotel chains"
+    ],
+    "flags": [
+      "All financial parameters based on reported May 2025 Cabinet decision — verify against PIB/MSDE guidelines before committing",
+      "Sikkim participation/eligibility status unknown; competitive selection means inaction forfeits the window",
+      "State share requirement needs Finance Department concurrence"
+    ],
+    "scores": {"financial": 4, "ease": 2, "fit": 3, "timeSensitivity": 5, "transformational": 4, "rationale": "Very large national envelope with finite selection underway now; Sikkim's weak industry base makes selection harder but a single upgraded ITI would be transformational for state skilling."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "Low",
+    "confidenceNote": "Primary guidelines and Sikkim status unverified (search budget exhausted before this scheme could be searched; egress blocked)."
+  },
+  {
+    "id": "khelo-india",
+    "name": "Khelo India (with note on National Sports Development Fund)",
+    "shortName": "Khelo India",
+    "ministry": "Ministry of Youth Affairs and Sports",
+    "agency": "Department of Sports / Sports Authority of India; Sikkim Sports & Youth Affairs Department",
+    "policyArea": "Sports",
+    "subcategory": "Sports infrastructure, Khelo India State Centres of Excellence (KISCE), district Khelo India Centres (KIC), talent identification and games",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Revamped Khelo India scheme 2021-22 to 2025-26 (approved outlay approx. Rs 3,790 crore); continuation beyond FY2025-26 not confirmed; the National Sports Policy (Khelo Bharat Niti, 2025) signals restructured successor programming — requires confirmation",
+    "whyItMatters": "Khelo India is the principal central funding route for Sikkim's sports infrastructure and athlete pipeline in a state with an outsized sports culture — football (Paljor Stadium, Bhaichung Bhutia legacy) and archery in particular. The scheme funds state centres of excellence, district-level Khelo India Centres with coach stipends, and project-based sports infrastructure — all valuable where terrain limits private facilities. With the 2021-26 window closed and a new national sports policy adopted, Sikkim should both consolidate existing Khelo India assets and position early for the successor scheme's NE-focused components.",
+    "eligibleApplicants": ["State Government (Sports Department) for infrastructure projects, KISCE and KIC proposals", "SAI-accredited academies for talent components"],
+    "sikkimNodalDept": "Sports & Youth Affairs Department, Government of Sikkim",
+    "whatCanBeFunded": "Sports infrastructure projects (synthetic turfs, multipurpose halls, athletics tracks) on state proposals; upgradation of one state-owned facility as KISCE per state (equipment, coaches, sports science support); small Khelo India Centres at district level with past-champion coaches; annual Khelo India Youth/University/Winter Games participation; talent-development scholarships to identified athletes.",
+    "fundingAvailable": "Project-based sanctions; national outlay approx. Rs 3,790 crore for 2021-26. Sikkim-specific sanctions: Not confirmed from available official guidance.",
+    "fundingRatio": "Generally 100% central grants for sanctioned Khelo India projects (central sector) — component-specific norms require confirmation",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Khelo India has emphasised NE coverage in KISCE/KIC rollout; a formal NE ratio/quota is not confirmed from available official guidance.",
+    "stateContribution": "Land, operations and maintenance of created infrastructure; staff for centres beyond scheme-funded coaches.",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "Sports & Youth Affairs Department prepares DPRs for sports infrastructure or centre proposals",
+      "Submit to Department of Sports/SAI under the relevant Khelo India vertical",
+      "Central appraisal and sanction; funds released in instalments against progress",
+      "For KISCE/KIC: sign performance framework with SAI, recruit coaches per norms, report athlete outcomes",
+      "Engage MYAS on the post-2026 successor scheme design under Khelo Bharat Niti (requires confirmation)"
+    ],
+    "nextAction": "Sports & Youth Affairs Department should audit the status of Sikkim's Khelo India assets (KISCE/KIC operations and any pending infrastructure sanctions) and submit successor-cycle proposals for football and archery facilities to the Department of Sports.",
+    "portal": "https://kheloindia.gov.in",
+    "applicationWindow": "Project proposals accepted per ministry cycles; 2021-26 window closed, successor cycle unknown",
+    "keyDocuments": [
+      {"doc": "DPRs for sports infrastructure projects", "certainty": "confirmed"},
+      {"doc": "KISCE performance/utilisation reports", "certainty": "likely"},
+      {"doc": "Land and O&M commitment documents", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Sports, Ministry of Youth Affairs and Sports / Sports Authority of India",
+    "contact": "Department of Sports, MYAS, Shastri Bhawan, New Delhi",
+    "guidelines": [
+      {"title": "Khelo India scheme portal", "url": "https://kheloindia.gov.in"}
+    ],
+    "sources": [
+      {"title": "Khelo India scheme (official portal)", "publisher": "Ministry of Youth Affairs and Sports", "date": "", "url": "https://kheloindia.gov.in", "section": "Scheme verticals: infrastructure, KISCE, KIC, games"},
+      {"title": "Khelo India State Centre of Excellence in Sikkim (Paljor Stadium, Gangtok — reported in KISCE notifications) — training-data recollection; primary notification not retrievable this session", "publisher": "PIB/SAI (not directly verified)", "date": "2020-2021", "url": "https://www.pib.gov.in", "section": "KISCE state list"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim was reported among states notified with a Khelo India State Centre of Excellence (Paljor Stadium, Gangtok — football) in the 2020-21 KISCE tranches, and Sikkim contingents participate in Khelo India Games; the KISCE notification and the number of Khelo India Centres in Sikkim require confirmation (verification blocked this session). National Sports Development Fund (NSDF) support to Sikkim athletes: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Football centre of excellence consolidation at Paljor Stadium with residential academy",
+      "Archery high-performance centre leveraging Sikkim's tradition (Tarundeep Rai legacy)",
+      "District Khelo India Centres in all six districts with past-champion coaches",
+      "Winter/adventure sports development aligned to Khelo India Winter Games"
+    ],
+    "flags": [
+      "Scheme window 2021-26 has ended — continuation/successor under the 2025 Khelo Bharat Niti needs confirmation",
+      "Sikkim KISCE/KIC details based on recollection of 2020-21 notifications — verify with SAI",
+      "NSDF (a separate contributions-based fund under MYAS) is an adjacent instrument for elite-athlete support and can be approached case-by-case"
+    ],
+    "scores": {"financial": 3, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 4, "rationale": "Excellent fit with Sikkim's football/archery culture and prior KISCE footing; successor-scheme design now underway makes early proposals valuable."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Scheme structure well-established; Sikkim-specific sanctions and post-2026 design unverified (search budget exhausted before Sikkim sports searches completed)."
+  },
+  {
+    "id": "my-bharat-nyks-nss",
+    "name": "Youth programmes: MY Bharat (Mera Yuva Bharat), Nehru Yuva Kendra Sangathan (NYKS) and National Service Scheme (NSS)",
+    "shortName": "MY Bharat / NYKS / NSS",
+    "ministry": "Ministry of Youth Affairs and Sports (Department of Youth Affairs)",
+    "agency": "MY Bharat (autonomous body, est. 2023); NYKS district youth centres; NSS regional directorate and state NSS cell",
+    "policyArea": "Youth",
+    "subcategory": "Youth volunteering, leadership development, experiential learning and community service",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing (MY Bharat launched October 2023 as the umbrella phygital platform; NYKS and NSS are long-running programmes)",
+    "whyItMatters": "For a young state facing outmigration, these programmes fund youth engagement infrastructure at near-zero state cost: NYKS district youth officers and youth clubs, NSS units in Sikkim's colleges and university, and the MY Bharat platform for internships and experiential learning. They are small-money but high-reach instruments for civic engagement, disaster-preparedness volunteering (relevant after the 2023 Teesta GLOF), and channeling Sikkim's sports-club culture into organised youth activity. Convergence with Khelo India and skilling programmes multiplies their value.",
+    "eligibleApplicants": ["State Government departments partnering on youth events", "Youth clubs/Mandals (NYKS affiliation)", "Universities/colleges (NSS unit sanction)", "Individual youth (MY Bharat registration)"],
+    "sikkimNodalDept": "Sports & Youth Affairs Department, Government of Sikkim (with Education Department for NSS in institutions)",
+    "whatCanBeFunded": "NYKS: district youth programmes, youth club activities, awards, skill/awareness camps; NSS: per-volunteer annual grants to sanctioned units, special camps; MY Bharat: experiential learning, volunteering projects and event platforms (largely programmatic rather than infrastructure funding).",
+    "fundingAvailable": "Modest programme-based allocations; Sikkim-specific figures: Not confirmed from available official guidance.",
+    "fundingRatio": "Predominantly 100% central for NYKS/MY Bharat programmes; NSS has a centre-state sharing element for state-sanctioned units (ratio for NE states: Not confirmed from available official guidance)",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Programmatic NE emphasis exists in youth exchange programmes; formal ratios not confirmed from available official guidance.",
+    "stateContribution": "NSS state share for sanctioned units (quantum requires confirmation); facilitation for NYKS/MY Bharat activities.",
+    "allocationMethod": "other (institutional sanction of NSS units; NYKS district allocations; platform-based MY Bharat programming)",
+    "accessPathway": [
+      "Sports & Youth Affairs Department coordinates with NYKS district youth offices in Sikkim for annual activity plans",
+      "Colleges/university apply for additional NSS unit sanctions through the state NSS cell to the NSS regional directorate",
+      "Drive MY Bharat registrations of Sikkimese youth and host state projects/events on the platform",
+      "Propose convergence events (disaster preparedness, sports, tourism volunteering) with central youth-affairs funding"
+    ],
+    "nextAction": "Sports & Youth Affairs Department should set a MY Bharat registration target for Sikkim youth and apply through the state NSS cell for expanded NSS unit sanctions in newer colleges.",
+    "portal": "https://mybharat.gov.in",
+    "applicationWindow": "Rolling",
+    "keyDocuments": [
+      {"doc": "NSS unit sanction applications and annual plans", "certainty": "confirmed"},
+      {"doc": "Youth club affiliation records (NYKS)", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Youth Affairs, MYAS; NSS Regional Directorate",
+    "contact": "Department of Youth Affairs, MYAS, New Delhi; NYKS Zonal/State office covering Sikkim",
+    "guidelines": [
+      {"title": "MY Bharat platform", "url": "https://mybharat.gov.in"}
+    ],
+    "sources": [
+      {"title": "MY Bharat platform", "publisher": "Department of Youth Affairs, MYAS", "date": "", "url": "https://mybharat.gov.in", "section": "Platform and programmes"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "NYKS operates district youth centres in Sikkim and NSS units function in Sikkim University and state colleges (long-running national programmes); current Sikkim volunteer/registration numbers: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Youth disaster-preparedness volunteer corps for GLOF/landslide-prone areas",
+      "Tourism-ambassador and heritage volunteering via MY Bharat",
+      "Convergence of youth clubs with Khelo India Centres for rural sports"
+    ],
+    "flags": [
+      "Low financial materiality; treat as engagement infrastructure rather than a funding opportunity"
+    ],
+    "scores": {"financial": 1, "ease": 5, "fit": 4, "timeSensitivity": 2, "transformational": 2, "rationale": "Minimal money but effortless access and strong youth-engagement fit for a small, young state."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Programme structures well-established; Sikkim-specific current data unverified."
+  },
+  {
+    "id": "tele-manas-ntmhp",
+    "name": "National Tele Mental Health Programme (Tele-MANAS)",
+    "shortName": "Tele-MANAS",
+    "ministry": "Ministry of Health and Family Welfare",
+    "agency": "MoHFW (technical support NIMHANS/IIITB); state Tele-MANAS cell under State Health Society, Sikkim",
+    "policyArea": "Health",
+    "subcategory": "Tele mental health — 24x7 counselling helpline (14416), tele-psychiatry consultations, referral linkage to DMHP and district facilities",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Launched October 2022; ongoing (state cell operating costs supported through NHM PIP approvals)",
+    "whyItMatters": "Sikkim carries one of India's heaviest suicide burdens relative to population, and its dispersed mountain settlements make facility-based psychiatric care hard to reach — a 24x7 tele-first mental health service is therefore unusually well-matched to the state. Sikkim operates within the Tele-MANAS network (the state's Health Minister has publicly championed the 14416 service, February 2025), and cell operations are financeable through the NHM PIP. Scaling counsellor capacity, local-language services (Nepali, Bhutia, Lepcha) and linkage to the District Mental Health Programme are the concrete funding asks.",
+    "eligibleApplicants": ["State Government (Health & Family Welfare Department) — cell establishment/operation via NHM PIP", "Citizens access services directly (14416 / 1-800-891-4416)"],
+    "sikkimNodalDept": "Health & Family Welfare Department, Government of Sikkim (State Health Society; mental health programme officer)",
+    "whatCanBeFunded": "Tele-MANAS cell operations: trained counsellors, mental health professionals, telephony/IT, training by mentoring institutes (NIMHANS network), IEC; integration with e-Sanjeevani for tele-psychiatry and with DMHP for in-person referral — as approved in the state NHM PIP.",
+    "fundingAvailable": "Cell-level operating budgets approved via NHM PIP; Sikkim's approved amount: Not confirmed from available official guidance. (Nationally: 46+ cells had handled over 5 lakh calls by late 2023; current national figures higher.)",
+    "fundingRatio": "Cell operations funded through NHM PIP route (90:10 NE pattern would apply to NHM-routed components — requires confirmation of the current funding channel)",
+    "nePreference": "true",
+    "nePreferenceDetail": "To the extent cell costs flow through NHM, Sikkim's NE 90:10 pattern applies (requires confirmation).",
+    "stateContribution": "10% of NHM-routed costs (if applicable) plus institutional hosting of the cell.",
+    "allocationMethod": "annual state proposal (PIP)",
+    "accessPathway": [
+      "Include Tele-MANAS cell staffing/operations in the annual NHM PIP under the mental health component",
+      "MoHFW approves via RoP; NIMHANS/regional mentoring institute provides training and quality oversight",
+      "Operate the 14416 helpline tier-1 counselling and tier-2 specialist linkage; integrate referrals with DMHP and STNM psychiatry",
+      "Report call-volume and outcome data on the national Tele-MANAS dashboard"
+    ],
+    "nextAction": "Health & Family Welfare Department should expand the Sikkim Tele-MANAS cell's counsellor strength and local-language coverage in the FY2027-28 NHM PIP, citing the state's suicide-prevention strategy.",
+    "portal": "https://telemanas.mohfw.gov.in",
+    "applicationWindow": "Via annual NHM PIP cycle; service itself is continuous",
+    "keyDocuments": [
+      {"doc": "Mental health component of state NHM PIP", "certainty": "confirmed"},
+      {"doc": "Tele-MANAS cell performance/call data", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "MoHFW (NHM RoP; National Tele Mental Health Programme governance)",
+    "contact": "Tele-MANAS national coordination (NIMHANS, Bengaluru); State Health Society, Gangtok",
+    "guidelines": [
+      {"title": "Tele MANAS (official portal)", "url": "https://telemanas.mohfw.gov.in"}
+    ],
+    "sources": [
+      {"title": "Tele MANAS portal", "publisher": "MoHFW", "date": "", "url": "https://telemanas.mohfw.gov.in", "section": "Programme design and helpline"},
+      {"title": "Sikkim minister emphasizes mental health support through Tele-MANAS", "publisher": "India Today NE", "date": "2025-02-21", "url": "https://www.indiatodayne.in/sikkim/story/sikkim-minister-emphasizes-mental-health-support-through-tele-manas-1173818-2025-02-21", "section": "Sikkim promotion of 14416 service"},
+      {"title": "Mental Health: 46 Tele-MANAS cells received 5 lakh calls", "publisher": "News agency report (ProQuest archive)", "date": "2023-12", "url": "https://www.proquest.com/docview/2900862794/7FA41704591486BPQ/2", "section": "National cell and call volumes"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim operates within the Tele-MANAS network and state leadership actively promotes the 14416 helpline (Feb 2025); whether Sikkim hosts its own cell or is served by a shared NE cell, and its call volumes, require confirmation from the Tele-MANAS dashboard."
+    },
+    "potentialUseCases": [
+      "Counsellor capacity in Nepali/Bhutia/Lepcha for the 14416 tier-1 service",
+      "School and monastery outreach linking adolescents to Tele-MANAS",
+      "Tele-psychiatry linkage between remote PHCs, STNM psychiatry and the helpline"
+    ],
+    "flags": [
+      "Confirm whether Sikkim hosts a dedicated cell or shares an NE regional cell, and the current funding channel (NHM PIP vs central tech support)"
+    ],
+    "scores": {"financial": 1, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Small budget but exceptionally aligned to Sikkim's suicide-prevention need, with an existing operational base and easy PIP route."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "National programme and Sikkim promotion confirmed; Sikkim cell configuration and budgets unverified."
+  }
+]

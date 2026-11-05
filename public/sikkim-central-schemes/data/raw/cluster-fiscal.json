@@ -1,0 +1,915 @@
+[
+  {
+    "id": "sasci-2026-27-core",
+    "name": "Special Assistance to States for Capital Investment (SASCI) 2026-27 — Part-I untied window and reform-linked parts",
+    "shortName": "SASCI 2026-27",
+    "ministry": "Ministry of Finance",
+    "agency": "Department of Expenditure (PF-S Division)",
+    "policyArea": "State capital expenditure / infrastructure financing",
+    "subcategory": "50-year interest-free capital investment loans to states",
+    "type": "Infrastructure financing",
+    "grantOrLoan": "Loan",
+    "status": "Active",
+    "period": "FY 2026-27 iteration (scheme run annually since FY 2020-21); funds to be utilised within FY 2026-27 unless otherwise specified",
+    "whyItMatters": "SASCI is now the single largest discretionary capital-financing line available to Sikkim from the Centre, replacing the old Special Plan Assistance era. The loans are 50-year, interest-free, and sit OVER AND ABOVE Sikkim's normal Net Borrowing Ceiling, so they expand fiscal space rather than crowding out market borrowing. For a small state with limited own revenue, the untied Part-I entitlement (distributed in proportion to the 16th FC tax-devolution share) is effectively assured money if projects are posed on time, and the reform-linked parts reward actions Sikkim can realistically complete. The within-the-financial-year utilisation discipline makes early proposal submission critical.",
+    "eligibleApplicants": ["All State Governments (Government of Sikkim eligible)", "Union Territories with Legislature (separate ₹3,000 crore earmark)"],
+    "sikkimNodalDept": "Finance Department (Finance, Revenue and Expenditure Department - FRED), Government of Sikkim, coordinating line departments' project lists",
+    "whatCanBeFunded": "Capital investment projects. Part-I is untied (any capital sector; new and ongoing capital works per guidelines); reform-linked parts fund capital projects conditional on specified reforms; further sector-specific Parts (guidelines to be issued separately for FY27) have in past years covered tourism destinations, land reforms/records, urban planning reforms, vehicle scrapping facilities, working women hostels, police housing and GatiShakti-aligned infrastructure. DoE has advised states to concentrate FY27 proposals in a limited number (about five) of priority sectors.",
+    "fundingAvailable": "Part-I (untied): ₹75,000 crore earmarked for 2026-27, of which ₹67,000 crore for states in proportion to their share in central taxes and duties per the 16th Finance Commission award, and ₹3,000 crore for UTs with legislature (allocation of the balance within Part-I: Not confirmed from available official guidance). Part-II (reform-linked): ₹4,000 crore for reforms undertaken during 2026-27, first-come-first-served. Total SASCI provision for FY 2026-27 reported at approximately ₹2 lakh crore across all Parts (secondary report; requires confirmation against Budget 2026-27 expenditure documents). Sikkim-specific Part-I entitlement: Not confirmed from available official guidance (it follows Sikkim's 16th FC inter-se devolution share).",
+    "fundingRatio": "100% central loan (50-year, interest-free); no state matching share prescribed under Part-I",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Part-I distribution is by tax-devolution share, which already embeds the equity-oriented FC formula benefiting small Himalayan states relative to population. Whether the FY2026-27 guidelines contain an explicit additional NE/hill earmark inside the core Parts is not confirmed; however, a separate hill-states window ('Pride of Hills') was announced for FY27 (see separate record).",
+    "stateContribution": "None prescribed for Part-I; state bears repayment of the 50-year interest-free loan principal and any cost overruns; land and clearances are the state's responsibility",
+    "allocationMethod": "formula-based (Part-I entitlement by 16th FC tax share) combined with project-by-project sanction by DoE; reform/incentive Parts are first-come-first-served on demonstration of the reform",
+    "accessPathway": [
+      "Finance Department (FRED) obtains the DoE guidelines for SASCI 2026-27 (F. No. 44(1)/PF-S/2026-27 (CAPEX), dated 27.03.2026) and circulates sector windows and timelines to line departments",
+      "Line departments identify capital projects — priority to projects completable within FY 2026-27 — and FRED consolidates the state's project list within Sikkim's Part-I entitlement",
+      "State submits project details to the Department of Expenditure: project name, capital outlay, completion period and economic justification (plus reform evidence for reform-linked Parts) (exact proforma per guidelines — requires confirmation)",
+      "DoE approves projects and releases funds as a 50-year interest-free loan to the State Consolidated Fund, over and above the Net Borrowing Ceiling",
+      "State executes projects within FY 2026-27, maintains separate accounting, and submits utilisation certificates/progress as prescribed; unspent or diverted funds are liable to adjustment against future releases (requires confirmation of exact recovery clause)"
+    ],
+    "nextAction": "FRED should immediately reconcile Sikkim's FY2026-27 Part-I entitlement with DoE, confirm which sector-specific Parts have since been notified, and submit any remaining project proposals well before Q3 so funds can be spent within the fiscal year.",
+    "portal": "https://doe.gov.in",
+    "applicationWindow": "Within FY 2026-27; guidelines issued 27.03.2026; project-wise submissions through the year but early submission essential given within-year utilisation requirement; incentive Parts first-come-first-served",
+    "keyDocuments": [
+      {"doc": "State project list with capital outlay, completion period and economic justification", "certainty": "confirmed"},
+      {"doc": "Reform-completion evidence for reform-linked Parts", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates for prior releases", "certainty": "likely"},
+      {"doc": "State Finance Department forwarding letter / declaration on NBC and accounting of the loan", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Expenditure, Ministry of Finance (project approval and release); Ministry of Tourism and other line ministries appraise their sector-specific Parts",
+    "contact": "PF-S Division, Department of Expenditure, North Block, New Delhi (via doe.gov.in); Not confirmed from available official guidance (named officer)",
+    "guidelines": [
+      {"title": "Guidelines for Special Assistance to States for Capital Investment 2026-27, DoE, F. No. 44(1)/PF-S/2026-27 (CAPEX), 27.03.2026", "url": "https://dahd.gov.in/sites/default/files/2026-04/DOESASCIGuidelines2026-27Dt27.03.2026.pdf"}
+    ],
+    "sources": [
+      {"title": "Guidelines for Special Assistance to States for Capital Investment 2026-27 (F. No. 44(1)/PF-S/2026-27 (CAPEX))", "publisher": "Department of Expenditure, Government of India (mirrored on dahd.gov.in)", "date": "2026-03-27", "url": "https://dahd.gov.in/sites/default/files/2026-04/DOESASCIGuidelines2026-27Dt27.03.2026.pdf", "section": "Parts I-II, loan terms, utilisation conditions"},
+      {"title": "What Is The SASCI Scheme? India's 50-Year Interest-Free Loan Programme — Explained", "publisher": "Outlook Business", "date": "2026", "url": "https://www.outlookbusiness.com/amp/story/economy-and-policy/what-is-the-sasci-scheme-indias-50-year-interest-free-loan-programme-explained", "section": "FY27 provision (~₹2 lakh crore) and five-priority-sector advice"},
+      {"title": "Centre releases Rs 50,571 crore to states under capital investment scheme", "publisher": "DD News (Government of India)", "date": "2025/2026 (date not confirmed)", "url": "https://ddnews.gov.in/en/centre-releases-rs-50571-crore-to-states-under-capital-investment-scheme/", "section": "Release progress"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim has drawn SASCI 50-year interest-free loans in earlier iterations, including an approved tourism-window project (Bhaleydunga skywalk, approx ₹97.37 crore, Nov 2024 — see separate record). Sikkim's cumulative state-wise SASCI approvals/releases: Not confirmed from available official guidance. For FY 2025-26, ₹56,826 crore had been released nationally across 4,106 projects per a parliamentary reply (state-wise break-up for Sikkim not confirmed)."
+    },
+    "potentialUseCases": [
+      "District hospital and health infrastructure completion works finishable within FY27",
+      "Gangtok and district-town urban capital works (parking, water supply augmentation)",
+      "Rural bridges and last-mile road links post-2023 GLOF reconstruction",
+      "School and hostel infrastructure consolidation",
+      "Reform-linked drawal: land-records digitisation or urban-reform milestones already in progress"
+    ],
+    "flags": [
+      "Within-FY utilisation requirement — late proposals risk lapse",
+      "Total FY27 corpus (₹2 lakh crore) and the full list of Parts not verified against Budget/DoE originals (guidelines for remaining Parts issued separately)",
+      "It is a LOAN (adds to state debt stock, though interest-free for 50 years) — not a grant",
+      "Part-I entitlement now keyed to the 16th FC share — Sikkim should verify its new inter-se share to project entitlement"
+    ],
+    "scores": {"financial": 5, "ease": 4, "fit": 5, "timeSensitivity": 5, "transformational": 4, "rationale": "Largest flexible capital line available to Sikkim with an assured formula-based entitlement and low process burden, but strict within-year spending discipline and loan character temper it."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Existence, loan terms, Part-I/Part-II figures and dates confirmed from the DoE guidelines document surfaced on an official gov.in domain; total FY27 corpus and remaining Parts rest on secondary reporting."
+  },
+  {
+    "id": "sasci-pride-of-hills-2026-27",
+    "name": "Pride of Hills: Special Development Assistance for Hill States (FY 2026-27 window under/alongside SASCI)",
+    "shortName": "Pride of Hills",
+    "ministry": "Ministry of Finance",
+    "agency": "Department of Expenditure",
+    "policyArea": "State capital expenditure / hill-state development",
+    "subcategory": "Special development assistance earmark for hill states",
+    "type": "Infrastructure financing",
+    "grantOrLoan": "Loan",
+    "status": "Active",
+    "period": "FY 2026-27 (announced/allocated around March 2026); continuation beyond FY27: Not confirmed from available official guidance",
+    "whyItMatters": "This appears to be a new FY2026-27 hill-states window associated with SASCI, with state-wise allocations announced in late March 2026 (Nagaland ₹3,880 crore reported by the government's NewsOnAir). Search-engine synthesis attributed approximately ₹820 crore to Sikkim under the same scheme, which — if confirmed — would be a very large addition relative to Sikkim's budget size. As a Himalayan hill state Sikkim is squarely within the target group, and the window may fund the kind of terrain-specific infrastructure the core SASCI formula under-provides.",
+    "eligibleApplicants": ["Hill states (North Eastern and Himalayan states, including Sikkim) — exact eligible list: Not confirmed from available official guidance"],
+    "sikkimNodalDept": "Finance Department (FRED), Government of Sikkim (likely), with Development Planning, Economic Reforms & NEC Affairs Department",
+    "whatCanBeFunded": "Not confirmed from available official guidance (expected: capital/development projects specific to hill states, presumably on SASCI-type terms)",
+    "fundingAvailable": "Nagaland: ₹3,880 crore reported (NewsOnAir, 30.03.2026). Sikkim: approximately ₹820 crore reported via search synthesis of the same coverage — requires confirmation. Total scheme corpus: Not confirmed from available official guidance.",
+    "fundingRatio": "",
+    "nePreference": "true",
+    "nePreferenceDetail": "The window is by design for hill states, which includes all NE hill states and Sikkim; it is an affirmative earmark rather than a mere preference (design details unverified).",
+    "stateContribution": "Not confirmed from available official guidance",
+    "allocationMethod": "other (state-wise allocation announced by the Centre; underlying formula and drawal procedure not confirmed — likely project-by-project sanction on SASCI lines)",
+    "accessPathway": [
+      "FRED to obtain the scheme communication/guidelines from the Department of Expenditure (announced around March 2026) (requires confirmation)",
+      "Confirm Sikkim's allocation and eligible project types with DoE (requires confirmation)",
+      "Submit project proposals against the allocation per the applicable SASCI-style procedure (requires confirmation)",
+      "Draw funds as releases to the State Consolidated Fund and utilise within the prescribed period (requires confirmation)"
+    ],
+    "nextAction": "FRED should write to the Department of Expenditure (PF-S Division) within the month to obtain the Pride of Hills allocation letter and guidelines for Sikkim and confirm the reported ~₹820 crore FY27 allocation before the project-submission window narrows.",
+    "portal": "https://doe.gov.in",
+    "applicationWindow": "FY 2026-27; exact deadlines: Not confirmed from available official guidance",
+    "keyDocuments": [
+      {"doc": "Project proposals with outlay and completion schedule", "certainty": "likely"},
+      {"doc": "State Finance Department forwarding/acceptance of loan terms", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Expenditure, Ministry of Finance (likely)",
+    "contact": "Not confirmed from available official guidance",
+    "guidelines": [
+      {"title": "Pride of Hills — scheme guidelines (not located in this research environment)", "url": "https://doe.gov.in"}
+    ],
+    "sources": [
+      {"title": "Central Government allocates 3,880 crore to Nagaland under Pride of Hills: Special Development Assistance for Hill States scheme", "publisher": "NewsOnAir (Prasar Bharati, Government of India)", "date": "2026-03-30", "url": "https://www.newsonair.gov.in/central-government-allocates-3880-crore-to-nagaland-under-pride-of-hills-special-development-assistance-for-hill-states-scheme", "section": "Scheme name, Nagaland allocation; Sikkim figure of ₹820 crore attributed via search synthesis of related coverage"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "Search synthesis of government coverage indicated an allocation of ₹820 crore to Sikkim under this scheme for FY2026-27, but the underlying page could not be opened in this research environment; treat as unconfirmed until the DoE allocation letter is sighted."
+    },
+    "potentialUseCases": [
+      "Hill-slope stabilisation and landslide-resilient road corridors",
+      "Ropeways and alternative hill connectivity",
+      "Hill-town water security and sewerage",
+      "Cold-chain and horticulture infrastructure suited to altitude"
+    ],
+    "flags": [
+      "Sikkim's ₹820 crore figure is unverified — the single highest-priority verification item in this cluster",
+      "Scheme design (loan vs grant, tied/untied, deadlines) not confirmed; assumed SASCI-type 50-year interest-free loan",
+      "New in FY27 — first-mover states may capture appraisal bandwidth"
+    ],
+    "scores": {"financial": 5, "ease": 3, "fit": 5, "timeSensitivity": 5, "transformational": 4, "rationale": "Potentially ~₹820 crore of dedicated hill-state capital for a state Sikkim's size is transformational, but everything beyond the scheme's existence needs confirmation."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "Low",
+    "confidenceNote": "Scheme existence and Nagaland allocation from a Government (Prasar Bharati) headline; Sikkim amount from search-engine synthesis only; guidelines not sighted."
+  },
+  {
+    "id": "sasci-tourism-destinations-window",
+    "name": "SASCI sector window — Development of Iconic Tourist Centres / Tourist Destinations to Global Scale (challenge mode)",
+    "shortName": "SASCI Tourism Window",
+    "ministry": "Ministry of Finance (funding) with Ministry of Tourism (appraisal)",
+    "agency": "Department of Expenditure; Ministry of Tourism (project challenge/appraisal)",
+    "policyArea": "Tourism infrastructure",
+    "subcategory": "Destination development under SASCI (50-year interest-free loan)",
+    "type": "Infrastructure financing",
+    "grantOrLoan": "Loan",
+    "status": "Active",
+    "period": "Operating since FY 2024-25 (Budget 2024-25 announcement); first tranche of 40 projects (₹3,295.76 crore, 23 states) approved November 2024; FY 2026-27 continuation as a SASCI Part — details per FY27 guidelines (remaining Parts to be issued separately)",
+    "whyItMatters": "Tourism is Sikkim's most credible growth engine, and this is the one central window that finances large, complete destination builds (not just components like Swadesh Darshan). Sikkim already won a project in the first challenge round — the Bhaleydunga skywalk at Yangang (~₹97.37 crore) — demonstrating the state can compete. The window runs in challenge mode with Ministry of Tourism appraisal, so a ready DPR pipeline directly converts into 50-year interest-free financing over and above the borrowing ceiling.",
+    "eligibleApplicants": ["State Governments (projects posed through the State Tourism Department and Finance Department)"],
+    "sikkimNodalDept": "Tourism & Civil Aviation Department, Government of Sikkim, with FRED as the SASCI channel",
+    "whatCanBeFunded": "End-to-end development of iconic tourist centres/destinations to global standards: attraction creation (skywalks, ropeway-linked experiences), tourist amenities, connectivity within the destination, branding and O&M frameworks; land to be provided by the state; projects selected competitively (challenge mode) with completion timelines (typically two years — requires confirmation for the FY27 round)",
+    "fundingAvailable": "First round (Nov 2024): ₹3,295.76 crore for 40 projects across 23 states, including Sikkim's Bhaleydunga skywalk at approx ₹97.37 crore. FY 2026-27 round corpus: Not confirmed from available official guidance.",
+    "fundingRatio": "100% central 50-year interest-free loan for approved project cost; state provides land and bears O&M",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "No explicit NE quota confirmed in the challenge round; NE states did win projects in round one",
+    "stateContribution": "Land, clearances, operation & maintenance arrangements; cost overruns borne by the state",
+    "allocationMethod": "competitive application (challenge mode) with ministry approval (Ministry of Tourism appraisal, DoE sanction and release)",
+    "accessPathway": [
+      "Tourism & Civil Aviation Department shortlists one or two destination concepts with genuinely global-scale potential and prepares DPRs with operability/O&M plans",
+      "State submits entries when Ministry of Tourism invites challenge-round proposals under the SASCI tourism Part (FY27 invitation status — requires confirmation)",
+      "Ministry of Tourism appraises and recommends; Department of Expenditure sanctions and releases the 50-year interest-free loan through the SASCI channel",
+      "State implements within the prescribed completion window, reports progress to MoT/DoE, and complies with SASCI utilisation conditions",
+      "For the ongoing Bhaleydunga project: maintain milestone reporting to keep releases flowing (requires confirmation of current milestone status)"
+    ],
+    "nextAction": "Tourism & Civil Aviation Department should confirm with the Ministry of Tourism whether an FY2026-27 challenge round is open under the SASCI tourism Part and simultaneously report Bhaleydunga skywalk physical/financial progress to protect further releases.",
+    "portal": "https://tourism.gov.in",
+    "applicationWindow": "Challenge rounds announced by Ministry of Tourism; FY27 round timing: Not confirmed from available official guidance",
+    "keyDocuments": [
+      {"doc": "DPR with global-benchmark destination design, cost estimates and completion schedule", "certainty": "confirmed"},
+      {"doc": "State commitment on land, O&M and completion timeline", "certainty": "confirmed"},
+      {"doc": "Challenge-round proposal proforma of Ministry of Tourism", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Tourism (appraisal/selection); Department of Expenditure (sanction and release under SASCI)",
+    "contact": "Ministry of Tourism (SASCI destination development cell) via tourism.gov.in; Not confirmed from available official guidance (named officer)",
+    "guidelines": [
+      {"title": "Development of Iconic Tourist Centres to Global Scale — operational guidelines (Ministry of Tourism)", "url": "https://sd2.tourism.gov.in/templetes/4498f98e-f89b-40a8-a8e1-3c6d3e373240.pdf"}
+    ],
+    "sources": [
+      {"title": "Development of Iconic Tourist Centres to Global Scale — guidelines", "publisher": "Ministry of Tourism", "date": "2024 (as posted)", "url": "https://sd2.tourism.gov.in/templetes/4498f98e-f89b-40a8-a8e1-3c6d3e373240.pdf", "section": "Scheme design, challenge mode, SASCI funding route"},
+      {"title": "Development of destinations under SASCI (PIB release)", "publisher": "Press Information Bureau", "date": "2026 (as indexed)", "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2237050&reg=3&lang=2", "section": "Approved destinations/status"},
+      {"title": "Lok Sabha Unstarred Question No. 2608 (answered 09.03.2026) — SASCI tourism destinations", "publisher": "Ministry of Tourism / Lok Sabha", "date": "2026-03-09", "url": "https://tourism.gov.in/sites/default/files/2026-03/usq.2608%20for%2009.03.2026.pdf", "section": "State-wise approved projects (to be checked for Sikkim entry)"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Development of Skywalk at Bhaleydunga, Yangang (South Sikkim) approved in the November 2024 tranche at approximately ₹97.37 crore under the SASCI tourism destination window (figure from pre-2026 PIB coverage; current implementation status not confirmed)."
+    },
+    "potentialUseCases": [
+      "Completion and global-standard operationalisation of the Bhaleydunga skywalk destination",
+      "A second challenge entry: Yuksom heritage gateway, Gurudongmar/Lachen high-altitude circuit visitor management, or a Gangtok ropeway-linked experience",
+      "Buddhist/eco-tourism destination integrating homestay economies"
+    ],
+    "flags": [
+      "Loan, not grant — destination must generate O&M sustainability",
+      "FY27 round timing and corpus unverified; watch Ministry of Tourism announcements",
+      "Completion-deadline discipline (round-one projects were time-bound); slippage on Bhaleydunga could affect future rounds"
+    ],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 5, "rationale": "Proven Sikkim access and perfect sector fit; competitive and execution-demanding but capable of creating an anchor destination asset."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Window design and Sikkim's round-one project are pre-2026 established facts; FY27 round specifics could not be verified in this environment."
+  },
+  {
+    "id": "fc16-tax-devolution-sikkim",
+    "name": "16th Finance Commission tax devolution (states' share of the divisible pool), award period 2026-27 to 2030-31",
+    "shortName": "16th FC Devolution",
+    "ministry": "Ministry of Finance",
+    "agency": "Department of Expenditure / Department of Economic Affairs (FC Division); Sixteenth Finance Commission (fincomindia.nic.in)",
+    "policyArea": "Fiscal federalism / untied resource transfer",
+    "subcategory": "Vertical and horizontal tax devolution",
+    "type": "Statutory/formula transfer",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "2026-27 to 2030-31 (report submitted late 2025; tabled in Lok Sabha with Budget on 1 February 2026)",
+    "whyItMatters": "Tax devolution is the single largest untied resource in Sikkim's budget and the foundation on which everything else (including its SASCI Part-I entitlement, now keyed to the 16th FC share) is built. The 16th FC retained the vertical share at 41% but changed the horizontal formula — notably adding a 10% weight for contribution to GDP and removing the tax-effort criterion — changes that plausibly work against a tiny-GSDP state like Sikkim, making it essential to know the new inter-se share precisely. Under the 15th FC Sikkim's share was 0.388% of the states' pool; the 16th FC share for Sikkim is not yet confirmed in this research. With revenue deficit grants discontinued, devolution is now even more decisively Sikkim's fiscal lifeline.",
+    "eligibleApplicants": ["All States (constitutional entitlement under Articles 270/280 — no application)"],
+    "sikkimNodalDept": "Finance Department (FRED) — Budget and Resource Division",
+    "whatCanBeFunded": "Fully untied — general budgetary resources of the State",
+    "fundingAvailable": "41% of the divisible pool of central taxes devolved to states for 2026-31 (vertical share retained from the 15th FC). Sikkim's inter-se share under the 16th FC: Not confirmed from available official guidance (15th FC comparator: 0.388% of the states' share).",
+    "fundingRatio": "",
+    "nePreference": "false",
+    "nePreferenceDetail": "No NE-specific weight; however, formula components such as income distance, area and forest/ecology have historically favoured Sikkim relative to population (16th FC weights not fully confirmed)",
+    "stateContribution": "None",
+    "allocationMethod": "statutory",
+    "accessPathway": [
+      "No application — devolution flows automatically in instalments (typically monthly, with year-end adjustment) to the State Consolidated Fund",
+      "FRED should obtain the 16th FC report annexes and the Explanatory Memorandum/Action Taken tabled with Budget 2026-27 to confirm Sikkim's inter-se share and the accepted recommendations",
+      "Re-cast Sikkim's medium-term fiscal projections (FY27-FY31) on the new share, since the discontinuation of revenue deficit grants changes the revenue account outlook",
+      "Track monthly devolution releases (PIB/DoE release orders) against budget estimates"
+    ],
+    "nextAction": "FRED's Budget Division should extract Sikkim's 2026-31 inter-se share from the 16th FC report (fincomindia.nic.in / Budget 2026-27 documents) and rebase the state's FY27-FY31 receipts forecast this quarter.",
+    "portal": "https://fincomindia.nic.in",
+    "applicationWindow": "n/a — statutory entitlement",
+    "keyDocuments": [
+      {"doc": "None to draw funds (statutory); state's own budget documentation of shares", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "President/Parliament acting on Finance Commission recommendations; releases administered by Ministry of Finance",
+    "contact": "Finance Commission Division, Department of Expenditure, Ministry of Finance",
+    "guidelines": [
+      {"title": "Report of the Sixteenth Finance Commission (2026-31)", "url": "https://fincomindia.nic.in"}
+    ],
+    "sources": [
+      {"title": "Report of the 16th Finance Commission for 2026-31 (summary)", "publisher": "PRS Legislative Research", "date": "2026-02", "url": "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31", "section": "Vertical share 41%; horizontal criteria changes"},
+      {"title": "16th Finance Commission report for tax revenue laid in LS", "publisher": "NewsOnAir (Prasar Bharati)", "date": "2026-02-01", "url": "https://www.newsonair.gov.in/16th-finance-commission-report-for-tax-revenue-laid-in-ls/", "section": "Tabling with Budget 2026-27"},
+      {"title": "Memorandum to the 16th Finance Commission — Government of Sikkim", "publisher": "Finance, Revenue & Expenditure Department, Government of Sikkim", "date": "2024 (as posted)", "url": "http://www.sikkimfred.gov.in/FCD/DOCUMENTS16th_FC/Memorandum%20to%20the%2016th%20Finance%20Commission%20Sikkim.pdf", "section": "Sikkim's submissions"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim receives devolution as of right; it submitted a formal memorandum to the 16th FC and hosted the Commission's state visit. New 2026-31 inter-se share: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Base funding of salaries, pensions and O&M",
+      "State share for CSS and counterpart funding for EAPs",
+      "Debt service on SASCI and other central loans"
+    ],
+    "flags": [
+      "New 10% GDP-contribution criterion may reduce small-state shares — quantify impact for Sikkim urgently",
+      "Removal of revenue deficit grants raises the stakes of any devolution-share decline",
+      "Government acceptance/ATR details of individual recommendations not fully verified"
+    ],
+    "scores": {"financial": 5, "ease": 5, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "The bedrock transfer: maximal money and zero process, but Sikkim cannot influence it within the award period — only plan around it."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "41% share, tabling date and criteria changes confirmed from multiple search results; Sikkim's specific share and full formula weights unverified."
+  },
+  {
+    "id": "fc16-revenue-deficit-grant-discontinuation",
+    "name": "Post-Devolution Revenue Deficit Grants — discontinued by the 16th Finance Commission (with 15th FC tail context for Sikkim)",
+    "shortName": "Revenue Deficit Grants (16th FC status)",
+    "ministry": "Ministry of Finance",
+    "agency": "Department of Expenditure (Finance Commission Division)",
+    "policyArea": "Fiscal federalism / revenue-account gap filling",
+    "subcategory": "Article 275 grants-in-aid for post-devolution revenue deficits",
+    "type": "Finance Commission grant",
+    "grantOrLoan": "Grant",
+    "status": "Discontinued",
+    "period": "15th FC award (2021-26) was the last to carry revenue deficit grants; the 16th FC (2026-31) has recommended none",
+    "whyItMatters": "The disappearance of revenue deficit grants is the biggest negative fiscal-transfer development for special-category and hill states in the 16th FC award, and Sikkim's own memorandum to the Commission had sought such support. Sikkim must now absorb any post-devolution revenue gap through own-revenue effort, expenditure rationalisation or the (larger) untied devolution pool — there is no gap-filling grant to fall back on for 2026-31. This record exists so the Finance Department treats the discontinuation as a planning fact, not an application opportunity.",
+    "eligibleApplicants": ["No state — instrument discontinued for 2026-31"],
+    "sikkimNodalDept": "Finance Department (FRED)",
+    "whatCanBeFunded": "Historically: untied support to the revenue account of states with assessed post-devolution revenue deficits. For 2026-31: nothing — instrument discontinued.",
+    "fundingAvailable": "Nil for 2026-31. Under the 15th FC, revenue deficit grants went to 17 states in 2021-22 tapering over the award; whether and how much Sikkim received in any year of the 15th FC award: Not confirmed from available official guidance.",
+    "fundingRatio": "",
+    "nePreference": "false",
+    "nePreferenceDetail": "Commentary notes NE and hill states are the group most affected by the discontinuation",
+    "stateContribution": "n/a",
+    "allocationMethod": "statutory",
+    "accessPathway": [
+      "No pathway — the 16th FC recommended discontinuation of revenue deficit grants (along with sector-specific and state-specific grants)",
+      "FRED should verify from the Action Taken Report/Explanatory Memorandum with Budget 2026-27 that the Government accepted the discontinuation without transitional relief (requires confirmation)",
+      "If a genuine structural revenue gap emerges, the remaining avenues are representations for special assistance outside the FC framework and NEC/DoNER channels (separate cluster) — there is no FC application route"
+    ],
+    "nextAction": "FRED should confirm from the Budget 2026-27 Explanatory Memorandum whether any transitional or substitute support accompanies the RD-grant discontinuation, and quantify Sikkim's unfunded revenue gap for FY27-FY31.",
+    "portal": "https://fincomindia.nic.in",
+    "applicationWindow": "n/a",
+    "keyDocuments": [
+      {"doc": "None (discontinued instrument)", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "n/a (Finance Commission recommendation, Government acceptance)",
+    "contact": "Finance Commission Division, Department of Expenditure",
+    "guidelines": [
+      {"title": "Report of the Sixteenth Finance Commission (2026-31) — chapter on grants-in-aid", "url": "https://fincomindia.nic.in"}
+    ],
+    "sources": [
+      {"title": "16th Finance Commission: Skirting the Constitutional Mandate on Grants-in-Aid", "publisher": "The India Forum", "date": "2026", "url": "https://www.theindiaforum.in/economy/sixteenth-finance-commission-scope-constitutional-mandate-grants-aid", "section": "Discontinuation of revenue deficit, sector-specific and state-specific grants"},
+      {"title": "Report of the 16th Finance Commission for 2026-31 (summary)", "publisher": "PRS Legislative Research", "date": "2026-02", "url": "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31", "section": "Grants structure: ₹9.47 lakh crore confined to local bodies and disaster management"},
+      {"title": "Memorandum to the 16th Finance Commission — Government of Sikkim", "publisher": "FRED, Government of Sikkim", "date": "2024 (as posted)", "url": "http://www.sikkimfred.gov.in/FCD/DOCUMENTS16th_FC/Memorandum%20to%20the%2016th%20Finance%20Commission%20Sikkim.pdf", "section": "Sikkim's request for revenue-side support"}
+    ],
+    "sikkimParticipation": {
+      "status": "No participation located",
+      "detail": "No revenue deficit grant exists for Sikkim in 2026-31. Sikkim's receipt of RD grants in the 15th FC period: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Planning input: quantify the revenue-account gap left by discontinuation and reflect it in the FY27 revised estimates and MTFP"
+    ],
+    "flags": [
+      "Structural downside risk for Sikkim's revenue account 2026-31",
+      "16th FC also discontinued state-specific grants — so no Sikkim-specific FC grant should be assumed either",
+      "Verify final Government acceptance (ATR) — some recommendations can be modified at acceptance stage"
+    ],
+    "scores": {"financial": 1, "ease": 1, "fit": 3, "timeSensitivity": 4, "transformational": 1, "rationale": "No money to access — recorded because the discontinuation materially changes Sikkim's fiscal planning and must be acted on now."},
+    "openWindow": "closed",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Discontinuation reported consistently across PRS/India Forum coverage of the tabled report; Sikkim's 15th FC RD-grant history and the ATR text unverified."
+  },
+  {
+    "id": "fc16-local-body-grants",
+    "name": "16th Finance Commission grants for rural and urban local bodies (2026-31) — Sikkim panchayats and municipalities",
+    "shortName": "16th FC Local Body Grants",
+    "ministry": "Ministry of Finance (releases) with Ministry of Panchayati Raj and Ministry of Housing & Urban Affairs (nodal for compliance)",
+    "agency": "Department of Expenditure (FC Division)",
+    "policyArea": "Local government finance / decentralisation",
+    "subcategory": "Grants-in-aid to panchayats and urban local bodies",
+    "type": "Finance Commission grant",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "2026-27 to 2030-31",
+    "whyItMatters": "With revenue deficit and state-specific grants gone, local body grants (with disaster funds) are the only FC grant money left for Sikkim in 2026-31 — part of the ₹9.47 lakh crore national grants envelope. For Sikkim's gram panchayats, zilla panchayats and small municipalities (Gangtok MC and nagar panchayats), these grants dominate local capital and sanitation/water budgets. The money is formula-entitled but conditionality-gated: Sikkim only draws it if accounts are online, own-revenue and audit conditions are met, and utilisation flows are certified on time.",
+    "eligibleApplicants": ["State Government on behalf of duly constituted rural local bodies and urban local bodies (elected; State Finance Commission constituted)"],
+    "sikkimNodalDept": "Rural Development Department (RLB grants) and Urban Development Department (ULB grants), with FRED for drawal and pass-through",
+    "whatCanBeFunded": "Under the 15th FC pattern: basic (untied) grants plus tied grants for sanitation/solid waste and drinking water/rainwater harvesting; urban grants with air-quality/service-level conditions for larger cities. The 16th FC's exact tied/untied structure and conditions: Not confirmed from available official guidance.",
+    "fundingAvailable": "Part of the ₹9.47 lakh crore total 16th FC grants for 2026-31 (which covers local bodies and disaster management); Budget 2026-27 provides ₹1.4 lakh crore of FC grants for FY27. Sikkim's state-wise local body grant allocation 2026-31: Not confirmed from available official guidance.",
+    "fundingRatio": "100% central grant to local bodies (passed through the state within prescribed days; delay attracts interest payable by the state)",
+    "nePreference": "false",
+    "nePreferenceDetail": "Distribution is formula-based (population/area); no NE quota, but small states receive floors in some FC designs (16th FC floor: not confirmed)",
+    "stateContribution": "No matching share; state bears interest for delayed transfer to local bodies and must meet entry conditions",
+    "allocationMethod": "statutory",
+    "accessPathway": [
+      "No application — annual state-wise allocations are notified; releases typically in instalments against compliance",
+      "Ensure entry conditions: elected local bodies in place, State Finance Commission constituted and its report acted upon, and both provisional and audited accounts of local bodies publicly available online (15th FC pattern; 16th FC conditions require confirmation)",
+      "Rural Development and Urban Development Departments compile utilisation reports/UCs and grant-transfer certificates; FRED draws the release and transfers to local bodies within the prescribed period",
+      "Meet tied-grant conditions (sanitation/water plans and reporting; property-tax growth conditions for ULBs under the 15th FC pattern — 16th FC version requires confirmation)",
+      "Track release orders of the Department of Expenditure and reconcile against entitlement each year"
+    ],
+    "nextAction": "Rural Development Department and UDD should jointly confirm Sikkim's FY2026-27 local-body grant entitlement and the 16th FC conditionalities from the DoE release guidelines, and clear any pending audited-accounts uploads now to avoid instalment delays.",
+    "portal": "https://fincomindia.nic.in",
+    "applicationWindow": "n/a — statutory entitlement subject to compliance",
+    "keyDocuments": [
+      {"doc": "Online provisional and audited accounts of RLBs/ULBs", "certainty": "likely"},
+      {"doc": "Utilisation certificates and grant transfer certificates", "certainty": "confirmed"},
+      {"doc": "State Finance Commission constitution/ATR evidence", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Expenditure (releases), on recommendations of MoPR/MoHUA regarding compliance",
+    "contact": "FC Division, Department of Expenditure; Ministry of Panchayati Raj (RLB grants cell)",
+    "guidelines": [
+      {"title": "16th FC report chapter on local governments and DoE release guidelines for FC-XVI local body grants (to be obtained)", "url": "https://fincomindia.nic.in"}
+    ],
+    "sources": [
+      {"title": "Report of the 16th Finance Commission for 2026-31 (summary)", "publisher": "PRS Legislative Research", "date": "2026-02", "url": "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31", "section": "Grants: ₹9.47 lakh crore for local bodies and disaster management"},
+      {"title": "Summary of the 16th Finance Commission", "publisher": "Insights on India", "date": "2026-02-02", "url": "https://www.insightsonindia.com/2026/02/02/summary-of-the-16th-finance-commission/", "section": "Grants structure and FY27 provision (₹1.4 lakh crore)"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim's local bodies received 15th FC grants and remain entitled under the 16th FC subject to compliance; Sikkim-specific 2026-31 amounts: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "GP-level drinking water source sustainability and greywater management",
+      "Solid waste systems for Gangtok MC and nagar panchayats",
+      "Untied basic grants for ward-level small capital works"
+    ],
+    "flags": [
+      "Compliance-gated: audited accounts online and SFC action are recurring choke points for small states",
+      "16th FC tied/untied split and conditions not yet verified — obtain DoE operational guidelines",
+      "Interest liability on delayed pass-through to local bodies"
+    ],
+    "scores": {"financial": 3, "ease": 4, "fit": 4, "timeSensitivity": 3, "transformational": 2, "rationale": "Reliable formula money for basic local services; modest scale for Sikkim but the only remaining FC grant stream alongside disaster funds."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Existence and envelope confirmed from report coverage; Sikkim amounts, conditions and instalment mechanics for FC-XVI unverified."
+  },
+  {
+    "id": "fc16-disaster-risk-financing-sdrf-sdmf",
+    "name": "Disaster risk financing under the 16th Finance Commission — Sikkim SDRF/SDMF (and NDRF supplementation)",
+    "shortName": "SDRF/SDMF (16th FC)",
+    "ministry": "Ministry of Home Affairs (administration) with Ministry of Finance (FC corpus)",
+    "agency": "Disaster Management Division, MHA; Department of Expenditure (releases)",
+    "policyArea": "Disaster management financing",
+    "subcategory": "State Disaster Response Fund and State Disaster Mitigation Fund corpus",
+    "type": "Statutory/formula transfer",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "2026-27 to 2030-31 (FC-XVI corpus); statutory basis: Disaster Management Act, 2005",
+    "whyItMatters": "Sikkim is among India's most disaster-exposed states — the October 2023 South Lhonak GLOF and recurring landslides showed how quickly response and mitigation needs can exceed a small state's means. The FC-determined SDRF/SDMF corpus is Sikkim's first-line disaster money, with the Centre contributing 90% for NE and Himalayan states under the 15th FC pattern, and severe calamities drawing additional NDRF support. The 16th FC has continued disaster management as one of only two grant streams, so protecting and fully drawing this corpus — and using the mitigation fund for GLOF/landslide risk reduction — is core business for Sikkim.",
+    "eligibleApplicants": ["State Government (statutory entitlement; no application for the corpus)"],
+    "sikkimNodalDept": "Land Revenue & Disaster Management Department, Government of Sikkim (with Sikkim State Disaster Management Authority); FRED for fund accounting",
+    "whatCanBeFunded": "SDRF: immediate relief and response for notified disasters (and state-notified local disasters within the permitted window, 10% under 15th FC norms); SDMF: mitigation and risk-reduction projects (e.g., GLOF early warning, slope stabilisation); preparedness/capacity and recovery windows existed under the 15th FC architecture (continuation under FC-XVI: requires confirmation)",
+    "fundingAvailable": "Sikkim's SDRF/SDMF corpus for 2026-31 under the 16th FC: Not confirmed from available official guidance. National disaster-management grants form part of the ₹9.47 lakh crore FC-XVI grants envelope; the 16th FC's disaster recommendations were specifically flagged in national coverage ('of devolution and new disasters').",
+    "fundingRatio": "Centre:State contribution to SDRF was 90:10 for NE and Himalayan states (including Sikkim) under the 15th FC; continuation of the 90:10 ratio under the 16th FC: Not confirmed from available official guidance",
+    "nePreference": "true",
+    "nePreferenceDetail": "Higher central contribution (90% vs 75% for other states) to SDRF/SDMF for NE and Himalayan states under the 15th FC pattern",
+    "stateContribution": "10% of the annual SDRF/SDMF contribution (15th FC pattern; FC-XVI ratio requires confirmation), budgeted by the state each year",
+    "allocationMethod": "statutory",
+    "accessPathway": [
+      "No application for the corpus — central share is released in two instalments each year against compliance (state share contributed, accounts/utilisation reported, fund maintained per DM Act and MHA/DoE guidelines)",
+      "Land Revenue & DM Department maintains SDRF/SDMF accounts, item-wise expenditure per approved relief norms, and submits the annual report/certificates required for the next instalment",
+      "For calamities of severe nature exceeding SDRF: submit a memorandum to MHA; Inter-Ministerial Central Team assessment; High Level Committee approves NDRF assistance (this is the demand-based layer)",
+      "Use SDMF through SSDMA-approved mitigation project pipeline (GLOF, landslide, seismic retrofitting) per mitigation fund guidelines",
+      "Reconcile the FC-XVI Sikkim corpus and any revised norms from the 16th FC report annex and MHA operational guidelines (requires confirmation)"
+    ],
+    "nextAction": "Land Revenue & Disaster Management Department should obtain Sikkim's 2026-31 SDRF/SDMF corpus figures and the FC-XVI cost norms from MHA/DoE, and queue GLOF-mitigation projects against the SDMF before FY27 instalments are programmed.",
+    "portal": "https://ndmindia.mha.gov.in",
+    "applicationWindow": "n/a for corpus; NDRF memoranda are event-driven",
+    "keyDocuments": [
+      {"doc": "Annual SDRF/SDMF accounts and utilisation reporting to MHA", "certainty": "confirmed"},
+      {"doc": "State share contribution proof in state budget", "certainty": "confirmed"},
+      {"doc": "Memorandum with damage assessment for NDRF (event-driven)", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "MHA/DoE for releases; State Executive Committee (SSDMA) for SDRF expenditure sanction; High Level Committee for NDRF",
+    "contact": "Disaster Management Division, Ministry of Home Affairs; Sikkim SSDMA",
+    "guidelines": [
+      {"title": "16th FC report chapter on disaster risk financing and successor SDRF/SDMF operational guidelines (to be obtained)", "url": "https://fincomindia.nic.in"},
+      {"title": "MHA guidelines on constitution and administration of SDRF/SDMF (15th FC editions, pending FC-XVI update)", "url": "https://ndmindia.mha.gov.in"}
+    ],
+    "sources": [
+      {"title": "16th Finance Commission: Of devolution and new disasters", "publisher": "Down To Earth", "date": "2026", "url": "https://www.downtoearth.org.in/governance/16th-finance-commission-of-devolution-and-new-disasters", "section": "FC-XVI disaster financing recommendations"},
+      {"title": "Report of the 16th Finance Commission for 2026-31 (summary)", "publisher": "PRS Legislative Research", "date": "2026-02", "url": "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31", "section": "Grants for disaster management within ₹9.47 lakh crore envelope"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim operates SDRF/SDMF as a statutory entitlement and drew heavily on disaster financing after the October 2023 South Lhonak GLOF (including NDRF/recovery support). Sikkim's FC-XVI corpus and post-GLOF recovery figures: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "GLOF early-warning systems and moraine-lake risk mitigation (SDMF)",
+      "Landslide-prone corridor stabilisation on NH10 feeder roads (SDMF)",
+      "Relief norms application for monsoon landslide events (SDRF)",
+      "NDRF memorandum for any severe-calamity year"
+    ],
+    "flags": [
+      "Sikkim corpus and FC-XVI centre:state ratio unverified — confirm before budgeting the state share",
+      "SDMF is chronically under-used nationally; a ready mitigation pipeline is the difference between corpus and cash",
+      "New FC-XVI disaster windows (if any) flagged in coverage but not detailed — obtain report chapter"
+    ],
+    "scores": {"financial": 4, "ease": 4, "fit": 5, "timeSensitivity": 4, "transformational": 3, "rationale": "Statutory, high-relevance money for Sikkim's dominant risk profile; execution hinges on mitigation-project readiness rather than access."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Statutory architecture and 90:10 NE ratio are established pre-2026 facts (15th FC); FC-XVI corpus, ratio continuation and new windows unverified."
+  },
+  {
+    "id": "fc15-transition-instruments-2025-26",
+    "name": "15th Finance Commission leftover instruments in FY 2025-26 and transition to the 16th FC award",
+    "shortName": "15th FC Transition",
+    "ministry": "Ministry of Finance",
+    "agency": "Department of Expenditure (FC Division)",
+    "policyArea": "Fiscal federalism / award transition",
+    "subcategory": "Closure of 15th FC grant streams and carry-over issues",
+    "type": "Finance Commission grant",
+    "grantOrLoan": "Grant",
+    "status": "Discontinued",
+    "period": "15th FC award ended 31 March 2026; residual releases/UC settlements may spill into FY 2026-27",
+    "whyItMatters": "FY 2025-26 was the last year of 15th FC instruments — devolution at the old inter-se shares (Sikkim: 0.388%), the tapering revenue deficit grants, local body grants (including health grants through local bodies), and the final SDRF/SDMF tranches. Sikkim must close these streams cleanly: pending utilisation certificates, unspent SDRF balances, and un-drawn local-body instalments from the 15th FC period can block or complicate FC-XVI releases. The transition also removes instruments Sikkim may have counted on (RD grants, state-specific grants recommended but never operationalised nationally), so the FY27 budget base needs a clean restatement.",
+    "eligibleApplicants": ["State Governments (closure/settlement, not fresh access)"],
+    "sikkimNodalDept": "Finance Department (FRED), with Rural Development, Urban Development and Land Revenue & DM Departments for their respective streams",
+    "whatCanBeFunded": "No fresh funding — settlement of FY 2021-26 streams: final local-body grant instalments, SDRF/SDMF closing balances (which carry over within the fund), health-sector grants through local bodies, and any withheld releases against compliance",
+    "fundingAvailable": "Residual/withheld 15th FC releases only, per compliance status; Sikkim-specific pendency: Not confirmed from available official guidance",
+    "fundingRatio": "",
+    "nePreference": "false",
+    "nePreferenceDetail": "",
+    "stateContribution": "As per each stream's original terms",
+    "allocationMethod": "statutory",
+    "accessPathway": [
+      "FRED to prepare a 15th FC closure statement: stream-wise entitlement vs releases vs UCs for 2021-26 (devolution needs none; grants do)",
+      "Clear pending utilisation certificates and audited local-body accounts so any withheld final instalments are released (requires confirmation whether DoE is releasing FC-XV arrears in FY27)",
+      "Confirm treatment of unspent SDRF/SDMF balances at award changeover (balances normally remain in the funds and carry forward)",
+      "Restate the FY27 budget base removing discontinued streams (revenue deficit grants, FC-XV sector/state-specific grant expectations)",
+      "Archive the 15th FC compliance record — FC-XVII memoranda and future negotiations will draw on it"
+    ],
+    "nextAction": "FRED should complete a stream-wise 15th FC closure and UC-pendency statement this quarter and pursue any withheld final instalments with the Department of Expenditure before FC-XVI releases fully occupy the pipeline.",
+    "portal": "https://fincomindia.nic.in",
+    "applicationWindow": "n/a — settlement only",
+    "keyDocuments": [
+      {"doc": "Pending utilisation certificates for FC-XV grants", "certainty": "confirmed"},
+      {"doc": "Audited accounts of local bodies for grant years", "certainty": "confirmed"},
+      {"doc": "SDRF/SDMF closing balance certification", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Expenditure (residual releases)",
+    "contact": "FC Division, Department of Expenditure",
+    "guidelines": [
+      {"title": "15th Finance Commission report and DoE release guidelines for FC-XV grants", "url": "https://fincomindia.nic.in"}
+    ],
+    "sources": [
+      {"title": "Report of the 16th Finance Commission for 2026-31 (summary) — changes from the 15th FC", "publisher": "PRS Legislative Research", "date": "2026-02", "url": "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31", "section": "Discontinued instruments and transition"},
+      {"title": "Sixteenth Finance Commission (report and annexes)", "publisher": "Finance Commission of India", "date": "2025-2026", "url": "https://fincomindia.nic.in", "section": "Award period boundary"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim drew 15th FC devolution (0.388% inter-se share), local body grants and SDRF/SDMF through 2021-26; Sikkim's residual pendency and RD-grant history under FC-XV: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Recovering any withheld FC-XV local-body instalments through UC clearance",
+      "Carrying forward unspent SDMF balances into the FY27 mitigation pipeline"
+    ],
+    "flags": [
+      "Closure hygiene directly conditions FC-XVI drawals",
+      "Do not budget any FC-XV-style RD or state-specific grants in FY27+"
+    ],
+    "scores": {"financial": 2, "ease": 3, "fit": 4, "timeSensitivity": 4, "transformational": 1, "rationale": "Housekeeping with real money at stake (withheld instalments, carried balances) but no new instrument."},
+    "openWindow": "closed",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Award boundary and discontinuations confirmed; Sikkim-specific pendency figures unverified."
+  },
+  {
+    "id": "dea-externally-aided-projects-mechanism",
+    "name": "Externally Aided Projects (EAPs) via the Department of Economic Affairs — World Bank/ADB/JICA and other MDB/bilateral financing for Sikkim on 90:10 terms",
+    "shortName": "DEA EAP Route",
+    "ministry": "Ministry of Finance",
+    "agency": "Department of Economic Affairs (Multilateral Institutions / Bilateral Cooperation Divisions)",
+    "policyArea": "External development financing",
+    "subcategory": "Sovereign-guaranteed external loans/credits for state projects",
+    "type": "Externally aided project",
+    "grantOrLoan": "Mixed",
+    "status": "Active",
+    "period": "Standing mechanism; rolling pipeline (DEA screening meetings held periodically)",
+    "whyItMatters": "The EAP route is how Sikkim converts project ideas into large multilateral financing — and Sikkim gets the best terms in the country: as a North Eastern state, external loans contracted by the Centre are passed on to Sikkim as 90% GRANT and 10% loan (back-to-back terms apply only to general-category states). That makes a US$100 million World Bank operation cost Sikkim roughly a tenth of its face value in debt. The route demands patient preparation (concept, screening, posting on the DEA website, donor appraisal, negotiation), so a standing pipeline of two or three bankable concepts is the practical asset. Continuation of the exact 90:10 terms should be re-verified against the current DEA Guidelines for EAPs.",
+    "eligibleApplicants": ["State Governments (through the State Finance Department, with concurrence of the concerned central line ministry)", "Central ministries/CPSEs (own projects)"],
+    "sikkimNodalDept": "Finance Department (FRED) — EAP/Development Assistance cell — with the concerned line department (e.g., Roads & Bridges, Tourism, Health) as implementing agency",
+    "whatCanBeFunded": "Investment projects and results-based programs in sectors the state prioritises: roads and connectivity, urban services, disaster resilience/GLOF mitigation, skilling and employment, health systems, tourism, agriculture/forestry; also project-preparation advances/technical assistance from the lender during preparation",
+    "fundingAvailable": "Project-by-project (typical state operations US$50-200 million); no fixed state envelope. Sikkim-relevant precedent: World Bank Sikkim INSPIRES ~US$100 million (2023). Current DEA pipeline for Sikkim: Not confirmed from available official guidance.",
+    "fundingRatio": "For NE and Himalayan/special-category states including Sikkim: 90% of the external assistance passed on as grant, 10% as loan, by the Centre (per DEA policy in force through the mid-2020s; continuation in the latest DEA Guidelines for EAPs requires confirmation)",
+    "nePreference": "true",
+    "nePreferenceDetail": "90:10 grant:loan pass-through for the 8 NE states (incl. Sikkim) and Himalayan special-category states versus back-to-back full loan transfer for general-category states",
+    "stateContribution": "Counterpart funding per project design (often 10-30% of project cost borne by the state budget, project-specific); repayment of the 10% loan portion; land, staffing and safeguards compliance",
+    "allocationMethod": "project-by-project sanction (DEA screening and approval, then lender appraisal and negotiation)",
+    "accessPathway": [
+      "Line department with FRED prepares a Preliminary Project Report/concept note aligned to state priorities and the lender's country strategy",
+      "State submits the proposal to DEA with the concurrence/recommendation of the concerned central line ministry",
+      "DEA Screening Committee considers the proposal for inclusion in the EAP pipeline; screened proposals are posted on the DEA website for development-partner interest (requires confirmation of current committee nomenclature/cadence)",
+      "Chosen lender (World Bank/ADB/JICA etc.) undertakes preparation and appraisal — project preparation advance/TA may be available at this stage",
+      "Negotiations conducted by DEA with state participation; loan/financing agreement signed by DEA (GoI as borrower/guarantor) with a project agreement with the State",
+      "Funds flow: state incurs expenditure, claims reimbursement through the Controller of Aid Accounts & Audit (CAAA) — increasingly through PFMS/REAT integration; Centre passes assistance to Sikkim on 90:10 grant:loan terms",
+      "State ensures counterpart budget lines, safeguards and audit compliance through implementation"
+    ],
+    "nextAction": "FRED's EAP cell should table Sikkim's next two priority concepts (e.g., disaster-resilient connectivity and urban water security) for the coming DEA screening round through the relevant central ministries, and confirm the current 90:10 terms from the latest DEA Guidelines for EAPs.",
+    "portal": "https://dea.gov.in",
+    "applicationWindow": "Rolling — DEA screening rounds held periodically (exact FY27 calendar: Not confirmed from available official guidance)",
+    "keyDocuments": [
+      {"doc": "Preliminary Project Report / concept note with cost, outcomes and implementation arrangement", "certainty": "confirmed"},
+      {"doc": "Central line ministry concurrence", "certainty": "confirmed"},
+      {"doc": "State Finance Department commitment on counterpart funds and debt servicing of the loan portion", "certainty": "confirmed"},
+      {"doc": "Lender-stage documents: DPR/feasibility, safeguards instruments, procurement plan", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "DEA Screening Committee (pipeline entry); Department of Economic Affairs (negotiation/signing); lender Board (financing approval)",
+    "contact": "Multilateral Institutions Division / concerned bilateral division, DEA, North Block; CAAA for disbursement claims",
+    "guidelines": [
+      {"title": "DEA Guidelines for Externally Aided Projects (posing, processing and implementation) — current edition", "url": "https://dea.gov.in"}
+    ],
+    "sources": [
+      {"title": "Department of Economic Affairs — Multilateral Institutions / EAP pages", "publisher": "DEA, Ministry of Finance", "date": "current", "url": "https://dea.gov.in", "section": "EAP posing/processing procedure and pass-through terms (page could not be opened in this environment; cited as the authoritative locus)"},
+      {"title": "World Bank projects in India — Sikkim search", "publisher": "World Bank", "date": "current", "url": "https://projects.worldbank.org/en/projects-operations/projects-list?searchTerm=sikkim", "section": "Active Sikkim operations (precedent for the route)"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim has used the route repeatedly: World Bank Sikkim INSPIRES (~US$100 million, approved 2023 — see separate record); an ADB project for upgrading Sikkim's major district roads (approved circa December 2021; amount: Not confirmed from available official guidance); and the JICA-assisted Sikkim Biodiversity Conservation and Forest Management Project (closed/closing by the mid-2020s; status not confirmed)."
+    },
+    "potentialUseCases": [
+      "GLOF/landslide-resilient infrastructure reconstruction program (World Bank/ADB resilience financing)",
+      "Gangtok urban services and mobility (ADB urban window)",
+      "Second-generation skilling/employment operation building on INSPIRES",
+      "Organic agriculture value-chain project (JICA/IFAD-type)"
+    ],
+    "flags": [
+      "90:10 pass-through must be re-verified against the current DEA Guidelines for EAPs (policy continuity assumed, not re-confirmed post-2025)",
+      "Long gestation (2-4 years concept-to-effectiveness) — start now for FY29 money",
+      "10% loan portion and counterpart funds still require debt/budget headroom"
+    ],
+    "scores": {"financial": 5, "ease": 2, "fit": 5, "timeSensitivity": 3, "transformational": 5, "rationale": "The most concessional large-ticket money Sikkim can access (90% grant), offset by long preparation cycles and heavy process."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Mechanism and NE 90:10 terms are established pre-2026 policy; current guidelines edition, screening calendar and pipeline could not be verified in this environment."
+  },
+  {
+    "id": "world-bank-sikkim-inspires",
+    "name": "World Bank — Sikkim: Integrated Service Provision and Innovation for Reviving Economies (Sikkim INSPIRES)",
+    "shortName": "Sikkim INSPIRES",
+    "ministry": "Ministry of Finance (DEA) — borrower side; implemented by Government of Sikkim",
+    "agency": "World Bank (IBRD); Government of Sikkim implementing agencies",
+    "policyArea": "Economic revival, employment and service delivery",
+    "subcategory": "State-specific Program-for-Results operation",
+    "type": "Externally aided project",
+    "grantOrLoan": "Mixed",
+    "status": "Active",
+    "period": "Approved by the World Bank Board in June 2023; implementation period approximately 2023-2028 (closing date: Not confirmed from available official guidance)",
+    "whyItMatters": "INSPIRES is Sikkim's flagship — and first state-specific — World Bank operation (~US$100 million), aimed at reviving the state's economy with a strong focus on employment, especially for women and youth, and better service provision. Because Sikkim is an NE state, the assistance passes to the state on 90% grant : 10% loan terms, making it exceptionally cheap money. As a results-based (PforR) operation, disbursement depends on achieving agreed results indicators, so mid-implementation performance management by the state directly determines how much of the US$100 million is actually drawn by 2026-28.",
+    "eligibleApplicants": ["Government of Sikkim (single-state operation already under implementation)"],
+    "sikkimNodalDept": "Finance Department (FRED) as program coordinator with Skill Development, Labour, Commerce & Industries and line service departments (program governance per the operation's design — element requiring confirmation)",
+    "whatCanBeFunded": "Program expenditures under the agreed results framework: employment promotion and skilling (notably for women and youth), economic revival measures, strengthening service provision systems; a technical-assistance component supports capacity and data systems (component structure per PAD — requires confirmation of exact split)",
+    "fundingAvailable": "Approximately US$100 million World Bank financing approved June 2023; disbursement status as of September 2026: Not confirmed from available official guidance",
+    "fundingRatio": "Centre passes external assistance to Sikkim as 90% grant : 10% loan (NE-state EAP terms); World Bank-to-GoI terms are standard IBRD",
+    "nePreference": "true",
+    "nePreferenceDetail": "Benefits from the NE-state 90:10 EAP pass-through",
+    "stateContribution": "Counterpart program expenditure per the financing agreement (program is disbursed against results, with state budget pre-financing the program expenditure framework); exact counterpart share: Not confirmed from available official guidance",
+    "allocationMethod": "project-by-project sanction (already sanctioned; drawals now results-based/reimbursement via CAAA)",
+    "accessPathway": [
+      "Operation is live — the task is drawal, not application",
+      "Program departments execute the annual work plan and evidence achievement of Disbursement-Linked Indicators/results (requires confirmation of the current DLI status)",
+      "Independent verification of results as per the verification protocol; World Bank confirms achievement",
+      "FRED claims disbursement through CAAA/DEA; Centre passes funds to Sikkim on 90:10 terms",
+      "Mid-term review actions and any restructuring managed with DEA and the Bank (MTR status: requires confirmation)"
+    ],
+    "nextAction": "FRED should convene the INSPIRES program steering review to confirm DLI achievement and disbursement status for FY26-27 and clear any verification backlog so the remaining envelope is drawn within the closing date.",
+    "portal": "https://projects.worldbank.org/en/projects-operations/projects-list?searchTerm=sikkim",
+    "applicationWindow": "n/a — under implementation",
+    "keyDocuments": [
+      {"doc": "Results/DLI verification reports", "certainty": "confirmed"},
+      {"doc": "Program financial statements and audit reports", "certainty": "confirmed"},
+      {"doc": "Withdrawal applications via CAAA", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "World Bank (disbursement against verified results); DEA/CAAA (fund pass-through)",
+    "contact": "World Bank India country office (program TTL); DEA Multilateral Institutions Division; FRED program cell",
+    "guidelines": [
+      {"title": "Sikkim INSPIRES Program Appraisal Document and financing agreement (World Bank project page)", "url": "https://projects.worldbank.org/en/projects-operations/projects-list?searchTerm=sikkim"}
+    ],
+    "sources": [
+      {"title": "World Bank projects database — Sikkim operations", "publisher": "World Bank", "date": "current", "url": "https://projects.worldbank.org/en/projects-operations/projects-list?searchTerm=sikkim", "section": "Sikkim INSPIRES project record (direct page not openable in this environment)"},
+      {"title": "DEA — externally aided projects (pass-through terms)", "publisher": "Department of Economic Affairs", "date": "current", "url": "https://dea.gov.in", "section": "NE-state 90:10 terms"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Single-state Sikkim operation approved June 2023 (~US$100 million), Sikkim's first World Bank state-specific program; current disbursement and results status: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Drawing the remaining envelope through timely DLI verification",
+      "Using the TA component for state data/M&E systems that also serve other schemes",
+      "Designing a follow-on operation (INSPIRES-II or a resilience program) on the same 90:10 terms"
+    ],
+    "flags": [
+      "Results-based: unearned DLIs = undisbursed money; verify current achievement urgently",
+      "Approval-year details (exact amount, components, closing date) should be re-confirmed from the World Bank project page when connectivity allows",
+      "ADB Sikkim Major District Roads Upgradation Project (approved circa Dec 2021) is the other live EAP to track — amount/status not confirmed in this research"
+    ],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 4, "rationale": "Large, highly concessional, already-sanctioned money whose realisation now depends entirely on Sikkim's results performance."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Approval (June 2023, ~US$100M, PforR, employment/economic revival focus) is pre-cutoff knowledge; 2026 implementation status unverified because project pages could not be opened."
+  },
+  {
+    "id": "spa-sca-legacy-special-assistance",
+    "name": "Legacy Special Plan Assistance (SPA) / Special Central Assistance (SCA) / Normal Central Assistance (NCA) to Special Category States — status check",
+    "shortName": "SPA/SCA (Legacy)",
+    "ministry": "Ministry of Finance (formerly Planning Commission channel)",
+    "agency": "Department of Expenditure",
+    "policyArea": "Plan-era transfers to special category states",
+    "subcategory": "Discontinued plan assistance instruments",
+    "type": "Other",
+    "grantOrLoan": "Grant",
+    "status": "Discontinued",
+    "period": "Operated until FY 2014-15/2015-16; subsumed after the 14th Finance Commission award and abolition of the Planning Commission",
+    "whyItMatters": "Sikkim, as a Special Category State, historically received untied NCA on the Gadgil-Mukherjee formula (90% grant) plus SPA/SCA top-ups — instruments that older project documents and departmental expectations in Gangtok still occasionally reference. Nothing of this architecture remains: the 14th FC folded plan assistance into higher devolution, and today's functional successors are SASCI (capital loans), FC grants, NEC/NESIDS and DoNER schemes. This record exists to prevent effort being spent chasing a channel that no longer exists and to redirect legacy expectations to the live instruments.",
+    "eligibleApplicants": ["None — discontinued"],
+    "sikkimNodalDept": "Finance Department (FRED) / Development Planning, Economic Reforms & NEC Affairs Department (for legacy reconciliation)",
+    "whatCanBeFunded": "Nothing new. Legacy task only: reconciling any unreconciled SPA/SCA-era project balances or UCs in state books.",
+    "fundingAvailable": "Nil",
+    "fundingRatio": "",
+    "nePreference": "true",
+    "nePreferenceDetail": "Historically 90:10 grant-heavy terms for special category states — the lineage of today's NE preferences in CSS ratios and EAP pass-through",
+    "stateContribution": "n/a",
+    "allocationMethod": "other (discontinued formula/discretionary plan assistance)",
+    "accessPathway": [
+      "No access — instrument discontinued; any residual SPA/SCA balances in Sikkim's books should be reconciled and closed with AG (Accounts) (requires confirmation whether any remain)",
+      "Redirect legacy 'special assistance' asks to SASCI (capital), Pride of Hills window, FC-XVI grants, NEC/NESIDS and DoNER channels"
+    ],
+    "nextAction": "FRED should run a one-time ledger check with the Accountant General for any unclosed SPA/SCA-era balances and formally retire the heads, redirecting departmental proposals to SASCI and DoNER channels.",
+    "portal": null,
+    "applicationWindow": "n/a",
+    "keyDocuments": [
+      {"doc": "None (legacy reconciliation records only)", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "n/a",
+    "contact": "Department of Expenditure (legacy queries)",
+    "guidelines": [
+      {"title": "14th Finance Commission report and 2015 restructuring of central assistance (context)", "url": "https://fincomindia.nic.in"}
+    ],
+    "sources": [
+      {"title": "Special Assistance to States for Capital Investment (2020-21): Incentivising Fiscal Reform Through Capital Grants — historical context of assistance instruments", "publisher": "IMPRI", "date": "2021", "url": "https://www.impriindia.com/insights/policy-update/assistance-to-states-capitalinvestment/", "section": "Evolution from plan assistance to SASCI"},
+      {"title": "Finance Commission of India", "publisher": "fincomindia.nic.in", "date": "current", "url": "https://fincomindia.nic.in", "section": "14th FC restructuring context"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim received NCA/SPA/SCA as a Special Category State until the mid-2010s; no such transfers exist in FY 2025-26 or FY 2026-27."
+    },
+    "potentialUseCases": [
+      "Closing legacy ledger heads; institutional memory for FC-XVII advocacy on special-category treatment"
+    ],
+    "flags": [
+      "'Special Category State' status no longer carries a plan-assistance entitlement — its live value is in CSS funding ratios (90:10), EAP pass-through and FC formula effects"
+    ],
+    "scores": {"financial": 1, "ease": 1, "fit": 2, "timeSensitivity": 1, "transformational": 1, "rationale": "Recorded to prevent wasted pursuit of a dead channel and to route expectations to live successors."},
+    "openWindow": "closed",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Discontinuation of plan assistance post-14th FC is settled, well-documented policy history."
+  },
+  {
+    "id": "niti-aayog-state-support-sikkim",
+    "name": "NITI Aayog support to states — State Support Mission, NITI for States platform, Aspirational Blocks Programme and SDG localisation (Sikkim)",
+    "shortName": "NITI State Support",
+    "ministry": "NITI Aayog (Government of India)",
+    "agency": "NITI Aayog — State Support Mission; Aspirational Blocks Programme cell; SDG vertical",
+    "policyArea": "Planning support, governance transformation, development monitoring",
+    "subcategory": "Technical assistance and institutional support to state governments",
+    "type": "Technical assistance",
+    "grantOrLoan": "Technical assistance",
+    "status": "Active",
+    "period": "State Support Mission launched 2023; NITI for States digital platform launched March 2024; Aspirational Blocks Programme launched January 2023; all ongoing",
+    "whyItMatters": "NITI Aayog is not a funding line but it shapes access to money: State Support Mission teams help states build State Institutions for Transformation (SITs), prepare vision documents and improve project pipelines — exactly the capability Sikkim needs to absorb SASCI, EAP and FC flows. The NITI for States platform gives Sikkim officials curated best-practice and data support at no cost. Sikkim has no Aspirational District, and its coverage under the 500-block Aspirational Blocks Programme is not confirmed — worth establishing, since ABP blocks attract convergence attention and partner resources. Sikkim's strong SDG India Index performance is itself an advocacy asset NITI amplifies.",
+    "eligibleApplicants": ["All State Governments and UTs (demand-driven engagement)"],
+    "sikkimNodalDept": "Development Planning, Economic Reforms & North Eastern Council Affairs Department, Government of Sikkim (likely), as the NITI/planning interface",
+    "whatCanBeFunded": "No fiscal transfer: technical assistance, institutional twinning, vision-2047 document support, data/M&E systems, SDG localisation support, block-level convergence facilitation under ABP (ABP also mobilises partner/CSR resources rather than a scheme budget)",
+    "fundingAvailable": "Not a funded scheme; delta for ABP blocks comes from convergence of existing schemes and partner support. Any Sikkim-specific NITI engagement budget: Not confirmed from available official guidance.",
+    "fundingRatio": "",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "NITI runs NE-focused analytical work; no formal NE quota in these programmes",
+    "stateContribution": "Officer time; establishing/strengthening the State Institution for Transformation (Sikkim's planning transformation body — status requires confirmation)",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Planning department writes to NITI Aayog's State Support Mission seeking a structured engagement (vision document, SIT strengthening, sector diagnostics)",
+      "Onboard Sikkim officials onto the NITI for States platform and nominate a state nodal officer",
+      "Confirm with NITI whether any Sikkim block is covered under the Aspirational Blocks Programme; if yes, activate the block-level convergence framework and delta-ranking reporting; if no, assess whether inclusion can be sought (requires confirmation that inclusion is open)",
+      "Engage the NITI SDG vertical for SDG localisation support (indicator frameworks, district SDG index participation)"
+    ],
+    "nextAction": "The Development Planning, Economic Reforms & NEC Affairs Department should write to NITI Aayog's State Support Mission this quarter requesting a Sikkim engagement plan and an authoritative confirmation of Sikkim's Aspirational Blocks coverage.",
+    "portal": "https://www.niti.gov.in",
+    "applicationWindow": "Rolling / demand-driven",
+    "keyDocuments": [
+      {"doc": "State request letter identifying support areas", "certainty": "likely"},
+      {"doc": "Nomination of nodal officers for NITI for States / ABP", "certainty": "likely"}
+    ],
+    "approvingAuthority": "NITI Aayog (CEO/State Support Mission leadership)",
+    "contact": "State Support Mission, NITI Aayog, New Delhi; NITI for States platform helpdesk",
+    "guidelines": [
+      {"title": "NITI Aayog — State Support Mission and Aspirational Blocks Programme pages", "url": "https://www.niti.gov.in"}
+    ],
+    "sources": [
+      {"title": "NITI Aayog — programmes (Aspirational Districts/Blocks, State Support Mission, SDG)", "publisher": "NITI Aayog", "date": "current", "url": "https://www.niti.gov.in", "section": "Programme descriptions (pages not openable in this environment; cited as authoritative locus)"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "Sikkim has no district in the 112-district Aspirational Districts Programme (pre-2026 established fact). Whether any Sikkim block figures among the 500 Aspirational Blocks, and the depth of Sikkim's State Support Mission engagement: Not confirmed from available official guidance. Sikkim participates in the SDG India Index (historically a top performer)."
+    },
+    "potentialUseCases": [
+      "Sikkim Vision 2047 document with NITI technical support",
+      "Strengthening the state planning department into a SIT with project-pipeline capability for SASCI/EAP",
+      "SDG localisation and district indicator systems",
+      "If an ABP block exists: convergence surge in that block"
+    ],
+    "flags": [
+      "No money attached — value is in capability and pipeline quality",
+      "ABP coverage of Sikkim is a factual gap to close with NITI"
+    ],
+    "scores": {"financial": 1, "ease": 5, "fit": 4, "timeSensitivity": 2, "transformational": 3, "rationale": "Free, easy-to-access capability support that multiplies Sikkim's ability to draw the funded instruments in this cluster."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Programme architecture is established pre-2026; Sikkim-specific coverage/engagement details unverified."
+  },
+  {
+    "id": "pfms-sna-sparsh-compliance",
+    "name": "PFMS, Single Nodal Agency (SNA) framework and SNA-SPARSH 'just-in-time' releases — compliance plumbing for all Centrally Sponsored Scheme funds to Sikkim",
+    "shortName": "PFMS / SNA-SPARSH",
+    "ministry": "Ministry of Finance",
+    "agency": "Department of Expenditure — Public Financial Management System (Controller General of Accounts); Reserve Bank of India (e-Kuber, for SNA-SPARSH)",
+    "policyArea": "Public financial management / fund-flow compliance",
+    "subcategory": "CSS fund-flow architecture (SNA accounts, just-in-time releases)",
+    "type": "Other",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "SNA framework mandatory since July 2021 (DoE OM); SNA-SPARSH phased in from FY 2024-25 and being extended scheme-by-scheme; ongoing in FY 2026-27",
+    "whyItMatters": "This is not a funding source but the pipe every rupee of CSS money to Sikkim must pass through: each CSS requires a state-designated Single Nodal Agency with a mapped account, and under SNA-SPARSH funds are drawn 'just-in-time' from central and state shares at the point of actual payment through RBI/e-Kuber-integrated state treasury systems. Non-compliance — unmapped agencies, unremitted interest, delayed state share, missing UCs — directly blocks central releases across schemes, which for a transfer-dependent state like Sikkim is an existential operational risk. Sikkim's treasury (CTMIS) integration and scheme onboarding status determine how smoothly the whole CSS portfolio flows.",
+    "eligibleApplicants": ["State Governments (mandatory compliance framework for all states drawing CSS funds)"],
+    "sikkimNodalDept": "Finance Department (FRED) — Directorate of Treasuries, Pay & Accounts, as the PFMS/SNA state coordinator; every scheme department designates its SNA",
+    "whatCanBeFunded": "n/a — governs how CSS funds (all sectors) are released, parked, drawn and reported; applies scheme-by-scheme across the state's CSS portfolio",
+    "fundingAvailable": "n/a (compliance framework, not a corpus)",
+    "fundingRatio": "n/a — but note most CSS apply a 90:10 centre:state sharing ratio for NE states including Sikkim, which the SNA system enforces by requiring timely deposit of the state's 10% share",
+    "nePreference": "true",
+    "nePreferenceDetail": "Not in the framework itself, but the 90:10 CSS sharing pattern for NE states is operationalised through SNA state-share timelines",
+    "stateContribution": "State share of each CSS deposited into the SNA account within the prescribed days of central release (interest liability/withholding on default); treasury-system integration costs",
+    "allocationMethod": "other (compliance precondition governing releases under every CSS; releases themselves follow each scheme's rules)",
+    "accessPathway": [
+      "For every CSS: notify the Single Nodal Agency and open/map the SNA account (or onboard to SNA-SPARSH where notified) on PFMS",
+      "Map all implementing agencies below the SNA as zero-balance drawing accounts; complete state treasury (CTMIS)-PFMS-e-Kuber integration for SPARSH schemes (Sikkim's integration status: requires confirmation)",
+      "Deposit the state share within the prescribed timeline after central release; remit interest earned on balances to the Consolidated Fund of India",
+      "Keep unspent balances within thresholds — subsequent central instalments are contingent on utilisation of prior releases and submission of UCs on PFMS",
+      "Monitor DoE OMs for the FY27 SNA-SPARSH scheme migration list and migrate Sikkim's schemes on schedule (requires confirmation of the current list)"
+    ],
+    "nextAction": "The Directorate of Treasuries under FRED should complete a scheme-wise SNA/SNA-SPARSH compliance audit for Sikkim (mapping, state-share timeliness, interest remittance, UC pendency) before the Q3 FY27 release cycle.",
+    "portal": "https://pfms.nic.in",
+    "applicationWindow": "n/a — continuous compliance",
+    "keyDocuments": [
+      {"doc": "SNA designation and account-mapping records on PFMS per scheme", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates and expenditure reporting on PFMS", "certainty": "confirmed"},
+      {"doc": "State-share deposit and interest-remittance evidence", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Department of Expenditure (framework and release conditions); line ministries (scheme releases)",
+    "contact": "PFMS State Directorate (O/o CGA) for Sikkim; DoE PFMS Division",
+    "guidelines": [
+      {"title": "DoE OMs on CSS fund flow through SNA (July 2021 and subsequent) and SNA-SPARSH rollout OMs", "url": "https://doe.gov.in"},
+      {"title": "PFMS portal", "url": "https://pfms.nic.in"}
+    ],
+    "sources": [
+      {"title": "PFMS — Public Financial Management System", "publisher": "Controller General of Accounts, Ministry of Finance", "date": "current", "url": "https://pfms.nic.in", "section": "SNA/SNA-SPARSH framework (portal not openable in this environment; framework is established policy)"},
+      {"title": "Department of Expenditure", "publisher": "Ministry of Finance", "date": "current", "url": "https://doe.gov.in", "section": "CSS fund-flow OMs"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "As with all states, Sikkim's CSS funds flow through SNA accounts on PFMS; Sikkim's scheme-wise SNA-SPARSH migration and compliance standing: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Unblocking delayed CSS instalments by clearing UC/interest pendency",
+      "Cash-management gains: SPARSH just-in-time drawal reduces idle balances and interest liabilities",
+      "A single compliance dashboard for the Chief Secretary covering all CSS"
+    ],
+    "flags": [
+      "Non-compliance here silently throttles every CSS in the portfolio — treat as standing infrastructure, not paperwork",
+      "SNA-SPARSH requires real treasury-system integration; small states can lag on IT capacity",
+      "FY27 migration list and any revised thresholds not verified"
+    ],
+    "scores": {"financial": 3, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 2, "rationale": "No new money, but compliance quality here determines the realisation of most other central funding to Sikkim."},
+    "openWindow": "n/a",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "SNA (2021) and SNA-SPARSH (2024-25 rollout) frameworks are established policy; Sikkim's current compliance detail unverified."
+  },
+  {
+    "id": "mission-karmayogi-state-capacity",
+    "name": "Mission Karmayogi for states — iGOT Karmayogi adoption, Capacity Building Commission engagement and central training support (ISTM/LBSNAA) for Sikkim's civil services",
+    "shortName": "Mission Karmayogi (States)",
+    "ministry": "Ministry of Personnel, Public Grievances & Pensions (DoPT)",
+    "agency": "Karmayogi Bharat (SPV); Capacity Building Commission; ISTM; LBSNAA",
+    "policyArea": "Civil service capacity building",
+    "subcategory": "Competency-based training and learning platform adoption by states",
+    "type": "Capacity building",
+    "grantOrLoan": "Technical assistance",
+    "status": "Active",
+    "period": "Mission launched 2020; state onboarding via MoUs ongoing through 2024-26; continuing in FY 2026-27",
+    "whyItMatters": "Sikkim's ability to draw and execute the instruments in this cluster (SASCI project pipelines, EAP preparation, SNA compliance, FC conditionalities) is a function of a small officer cadre's skills. Mission Karmayogi lets states plug their entire workforce into the iGOT platform's role-based courses at negligible cost, with the Capacity Building Commission supporting Annual Capacity Building Plans for state departments and central institutes (ISTM, LBSNAA) supporting trainer development. Several states have signed MoUs with Karmayogi Bharat; Sikkim's adoption status is not confirmed and, if absent, is a quick, cheap win.",
+    "eligibleApplicants": ["State Governments (via MoU with Karmayogi Bharat); state training institutes; individual state officials (iGOT registration)"],
+    "sikkimNodalDept": "Department of Personnel, Government of Sikkim, with the state Administrative Training Institute (Accounts & Administrative Training Institute, Sikkim) — likely",
+    "whatCanBeFunded": "Platform access (iGOT courses, competency frameworks), support for preparing Annual Capacity Building Plans, training-of-trainers via ISTM/LBSNAA, curated capacity programs; any direct funding to states: Not confirmed from available official guidance",
+    "fundingAvailable": "Primarily non-financial (platform and institutional support); costs of state-specific course creation/MoU arrangements: Not confirmed from available official guidance",
+    "fundingRatio": "",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "No confirmed NE-specific window; NE states have been a stated outreach priority in mission communications (unverified)",
+    "stateContribution": "Nodal officers, ATI bandwidth, officer time for course completion; any co-funding per MoU terms (requires confirmation)",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Department of Personnel signs/activates an MoU with Karmayogi Bharat for state onboarding onto iGOT (Sikkim's MoU status: requires confirmation)",
+      "Nominate a State Administrative Training Institute as anchor and map departments/roles onto the platform's competency framework",
+      "Bulk-register officials on iGOT Karmayogi and set department-wise learning targets",
+      "Engage the Capacity Building Commission for Annual Capacity Building Plans of priority departments (Finance, Planning, DM)",
+      "Use ISTM/LBSNAA calendars for trainer development and mid-career slots"
+    ],
+    "nextAction": "Sikkim's Department of Personnel should confirm with Karmayogi Bharat whether a Sikkim MoU exists and, if not, execute one and bulk-onboard the Finance and Planning cadres onto iGOT this fiscal year.",
+    "portal": "https://igotkarmayogi.gov.in",
+    "applicationWindow": "Rolling",
+    "keyDocuments": [
+      {"doc": "State-Karmayogi Bharat MoU", "certainty": "likely"},
+      {"doc": "Department role-mapping and nominee lists", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Karmayogi Bharat / DoPT; Capacity Building Commission for ACBP support",
+    "contact": "Karmayogi Bharat, New Delhi (via igotkarmayogi.gov.in); Capacity Building Commission (cbc.gov.in)",
+    "guidelines": [
+      {"title": "iGOT Karmayogi platform and state onboarding information", "url": "https://igotkarmayogi.gov.in"},
+      {"title": "Capacity Building Commission", "url": "https://cbc.gov.in"}
+    ],
+    "sources": [
+      {"title": "iGOT Karmayogi", "publisher": "Karmayogi Bharat / DoPT", "date": "current", "url": "https://igotkarmayogi.gov.in", "section": "State adoption (portal not openable in this environment; mission architecture is established policy)"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "Sikkim's MoU/onboarding status with Karmayogi Bharat and iGOT usage by Sikkim officials: Not confirmed from available official guidance."
+    },
+    "potentialUseCases": [
+      "Competency building for FRED officers on EAP preparation, PFM and procurement",
+      "SNA/PFMS operational training for treasury and scheme staff",
+      "Disaster-management competency tracks for LR&DM Department",
+      "ATI Sikkim as an iGOT-anchored regional training hub"
+    ],
+    "flags": [
+      "Low cost, high enabling value — but requires sustained departmental push to convert registrations into completed learning",
+      "Verify whether any central funding supports state onboarding costs"
+    ],
+    "scores": {"financial": 1, "ease": 5, "fit": 4, "timeSensitivity": 2, "transformational": 3, "rationale": "Cheap, immediately accessible capability building that compounds Sikkim's execution capacity across every other instrument."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Mission architecture is established pre-2026 policy; Sikkim-specific adoption status unverified in this environment."
+  }
+]

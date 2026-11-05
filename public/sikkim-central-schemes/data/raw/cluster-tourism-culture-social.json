@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "swadesh-darshan-2-0",
+    "name": "Swadesh Darshan 2.0 (Destination and Tourist-Centric Development)",
+    "shortName": "SD 2.0",
+    "ministry": "Ministry of Tourism",
+    "agency": "Ministry of Tourism (Swadesh Darshan Division); implementation by State Government",
+    "policyArea": "Tourism",
+    "subcategory": "Destination development infrastructure",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Revamped January 2023; Cabinet approval for the Swadesh Darshan umbrella ran to 31 March 2026; an EFC note for continuation FY2026-27 to FY2031-32 has been formulated and submitted for approval (per Ministry of Tourism reply, December 2025)",
+    "whyItMatters": "SD 2.0 is the Ministry of Tourism's flagship 100% centrally funded destination-development window and Sikkim is already inside it: Gangtok and Gyalshing (Yuksom) were selected as SD 2.0 destinations, with the 'Gangtok Cultural Village' (Rs 22.59 crore) and 'Eco-Wellness Experience at Yuksom Cluster' (Rs 15.40 crore) sanctioned in 2023-24. For a tourism-dependent economy of ~7 lakh people these are large discretionary capital grants. The next scheme cycle (2026-32) is being finalised, so DPR pipelines prepared now can capture early sanctions once revised guidelines issue.",
+    "eligibleApplicants": ["State Governments/UT Administrations (project proposals routed through State Tourism Department)"],
+    "sikkimNodalDept": "Tourism and Civil Aviation Department, Government of Sikkim",
+    "whatCanBeFunded": "Integrated destination development: tourist amenities, wayside facilities, experiential products (cultural villages, eco-wellness clusters), last-mile connectivity within destinations, MICE/soft interventions, capacity building at destination level, in line with approved Master Plans/DPRs for selected destinations",
+    "fundingAvailable": "Project-by-project central financial assistance; Sikkim's two sanctioned SD 2.0 projects total Rs 37.99 crore (Rs 22.59 crore Gangtok + Rs 15.40 crore Yuksom, 2023-24). National SD 2.0 sanctions of roughly Rs 2,200+ crore reported. Ceilings for the 2026-32 cycle: Not confirmed from available official guidance.",
+    "fundingRatio": "100% central financial assistance for sanctioned project components (Central Sector Scheme); operation & maintenance responsibility rests with the State",
+    "nePreference": "true",
+    "nePreferenceDetail": "15 destinations in the North East were selected under SD 2.0 (Ministry of Tourism, 2023), reflecting deliberate NE coverage; NE states received priority in destination selection per Ministry statements",
+    "stateContribution": "Land, clearances, O&M and any cost overruns; no matching share for sanctioned components confirmed",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "Tourism and Civil Aviation Department prepares/updates destination Master Plans and DPRs for the notified SD 2.0 destinations (Gangtok, Gyalshing/Yuksom) through the State-level committee",
+      "Submit DPRs to Ministry of Tourism for appraisal by its Central Sanctioning and Monitoring Committee (requires confirmation of committee nomenclature under revised guidelines)",
+      "On sanction, execute through state implementing agency with PMC oversight; submit utilisation certificates for instalment releases",
+      "Track issuance of revised SD guidelines for the FY2026-27 to FY2031-32 cycle and submit fresh destination proposals immediately when the Ministry invites them (requires confirmation)"
+    ],
+    "nextAction": "Tourism and Civil Aviation Department should complete utilisation on the two sanctioned SD 2.0 projects and prepare a prioritised pipeline of 2-3 new destination proposals (e.g. Namchi, Lachen-Lachung) ready for the moment the Ministry of Tourism issues revised 2026-32 guidelines and invites fresh proposals.",
+    "portal": "https://tourism.gov.in",
+    "applicationWindow": "No standing open call; proposals invited from States by Ministry of Tourism. Fresh proposals expected after approval of the 2026-32 continuation (per December 2025 parliamentary reply).",
+    "keyDocuments": [
+      {"doc": "Destination Master Plan and project DPR", "certainty": "confirmed"},
+      {"doc": "State Government commitment on land availability and O&M", "certainty": "likely"},
+      {"doc": "Utilisation certificates for earlier sanctions", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Tourism (central sanctioning committee/competent authority)",
+    "contact": "Swadesh Darshan Division, Ministry of Tourism, Transport Bhawan, New Delhi; Secretary, Tourism and Civil Aviation Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "List of sanctioned projects under Swadesh Darshan 2.0 (as on 15.07.2025)", "url": "https://tourism.gov.in/sites/default/files/List%20of%20projects%20sanctioned%20under%20SD2.0%20Scheme_updated.pdf"},
+      {"title": "Ministry of Tourism PIB release on Swadesh Darshan Scheme (Dec 2024)", "url": "https://tourism.gov.in/sites/default/files/2024-12/PIB2086017.pdf"}
+    ],
+    "sources": [
+      {"title": "List of sanctioned projects under Swadesh Darshan 2.0 as on 15.07.2025", "publisher": "Ministry of Tourism", "date": "2025-07-15", "url": "https://tourism.gov.in/sites/default/files/List%20of%20projects%20sanctioned%20under%20SD2.0%20Scheme_updated.pdf", "section": "Sikkim rows: Gangtok Cultural Village Rs 22.59 cr; Eco-Wellness Experience at Yuksom Cluster Rs 15.40 cr"},
+      {"title": "Swadesh Darshan Scheme (PIB press release)", "publisher": "PIB / Ministry of Tourism", "date": "2025", "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2223768&reg=3&lang=1", "section": "Scheme status and sanctions"},
+      {"title": "Rajya Sabha USQ 2216 dated 18.12.2025", "publisher": "Ministry of Tourism", "date": "2025-12-18", "url": "https://tourism.gov.in/sites/default/files/2026-01/usq.2216%20for%2018.12.2025.pdf", "section": "EFC note for continuation FY2026-27 to FY2031-32 submitted"},
+      {"title": "15 destinations in NE selected for development under Swadesh Darshan 2.0", "publisher": "Business Standard", "date": "2023-11-24", "url": "https://www.business-standard.com/india-news/15-destinations-in-ne-selected-for-development-under-swadesh-darshan-2-0-123112400016_1.html", "section": "NE destination selection"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "SD 2.0 destinations Gangtok and Gyalshing selected; projects sanctioned 2023-24: 'Gangtok Cultural Village' Rs 22.59 crore and 'Eco-Wellness Experience at Yuksom Cluster' Rs 15.40 crore. Under Swadesh Darshan 1.0 Sikkim earlier received multiple North East Circuit projects (first SD project in Sikkim inaugurated 2019, PIB PRID 1561919)."
+    },
+    "potentialUseCases": [
+      "Completion and O&M handover of Gangtok Cultural Village and Yuksom eco-wellness cluster",
+      "New destination proposals for the 2026-32 cycle (e.g. Namchi/Char Dham hinterland, North Sikkim eco-circuit)",
+      "Monastery-adjacent tourist amenity upgrades framed as destination experiences"
+    ],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation", "Revised guidelines for 2026-32 cycle awaited; proposal windows will follow their issue"],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 4, "rationale": "Large 100% central grants with Sikkim already an approved destination; the imminent 2026-32 cycle makes early DPR readiness time-critical."},
+    "openWindow": "upcoming",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Sikkim sanctions confirmed from Ministry of Tourism sanctioned-project list; continuation beyond 31.3.2026 still at EFC stage as of last verified official statement (Dec 2025)."
+  },
+  {
+    "id": "cbdd-swadesh-darshan",
+    "name": "Challenge Based Destination Development (CBDD) sub-scheme of Swadesh Darshan 2.0",
+    "shortName": "CBDD",
+    "ministry": "Ministry of Tourism",
+    "agency": "Ministry of Tourism; implementation by State Government",
+    "policyArea": "Tourism",
+    "subcategory": "Competitive destination development (challenge mode)",
+    "type": "Challenge fund",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Destinations identified 2023-24 under 4 categories; sanctions ongoing through 2024-25/2025-26; tied to the Swadesh Darshan umbrella approved to 31 March 2026, with continuation EFC under process",
+    "whyItMatters": "CBDD selected 42 destinations nationally through challenge mode, and Sikkim placed two: Gnathang and Kabi (Vibrant Villages Programme and Spiritual Destinations categories). A project for Gnathang was sanctioned among the five Vibrant Villages theme projects totalling Rs 24.90 crore. This directly funds high-altitude border-village tourism (Gnathang, near Nathula) and sacred-site tourism (Kabi Lungchok, the Bhutia-Lepcha blood-brotherhood site), both core Sikkim assets.",
+    "eligibleApplicants": ["State Governments/UT Administrations whose destinations were selected through the challenge process"],
+    "sikkimNodalDept": "Tourism and Civil Aviation Department, Government of Sikkim",
+    "whatCanBeFunded": "Destination-level interventions per the challenge category: tourist infrastructure, experience development, homestay/community tourism support, sustainability measures in the selected destination, as per approved proposal",
+    "fundingAvailable": "Project-by-project sanction; Sikkim (Gnathang) is one of 5 sanctioned Vibrant Villages theme projects with combined sanction of Rs 24.90 crore (Sikkim-specific amount: Not confirmed from available official guidance)",
+    "fundingRatio": "100% central assistance for sanctioned components under the Swadesh Darshan central sector umbrella (state O&M responsibility)",
+    "nePreference": "true",
+    "nePreferenceDetail": "4 of the 42 CBDD destinations are in the North East; the Vibrant Villages category is inherently oriented to border states like Sikkim",
+    "stateContribution": "Land, O&M, execution; no matching capital share confirmed",
+    "allocationMethod": "competitive application",
+    "accessPathway": [
+      "Selected destinations (Gnathang, Kabi) already stand identified; Tourism Department finalises/executes the sanctioned Gnathang project and pursues sanction for Kabi if pending (requires confirmation of Kabi sanction status)",
+      "Submit progress reports and utilisation certificates to Ministry of Tourism for instalments",
+      "Watch for any fresh CBDD challenge round under the post-2026 Swadesh Darshan cycle and enter new candidate destinations (requires confirmation)"
+    ],
+    "nextAction": "Tourism and Civil Aviation Department should confirm the sanction status and fund flow for the Gnathang Vibrant Villages project and press the Ministry of Tourism for sanction of the identified Kabi spiritual-destination proposal.",
+    "portal": "https://tourism.gov.in",
+    "applicationWindow": "Challenge round for the current 42 destinations is closed; future rounds not announced",
+    "keyDocuments": [
+      {"doc": "CBDD proposal/DPR for the selected destination per CBDD guidelines", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates and progress reports", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Tourism",
+    "contact": "Swadesh Darshan Division, Ministry of Tourism; Secretary, Tourism and Civil Aviation Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "Guidelines for Challenge Based Destination Development under SD 2.0", "url": "https://tourism.gov.in/sites/default/files/Guidelines%20for%20Challenged%20Based%20Destination%20Development%20under%20SD%202.0.pdf"},
+      {"title": "List of Projects sanctioned under CBDD", "url": "https://tourism.gov.in/sites/default/files/List%20of%20Projects%20sanctioned%20under%20CBDD.pdf"}
+    ],
+    "sources": [
+      {"title": "Challenge Based Destination Development Component Under SDS 2.0", "publisher": "PIB / Ministry of Tourism", "date": "2025", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2200321&reg=3&lang=1", "section": "5 Vibrant Villages projects incl. Sikkim (Gnathang) for Rs 24.90 crore"},
+      {"title": "Development of Selected Tourism Destinations under CBDD", "publisher": "PIB / Ministry of Tourism", "date": "2025-03", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2111806", "section": "42 destinations under 4 categories"},
+      {"title": "Rajya Sabha USQ 454 (25.07.2024) - CBDD destination list", "publisher": "Ministry of Tourism / Rajya Sabha", "date": "2024-07-25", "url": "https://rsdebate.nic.in/bitstream/123456789/749753/1/PQ_265_25072024_U454_p491_p493.pdf", "section": "Sikkim entries: Gnathang, Kabi"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Gnathang and Kabi identified among the 42 CBDD destinations (Vibrant Villages Programme / Spiritual Destinations categories); Gnathang project sanctioned under the Vibrant Villages theme (part of Rs 24.90 crore across 5 states)."
+    },
+    "potentialUseCases": [
+      "Gnathang border-village tourism infrastructure and winter tourism products",
+      "Kabi Lungchok sacred-grove spiritual tourism development",
+      "Community homestay clusters along the Nathula axis"
+    ],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation", "Sikkim-specific sanctioned amount for Gnathang not separately published in sources located; Kabi sanction status requires confirmation"],
+    "scores": {"financial": 3, "ease": 3, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Moderate sums but precisely targeted at Sikkim's border-village and spiritual tourism assets; execution of already-won selections is the main task."},
+    "openWindow": "closed",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Destination identification and Vibrant Villages sanction confirmed via PIB and parliamentary reply; per-project amount for Gnathang unverified."
+  },
+  {
+    "id": "prashad-scheme",
+    "name": "Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive (PRASHAD)",
+    "shortName": "PRASHAD",
+    "ministry": "Ministry of Tourism",
+    "agency": "Ministry of Tourism; execution by State Government/identified agencies",
+    "policyArea": "Tourism / Religious heritage",
+    "subcategory": "Pilgrimage and spiritual site infrastructure",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Launched 2014-15; approved for continuation to 31 March 2026; EFC note for FY2026-27 to FY2031-32 continuation submitted (per Ministry of Tourism reply, December 2025)",
+    "whyItMatters": "PRASHAD funds 100% central assistance for pilgrimage-site infrastructure, and Sikkim already holds a large sanction: 'Development of Pilgrimage Facilitation at Four Patron Saints, Yuksom' for Rs 33.32 crore (2020-21), anchored on the coronation site of the first Chogyal and West Sikkim's sacred Buddhist landscape. Sikkim's monastery circuit (Rumtek, Pemayangtse, Tashiding) and the Kirateshwar/Char Dham Hindu sites make it a strong candidate for new sanctions in the next cycle, and Buddhist-circuit tourism is a stated national priority.",
+    "eligibleApplicants": ["State Governments/UT Administrations (sites must be identified/approved under the scheme)"],
+    "sikkimNodalDept": "Tourism and Civil Aviation Department, Government of Sikkim (with Ecclesiastical Affairs Department for monastery sites)",
+    "whatCanBeFunded": "Passenger amenities at pilgrimage sites: parking, pathways, toilets, cloakrooms, illumination, tourist information/interpretation centres, sound-and-light, ghats/approach improvements, first aid, drinking water, connectivity within the site",
+    "fundingAvailable": "Project-by-project sanction; Sikkim's existing sanction Rs 33.32 crore (Yuksom, 2020-21); 46 projects sanctioned nationally as of 2024. New-cycle ceilings: Not confirmed from available official guidance.",
+    "fundingRatio": "100% central financial assistance for public-funded components (Central Sector Scheme)",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "No explicit NE-preferential provision located in official guidance reviewed",
+    "stateContribution": "Land, clearances, O&M; components with revenue potential may involve other arrangements per guidelines (requires confirmation)",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "Tourism Department (with Ecclesiastical Affairs Department) shortlists pilgrimage sites and prepares DPRs consistent with PRASHAD guidelines",
+      "Proposal submitted to Ministry of Tourism; appraisal and sanction by the Central Sanctioning and Monitoring Committee",
+      "Implementation via state executing agency; instalment releases against utilisation certificates and physical progress",
+      "Complete/close the Yuksom Four Patron Saints project to strengthen the state's case in the 2026-32 cycle (requires confirmation of completion status)"
+    ],
+    "nextAction": "Tourism and Civil Aviation Department should report completion status of the Rs 33.32 crore Yuksom Four Patron Saints project to the Ministry of Tourism and prepare a monastery-circuit DPR (e.g. Tashiding or Rumtek pilgrimage facilitation) for the post-2026 PRASHAD cycle.",
+    "portal": "https://tourism.gov.in",
+    "applicationWindow": "No standing open call; site identification and proposals move through Ministry of Tourism; fresh proposals expected after 2026-32 continuation is approved",
+    "keyDocuments": [
+      {"doc": "Site-specific DPR per PRASHAD guidelines", "certainty": "confirmed"},
+      {"doc": "State commitment on land and O&M", "certainty": "likely"},
+      {"doc": "Utilisation certificates for the 2020-21 Yuksom sanction", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Tourism (Central Sanctioning and Monitoring Committee)",
+    "contact": "PRASHAD Division, Ministry of Tourism, New Delhi; Secretary, Tourism and Civil Aviation Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "PRASHAD Scheme Guidelines (15th Finance Commission cycle)", "url": "https://tourism.gov.in/sites/default/files/2023-08/PRASHAD%2015th%20FC%20Scheme%20Guidelines.pdf"}
+    ],
+    "sources": [
+      {"title": "PRASHAD SCHEME (PIB, 25 Nov 2024)", "publisher": "PIB / Ministry of Tourism", "date": "2024-11-25", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2076959", "section": "Scheme description; sanctioned projects"},
+      {"title": "Ministry of Tourism PRASHAD press release (project list incl. Four Patron Saints, Yuksom)", "publisher": "Ministry of Tourism", "date": "2024-11-25", "url": "https://tourism.gov.in/sites/default/files/2024-11/Press%20Release1_25_Nov_2024.pdf", "section": "Sikkim: Pilgrimage facilitation at Four Patron Saints, Yuksom"},
+      {"title": "Rajya Sabha USQ 2216 dated 18.12.2025", "publisher": "Ministry of Tourism", "date": "2025-12-18", "url": "https://tourism.gov.in/sites/default/files/2026-01/usq.2216%20for%2018.12.2025.pdf", "section": "Continuation EFC for FY2026-27 to FY2031-32"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "'Development of Pilgrimage Facilitation at Four Patron Saints at Yuksom, Sikkim' sanctioned for Rs 33.32 crore in 2020-21 (Ministry of Tourism project lists / parliamentary replies)."
+    },
+    "potentialUseCases": [
+      "Pilgrimage facilitation at Tashiding (Bumchu festival crowds) or Rumtek monastery access corridor",
+      "Completion of Yuksom Four Patron Saints facilities",
+      "Interpretation centres linking monastery circuits with Khangchendzonga sacred landscape"
+    ],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation", "National completion record under PRASHAD is weak (under 50% of 46 projects completed in 10 years per press reporting) - execution capacity matters for new sanctions"],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 3, "transformational": 4, "rationale": "Direct fit with Sikkim's Buddhist pilgrimage assets and an existing Rs 33 crore precedent; next cycle timing rewards early DPR work."},
+    "openWindow": "upcoming",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Yuksom sanction and amount confirmed from official lists; new-cycle parameters not yet published."
+  },
+  {
+    "id": "sasci-iconic-tourist-centres",
+    "name": "Special Assistance to States for Capital Investment (SASCI) - Development of Iconic Tourist Centres to Global Scale",
+    "shortName": "SASCI Tourism Window",
+    "ministry": "Ministry of Finance (Department of Expenditure) with Ministry of Tourism appraisal",
+    "agency": "Department of Expenditure releases funds; Ministry of Tourism evaluates projects; State Government implements",
+    "policyArea": "Tourism",
+    "subcategory": "Iconic destination capital investment (interest-free loan window)",
+    "type": "Infrastructure financing",
+    "grantOrLoan": "Loan",
+    "status": "Active but current call closed",
+    "period": "FY2024-25 round: 40 projects, Rs 3,295.76 crore, 23 states, sanctioned November 2024; central financial support available until 31 March 2026 with ~2-year project completion horizon. Subsequent tourism-window rounds: Not confirmed from available official guidance.",
+    "whyItMatters": "This is the largest recent per-project tourism financing line and Sikkim secured two of the 40 projects in FY2024-25: the Bhaleydhunga Skywalk at Yangang (Rs 97.37 crore) and a Border Experience at Nathula. Funds flow as 50-year interest-free loans to the state under the SASCI umbrella, so they expand capital space without immediate fiscal cost. Timely execution before the 31 March 2026 support deadline (and any extension) is the critical live issue, and a strong delivery record positions Sikkim for future SASCI tourism rounds.",
+    "eligibleApplicants": ["State Governments only (proposals routed through the state's Tourism and Finance/Planning departments to Ministry of Tourism/DEA-DoE)"],
+    "sikkimNodalDept": "Tourism and Civil Aviation Department with Finance Department, Government of Sikkim",
+    "whatCanBeFunded": "Comprehensive development of iconic tourist centres to global standards - large experiential anchor infrastructure (e.g. skywalks, border tourism experiences), including branding and marketing at global scale; land to be provided by the state",
+    "fundingAvailable": "FY2024-25 round: Rs 3,295.76 crore for 40 projects nationally; Sikkim: Rs 97.37 crore (Bhaleydhunga Skywalk, Yangang, Namchi district) plus the Nathula Border Experience project (amount: Not confirmed from available official guidance)",
+    "fundingRatio": "100% of sanctioned project cost as 50-year interest-free loan to the state under SASCI (per SASCI scheme design); note this is a loan, not a grant",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "No explicit NE reservation confirmed for the tourism window; Sikkim nonetheless won 2 of 40 projects in the 2024-25 round",
+    "stateContribution": "Land free of encumbrance, clearances, cost overruns, and O&M; repayment obligation of the 50-year interest-free loan per SASCI terms",
+    "allocationMethod": "project-by-project sanction",
+    "accessPathway": [
+      "Ministry of Tourism/DoE invite project proposals from states under the SASCI tourism window (operational guidelines issued per round)",
+      "State Tourism Department, with Finance Department concurrence, submits iconic-destination project proposals with DPRs and land commitment",
+      "Ministry of Tourism evaluates and recommends; Department of Expenditure sanctions and releases as SASCI capital-investment loan",
+      "State implements within the ~2-year completion window and reports milestones; unspent support lapses after the scheme deadline (requires confirmation of any extension beyond 31 March 2026)"
+    ],
+    "nextAction": "Tourism and Civil Aviation Department, with the Finance Department, should fast-track physical progress on the Bhaleydhunga Skywalk and Nathula Border Experience and formally seek Department of Expenditure confirmation on fund availability/extension beyond 31 March 2026, while readying one flagship proposal for any FY2026-27 SASCI tourism round.",
+    "portal": null,
+    "applicationWindow": "FY2024-25 round closed (sanctioned November 2024); any FY2025-26/FY2026-27 tourism-window round not confirmed",
+    "keyDocuments": [
+      {"doc": "Project DPR with global-scale destination plan", "certainty": "confirmed"},
+      {"doc": "State land commitment and Finance Department concurrence", "certainty": "confirmed"},
+      {"doc": "Milestone/progress reports to MoT and DoE", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Department of Expenditure, Ministry of Finance, on Ministry of Tourism evaluation",
+    "contact": "Ministry of Tourism (SASCI cell) and Department of Expenditure; Secretary Tourism and Secretary Finance, Government of Sikkim",
+    "guidelines": [
+      {"title": "State-wise details of projects sanctioned under SASCI - Development of Iconic Tourist Centers (2024-25)", "url": "https://www.data.gov.in/resource/state-wise-details-projects-sanctioned-under-special-assistance-states-capital-investment"},
+      {"title": "Lok Sabha USQ 2370 (04.08.2025) on SASCI tourism projects", "url": "https://tourism.gov.in/sites/default/files/2025-08/usq.2370%20for%2004.08.2025.pdf"}
+    ],
+    "sources": [
+      {"title": "Sikkim: Government of India approves Rs 3,295 crore for 40 tourism projects, including Skywalk and Border Experience", "publisher": "The Sentinel (Assam)", "date": "2024-11", "url": "https://www.sentinelassam.com/north-east-india-news/sikkim-news/centre-allocates-funds-to-boost-tourism-in-sikkim", "section": "Sikkim's two projects: Bhaleydhunga Skywalk Rs 97.37 crore; Nathula Border Experience"},
+      {"title": "Centre launches SASCI scheme to develop iconic tourist destinations at global standards", "publisher": "DD News", "date": "2024", "url": "https://ddnews.gov.in/en/centre-launches-sasci-scheme-to-develop-iconic-tourist-destinations-at-global-scale/", "section": "Scheme design; funding to 31.3.2026; 2-year completion"},
+      {"title": "Lok Sabha USQ 2370 dated 04.08.2025", "publisher": "Ministry of Tourism", "date": "2025-08-04", "url": "https://tourism.gov.in/sites/default/files/2025-08/usq.2370%20for%2004.08.2025.pdf", "section": "SASCI sanctioned project details"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Two Sikkim projects sanctioned in the FY2024-25 round: Skywalk at Bhaleydhunga, Yangang (Namchi district) for Rs 97.37 crore, and a Border Experience project at Nathula (amount not separately confirmed)."
+    },
+    "potentialUseCases": [
+      "Completion of Bhaleydhunga Skywalk as a global-scale ecotourism anchor",
+      "Nathula border tourism experience integrated with Gnathang CBDD works",
+      "Future round: a Khangchendzonga gateway or ropeway-linked iconic centre proposal"
+    ],
+    "flags": ["Loan, not grant - 50-year interest-free SASCI capital-investment terms apply", "Central support deadline of 31 March 2026 has passed; status of extension/residual releases for incomplete works needs confirmation", "Future tourism-window rounds under SASCI for FY2026-27 not yet confirmed"],
+    "scores": {"financial": 5, "ease": 2, "fit": 5, "timeSensitivity": 4, "transformational": 5, "rationale": "Nearly Rs 100+ crore per project and marquee assets for a tourism economy; but loan character, hard deadlines and heavy execution demands cut ease."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "2024-25 sanctions well documented (official data portal, parliamentary replies, state-press); post-March-2026 fund-flow status and any new round unverified."
+  },
+  {
+    "id": "mot-capacity-building-paryatan-mitra",
+    "name": "Ministry of Tourism Capacity Building - Capacity Building for Service Providers (CBSP) and Paryatan Mitra / Paryatan Didi",
+    "shortName": "CBSP / Paryatan Mitra-Didi",
+    "ministry": "Ministry of Tourism",
+    "agency": "Ministry of Tourism with Institutes of Hotel Management, IITTM, State Tourism Departments and training partners",
+    "policyArea": "Tourism",
+    "subcategory": "Tourism skilling and hospitality capacity building",
+    "type": "Capacity building",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "CBSP is an ongoing MoT programme; Paryatan Mitra / Paryatan Didi launched 27 September 2024, piloted in 6 destinations and expanded to 50 destinations. Continuation of specific components into FY2026-27: Current continuation beyond FY2025-26 needs confirmation.",
+    "whyItMatters": "Sikkim's tourism economy runs on small service providers - homestay hosts, drivers, guides, porters - exactly the audience of CBSP short courses and the Paryatan Mitra/Paryatan Didi ambassador training, which emphasises women and youth and products like heritage walks, food tours and nature treks. With homestays central to Sikkim's rural tourism model and high youth unemployment, centrally funded training is a low-effort, quick win. Whether any Sikkim destination is in the 50-destination Paryatan Mitra expansion is not confirmed and should be pursued.",
+    "eligibleApplicants": ["State Tourism Departments and state institutes as training convenors", "Institutes of Hotel Management/Food Craft Institutes", "Individual service providers as trainees (through organised programmes)"],
+    "sikkimNodalDept": "Tourism and Civil Aviation Department, Government of Sikkim",
+    "whatCanBeFunded": "Short-duration skill training for tourism service providers (guides, homestay operators, transport and hospitality staff), tourist-facilitation/ambassador training (Paryatan Mitra/Didi), digital literacy for tourism micro-entrepreneurs, training of women as Paryatan Didis",
+    "fundingAvailable": "Programme-based central funding of training costs; per-programme norms: Not confirmed from available official guidance",
+    "fundingRatio": "Not confirmed from available official guidance",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Aizawl (Mizoram) was among the 6 national pilots, indicating NE inclusion in rollout, but no formal NE preference located",
+    "stateContribution": "Mobilisation of trainees, venues and local coordination (requires confirmation)",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Tourism and Civil Aviation Department writes to Ministry of Tourism (and its NE regional office) seeking inclusion of Sikkim destinations (e.g. Gangtok, Yuksom, Kitam) in the Paryatan Mitra/Paryatan Didi destination list (requires confirmation of current list)",
+      "Propose CBSP training batches with numbers, trades and venues through the Ministry's designated institute (IHM/IITTM) channel",
+      "Run training with MoT-funded partners; report trained numbers and outcomes"
+    ],
+    "nextAction": "Tourism and Civil Aviation Department should formally request the Ministry of Tourism to include Gangtok and at least one rural destination (e.g. Kitam or Yuksom) in the Paryatan Mitra/Paryatan Didi programme and simultaneously propose CBSP batches for homestay and guide training for the 2026-27 season.",
+    "portal": "https://tourism.gov.in",
+    "applicationWindow": "Rolling/demand-driven; no fixed call located",
+    "keyDocuments": [
+      {"doc": "State proposal for training batches (trades, trainee numbers, venues)", "certainty": "likely"},
+      {"doc": "Destination nomination letter for Paryatan Mitra/Didi", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Tourism",
+    "contact": "Ministry of Tourism (Skill Development / Overseas Marketing divisions as applicable); Director, Tourism Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "Ministry of Tourism launches Paryatan Mitra and Paryatan Didi (PIB)", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2059407"}
+    ],
+    "sources": [
+      {"title": "Ministry of Tourism Launches Paryatan Mitra and Paryatan Didi - A National Responsible Tourism Initiative", "publisher": "PIB / Ministry of Tourism", "date": "2024-09-27", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2059407", "section": "Launch, pilots, women/youth focus"},
+      {"title": "Paryatan Mitra and Paryatan Didi (PIB update)", "publisher": "PIB / Ministry of Tourism", "date": "2024-12", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2079783", "section": "Expansion to 50 destinations; ~3,000 trained"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "Sikkim was not among the 6 pilot destinations; inclusion in the expanded 50-destination list could not be confirmed from sources located. CBSP training in Sikkim likely conducted historically but not verified in this pass."
+    },
+    "potentialUseCases": [
+      "Paryatan Didi training for women homestay operators in Dzongu and South Sikkim villages",
+      "Guide/storyteller training around monastery circuits and Khangchendzonga trails",
+      "Hospitality short courses ahead of peak seasons"
+    ],
+    "flags": ["Sikkim's inclusion in Paryatan Mitra/Didi destination list requires confirmation", "Current continuation beyond FY2025-26 needs confirmation"],
+    "scores": {"financial": 2, "ease": 4, "fit": 4, "timeSensitivity": 3, "transformational": 2, "rationale": "Small money but easy to access and directly serves Sikkim's homestay/guide workforce; good quick win."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Programme existence and design confirmed via PIB; Sikkim-specific coverage and current-year funding norms unverified."
+  },
+  {
+    "id": "rural-tourism-best-tourism-villages",
+    "name": "Rural Tourism development and Best Tourism Villages / Best Tourism Villages Competition (with Dekho Apna Desh promotion)",
+    "shortName": "Best Tourism Villages",
+    "ministry": "Ministry of Tourism",
+    "agency": "Ministry of Tourism (Central Nodal Agency for Rural Tourism and Rural Homestays); State Tourism Departments",
+    "policyArea": "Tourism",
+    "subcategory": "Rural tourism, homestays and village-level recognition",
+    "type": "Mission/programme",
+    "grantOrLoan": "Other",
+    "status": "Active",
+    "period": "Best Tourism Villages Competition held annually since 2023 (2023: 35 winners; 2024 winners announced September 2024); rural tourism strategy ongoing. 2025/2026 edition details: Not confirmed from available official guidance.",
+    "whyItMatters": "Sikkim's village-and-homestay model is nationally recognised: Kitam was among the 35 villages awarded in the first Best Tourism Villages Competition (2023), and Sikkim Tourism won an Award of Excellence for rural and sustainable tourism at TTF Mumbai 2026. BTV recognition brings branding, mentoring and priority in Ministry of Tourism rural tourism support, and feeds village-level development under SD 2.0 rural tourism/vibrant villages themes. The competition is an annual, low-cost opportunity where Sikkim's Dzongu, Yuksom, Lachen-type villages are highly competitive. Dekho Apna Desh (including the People's Choice 2024 poll) is the companion demand-promotion vehicle in which Sikkim attractions can be pushed for visibility.",
+    "eligibleApplicants": ["Villages nominated through State Tourism Departments (BTV Competition)", "State Governments for rural tourism cluster support"],
+    "sikkimNodalDept": "Tourism and Civil Aviation Department, Government of Sikkim (with Rural Development Department for village-level convergence)",
+    "whatCanBeFunded": "Recognition-linked support: national branding and promotion of awarded villages, capacity building/mentoring for village tourism committees, convergence-based development of rural tourism clusters and homestays; direct capital grants are not the primary instrument (development flows via SD 2.0/CBDD and state convergence)",
+    "fundingAvailable": "No fixed grant envelope confirmed for awardees; value is recognition, promotion, training and priority in destination-development pipelines. Not confirmed from available official guidance.",
+    "fundingRatio": "Not confirmed from available official guidance",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "No formal NE quota located; NE villages have featured among winners",
+    "stateContribution": "Nomination preparation, village readiness, convergence funding from state/MGNREGA/RD schemes",
+    "allocationMethod": "competitive application",
+    "accessPathway": [
+      "Tourism Department identifies candidate villages against the competition's SDG-aligned criteria (cultural resources, sustainability, community governance)",
+      "Prepare and submit village applications on the rural tourism portal (rural.tourism.gov.in) in the annual window",
+      "For awarded villages, work with the Central Nodal Agency on branding, training and development planning",
+      "Leverage BTV status in SD 2.0 / CBDD / state proposals for capital works"
+    ],
+    "nextAction": "Tourism and Civil Aviation Department should nominate 3-5 villages (e.g. in Dzongu, Yuksom cluster, Gnathang) in the next Best Tourism Villages Competition window via rural.tourism.gov.in and request the Central Nodal Agency's mentoring for previous winner Kitam.",
+    "portal": "https://www.rural.tourism.gov.in/best-rural-village-competition.html",
+    "applicationWindow": "Annual competition window (announced on the rural tourism portal); next edition dates unknown",
+    "keyDocuments": [
+      {"doc": "Village application with evidence against competition criteria (SDG-aligned)", "certainty": "confirmed"},
+      {"doc": "State Tourism Department recommendation", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Tourism (national jury/evaluation committee)",
+    "contact": "Central Nodal Agency - Rural Tourism and Rural Homestays, Ministry of Tourism; Tourism Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "Best Tourism Village Competition - Rural Tourism portal", "url": "https://www.rural.tourism.gov.in/best-rural-village-competition.html"},
+      {"title": "Ministry of Tourism announces Winners of Best Tourism Villages Competition 2024 (PIB)", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2059419"}
+    ],
+    "sources": [
+      {"title": "'Best tourism villages': J&K to Sikkim, 35 villages awarded", "publisher": "ThePrint / PTI", "date": "2023-09", "url": "https://theprint.in/india/best-tourism-villages-jk-to-sikkim-35-villages-awarded-for-promoting-sustainability-conservation-of-cultural-resources/1780543/", "section": "Kitam (Sikkim) among 35 winners, 2023"},
+      {"title": "Winners of Best Tourism Villages Competition-2024", "publisher": "PIB / Ministry of Tourism", "date": "2024-09-27", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2059419", "section": "2024 edition"},
+      {"title": "Dekho Apna Desh, People's Choice 2024", "publisher": "MyGov / Ministry of Tourism", "date": "2024", "url": "https://innovateindia.mygov.in/dekho-apna-desh/", "section": "Nationwide destination poll feeding investment prioritisation"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Kitam village (Namchi district) awarded in the Best Tourism Villages Competition 2023; Sikkim Tourism received an Award of Excellence for rural/sustainable tourism at TTF Mumbai 2026. Sikkim entries/results in the 2024-2026 editions not confirmed."
+    },
+    "potentialUseCases": [
+      "BTV nominations for Dzongu (Lepcha heritage), Yuksom, Gnathang and Kewzing-type villages",
+      "Homestay cluster branding and national promotion via Dekho Apna Desh channels",
+      "Using BTV status to anchor SD 2.0 rural tourism sub-projects"
+    ],
+    "flags": ["Primarily recognition/promotion rather than a direct grant line - pair with SD 2.0/CBDD for capital", "Next competition window dates need confirmation"],
+    "scores": {"financial": 2, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 2, "rationale": "Cheap to enter and perfectly matched to Sikkim's village tourism brand, but money flows only indirectly."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Kitam's 2023 award and competition mechanics confirmed; current-year window unverified."
+  },
+  {
+    "id": "kala-sanskriti-vikas-yojana",
+    "name": "Kala Sanskriti Vikas Yojana (KSVY) - umbrella scheme for promotion of art and culture",
+    "shortName": "KSVY",
+    "ministry": "Ministry of Culture",
+    "agency": "Ministry of Culture (scheme components partly operated through Zonal Cultural Centres and expert committees)",
+    "policyArea": "Culture and heritage",
+    "subcategory": "Performing arts, festivals, cultural organisations and infrastructure",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing Central Sector umbrella (8 components); active per PIB releases through 2025. Component-wise continuation into the FY2026-27 cycle: Current continuation beyond FY2025-26 needs confirmation.",
+    "whyItMatters": "KSVY is the main route for funding Sikkim's living culture - masked chaam dances, Pang Lhabsol, Lepcha and Limboo music and theatre, Losar/Losoong festivals - through grants to cultural organisations, artists and festival producers. Components include the Cultural Function and Production Grant (up to Rs 5 lakh per event for organisations), repertory/Guru-Shishya Parampara salary grants for troupes, and cultural infrastructure grants (up to Rs 25 lakh in non-metro locations for studio theatres/auditoria). Most components fund NGOs/societies/individuals rather than the state government, so the state's role is to activate and shepherd Sikkim's cultural bodies into these windows.",
+    "eligibleApplicants": ["NGOs, societies, trusts, universities and colleges in the cultural field", "Cultural organisations/repertories and gurus with shishyas", "Individual artists (scholarship/fellowship components)", "Government-sponsored bodies for some components"],
+    "sikkimNodalDept": "Cultural Affairs and Heritage Department, Government of Sikkim (as facilitator; applicants are mostly organisations)",
+    "whatCanBeFunded": "Festivals, seminars, workshops, exhibitions, production of dance/drama/music (CFPG up to Rs 5 lakh); repertory salaries under Guru-Shishya Parampara; cultural infrastructure - studio theatre, auditorium, rehearsal halls with equipment (up to Rs 50 lakh metro / Rs 25 lakh non-metro); scholarships, fellowships and awards to artists",
+    "fundingAvailable": "Component-wise ceilings as above; overall envelope demand-driven. Not confirmed from available official guidance for FY2026-27 allocations.",
+    "fundingRatio": "100% central grant to selected applicants (Central Sector Scheme); some components require organisational track record and co-organisation capacity",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Some MoC components historically ease norms for NE applicants, but no specific KSVY NE provision was confirmed in sources located",
+    "stateContribution": "None mandated for organisational grants; state may co-fund festivals voluntarily",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Cultural Affairs and Heritage Department maps Sikkim's registered cultural societies, monastic dance troupes and festival committees against KSVY components",
+      "Eligible organisations register and apply on the Ministry of Culture's scheme application system (CSMS portal on indiaculture.gov.in) in the notified cycles (requires confirmation of current portal/cycle)",
+      "Expert committee at Ministry of Culture appraises; grants released to organisations, typically in instalments against utilisation",
+      "Department tracks sanctions and supports UC compliance so organisations remain eligible in later years"
+    ],
+    "nextAction": "Cultural Affairs and Heritage Department should hold an application camp for Sikkim's cultural societies (chaam troupes, Lepcha/Limboo cultural associations, festival committees) to file CFPG and Guru-Shishya Parampara applications on the Ministry of Culture portal in the next cycle.",
+    "portal": "https://indiaculture.gov.in",
+    "applicationWindow": "Component-wise application cycles notified by Ministry of Culture; no single fixed window",
+    "keyDocuments": [
+      {"doc": "Society/trust registration and 3-year activity record with audited accounts", "certainty": "confirmed"},
+      {"doc": "Event/production proposal with budget (CFPG)", "certainty": "confirmed"},
+      {"doc": "State government/district authority recommendation for certain components", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Culture (expert committees per component)",
+    "contact": "Ministry of Culture, Shastri Bhawan, New Delhi; Secretary, Cultural Affairs and Heritage Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "KSVY for the promotion of art and culture in India (PIB)", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226929&reg=3&lang=1"},
+      {"title": "Cultural Function and Production Grant (CFPG) - Ministry of Culture", "url": "https://www.indiaculture.gov.in/cultural-function-and-production-grantcfpg"},
+      {"title": "Financial Assistance for Promotion of Guru-Shishya Parampara (Repertory Grant)", "url": "https://www.indiaculture.gov.in/financial-assistance-promotion-guru-shishya-parampara-repertory-grant"}
+    ],
+    "sources": [
+      {"title": "Kala Sanskriti Vikas Yojana (PIB)", "publisher": "PIB / Ministry of Culture", "date": "2025-08", "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2153594", "section": "Umbrella structure, 8 components"},
+      {"title": "KSVY for the promotion of art and culture in India", "publisher": "PIB / Ministry of Culture", "date": "2025-12", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226929&reg=3&lang=1", "section": "Component details and grant quanta"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "No Sikkim-specific KSVY sanction list was located in this pass; Sikkim organisations' uptake needs to be checked against Ministry of Culture sanction records."
+    },
+    "potentialUseCases": [
+      "CFPG grants for Pang Lhabsol, Losoong/Namsoong and Saga Dawa festival productions",
+      "Guru-Shishya Parampara repertory support for chaam and Lepcha folk ensembles",
+      "Non-metro cultural infrastructure grant (up to Rs 25 lakh) for a rehearsal hall/studio theatre in Gangtok or Namchi"
+    ],
+    "flags": ["Applicants are mostly non-government cultural organisations - state role is facilitation", "Current continuation beyond FY2025-26 needs confirmation"],
+    "scores": {"financial": 2, "ease": 3, "fit": 4, "timeSensitivity": 2, "transformational": 2, "rationale": "Modest per-grant sums but sustained support for Sikkim's living heritage; low state effort once organisations are mobilised."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Component structure and ceilings from PIB/MoC pages; Sikkim uptake and FY2026-27 cycles unverified."
+  },
+  {
+    "id": "buddhist-tibetan-arts-culture-scheme",
+    "name": "Scheme of Financial Assistance for Preservation and Development of Buddhist/Tibetan Culture and Arts",
+    "shortName": "Buddhist/Tibetan Culture Scheme",
+    "ministry": "Ministry of Culture",
+    "agency": "Ministry of Culture (Buddhist & Tibetan Institutions section)",
+    "policyArea": "Culture and heritage",
+    "subcategory": "Buddhist monastery preservation, monastic education and Tibetan/Buddhist arts",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing Central Sector scheme; sanction orders (including for Sikkim organisations) published on the Ministry of Culture site. Continuation into the new scheme cycle: Current continuation beyond FY2025-26 needs confirmation.",
+    "whyItMatters": "This is arguably the single most Sikkim-shaped culture scheme in the Government of India: it funds voluntary Buddhist/Tibetan organisations including monasteries for propagation of Buddhist culture, monastic education, and repair/restoration/renovation of ancient monasteries and Buddhist heritage buildings. Sikkim's 200+ monasteries (Rumtek, Pemayangtse, Tashiding, Enchey, Phodong and many village gompas) and shedas are directly eligible, and organisations in NE states and Sikkim enjoy a simplified route - applying direct to the Ministry with only the District Collector/DC's recommendation. Sanction orders show first-instalment releases to organisations in Assam, Sikkim and Tripura.",
+    "eligibleApplicants": ["Voluntary Buddhist/Tibetan organisations including monasteries, registered under the Societies Registration Act or similar, mainly devoted to Buddhist/Tibetan studies and functioning for at least 3 years"],
+    "sikkimNodalDept": "Ecclesiastical Affairs Department, Government of Sikkim (facilitation; DC recommendation required for applications)",
+    "whatCanBeFunded": "Repairs, restoration and renovation of ancient monasteries and Buddhist heritage buildings; construction/repair/extension of classrooms, school buildings, hostels and training centres focused on Buddhist/Tibetan art and culture (with toilets and drinking water); propagation and research activities; support to monks/scholars per guidelines",
+    "fundingAvailable": "Up to Rs 30 lakh per year per organisation, extendable to Rs 1 crore in exceptional cases",
+    "fundingRatio": "For North-Eastern States and Sikkim, funding shared between Government of India and State Government in the ratio 90:10 (per scheme guidelines as located)",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE states, Sikkim, and Leh/Kargil organisations apply direct to the Ministry of Culture with only the District Collector/Deputy Commissioner's recommendation (others need State Government routing); 90:10 sharing provision specific to NE/Sikkim",
+    "stateContribution": "10% share where the 90:10 NE/Sikkim provision applies (per guidelines located); otherwise none for the organisation grants",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "Monastery/organisation confirms eligibility (registered 3+ years, devoted to Buddhist/Tibetan studies) and prepares application with audited accounts and activity record",
+      "Obtain recommendation of the District Collector/Deputy Commissioner (simplified NE/Sikkim route)",
+      "Submit application to Ministry of Culture in the notified cycle; expert committee appraisal",
+      "Grant released in instalments; submit utilisation certificates for subsequent releases"
+    ],
+    "nextAction": "Ecclesiastical Affairs Department should compile a list of eligible registered monastery societies and shedas (starting with those needing structural repair, e.g. older gompas in Gyalshing and North Sikkim), and coordinate DC recommendations so a batch of applications reaches the Ministry of Culture in the next cycle.",
+    "portal": "https://www.indiaculture.gov.in/financial-assistance-development-buddhisttibetan-arts-and-culture",
+    "applicationWindow": "Annual application cycle notified by Ministry of Culture (exact current-cycle dates: Not confirmed from available official guidance)",
+    "keyDocuments": [
+      {"doc": "Society registration certificate and 3-year activity/audit record", "certainty": "confirmed"},
+      {"doc": "District Collector/Deputy Commissioner recommendation", "certainty": "confirmed"},
+      {"doc": "Estimates for repair/construction works proposed", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Culture (expert committee for the Buddhist/Tibetan scheme)",
+    "contact": "Buddhist & Tibetan Institutions Section, Ministry of Culture, New Delhi; Secretary, Ecclesiastical Affairs Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "Financial Assistance for Development of Buddhist/Tibetan Arts and Culture - scheme page", "url": "https://www.indiaculture.gov.in/financial-assistance-development-buddhisttibetan-arts-and-culture"},
+      {"title": "Sanction Orders - Buddhist/Tibetan Arts and Culture", "url": "https://www.indiaculture.gov.in/financial-assistance-development-buddhisttibetan-arts-and-culture-sanction-orders"}
+    ],
+    "sources": [
+      {"title": "Financial Assistance for Development of Buddhist/Tibetan Arts and Culture", "publisher": "Ministry of Culture", "date": "n.d. (live scheme page)", "url": "https://www.indiaculture.gov.in/financial-assistance-development-buddhisttibetan-arts-and-culture", "section": "Objectives, eligibility, quantum (Rs 30 lakh / Rs 1 crore), NE/Sikkim provisions"},
+      {"title": "Sanction Orders page (releases incl. Assam, Sikkim, Tripura)", "publisher": "Ministry of Culture", "date": "ongoing", "url": "https://www.indiaculture.gov.in/financial-assistance-development-buddhisttibetan-arts-and-culture-sanction-orders", "section": "First instalment releases"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Ministry of Culture sanction-order records include first-instalment releases to organisations in Sikkim (alongside Assam and Tripura); organisation-level detail and amounts to be extracted from the sanction orders page."
+    },
+    "potentialUseCases": [
+      "Structural restoration of ageing gompas (e.g. Pemayangtse woodwork, Tashiding chortens, village monasteries)",
+      "Hostels/classrooms for monastic schools (shedas) with sanitation",
+      "Documentation and teaching of chaam, thangka painting and Buddhist manuscript traditions"
+    ],
+    "flags": ["Applicant is the monastery/organisation, not the state - state role is DC recommendations and pipeline-building", "The 90:10 GoI:State sharing clause for NE/Sikkim should be verified in the current guidelines text before budgeting a state share"],
+    "scores": {"financial": 3, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Purpose-built for Sikkim's monastery heritage with a simplified NE/Sikkim route and confirmed past releases to Sikkim."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Scheme terms taken from the live Ministry of Culture scheme page; current-cycle window and exact Sikkim sanction amounts unverified."
+  },
+  {
+    "id": "museum-grant-scheme",
+    "name": "Museum Grant Scheme",
+    "shortName": "MGS",
+    "ministry": "Ministry of Culture",
+    "agency": "Ministry of Culture (Museums division)",
+    "policyArea": "Culture and heritage",
+    "subcategory": "Museum creation, modernisation and digitisation",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing; Government outlined the scheme's offer publicly in July 2026 (new museums, modernisation, digitisation, virtual museums, training). Detailed current-cycle guidelines: Not confirmed from available official guidance.",
+    "whyItMatters": "Sikkim's story - Buddhist monastic art, Lepcha/Bhutia/Limboo material culture, the Namgyal dynasty, the Khangchendzonga landscape - is under-museumised; the state has no large modern museum experience. The Museum Grant Scheme funds up to Rs 15 crore for Category I museums and Rs 5-10 crore for smaller categories, covering new museums, modernisation of existing ones, digitisation of collections and virtual museums. A state-sponsored Sikkim State Museum or a monastery-artefacts museum (in partnership with the Namgyal Institute of Tibetology) is a natural proposal.",
+    "eligibleApplicants": ["State Governments", "Societies, autonomous bodies, trusts and NGOs running or establishing museums (per scheme guidelines)"],
+    "sikkimNodalDept": "Cultural Affairs and Heritage Department, Government of Sikkim",
+    "whatCanBeFunded": "Establishment of new museums; development/modernisation of existing museums; digitisation of collections; virtual experiential museums; training of museum professionals",
+    "fundingAvailable": "Up to Rs 15 crore (Category I); up to Rs 10 crore for new Category II museums and Rs 8 crore for developing existing Category II; up to Rs 5 crore for new Category III and Rs 4 crore for developing existing Category III (as reported from the Government's July 2026 outline; verify in current guidelines)",
+    "fundingRatio": "Not confirmed from available official guidance (share/matching requirements for state applicants to be verified in current guidelines)",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Earlier MGS guidelines contained relaxed funding-share provisions for NE states, but this could not be confirmed from official text in this pass",
+    "stateContribution": "Land/building and O&M; any matching share per current guidelines (requires confirmation)",
+    "allocationMethod": "DPR submission",
+    "accessPathway": [
+      "Cultural Affairs and Heritage Department selects the museum concept and site (with collection plan and curatorial concept)",
+      "Prepare DPR per Museum Grant Scheme guidelines and submit to Ministry of Culture (portal/route per current notification - requires confirmation)",
+      "Ministry expert committee appraisal and sanction; instalment-based release against progress and UCs",
+      "Complete museum with mandated interpretation/digitisation standards"
+    ],
+    "nextAction": "Cultural Affairs and Heritage Department should commission a DPR for one flagship proposal - e.g. modernisation of the Namgyal Institute of Tibetology galleries or a new Sikkim State Museum in Gangtok - and lodge it with the Ministry of Culture museums division for the current cycle.",
+    "portal": "https://www.indiaculture.gov.in/museum-grant-scheme",
+    "applicationWindow": "Proposal-based; cycle dates per Ministry notification (unknown)",
+    "keyDocuments": [
+      {"doc": "Museum DPR with collection, curatorial and O&M plan", "certainty": "confirmed"},
+      {"doc": "Land/building ownership documents", "certainty": "likely"},
+      {"doc": "State Government commitment on recurring costs", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Culture (expert committee)",
+    "contact": "Museums Division, Ministry of Culture, New Delhi; Secretary, Cultural Affairs and Heritage Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "Museum Grant Scheme - Ministry of Culture scheme page", "url": "https://www.indiaculture.nic.in/museum-grant-scheme"},
+      {"title": "Status of proposals received under Museum Grant Scheme", "url": "https://www.indiaculture.nic.in/status-proposals-received-under-museum-grant-scheme"}
+    ],
+    "sources": [
+      {"title": "Museum Grant Scheme", "publisher": "Ministry of Culture", "date": "n.d. (live page)", "url": "https://www.indiaculture.nic.in/museum-grant-scheme", "section": "Scheme components and eligibility"},
+      {"title": "Centre outlines Museum Grant Scheme - financial assistance for new museums, digitisation and heritage preservation", "publisher": "WebIndia123 (reporting official statement)", "date": "2026-07-27", "url": "https://news.webindia123.com/news/Articles/India/20260727/4479846.html", "section": "Category-wise ceilings; 33 new museums supported in 5 years"}
+    ],
+    "sikkimParticipation": {
+      "status": "No participation located",
+      "detail": "No Sikkim sanction under the Museum Grant Scheme was located in this pass; the Ministry's proposal-status page should be checked to confirm."
+    },
+    "potentialUseCases": [
+      "Modernisation/digitisation of the Namgyal Institute of Tibetology museum and manuscript collection",
+      "New Sikkim State Museum (ethnography of Bhutia, Lepcha, Limboo, Tamang communities and Namgyal-era history)",
+      "Virtual experiential museum on the Khangchendzonga sacred landscape"
+    ],
+    "flags": ["Category ceilings sourced from a July 2026 press summary of an official statement - verify against current guidelines PDF before drafting DPR", "Current continuation/cycle status needs confirmation"],
+    "scores": {"financial": 3, "ease": 3, "fit": 4, "timeSensitivity": 2, "transformational": 3, "rationale": "Meaningful one-time capital for a visible cultural asset; no Sikkim precedent yet so appraisal effort is higher."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Scheme live and recently publicised; ceilings and process cross-checked only against secondary reporting of official statements."
+  },
+  {
+    "id": "rrrlf-library-assistance",
+    "name": "Raja Rammohun Roy Library Foundation (RRRLF) - Matching and Non-Matching Assistance to Public Libraries",
+    "shortName": "RRRLF Assistance",
+    "ministry": "Ministry of Culture",
+    "agency": "Raja Rammohun Roy Library Foundation, Kolkata (autonomous body under Ministry of Culture)",
+    "policyArea": "Culture / Education",
+    "subcategory": "Public library development",
+    "type": "Other",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing since 1972; annual assistance programmes",
+    "whyItMatters": "RRRLF is the only central funding agency dedicated to public libraries and works through modest but reliable annual matching and non-matching grants - books and reading materials, rural book deposit centres, mobile library services, library buildings, seminars and awareness programmes. For Sikkim's small district and rural library network, including reading access in tribal and remote blocks (Dzongu, Lachen-Mangan), this is an easy, recurring window; matching-share norms carry special provisions for north-eastern and hilly states.",
+    "eligibleApplicants": ["State Government (through the State Library Planning Committee / designated state nodal library department)", "Public libraries sponsored through the state machinery"],
+    "sikkimNodalDept": "Education Department, Government of Sikkim (State Library and public library network); 'likely' - confirm the designated SLPC nodal office",
+    "whatCanBeFunded": "Book stock and reading materials; storage/furniture; rural book deposit centres and mobile library services; construction/renovation of library buildings; training, seminars, workshops, library awareness programmes and book exhibitions; children's corners and IT (per current programme list)",
+    "fundingAvailable": "Item-wise annual assistance per RRRLF programme norms; typically lakhs-scale per library/state per year. Exact current ceilings: Not confirmed from available official guidance.",
+    "fundingRatio": "Matching schemes shared between RRRLF and State Government on a pre-determined basis (commonly 50:50, with special provisions for NE and hilly states per RRRLF programme documents); non-matching schemes 100% RRRLF",
+    "nePreference": "true",
+    "nePreferenceDetail": "RRRLF programme documents provide special (more favourable) matching provisions for north-eastern states and hilly regions; exact current ratio for Sikkim requires confirmation",
+    "stateContribution": "Matching share on the pre-determined basis for matching schemes; state must budget its share to draw RRRLF funds",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "Constitute/activate the State Library Planning Committee (SLPC) and designate the state nodal library agency (requires confirmation of current Sikkim arrangement)",
+      "Prepare the annual proposal of libraries and assistance items; state provides matching provision in its budget",
+      "Submit proposals to RRRLF (online portal online.rrrlf.gov.in) within the annual cycle",
+      "RRRLF sanctions; procure books/execute works; report utilisation"
+    ],
+    "nextAction": "Education Department should confirm Sikkim's State Library Planning Committee status, budget the matching share, and file the annual RRRLF proposal on online.rrrlf.gov.in covering district libraries and rural book deposit centres in tribal blocks.",
+    "portal": "https://online.rrrlf.gov.in/",
+    "applicationWindow": "Annual proposal cycle (dates per RRRLF notification)",
+    "keyDocuments": [
+      {"doc": "SLPC-recommended annual proposal with library-wise items", "certainty": "confirmed"},
+      {"doc": "State matching-share commitment", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates for earlier assistance", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Raja Rammohun Roy Library Foundation, Kolkata",
+    "contact": "Director General, RRRLF, Salt Lake, Kolkata; State Library / Education Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "RRRLF Assistance Programme", "url": "https://www.rrrlf.gov.in/LibraryAssistance/AssistanceProgramme.aspx"}
+    ],
+    "sources": [
+      {"title": "RRRLF Assistance Programme", "publisher": "Raja Rammohun Roy Library Foundation", "date": "n.d. (live page)", "url": "https://www.rrrlf.gov.in/LibraryAssistance/AssistanceProgramme.aspx", "section": "Matching and non-matching schemes"},
+      {"title": "Raja Ram Mohan Roy Library Foundation, Kolkata", "publisher": "Ministry of Culture", "date": "n.d.", "url": "https://culture.gov.in/raja-ram-mohan-roy-library-foundation-kolkata", "section": "Institutional mandate"}
+    ],
+    "sikkimParticipation": {
+      "status": "Unable to determine",
+      "detail": "Sikkim-specific RRRLF assistance figures were not located in this pass; all states can participate via SLPC machinery and Sikkim's historical drawdown should be checked with RRRLF."
+    },
+    "potentialUseCases": [
+      "Book stock and children's sections for district libraries",
+      "Mobile library/book deposit centres for Dzongu and remote North Sikkim",
+      "Renovation of the State Central Library, Gangtok"
+    ],
+    "flags": ["Small-ticket but recurring; requires a functioning SLPC and state matching budget line"],
+    "scores": {"financial": 1, "ease": 4, "fit": 3, "timeSensitivity": 2, "transformational": 1, "rationale": "Reliable micro-grants for reading infrastructure; low effort, low transformation."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Programme mechanics confirmed from RRRLF pages; Sikkim drawdown and current NE matching ratio unverified."
+  },
+  {
+    "id": "dajgua-dharti-aaba",
+    "name": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DAJGUA)",
+    "shortName": "DAJGUA",
+    "ministry": "Ministry of Tribal Affairs (convergence across 17 line ministries)",
+    "agency": "Ministry of Tribal Affairs as nodal; 17 ministries deliver 25 interventions; State Government implements",
+    "policyArea": "Tribal development",
+    "subcategory": "Saturation of infrastructure and services in tribal villages",
+    "type": "Mission/programme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Approved by Union Cabinet, launched 2 October 2024; 5-year horizon (to 2028-29); total outlay Rs 79,156 crore (Central share Rs 56,333 crore; State share Rs 22,823 crore)",
+    "whyItMatters": "DAJGUA is the biggest live tribal-development envelope - 25 interventions (pucca housing, roads, piped water, electrification, mobile medical units, anganwadi and hostel upgrades, homestays under tribal tourism, skilling, FRA cell support) saturating 63,843 tribal-majority villages in 30 states. With ~34% ST population (Bhutia, Lepcha, Limboo, Tamang) and the Dzongu Lepcha reserve, Sikkim's tribal villages qualify, and the Government of Sikkim formally launched DAJGUA in Gangtok in 2025. Notably for this cluster, DAJGUA includes support for tribal homestays (Ministry of Tourism intervention), linking tribal development directly to Sikkim's homestay economy. Pradhan Mantri Adi Adarsh Gram Yojana activities are reported as converged/subsumed into DAJGUA (requires confirmation).",
+    "eligibleApplicants": ["State Government departments (village lists notified by Ministry of Tribal Affairs; interventions delivered through respective line-ministry schemes)"],
+    "sikkimNodalDept": "Social Welfare Department (Tribal Affairs Division), Government of Sikkim - state nodal; line departments per intervention",
+    "whatCanBeFunded": "The 25 interventions include: pucca houses, connecting roads, piped water, electrification, mobile medical units, ashram school/hostel upgrades, anganwadi centres, multipurpose centres, tribal homestays (tourism), skill centres, FRA implementation support, tribal marketing centres, among others",
+    "fundingAvailable": "National envelope Rs 79,156 crore over 5 years across 17 ministries; Sikkim's village coverage and allocation: Not confirmed from available official guidance",
+    "fundingRatio": "Intervention-wise per the parent scheme of each line ministry (overall Central Rs 56,333 crore : State Rs 22,823 crore); NE-state ratios of parent schemes (usually 90:10) apply per intervention (requires confirmation intervention-wise)",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Parent schemes' NE funding patterns apply; no DAJGUA-specific NE clause confirmed",
+    "stateContribution": "State share per each converged scheme's funding pattern; state machinery for planning, village committees and execution",
+    "allocationMethod": "other (saturation-based convergence planning: notified village lists, gap surveys and ministry-approved annual plans across 17 ministries)",
+    "accessPathway": [
+      "Confirm the notified DAJGUA village list for Sikkim with Ministry of Tribal Affairs and on the DAJGUA/Adi Prasaran portal",
+      "Conduct village-level gap surveys (benefit saturation mapping) through district administrations",
+      "Upload demands intervention-wise; line departments route them through respective central ministries' scheme mechanisms",
+      "Monitor via the DAJGUA dashboard and state-level steering committee chaired at Chief Secretary level (requires confirmation of Sikkim's committee constitution)"
+    ],
+    "nextAction": "Social Welfare Department (Tribal Affairs Division) should obtain the final Sikkim DAJGUA village list and saturation-gap data from the Ministry of Tribal Affairs and convene line departments to lodge intervention-wise demands - prioritising tribal homestays, anganwadi upgrades and hostel works.",
+    "portal": "https://tribal.nic.in/dajagua.aspx",
+    "applicationWindow": "Ongoing (5-year mission mode to 2028-29); demands via convergence planning cycles",
+    "keyDocuments": [
+      {"doc": "Village-wise gap survey / saturation plan", "certainty": "confirmed"},
+      {"doc": "Intervention-wise demand upload through state departments", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Tribal Affairs (nodal) and respective line ministries per intervention",
+    "contact": "Ministry of Tribal Affairs, Shastri Bhawan, New Delhi; Secretary, Social Welfare Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "DAJGUA - Ministry of Tribal Affairs page", "url": "https://tribal.nic.in/dajagua.aspx"},
+      {"title": "DAJGUA brochure (Adi Prasaran)", "url": "https://adiprasaran.tribal.gov.in/pm-janman/janman_Download/JUGA/250924_PMJUGA.pdf"}
+    ],
+    "sources": [
+      {"title": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (PIB)", "publisher": "PIB / Ministry of Tribal Affairs", "date": "2025-07", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2150185", "section": "25 interventions, 17 ministries, 63,843 villages, Rs 79,156 crore"},
+      {"title": "Sikkim launches Dharti Aaba Janjatiya Gram Utkarsh Abhiyan", "publisher": "Government of Sikkim (sikkim.gov.in)", "date": "2025", "url": "https://www.sikkim.gov.in/media/news-announcement/news-info?name=Sikkim+Launches+Dharti+Aaba+Janjatiya+Gram+Utkarsh+Abhiyan+to+Accelerate+Tribal+Development", "section": "State launch at Gangtok by Minister for Social Welfare"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Government of Sikkim formally launched DAJGUA (Ridge Park, Gangtok, 2025). Sikkim is among the 30 covered states; the exact number of Sikkim villages notified was not located and needs confirmation from MoTA lists."
+    },
+    "potentialUseCases": [
+      "Tribal homestay development in Dzongu and West Sikkim villages (tourism intervention)",
+      "Saturation of anganwadi, hostel and health outreach infrastructure in ST-majority GPUs",
+      "FRA cell support and tribal marketing centres for Van Dhan produce"
+    ],
+    "flags": ["Sikkim village count and allocation not yet located - obtain from MoTA/DAJGUA dashboard", "PMAAGY reported converged/subsumed into DAJGUA - requires confirmation", "PM-JANMAN not applicable to Sikkim: no notified PVTG in Sikkim per available PVTG lists (75 PVTGs across 18 states + A&N)"],
+    "scores": {"financial": 5, "ease": 3, "fit": 5, "timeSensitivity": 4, "transformational": 4, "rationale": "Largest live tribal envelope with a state launch already done; value depends on aggressive gap-survey and demand-lodging now, mid-mission."},
+    "openWindow": "open",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "National design and Sikkim launch confirmed from PIB and sikkim.gov.in; Sikkim-specific coverage figures unverified."
+  },
+  {
+    "id": "emrs-eklavya-schools",
+    "name": "Eklavya Model Residential Schools (EMRS)",
+    "shortName": "EMRS",
+    "ministry": "Ministry of Tribal Affairs",
+    "agency": "National Education Society for Tribal Students (NESTS); EMRS Society of Sikkim under the state Social Welfare Department",
+    "policyArea": "Tribal development / Education",
+    "subcategory": "Residential schooling for ST students",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Scheme since 1997-98; revamped 2018-19 with central funding through NESTS; ongoing construction and O&M funding cycles",
+    "whyItMatters": "Sikkim already runs one of the country's best-known EMRS - EMRS Gangyap (Gyalshing district, established 2007-08, CBSE VI-XII, 480-seat capacity, nationally famous for its girls' basketball programme). EMRS delivers fully centrally funded quality residential education for ST students, directly serving Sikkim's ~34% ST population. The live opportunities are: recurring per-student and staffing support through NESTS, campus upgrade/infrastructure funds for Gangyap, and pressing Sikkim's case for additional EMRS in blocks meeting the population norms (one EMRS per block with >50% ST population and at least 20,000 tribal persons under the 2018 revamp).",
+    "eligibleApplicants": ["State Government (proposals for new schools/infrastructure through the state EMRS Society to NESTS/MoTA)"],
+    "sikkimNodalDept": "Social Welfare Department, Government of Sikkim (EMRS Society of Sikkim)",
+    "whatCanBeFunded": "Construction of school and hostel campuses; recurring cost per student (tuition, boarding, staff); sports and academic infrastructure; teacher recruitment through NESTS norms; upgradation of existing EMRS",
+    "fundingAvailable": "100% central funding through NESTS; per-school construction and per-student recurring norms per current NESTS guidance (exact current unit costs: Not confirmed from available official guidance)",
+    "fundingRatio": "100% central (Central Sector Scheme via NESTS); state provides land",
+    "nePreference": "unverified",
+    "nePreferenceDetail": "Higher construction cost norms for hilly/NE/difficult areas have been reported in scheme documents but were not verified from primary text in this pass",
+    "stateContribution": "Land free of cost; state EMRS Society administration",
+    "allocationMethod": "ministry approval",
+    "accessPathway": [
+      "EMRS Society of Sikkim maintains Gangyap operations and submits recurring-cost claims to NESTS",
+      "Social Welfare Department identifies blocks meeting EMRS norms and proposes new schools/upgrades to NESTS/MoTA with land identified",
+      "NESTS sanctions construction and recurring grants; CBSE affiliation and admissions per EMRS Society guidelines",
+      "Students admitted via entrance test per state EMRS Society admission guidelines"
+    ],
+    "nextAction": "Social Welfare Department (EMRS Society of Sikkim) should submit to NESTS a proposal for campus upgradation of EMRS Gangyap (sports hostel, labs) and a block-eligibility analysis for a second EMRS in North Sikkim (Dzongu/Mangan).",
+    "portal": "https://tribal.nic.in",
+    "applicationWindow": "Ongoing/administrative (no public call; state-NESTS channel)",
+    "keyDocuments": [
+      {"doc": "Land identification and transfer documents for new school proposals", "certainty": "confirmed"},
+      {"doc": "EMRS Society of Sikkim admission guidelines (published)", "certainty": "confirmed"},
+      {"doc": "Recurring-cost utilisation reports to NESTS", "certainty": "likely"}
+    ],
+    "approvingAuthority": "NESTS / Ministry of Tribal Affairs",
+    "contact": "Commissioner, NESTS, New Delhi; EMRS Society of Sikkim, Social Welfare Department, Gangtok",
+    "guidelines": [
+      {"title": "Eklavya Model Residential Schools (PIB explainer)", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/jul/doc20217421.pdf"},
+      {"title": "EMRS Society of Sikkim - Admission Guidelines", "url": "https://www.sikkim.gov.in/uploads/DeptUploads/ADMISSION_GUIDELINE_20240208.pdf"}
+    ],
+    "sources": [
+      {"title": "EMRS Society of Sikkim admission guideline (Social Welfare Department)", "publisher": "Government of Sikkim", "date": "2024-02-08", "url": "https://www.sikkim.gov.in/uploads/DeptUploads/ADMISSION_GUIDELINE_20240208.pdf", "section": "EMRS Society of Sikkim under Social Welfare Department"},
+      {"title": "Eklavya Model Residential School - a premium model residential school for tribal students", "publisher": "Government of Sikkim (sikkim.gov.in)", "date": "n.d.", "url": "https://www.sikkim.gov.in/media/news-announcement/news-info?name=Eklavya+Model+Residential+School+%E2%80%93+a+premium+model+residential+school+for+Tribal+Students+under+Ministry+of+Tribal+Affairs%2C+GOI", "section": "EMRS Gangyap profile"},
+      {"title": "Eklavya Model Residential Schools (PIB)", "publisher": "PIB", "date": "2021-07", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/jul/doc20217421.pdf", "section": "Scheme design, 2018 revamp norms"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "EMRS Gangyap operational in Gyalshing district since 2007-08 (CBSE, classes VI-XII, capacity ~480); run by EMRS Society of Sikkim under the Social Welfare Department. Number of additional sanctioned EMRS in Sikkim: not confirmed."
+    },
+    "potentialUseCases": [
+      "Upgradation of EMRS Gangyap (sports academy potential given its basketball record)",
+      "Proposal for an additional EMRS serving North Sikkim/Dzongu",
+      "Leveraging NESTS sports and cultural competition funding for ST students"
+    ],
+    "flags": ["Current per-school and per-student cost norms need confirmation from NESTS", "Eligibility of further Sikkim blocks under the population norms needs block-level ST data check"],
+    "scores": {"financial": 4, "ease": 3, "fit": 5, "timeSensitivity": 2, "transformational": 3, "rationale": "Fully central funding for tribal education with a strong existing Sikkim institution to build on."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Gangyap operations and Sikkim EMRS Society confirmed from sikkim.gov.in documents; current cost norms unverified."
+  },
+  {
+    "id": "article-275-1-grants",
+    "name": "Grants under the First Proviso to Article 275(1) of the Constitution (Ministry of Tribal Affairs)",
+    "shortName": "Article 275(1) Grants",
+    "ministry": "Ministry of Tribal Affairs",
+    "agency": "Ministry of Tribal Affairs; state Tribal Welfare/Social Welfare departments implement",
+    "policyArea": "Tribal development",
+    "subcategory": "Constitutionally mandated grants for ST welfare and administration of scheduled areas",
+    "type": "Statutory/formula transfer",
+    "grantOrLoan": "Grant",
+    "status": "Active",
+    "period": "Ongoing constitutional provision; annual allocations by MoTA against approved state plans",
+    "whyItMatters": "Article 275(1) first-proviso grants are a guaranteed-source (not a competitive 'application') 100% central grant stream to states with ST populations, allocated broadly on ST-population share and released against state-proposed projects. For Sikkim (~34% ST), this is a dependable annual line that has funded tribal education, health and community infrastructure; state records also credit MoTA support (Rs 54 crore estimated cost) for the independent Tribal Research Institute campus under construction at Assam Lingzey, East Sikkim. The task each year is to place high-quality project proposals so Sikkim's notional allocation is fully drawn and usefully spent.",
+    "eligibleApplicants": ["State Governments with Scheduled Tribe populations (Sikkim eligible); funds are allocated, not competitively applied for - projects are proposed against the allocation"],
+    "sikkimNodalDept": "Social Welfare Department (Tribal Affairs Division), Government of Sikkim",
+    "whatCanBeFunded": "Welfare of Scheduled Tribes and raising the level of administration of tribal areas: schools, hostels, health facilities, drinking water, link infrastructure, livelihood projects, Tribal Research Institute support, per MoTA guidelines and approved Annual Plans",
+    "fundingAvailable": "Annual formula-based allocation to Sikkim (varies by year; Sikkim-wise recent figures: Not confirmed from available official guidance); 100% grant",
+    "fundingRatio": "100% central grant (charged on the Consolidated Fund of India)",
+    "nePreference": "false",
+    "nePreferenceDetail": "Allocation is ST-population/area based rather than NE-preferential; Sikkim's high ST share drives its entitlement",
+    "stateContribution": "None mandated; state bears O&M of created assets",
+    "allocationMethod": "formula-based",
+    "accessPathway": [
+      "MoTA communicates the annual notional allocation to the state (formula-based; not an application competition)",
+      "Tribal Affairs Division prepares project proposals/Annual Plan against the allocation per MoTA's Art. 275(1) guidelines",
+      "Project Appraisal Committee in MoTA approves; funds released in instalments",
+      "Implementation and UC submission; unspent balances affect next releases"
+    ],
+    "nextAction": "Social Welfare Department (Tribal Affairs Division) should confirm Sikkim's FY2026-27 notional allocation with MoTA and submit a full-allocation project plan (including completion funding for the Assam Lingzey Tribal Research Institute campus).",
+    "portal": "https://tribal.nic.in",
+    "applicationWindow": "Annual planning cycle (administrative; not a public call)",
+    "keyDocuments": [
+      {"doc": "Annual project proposals/plan against notional allocation", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates for prior releases", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Tribal Affairs (Project Appraisal Committee)",
+    "contact": "Ministry of Tribal Affairs, Shastri Bhawan, New Delhi; Tribal Affairs Division, Social Welfare Department, Gangtok",
+    "guidelines": [
+      {"title": "Grants under Article 275(1) - scheme description (state tribal welfare reference)", "url": "https://adibasikalyan.gov.in/grants-under-article-275-1"}
+    ],
+    "sources": [
+      {"title": "Lok Sabha USQ 1233 - Ministry of Tribal Affairs (funds to states incl. Art. 275(1))", "publisher": "Lok Sabha / Ministry of Tribal Affairs", "date": "various", "url": "https://eparlib.sansad.in/bitstream/123456789/703486/1/54294.pdf", "section": "State-wise releases under MoTA schemes"},
+      {"title": "Tribal Affairs Division - Social Welfare Department, Government of Sikkim", "publisher": "Government of Sikkim", "date": "n.d.", "url": "https://socialwelfare.sikkim.gov.in/visitors/17", "section": "MoTA-supported Tribal Research Institute campus (Rs 54 crore) at Assam Lingzey"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim receives annual Art. 275(1) allocations as an ST-population state; state records cite MoTA support for the Rs 54 crore Tribal Research Institute campus at Assam Lingzey, East Sikkim (funding head attribution 'likely Art. 275(1)/TRI scheme' - requires confirmation). Year-wise Sikkim release figures to be compiled from MoTA parliamentary replies."
+    },
+    "potentialUseCases": [
+      "Completion of the Tribal Research Institute campus and its documentation programmes on Bhutia/Lepcha/Limboo/Tamang heritage",
+      "ST hostels and school infrastructure in Dzongu and Gyalshing",
+      "Community cultural halls (gumpa-adjacent) and livelihood assets in tribal GPUs"
+    ],
+    "flags": ["Formula transfer - never describe as a competitive application; the lever is proposal quality and full drawdown", "Sikkim's year-wise allocation figures need compilation from MoTA replies/dashboards"],
+    "scores": {"financial": 4, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 3, "rationale": "Assured annual 100% grants proportional to Sikkim's large ST share; effort is planning quality, not competition."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Mechanism and Sikkim eligibility certain; specific recent allocation amounts not verified in this pass."
+  },
+  {
+    "id": "pm-van-dhan-trifed",
+    "name": "Pradhan Mantri Van Dhan Yojana (Van Dhan Vikas Kendras) under Pradhan Mantri Janjatiya Vikas Mission (TRIFED)",
+    "shortName": "PM Van Dhan / PMJVM",
+    "ministry": "Ministry of Tribal Affairs",
+    "agency": "TRIFED (Tribal Cooperative Marketing Development Federation of India); State Nodal Department/Implementing Agencies",
+    "policyArea": "Tribal development / Livelihoods",
+    "subcategory": "Value addition and marketing of minor forest produce; tribal enterprise clusters",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Van Dhan launched 2018; subsumed with MSP-for-MFP under Pradhan Mantri Janjatiya Vikas Mission (PMJVM) approved for 2021-22 to 2025-26; continuation into FY2026-27: Current continuation beyond FY2025-26 needs confirmation",
+    "whyItMatters": "Van Dhan Vikas Kendras organise tribal gatherers (typically 15 SHGs x 20 members = ~300 beneficiaries per cluster) for value addition and marketing of forest and agri produce - a strong fit for Sikkim's organic-certified tribal economy (large cardamom, wild edibles, medicinal plants, handicrafts) and for supplying the tourism/homestay market. TRIFED maintains a Sikkim state page and VDVKCs have been sanctioned in the state, with a designated state nodal agency. Beyond kendra grants, TRIFED offers marketing channels (Tribes India outlets, Aadi Mahotsav) for Sikkim tribal products.",
+    "eligibleApplicants": ["Tribal SHGs/gatherer clusters through the State Nodal Department/State Implementing Agency designated for TRIFED programmes"],
+    "sikkimNodalDept": "State Nodal Department designated for TRIFED/PMJVM in Sikkim - reported on TRIFED's Sikkim page; 'likely' Social Welfare Department or a designated line department (requires confirmation)",
+    "whatCanBeFunded": "Establishment and working capital of Van Dhan Vikas Kendra clusters (training, tool kits, primary processing equipment, packaging, working capital, common facility centres); market linkage support; MSP-for-MFP procurement infrastructure where applicable",
+    "fundingAvailable": "Per-cluster grant per PMJVM norms (commonly cited around Rs 15 lakh per VDVK cluster of ~300 members; exact current norm: Not confirmed from available official guidance)",
+    "fundingRatio": "100% central funding through TRIFED to clusters via the state implementing agency (per scheme design)",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE states received relaxed cluster-formation norms and priority in VDVK rollout per TRIFED programme communications (verify current text)",
+    "stateContribution": "Implementation machinery, SHG mobilisation, working space; no matching capital share confirmed",
+    "allocationMethod": "demand-driven",
+    "accessPathway": [
+      "State nodal agency identifies tribal SHG clusters and produce lines (large cardamom value addition, wild foods, handicrafts)",
+      "Submit VDVK cluster proposals to TRIFED per PMVDY guidelines",
+      "TRIFED sanctions kendras; training and equipment funded; products onboarded to Tribes India/market linkages",
+      "Report performance; seek additional clusters and participate in Aadi Mahotsav marketing events"
+    ],
+    "nextAction": "The state nodal agency (to be confirmed with TRIFED's Sikkim desk) should audit the performance of existing Sikkim VDVKs and submit fresh cluster proposals for Dzongu and Gyalshing produce lines once PMJVM's post-2026 continuation is notified.",
+    "portal": "https://trifed.tribal.gov.in/pmvdy",
+    "applicationWindow": "Rolling/demand-driven via state implementing agency, subject to scheme continuation",
+    "keyDocuments": [
+      {"doc": "Cluster proposal with SHG lists and produce plan", "certainty": "confirmed"},
+      {"doc": "State nodal agency recommendation", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "TRIFED / Ministry of Tribal Affairs",
+    "contact": "TRIFED, NCUI Building, New Delhi; TRIFED Sikkim state nodal agency (per trifed.tribal.gov.in/Sikkim)",
+    "guidelines": [
+      {"title": "PMVDY Guidelines - TRIFED", "url": "https://trifed.tribal.gov.in/pmvdy/guideline"},
+      {"title": "TRIFED Sikkim state page", "url": "https://trifed.tribal.gov.in/Sikkim"}
+    ],
+    "sources": [
+      {"title": "Van Dhan Vikas Yojana - promoting tribal entrepreneurship", "publisher": "PIB / Ministry of Tribal Affairs", "date": "2021-04", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1712326&reg=3&lang=2", "section": "Scheme structure (15 SHGs x 20 members)"},
+      {"title": "TRIFED - Sikkim (PMVDY state page)", "publisher": "TRIFED", "date": "n.d.", "url": "https://trifed.tribal.gov.in/Sikkim", "section": "Sikkim VDVK clusters and state nodal details"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "TRIFED's Sikkim page lists sanctioned VDVK clusters and a state nodal agency; exact number of Sikkim clusters and beneficiaries not reliably confirmed in this pass (figures encountered in secondary summaries were inconsistent)."
+    },
+    "potentialUseCases": [
+      "Large cardamom and Dalle chilli value-addition kendras",
+      "Lepcha handicraft/bamboo craft clusters in Dzongu feeding tourism retail",
+      "Wild edible/medicinal plant processing with organic branding"
+    ],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation (PMJVM approved to 2025-26)", "Sikkim cluster count requires verification against TRIFED dashboard - secondary figures conflict"],
+    "scores": {"financial": 2, "ease": 3, "fit": 4, "timeSensitivity": 3, "transformational": 2, "rationale": "Small per-cluster grants but strong synergy with organic branding and tribal tourism retail."},
+    "openWindow": "unknown",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Scheme design confirmed; Sikkim-specific cluster data and post-2026 continuation unverified."
+  },
+  {
+    "id": "post-matric-scholarship-st",
+    "name": "Post-Matric Scholarship for Scheduled Tribe Students (PMS-ST)",
+    "shortName": "PMS-ST",
+    "ministry": "Ministry of Tribal Affairs",
+    "agency": "State Government (Scholarship Division) disburses; MoTA reimburses central share",
+    "policyArea": "Tribal development / Education",
+    "subcategory": "Scholarships for ST students (Class XI and above)",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Long-running CSS; approved cycle 2021-22 to 2025-26 under the revised guidelines; continuation into FY2026-27: Current continuation beyond FY2025-26 needs confirmation",
+    "whyItMatters": "With ~34% ST population, PMS-ST is Sikkim's highest-coverage tribal education transfer: every eligible ST student in Class XI through PhD receives maintenance allowance and fee coverage, with the Centre bearing 90% and Sikkim 10% (90:10 pattern for NE/hilly states). Sikkim has drawn central releases for years (MoTA sanction orders on record, e.g. December 2018), and the Scholarship Division of the Social Welfare Department administers it. The operational agenda is DBT timeliness, Aadhaar-seeded saturation of eligible students, and clean UCs so central shares flow without interruption.",
+    "eligibleApplicants": ["ST students (income ceiling per guidelines) via the State Government; the state claims the central share - this is a state-routed entitlement scheme, not a project application"],
+    "sikkimNodalDept": "Social Welfare Department (Scholarship Division), Government of Sikkim",
+    "whatCanBeFunded": "Maintenance allowance, compulsory non-refundable fees, study tour charges, thesis typing/printing, book allowance for specified courses - for post-matriculation studies including professional and technical courses",
+    "fundingAvailable": "Demand-based (committed liability); central share released against state expenditure on eligible students. Sikkim's annual drawdown: Not confirmed from available official guidance.",
+    "fundingRatio": "90:10 Centre:State for North-Eastern and hilly states including Sikkim (per scheme guidelines)",
+    "nePreference": "true",
+    "nePreferenceDetail": "90:10 central sharing for NE/hilly states versus 75:25 elsewhere (per revised PMS-ST guidelines)",
+    "stateContribution": "10% of scholarship expenditure plus administration",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "Scholarship Division notifies the annual application window on the National Scholarship Portal/state portal (requires confirmation of the portal Sikkim currently uses)",
+      "Students apply with income/caste/institution verification; state verifies and disburses via DBT",
+      "State submits expenditure statements and proposals to MoTA for central-share release",
+      "MoTA releases 90% share; state reconciles and files UCs"
+    ],
+    "nextAction": "Social Welfare Department (Scholarship Division) should reconcile pending central-share claims with MoTA before the FY2026-27 proposal and run a saturation drive so every eligible ST student in Sikkim colleges is on the portal.",
+    "portal": "https://scholarships.gov.in",
+    "applicationWindow": "Annual academic-year application window (state-notified)",
+    "keyDocuments": [
+      {"doc": "State annual proposal and expenditure statement to MoTA", "certainty": "confirmed"},
+      {"doc": "Student applications with ST certificate, income certificate, institution verification", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Tribal Affairs (central share); State Government (disbursal)",
+    "contact": "Scholarship Division, Social Welfare Department, Gangtok; Ministry of Tribal Affairs Scholarship Division",
+    "guidelines": [
+      {"title": "Post-Matric Scholarship Guidelines (ST)", "url": "https://scholarships.gov.in/public/schemeGuidelines/Post-matric-guidelines-ST.pdf"}
+    ],
+    "sources": [
+      {"title": "MoTA sanction order - PMS Sikkim (26.12.2018)", "publisher": "Ministry of Tribal Affairs", "date": "2018-12-26", "url": "https://tribal.nic.in/writereaddata/sentionOrder/201901110252495060799PMSSikkim-261218.pdf", "section": "Central share release to Government of Sikkim (Rs 7,28,25,000)"},
+      {"title": "Post Matric Scholarship for Scheduled Tribe Students", "publisher": "National Portal of India", "date": "n.d.", "url": "https://www.india.gov.in/post-matric-scholarship-scheduled-tribe-students", "section": "Scheme description"},
+      {"title": "Scholarship Division - Social Welfare Department", "publisher": "Government of Sikkim", "date": "n.d.", "url": "https://socialwelfare.sikkim.gov.in/visitors/12", "section": "State administration of scholarships"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "MoTA sanction order of 26.12.2018 released Rs 7.2825 crore central share to the Government of Sikkim for PMS-ST; the Scholarship Division administers the scheme continuously. Recent-year drawdown figures not compiled in this pass."
+    },
+    "potentialUseCases": [
+      "Full saturation of ST students in Sikkim University and state colleges",
+      "Timely DBT to reduce dropout at Class XI-XII transition",
+      "Linking scholarship data to hostel and EMRS alumni tracking"
+    ],
+    "flags": ["Entitlement/committed-liability scheme - not a competitive grant; risk is administrative (delayed claims/UCs)", "Current continuation beyond FY2025-26 needs confirmation"],
+    "scores": {"financial": 3, "ease": 4, "fit": 5, "timeSensitivity": 3, "transformational": 2, "rationale": "High-coverage recurring transfer for a 34%-ST state; mainly an administration-quality play."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Funding pattern and Sikkim releases documented from MoTA order and guidelines; current-cycle continuation unverified."
+  },
+  {
+    "id": "mission-shakti",
+    "name": "Mission Shakti (Sambal and Samarthya) - integrated women safety and empowerment",
+    "shortName": "Mission Shakti",
+    "ministry": "Ministry of Women and Child Development",
+    "agency": "Ministry of WCD; State Women, Child, Senior Citizen and Divyangjan Welfare Department implements",
+    "policyArea": "Social welfare / Women",
+    "subcategory": "Women's safety (OSC, helpline, BBBP) and empowerment (Sakhi Niwas, Shakti Sadan, hubs, creches)",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Umbrella approved for 2021-22 to 2025-26 (15th Finance Commission cycle); Sikkim was recruiting Mission Shakti staff in early 2026, indicating live operations; formal continuation for FY2026-27 onwards: Current continuation beyond FY2025-26 needs confirmation",
+    "whyItMatters": "Mission Shakti funds Sikkim's operating women-support infrastructure: One Stop Centres and Women Helpline (Sambal, 100% centrally funded), plus Samarthya components - Sakhi Niwas working women's hostels, Shakti Sadan shelters, District Hubs for Empowerment of Women, and Palna creches - that matter in a state with high female workforce participation in tourism and hospitality. Sikkim's WCSCDWD runs OSC, Women Helpline, Sakhi Niwas and the Hub, and was hiring 24 Mission Shakti posts in 2026. Sakhi Niwas hostels in Gangtok/Namchi would directly support women working in the tourism economy.",
+    "eligibleApplicants": ["State Government (annual programme implementation plans to Ministry of WCD)"],
+    "sikkimNodalDept": "Women, Child, Senior Citizen and Divyangjan Welfare Department, Government of Sikkim",
+    "whatCanBeFunded": "One Stop Centres (staff, operations), Women Helpline 181, BBBP campaigns, Nari Adalats; Sakhi Niwas (rented-premises operation support), Shakti Sadan shelter homes, Palna/creche network, District Hubs for Empowerment of Women (staffing and activities)",
+    "fundingAvailable": "Component-wise normative funding per Mission Shakti guidelines against the state's approved annual plan; Sikkim-specific allocations: Not confirmed from available official guidance",
+    "fundingRatio": "Sambal components largely 100% central (from Nirbhaya/central funds per guidelines); Samarthya components 90:10 Centre:State for NE and special category states including Sikkim (per Mission Shakti guidelines - verify component-wise)",
+    "nePreference": "true",
+    "nePreferenceDetail": "90:10 sharing for NE/special category states on Samarthya components per Mission Shakti norms (verify in guidelines)",
+    "stateContribution": "10% on applicable Samarthya components; premises and convergence support",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "WCSCDWD prepares the annual Mission Shakti implementation plan (component-wise: OSCs per district, helpline, hubs, Sakhi Niwas, Palna)",
+      "Submit to Ministry of WCD for approval via the Mission Shakti portal/PIP process",
+      "Funds released component-wise; recruit/operate per guidelines; report on the Mission Shakti dashboard",
+      "Propose new units (e.g. additional Sakhi Niwas, Shakti Sadan) with justification in the annual plan"
+    ],
+    "nextAction": "WCSCDWD should include in its FY2026-27 Mission Shakti plan a proposal for an additional Sakhi Niwas in Gangtok targeted at women working in tourism/hospitality, and reconcile OSC operational funding for all six districts.",
+    "portal": "https://missionshakti.wcd.gov.in/",
+    "applicationWindow": "Annual PIP cycle (administrative)",
+    "keyDocuments": [
+      {"doc": "Annual Programme Implementation Plan (component-wise)", "certainty": "confirmed"},
+      {"doc": "Utilisation certificates and dashboard reporting", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Ministry of Women and Child Development",
+    "contact": "Mission Shakti Division, Ministry of WCD, New Delhi; Secretary, WCSCDWD, Government of Sikkim",
+    "guidelines": [
+      {"title": "Mission Shakti - Guidelines for implementation", "url": "https://wcd.gov.in/offerings/mission-shakti-guidelines-for-implementation-mission-shakti"}
+    ],
+    "sources": [
+      {"title": "Mission Shakti portal - OSC and Sakhi Niwas public insights", "publisher": "Ministry of WCD", "date": "live dashboard", "url": "https://missionshakti.wcd.gov.in/statisticsOsc", "section": "State-wise OSC statistics (Sikkim entries)"},
+      {"title": "Women Section - Women, Child, Senior Citizen and Divyangjan Welfare Department", "publisher": "Government of Sikkim", "date": "n.d.", "url": "https://www.sikkim.gov.in/DepartmentsMenu/women-child-senior-citizen-and-divyangjan-welfare-department/Division%20and%20Cell/women-section", "section": "State implementation of women's schemes"},
+      {"title": "Sikkim WCSCDWD Recruitment 2026 - Mission Shakti 24 posts", "publisher": "IndiaJobAlerts (state recruitment notice)", "date": "2026", "url": "https://www.indiajobalerts.com/sikkim-wcscdwd-recruitment-2026/", "section": "Live Mission Shakti staffing (OSC, WHL, Sakhi Niwas, Hub)"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim operates One Stop Centres, Women Helpline, Sakhi Niwas and a Hub for Empowerment of Women under Mission Shakti through WCSCDWD; 24 Mission Shakti posts advertised in 2026. District-wise OSC count to be read off the Mission Shakti dashboard (per-district OSCs expected across Sikkim's six districts - requires confirmation)."
+    },
+    "potentialUseCases": [
+      "Additional Sakhi Niwas for women in the tourism workforce",
+      "Strengthened OSC coverage for violence survivors in remote districts",
+      "Palna creches enabling women's employment in Gangtok and Namchi"
+    ],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation", "Component-wise funding ratios should be verified before budgeting state share"],
+    "scores": {"financial": 3, "ease": 4, "fit": 4, "timeSensitivity": 3, "transformational": 2, "rationale": "Operational recurring grants with Sikkim machinery already running; incremental wins via new units."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "Sikkim implementation confirmed via state department pages and recruitment; ratios and FY2026-27 continuation unverified."
+  },
+  {
+    "id": "saksham-anganwadi-poshan-2",
+    "name": "Saksham Anganwadi and Poshan 2.0 (with Mission Vatsalya noted as companion child-protection CSS)",
+    "shortName": "Poshan 2.0",
+    "ministry": "Ministry of Women and Child Development",
+    "agency": "Ministry of WCD; State WCSCDWD and district ICDS machinery",
+    "policyArea": "Social welfare / Nutrition and child development",
+    "subcategory": "Anganwadi services, nutrition mission, adolescent girls; child protection (Vatsalya)",
+    "type": "Centrally Sponsored Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "Approved for 2021-22 to 2025-26 (15th FC cycle); continuation for FY2026-27 onwards: Current continuation beyond FY2025-26 needs confirmation",
+    "whyItMatters": "Poshan 2.0 funds Sikkim's entire anganwadi network - supplementary nutrition, worker honorariums (central share), Poshan Tracker digitisation, and the Saksham Anganwadi upgrade line (better buildings, LPG, water, ECCE materials) - on a 90:10 pattern for NE states. For a small state, the winnable margin is infrastructure: converting anganwadis in tribal and remote GPUs into 'Saksham' model centres. Mission Vatsalya (child protection services: CWCs, JJBs, sponsorship/foster care, child care institutions) runs in parallel on the same 90:10 logic and matters for children affected by Sikkim's substance-use problem.",
+    "eligibleApplicants": ["State Government (annual programme implementation plans to Ministry of WCD)"],
+    "sikkimNodalDept": "Women, Child, Senior Citizen and Divyangjan Welfare Department, Government of Sikkim",
+    "whatCanBeFunded": "Supplementary nutrition for children under 6, pregnant/lactating women and adolescent girls (in aspirational/NE districts); anganwadi worker/helper honorarium central share; Saksham Anganwadi infrastructure upgrades; ECCE; Poshan Tracker and community mobilisation. Vatsalya: child protection services, institutional and non-institutional care, sponsorship",
+    "fundingAvailable": "Normative, population/beneficiary-based annual approvals; Sikkim allocations: Not confirmed from available official guidance",
+    "fundingRatio": "90:10 Centre:State for North-Eastern states including Sikkim (per CSS NE pattern; verify component-wise in guidelines)",
+    "nePreference": "true",
+    "nePreferenceDetail": "NE states get the 90:10 sharing pattern versus 60:40 general; adolescent girls' nutrition component covers NE districts",
+    "stateContribution": "10% share, land/buildings for anganwadis, state top-ups (honorarium supplements)",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "WCSCDWD prepares annual PIP with beneficiary numbers via Poshan Tracker data",
+      "Submit to Ministry of WCD; Annual Programme Approval by the ministry",
+      "Quarterly releases against expenditure and reporting; Saksham infrastructure proposals itemised in the PIP",
+      "Convergence with DAJGUA for anganwadi upgrades in tribal villages (requires confirmation of convergence route)"
+    ],
+    "nextAction": "WCSCDWD should itemise a Saksham Anganwadi upgrade list (tribal-majority GPUs first) in the FY2026-27 PIP and cross-book eligible anganwadi works under DAJGUA convergence.",
+    "portal": "https://wcd.gov.in",
+    "applicationWindow": "Annual PIP cycle (administrative)",
+    "keyDocuments": [
+      {"doc": "Annual PIP with Poshan Tracker-based beneficiary data", "certainty": "confirmed"},
+      {"doc": "Saksham Anganwadi infrastructure proposals", "certainty": "likely"}
+    ],
+    "approvingAuthority": "Ministry of Women and Child Development",
+    "contact": "Poshan 2.0 Division, Ministry of WCD; Secretary, WCSCDWD, Government of Sikkim",
+    "guidelines": [
+      {"title": "Mission Saksham Anganwadi and Poshan 2.0 guidelines (Ministry of WCD)", "url": "https://wcd.gov.in"}
+    ],
+    "sources": [
+      {"title": "Ministry of WCD - schemes (Mission Shakti, Mission Vatsalya, Saksham Anganwadi & Poshan 2.0)", "publisher": "Ministry of WCD", "date": "n.d.", "url": "https://wcd.gov.in", "section": "Umbrella restructuring of WCD schemes"},
+      {"title": "Women, Child, Senior Citizen and Divyangjan Welfare Department - Government of Sikkim", "publisher": "Government of Sikkim", "date": "n.d.", "url": "https://www.sikkim.gov.in/DepartmentsMenu/women-child-senior-citizen-and-divyangjan-welfare-department/Division%20and%20Cell/women-section", "section": "State implementation machinery"}
+    ],
+    "sikkimParticipation": {
+      "status": "Confirmed Sikkim participation",
+      "detail": "Sikkim implements ICDS/Poshan 2.0 statewide through WCSCDWD (all anganwadi services run under the scheme); state-specific allocation and Saksham-upgrade counts not compiled in this pass."
+    },
+    "potentialUseCases": [
+      "Saksham model anganwadis in Dzongu and high-altitude GPUs",
+      "Nutrition interventions tuned to tribal dietary patterns and anemia reduction",
+      "Vatsalya sponsorship/foster support for children of substance-dependent parents"
+    ],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation", "Mission Vatsalya treated here as companion scheme - separate PIP and sanction trail"],
+    "scores": {"financial": 4, "ease": 4, "fit": 4, "timeSensitivity": 3, "transformational": 3, "rationale": "Large recurring 90:10 envelope already flowing; upside is in infrastructure upgrade components and convergence."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "Medium",
+    "confidenceNote": "Scheme architecture well established; Sikkim-specific figures and FY2026-27 continuation not verified from primary sources in this pass."
+  },
+  {
+    "id": "napddr-drug-demand-reduction",
+    "name": "National Action Plan for Drug Demand Reduction (NAPDDR) and Nasha Mukt Bharat Abhiyaan",
+    "shortName": "NAPDDR / NMBA",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "agency": "Department of Social Justice and Empowerment; NISD; State Social Welfare Department; NGOs (IRCAs/ODICs/CPLIs/ATFs)",
+    "policyArea": "Social welfare / Drug demand reduction",
+    "subcategory": "De-addiction, rehabilitation, prevention and awareness",
+    "type": "Central Sector Scheme",
+    "grantOrLoan": "Grant",
+    "status": "Under continuation/revision",
+    "period": "NAPDDR implemented from 2018-19 (plan period cited as 2018-2025); NMBA extended to all districts since August 2023; continuation of the action plan beyond FY2025-26: Current continuation beyond FY2025-26 needs confirmation",
+    "whyItMatters": "Sikkim has one of India's most acute substance-use problems relative to population (pharmaceutical opioid misuse among youth is a recognised state crisis, addressed by the state's own Nasha Mukt Sikkim initiative aligned to NMBA). NAPDDR funds state action plans, Integrated Rehabilitation Centres for Addicts (IRCAs), outreach/drop-in centres, community peer-led interventions and district de-addiction centres - and for North-Eastern states, Sikkim and J&K the central assistance is 95% of admissible expenditure, the most generous ratio in this cluster. Grants flow through the grants-msje portal to state governments and NGOs.",
+    "eligibleApplicants": ["State Government (state action plan components)", "NGOs/voluntary organisations running IRCAs/ODICs/CPLIs (with state recommendation)", "District administrations for NMBA activities"],
+    "sikkimNodalDept": "Social Welfare Department, Government of Sikkim (runs Nasha Mukt Sikkim)",
+    "whatCanBeFunded": "IRCAs (de-addiction/rehab centres), Outreach and Drop-in Centres, Community Peer-Led Intervention centres for early prevention, Addiction Treatment Facilities in government hospitals (through AIIMS/NDDTC channel), awareness/preventive education, capacity building of service providers, state-level action plan activities",
+    "fundingAvailable": "Component-wise norms per NAPDDR guidelines; annual grants demand-based. Sikkim drawdown: Not confirmed from available official guidance.",
+    "fundingRatio": "95% central assistance of total admissible expenditure for North-Eastern States, Sikkim and J&K (5% by state/organisation); per NAPDDR scheme provisions",
+    "nePreference": "true",
+    "nePreferenceDetail": "Explicit 95% (vs lower elsewhere) central assistance for NE states, Sikkim and J&K under NAPDDR",
+    "stateContribution": "5% of admissible expenditure; state machinery for NMBA campaign",
+    "allocationMethod": "annual state proposal",
+    "accessPathway": [
+      "Social Welfare Department prepares the state Annual Action Plan under NAPDDR (survey data, IRCA/ODIC network gaps, NMBA activities)",
+      "Submit on the grants-msje.gov.in portal in the notified cycle; NGOs apply with state recommendation",
+      "DoSJE sanctions grants component-wise; NISD supports capacity building",
+      "Report via NMBA dashboard and UC submission"
+    ],
+    "nextAction": "Social Welfare Department should file a full FY2026-27 NAPDDR Annual Action Plan on grants-msje.gov.in - including at least one additional IRCA/ATF for East Sikkim and CPLI units for school-age prevention - leveraging the 95% central ratio.",
+    "portal": "https://grants-msje.gov.in",
+    "applicationWindow": "Annual action-plan cycle on the MSJE grants portal (dates per notification)",
+    "keyDocuments": [
+      {"doc": "State Annual Action Plan under NAPDDR", "certainty": "confirmed"},
+      {"doc": "NGO applications with state recommendation and inspection reports (for IRCAs)", "certainty": "confirmed"}
+    ],
+    "approvingAuthority": "Department of Social Justice and Empowerment, Ministry of SJE",
+    "contact": "NAPDDR Division, DoSJE, Shastri Bhawan, New Delhi; Secretary, Social Welfare Department, Government of Sikkim",
+    "guidelines": [
+      {"title": "Scheme of National Action Plan for Drug Demand Reduction (revised action plan)", "url": "https://grants-msje.gov.in/revised-napddr-action-plan"},
+      {"title": "NAPDDR - AAP/NMBA document", "url": "https://socialjustice.gov.in/writereaddata/UploadFile/aap-nmba.pdf"}
+    ],
+    "sources": [
+      {"title": "NAPDDR scheme page", "publisher": "Department of Social Justice and Empowerment", "date": "n.d.", "url": "https://socialjustice.gov.in/schemes/42", "section": "Scheme components; 95% assistance for NE/Sikkim/J&K"},
+      {"title": "Nasha Mukt Sikkim - Schemes", "publisher": "Social Welfare Department, Government of Sikkim", "date": "n.d.", "url": "https://socialwelfare.sikkim.gov.in/visitor/programandschemes/7", "section": "State initiative aligned with NMBA"},
+      {"title": "M/o SJE implementing NAPDDR (PIB)", "publisher": "PIB", "date": "2020-09", "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1656959&reg=3&lang=2", "section": "Plan design 2018-2025"}
+    ],
+    "sikkimParticipation": {
+      "status": "Evidence of previous participation",
+      "detail": "Sikkim runs Nasha Mukt Sikkim aligned to NMBA under the Social Welfare Department; NMBA covers all districts nationally since 2023. Sikkim's NAPDDR grant amounts/IRCA network details not compiled in this pass."
+    },
+    "potentialUseCases": [
+      "Additional IRCA and Addiction Treatment Facility capacity for pharmaceutical-opioid dependence",
+      "School/college CPLI prevention units",
+      "Training of counsellors and peer educators through NISD at 95% central cost"
+    ],
+    "flags": ["Current continuation beyond FY2025-26 needs confirmation", "High state relevance - substance-use burden makes this a priority window despite modest ticket sizes"],
+    "scores": {"financial": 2, "ease": 4, "fit": 5, "timeSensitivity": 4, "transformational": 3, "rationale": "Best-in-class 95% central ratio aimed squarely at one of Sikkim's most pressing social problems."},
+    "openWindow": "rolling",
+    "lastVerified": "2026-09-05",
+    "confidence": "High",
+    "confidenceNote": "95% NE/Sikkim ratio and scheme design confirmed from DoSJE sources; Sikkim grant history unverified."
+  }
+]
